@@ -24,7 +24,19 @@ _No learnings yet._
 
 <!-- Build tools, linting, formatting -->
 
-_No learnings yet._
+### Remotion SceneBackground expects images in `public/generated/` (2026-03-17)
+
+**Problem**: The `SceneBackground` component uses `staticFile(`generated/${mode.asset}.png`)` for `ai-generated` type backgrounds. Placing images anywhere else (e.g. `public/images/`) causes "source image cannot be decoded" errors at render time.
+
+**Fix**: Always place AI-generated background images in `public/generated/{asset-name}.png` where `{asset-name}` matches the `asset` field in `SCENE_BACKGROUNDS` constants. The content engine should standardize on this path.
+
+### Buffer GraphQL API schema quirks (2026-03-17)
+
+**Problem**: Buffer's GraphQL schema doesn't match their documentation well. `TikTokMetadata` and `YouTubeMetadata` types don't exist in the schema. Posts are queried via top-level `posts` query with `PostsFiltersInput`, not via channel sub-queries. Post status enum uses `scheduled` not `pending`.
+
+**Fix**: Use GraphQL introspection (`__type`) to discover the actual schema before building queries. Key queries:
+- `posts(input: { organizationId, filter: { status: scheduled } })` for queued posts
+- `channels(input: { organizationId })` for connected accounts (returns `id`, `service`, `name` only — no platform-specific metadata via fragment)
 
 ---
 
