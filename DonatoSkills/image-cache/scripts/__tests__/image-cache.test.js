@@ -38,11 +38,17 @@ afterEach(() => {
   fs.rmSync(tmpDir, { recursive: true, force: true });
 });
 
+let fakeImageCounter = 0;
 function createFakeImage(filePath) {
   const dir = path.dirname(filePath);
   fs.mkdirSync(dir, { recursive: true });
-  // Write a minimal fake PNG (8-byte header)
-  fs.writeFileSync(filePath, Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]));
+  // Write a minimal fake PNG header + unique counter bytes to ensure distinct hashes
+  const counter = Buffer.alloc(4);
+  counter.writeUInt32BE(fakeImageCounter++);
+  fs.writeFileSync(filePath, Buffer.concat([
+    Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]),
+    counter,
+  ]));
   return filePath;
 }
 

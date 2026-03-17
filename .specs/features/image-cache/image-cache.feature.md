@@ -45,8 +45,8 @@ And the image file is copied to `image-cache/<channel-slug>/images/<hash>.png`
 Given a content-engine video needs a background image for channel "baby-facts-unlocked"
 And the image cache contains an image tagged ["baby", "sleeping", "nursery"] with use count 2
 And the max reuse limit per image is 5
-When the cache is queried with tags ["baby", "sleep", "calm"]
-Then the cached image scores >= 0.6 tag similarity (2 of 3 tags overlap semantically)
+When the cache is queried with tags ["baby", "sleeping", "calm"]
+Then the cached image scores >= 0.4 tag similarity (Jaccard: 2/4 union = 0.5, above 0.4 threshold)
 And the cached image is returned instead of calling the image generation API
 And the use count is incremented to 3
 And the cache hit is logged: "CACHE_HIT: <hash> for baby-facts-unlocked (3/5 uses)"
@@ -58,13 +58,14 @@ When the cache is queried
 Then the image is NOT returned (treated as a miss)
 And a new image is generated and cached as a fresh entry
 
-### Scenario: Tag extraction from generation prompt
+### Scenario: Tag extraction from generation prompt (Phase 1: keyword-only)
 Given the content-engine requests a background image with prompt "A cozy nursery with soft pastel colors, a sleeping baby in a crib, warm morning light"
 When the image is generated
-Then the auto-tagger extracts tags: ["nursery", "pastel", "baby", "sleeping", "crib", "morning", "warm"]
-And a channel tag is added: ["baby-facts"]
-And a mood tag is added: ["peaceful", "warm"]
-And an aspect ratio tag is added based on the platform target
+Then the auto-tagger extracts keyword tags: ["nursery", "pastel", "baby", "sleeping", "crib", "morning", "warm", "cozy", "soft", "colors", "light"]
+And stop words ("a", "in", "with") are filtered out
+And all tags are lowercased
+
+> **Phase 2 (future)**: Add channel tag enrichment (e.g., "baby-facts"), mood inference (e.g., "peaceful"), and aspect ratio tags. See Phase Breakdown below.
 
 ### Scenario: Cross-topic reuse within same channel
 Given the channel "baby-facts-unlocked" has cached images for "baby milestones" with tags ["baby", "happy", "colorful", "playroom"]
@@ -106,12 +107,14 @@ Then it includes `cache_channel: "baby-facts-unlocked"` and `cache_tags: ["baby"
 And the image-gen skill checks the cache before generating
 And if a cache hit occurs, it returns immediately without calling any image API
 
-### Scenario: Manual cache warming
+### Scenario: Manual cache warming (Phase 2 — not yet implemented)
 Given the user says "pre-generate 20 baby background images for the cache"
 When the image-gen skill receives this request
 Then it generates 20 images with diverse baby-themed prompts
 And each image is tagged and added to the "baby-facts-unlocked" cache
 And no videos are created — this is a cache-warming-only operation
+
+> **Note**: This scenario uses the existing `addImage()` API in a loop. The orchestration entry point (a "warm cache" command in image-gen) is planned for Phase 2.
 
 ### Scenario: Cache index persistence across sessions
 Given a Claude Code session generated 5 new images and cached them
@@ -217,11 +220,16 @@ Location: `DonatoSkills/image-cache/` (sibling to `image-gen/`, `content-engine/
 
 ### Signal Protocol (extended)
 
+On cache hit (no API call):
 ```
 CACHE_HIT: a1b2c3d4 for baby-facts-unlocked (3/5 uses)
+IMAGE_COMPLETE: images/job/output/bg.png | Provider: cache
+```
+
+On cache miss (API call + cache write):
+```
 CACHE_MISS: baby-facts-unlocked — generating new image
-IMAGE_COMPLETE: images/job/output/bg.png | Provider: gemini | Cached: true
-IMAGE_COMPLETE: images/job/output/bg.png | Provider: cache | Cached: true
+IMAGE_COMPLETE: images/job/output/bg.png | Provider: gemini
 ```
 
 ---

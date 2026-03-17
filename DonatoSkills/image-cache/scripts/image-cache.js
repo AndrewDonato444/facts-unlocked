@@ -110,9 +110,9 @@ class ImageCache {
   constructor(opts) {
     this.cachePath = opts.cachePath;
     this.channel = opts.channel;
-    this.maxReuse = opts.maxReuse || 5;
-    this.maxCacheSize = opts.maxCacheSize || 150;
-    this.minMatchScore = opts.minMatchScore || 0.4;
+    this.maxReuse = opts.maxReuse ?? 5;
+    this.maxCacheSize = opts.maxCacheSize ?? 150;
+    this.minMatchScore = opts.minMatchScore ?? 0.4;
 
     this.channelDir = path.join(this.cachePath, this.channel);
     this.imagesDir = path.join(this.channelDir, "images");
@@ -207,6 +207,14 @@ class ImageCache {
     // Generate hash from file content
     const fileContent = fs.readFileSync(sourcePath);
     const hash = crypto.createHash("md5").update(fileContent).digest("hex").slice(0, 8);
+
+    // Skip if an entry with this hash already exists (same file content)
+    const existing = this.index.images.find((e) => e.hash === hash);
+    if (existing) {
+      existing.last_used = new Date().toISOString();
+      this._save();
+      return existing;
+    }
 
     const destFile = `images/${hash}.png`;
     const destPath = path.join(this.channelDir, destFile);
