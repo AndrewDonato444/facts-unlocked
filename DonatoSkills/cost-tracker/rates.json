@@ -1,0 +1,21 @@
+{
+  "elevenlabs": {
+    "default": { "unit": "char", "rate": 0.00022, "plan": "creator-100k", "monthly_budget": 100000, "monthly_plan_cost": 22 }
+  },
+  "gemini": {
+    "gemini-2.5-flash-image": { "unit": "image", "rate": 0.04 },
+    "gemini-3.1-flash-image-preview": { "unit": "image", "rate": 0.03 },
+    "gemini-3-pro-image-preview": { "unit": "image", "rate": 0.08 }
+  },
+  "openai": {
+    "gpt-image-1": { "unit": "image", "rate": 0.06 },
+    "gpt-image-1-mini": { "unit": "image", "rate": 0.03 }
+  },
+  "grok": {
+    "grok-2-image": { "unit": "image", "rate": 0.02 },
+    "default-tts": { "unit": "char", "rate": 0.0001 }
+  },
+  "cloudinary": {
+    "default": { "unit": "upload", "rate": 0.0, "plan": "free" }
+  }
+}
