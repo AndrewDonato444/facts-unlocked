@@ -342,6 +342,21 @@ import * as path from "path";
 
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY! });
 
+// --- Cost tracking ---
+// Agent: replace CHANNEL_SLUG with the project slug from projects.json (e.g. "baby-facts-unlocked")
+const CHANNEL_SLUG = "CHANNEL_SLUG_HERE";
+function _findSkillsRoot(): string {
+  let dir = __dirname;
+  while (dir !== path.dirname(dir)) {
+    if (fs.existsSync(path.join(dir, "cost-tracker", "log-usage.js"))) return dir;
+    dir = path.dirname(dir);
+  }
+  return "";
+}
+const _skillsRoot = _findSkillsRoot();
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const logCost = _skillsRoot ? require(path.join(_skillsRoot, "cost-tracker", "log-usage")).logUsage : () => {};
+
 // --- Resilience: Error classification ---
 const RETRYABLE_CODES = new Set([429, 500, 503]);
 const NON_RETRYABLE_CODES = new Set([400, 401, 402, 403]);
@@ -430,6 +445,8 @@ async function generateImage(job: ImageJob): Promise<string> {
       fs.writeFileSync(outputPath, buffer);
       console.log(`Generated: ${outputPath} (${buffer.length} bytes)`);
       console.log("IMAGE_COMPLETE: " + outputPath + " | Provider: gemini");
+      // --- Cost tracking ---
+      logCost({ provider: "gemini", model, channel: CHANNEL_SLUG, video_id: job.name, units: 1, fallback: false });
       return outputPath;
     }
   }
@@ -460,6 +477,21 @@ import * as fs from "fs";
 import * as path from "path";
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY! });
+
+// --- Cost tracking ---
+// Agent: replace CHANNEL_SLUG with the project slug from projects.json (e.g. "baby-facts-unlocked")
+const CHANNEL_SLUG = "CHANNEL_SLUG_HERE";
+function _findSkillsRoot(): string {
+  let dir = __dirname;
+  while (dir !== path.dirname(dir)) {
+    if (fs.existsSync(path.join(dir, "cost-tracker", "log-usage.js"))) return dir;
+    dir = path.dirname(dir);
+  }
+  return "";
+}
+const _skillsRoot = _findSkillsRoot();
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const logCost = _skillsRoot ? require(path.join(_skillsRoot, "cost-tracker", "log-usage")).logUsage : () => {};
 
 // --- Resilience: Error classification ---
 const RETRYABLE_CODES = new Set([429, 500, 503]);
@@ -545,6 +577,8 @@ async function generateImage(job: ImageJob): Promise<string> {
   fs.writeFileSync(outputPath, buffer);
   console.log(`Generated: ${outputPath} (${buffer.length} bytes)`);
   console.log("IMAGE_COMPLETE: " + outputPath + " | Provider: openai");
+  // --- Cost tracking ---
+  logCost({ provider: "openai", model: job.model || "gpt-image-1", channel: CHANNEL_SLUG, video_id: job.name, units: 1, fallback: false });
   return outputPath;
 }
 

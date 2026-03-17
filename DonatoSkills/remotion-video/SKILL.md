@@ -719,6 +719,24 @@ When the primary TTS provider fails after all retries (or hits a non-retryable e
 
 ```typescript
 import * as fs from "node:fs";
+import * as path from "node:path";
+
+// --- Cost tracking ---
+// Agent: replace CHANNEL_SLUG with the project slug (e.g. "baby-facts-unlocked")
+// Agent: replace VIDEO_ID with the video slug (e.g. "001-baby-saliva")
+const CHANNEL_SLUG = "CHANNEL_SLUG_HERE";
+const VIDEO_ID = "VIDEO_ID_HERE";
+function _findSkillsRoot(): string {
+  let dir = __dirname;
+  while (dir !== path.dirname(dir)) {
+    if (fs.existsSync(path.join(dir, "cost-tracker", "log-usage.js"))) return dir;
+    dir = path.dirname(dir);
+  }
+  return "";
+}
+const _sr = _findSkillsRoot();
+// eslint-disable-next-line @typescript-eslint/no-require-imports
+const logCost = _sr ? require(path.join(_sr, "cost-tracker", "log-usage")).logUsage : null;
 
 // --- Provider config (read from projects.json at build time) ---
 interface TTSProviderConfig {
@@ -800,6 +818,10 @@ for (const scene of scenes) {
     // ... write WAV, calculate duration ...
     manifest[scene.name] = { file: `audio/${scene.name}.wav`, durationSec, status: "complete", provider: provider.name };
     console.log(`TTS_COMPLETE: ${scene.name}.wav | Provider: ${provider.name}`);
+    // --- Cost tracking (log after successful write only) ---
+    if (logCost) {
+      logCost({ provider: provider.name, model: provider.model, channel: CHANNEL_SLUG, video_id: VIDEO_ID, units: scene.script.length, fallback: provider !== TTS_PROVIDERS[0] });
+    }
   } catch (e: unknown) {
     const msg = (e as Error).message ?? String(e);
     console.error(`TTS_FAILED: ${scene.name} | Error: ${msg} | Providers tried: ${TTS_PROVIDERS.filter(p => process.env[p.apiKeyEnv]).map(p => p.name).join(", ")}`);
