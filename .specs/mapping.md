@@ -18,7 +18,7 @@ _Regenerate with: `./scripts/generate-mapping.sh`_
 
 | Domain | Feature | Source | Tests | Components | Status |
 |--------|---------|--------|-------|------------|--------|
-| _No features yet_ | | | | | |
+| image-cache | [Image Cache](.specs/features/image-cache/image-cache.feature.md) | `DonatoSkills/image-cache/scripts/image-cache.js` | see spec | see spec | implemented |
 
 ---
 
@@ -29,8 +29,8 @@ _Regenerate with: `./scripts/generate-mapping.sh`_
 | stub | 0 |
 | specced | 0 |
 | tested | 0 |
-| implemented | 0 |
-| **Total** | **0** |
+| implemented | 1 |
+| **Total** | **1** |
 
 ---
 
@@ -50,7 +50,7 @@ _None_
 
 ### Implemented
 
-_None_
+- [Image Cache](.specs/features/image-cache/image-cache.feature.md)
 
 ---
 

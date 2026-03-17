@@ -19,7 +19,7 @@ Cross-cutting patterns learned in this codebase. Updated via `/compound`.
 
 <!-- /compound adds recent learnings here - newest first -->
 
-_No learnings yet. Run `/compound` at the end of implementation sessions._
+- **2026-03-17** — Image Cache: Per-channel file-based caching with Jaccard similarity matching, LRU eviction, and reuse limits. See [performance.md](./performance.md#caching) and feature spec.
 
 ---
 
