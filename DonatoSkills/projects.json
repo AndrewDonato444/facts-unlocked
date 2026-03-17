@@ -22,6 +22,11 @@
             "id": "69b8af216cb7b8cf4c791725",
             "name": "BabyFactsUnlocked",
             "username": "@babyfactsunlocked"
+          },
+          "instagram": {
+            "id": "69b994a46cb7b8cf4c7baa8e",
+            "name": "BabyFactsUnlocked",
+            "username": "@babyfactsunlocked"
           }
         }
       },
@@ -103,7 +108,8 @@
         "content_pillars": ["surprising-facts", "did-you-know", "myth-busting", "development-milestones"],
         "posting_frequency": {
           "tiktok": "3x/day",
-          "youtube": "3x/day"
+          "youtube": "3x/day",
+          "instagram": "3x/day"
         }
       },
       "created": "2026-03-17",
@@ -119,8 +125,18 @@
         "api_key_env": "ZERNIO_API_KEY",
         "profile_id": "69b95c8c17376a13852d91f7",
         "accounts": {
+          "tiktok": {
+            "id": "69b991446cb7b8cf4c7b9f76",
+            "name": "MoneyFactsUnlocked",
+            "username": "@moneyfactsunlocked"
+          },
           "youtube": {
             "id": "69b95c996cb7b8cf4c7ae4ab",
+            "name": "MoneyFactsUnlocked",
+            "username": "@moneyfactsunlocked"
+          },
+          "instagram": {
+            "id": "69b995666cb7b8cf4c7bad79",
             "name": "MoneyFactsUnlocked",
             "username": "@moneyfactsunlocked"
           }
@@ -203,7 +219,9 @@
         "tone": "rotate: curious, authoritative, bold, educational",
         "content_pillars": ["surprising-facts", "did-you-know", "myth-busting", "wealth-history"],
         "posting_frequency": {
-          "youtube": "3x/day"
+          "tiktok": "3x/day",
+          "youtube": "3x/day",
+          "instagram": "3x/day"
         }
       },
       "created": "2026-03-17",

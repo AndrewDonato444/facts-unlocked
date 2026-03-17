@@ -31,3 +31,6 @@ Global topic registry. The content engine MUST check this before generating new 
 | 001 | 10pct-rule | The "save 10%" rule comes from ancient Babylon — different era | myth_bust / 45s / slow / full_captions / ai-gen | YouTube |
 | 002 | penny-doubled | A penny doubled daily for 30 days = $5.3 million (compound growth) | stat_lead / 30s / fast / karaoke / ai-gen | YouTube |
 | 003 | dollar-bill-cost | It costs more to keep a $1 bill in circulation than it's worth | did_you_know / 30s / moderate / keywords / ai-gen | YouTube |
+| 004 | latte-factor-myth | The latte factor myth — $5 coffee vs $2,000+ in hidden bank fees | myth_bust / 15s / fast / karaoke_highlight / ai-gen | TikTok |
+| 005 | millionaire-car | Avg American millionaire drives a used car <$35K — wealth is invisible | stat_lead / 30s / moderate / full_captions / ai-gen | TikTok |
+| 006 | credit-score-zero | Never had debt? Your credit score might be 0 — thin file problem | did_you_know / 30s / fast / keywords / abstract-animated | TikTok |
