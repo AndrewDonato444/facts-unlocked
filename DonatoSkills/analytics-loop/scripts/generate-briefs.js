@@ -29,6 +29,8 @@
 const fs = require("fs");
 const path = require("path");
 
+const { getLatestResearchBrief, injectResearchIntoTopicGuidance } = require("./research-loop");
+
 const VARIABLES = [
   "hook_type",
   "video_length",
@@ -261,6 +263,13 @@ async function main() {
     process.exit(1);
   }
 
+  // Load latest external research brief (if available)
+  const globalResearchDir = path.resolve(__dirname, "../data/global/research");
+  const researchBrief = getLatestResearchBrief(globalResearchDir);
+  if (researchBrief) {
+    console.log(`External research brief loaded: week ${researchBrief.week} (${researchBrief.tactics?.length || 0} tactics)`);
+  }
+
   // Load rotation state
   const rotationState = loadRotationState(projectDataDir);
 
@@ -398,6 +407,11 @@ async function main() {
       );
     }
 
+    // Inject external research signal into topic_guidance (additive only, no template changes)
+    const injectedDayBriefs = researchBrief
+      ? injectResearchIntoTopicGuidance(dayBriefs, researchBrief)
+      : dayBriefs;
+
     // Write combined briefs for this day
     const allBriefsPath = path.join(outputDir, "all-briefs.json");
     fs.writeFileSync(
@@ -411,14 +425,15 @@ async function main() {
           cold_start: isColdStart,
           suppressed_values: suppressionList.suppressed_values.length,
           winning_template: analysis.winning_template,
-          channels: dayBriefs,
+          research_week: researchBrief?.week || null,
+          channels: injectedDayBriefs,
         },
         null,
         2
       )
     );
 
-    return { dayBriefs, allBriefsPath };
+    return { dayBriefs: injectedDayBriefs, allBriefsPath };
   }
 
   // --- Generate Day 1 briefs (tomorrow) ---

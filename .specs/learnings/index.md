@@ -21,6 +21,7 @@ Cross-cutting patterns learned in this codebase. Updated via `/compound`.
 
 - **2026-03-17** — TTS audio pipeline: ElevenLabs `pcm_24000` returns MP3-in-WAV; Grok TTS uses its own `/v1/tts` endpoint (not OpenAI SDK); always re-encode with ffmpeg + ffprobe for duration. See [api.md](./api.md#fetching-patterns).
 - **2026-03-17** — Remotion tooling: broken local `@remotion/cli` dist can be bypassed by invoking another project's binary directly; `cp -r` nesting gotcha; render.sh path depth must be counted carefully. See [general.md](./general.md#tooling).
+- **2026-03-17** — Continuous Learning Loop: External research decoupled from internal analytics — injects into `topic_guidance` only, never template variables. ISO week stamps for file-based weekly state. Graceful degradation via `sources_skipped` + `carry_forward_note`. See feature spec.
 - **2026-03-17** — Image Cache: Per-channel file-based caching with Jaccard similarity matching, LRU eviction, and reuse limits. See [performance.md](./performance.md#caching) and feature spec.
 
 ---
