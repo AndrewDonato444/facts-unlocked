@@ -1,0 +1,14 @@
+{
+  "scene-1-hook": {
+    "file": "audio/scene-1-hook.wav",
+    "durationSec": 5.6509583333333335
+  },
+  "scene-2-body": {
+    "file": "audio/scene-2-body.wav",
+    "durationSec": 8.730958333333334
+  },
+  "scene-3-cta": {
+    "file": "audio/scene-3-cta.wav",
+    "durationSec": 10.850958333333333
+  }
+}

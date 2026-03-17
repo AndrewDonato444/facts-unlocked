@@ -1,0 +1,25 @@
+{
+  "name": "donatoskills",
+  "version": "1.0.0",
+  "description": "A collection of Claude Code skills for automated social media content creation. Create videos, images, and text posts — then schedule them all through Buffer. Use skills individually or chain them together with the content engine for full automation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:analytics": "jest analytics-loop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewDonato444/DonatoSkills.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AndrewDonato444/DonatoSkills/issues"
+  },
+  "homepage": "https://github.com/AndrewDonato444/DonatoSkills#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "_schema": "DonatoSkills Project Registry v1",
+  "_docs": "shared-references/project-registry.md",
+  "_note": "Facts Unlocked channel network. Each topic channel is a separate project entry.",
+
+  "projects": {
+    "baby-facts-unlocked": {
+      "name": "Baby Facts Unlocked",
+      "description": "Bite-sized surprising facts about babies, pregnancy, and child development",
+      "specs_path": "../.specs",
+      "brand_brief": null,
+      "zernio": {
+        "api_key_env": "ZERNIO_API_KEY",
+        "profile_id": "69b8912784a675ce87f20d3b",
+        "accounts": {
+          "tiktok": {
+            "id": "69b891386cb7b8cf4c78c31d",
+            "name": "BabyFactsUnlocked",
+            "username": "@babyfactsunlocked"
+          },
+          "youtube": {
+            "id": "69b8af216cb7b8cf4c791725",
+            "name": "BabyFactsUnlocked",
+            "username": "@babyfactsunlocked"
+          }
+        }
+      },
+      "cloudinary": {
+        "cloud_name_env": "CLOUDINARY_CLOUD_NAME",
+        "api_key_env": "CLOUDINARY_API_KEY",
+        "api_secret_env": "CLOUDINARY_API_SECRET"
+      },
+      "tts": {
+        "providers": ["elevenlabs", "grok", "gemini"],
+        "default_provider": "elevenlabs",
+        "rotate": true,
+        "elevenlabs": {
+          "api_key_env": "ELEVENLABS_API_KEY",
+          "default_voice": "Adam"
+        },
+        "grok": {
+          "api_key_env": "GROK_API_KEY",
+          "default_voice": "onyx"
+        },
+        "gemini": {
+          "api_key_env": "GEMINI_API_KEY",
+          "default_voice": "Kore"
+        }
+      },
+      "image_gen": {
+        "providers": ["gemini", "openai", "grok"],
+        "default_provider": "gemini",
+        "rotate": true,
+        "gemini": {
+          "api_key_env": "GEMINI_API_KEY",
+          "default_model": "gemini-2.5-flash-image"
+        },
+        "openai": {
+          "api_key_env": "OPENAI_API_KEY",
+          "default_model": "gpt-image-1"
+        },
+        "grok": {
+          "api_key_env": "GROK_API_KEY",
+          "default_model": "grok-2-image"
+        }
+      },
+      "analytics_loop": {
+        "collection_window_hours": 48,
+        "min_impressions": 500,
+        "exploit_explore_ratio": [1, 1],
+        "scoring_weights": {
+          "shares": 4,
+          "saves": 3,
+          "comments": 2,
+          "likes": 1
+        },
+        "template_promotion": {
+          "min_lift": 0.15,
+          "min_channels": 2,
+          "min_cycles": 2,
+          "min_sample": 10
+        }
+      },
+      "defaults": {
+        "tone": "rotate: curious, playful, bold, educational",
+        "content_pillars": ["surprising-facts", "did-you-know", "myth-busting", "development-milestones"],
+        "posting_frequency": {
+          "tiktok": "3x/day",
+          "youtube": "3x/day"
+        }
+      },
+      "created": "2026-03-17",
+      "updated": "2026-03-17"
+    },
+
+    "money-facts-unlocked": {
+      "name": "Money Facts Unlocked",
+      "description": "Bite-sized surprising facts about personal finance, economics, and wealth building",
+      "specs_path": "../.specs",
+      "brand_brief": null,
+      "zernio": {
+        "api_key_env": "ZERNIO_API_KEY",
+        "profile_id": "69b95c8c17376a13852d91f7",
+        "accounts": {
+          "youtube": {
+            "id": "69b95c996cb7b8cf4c7ae4ab",
+            "name": "MoneyFactsUnlocked",
+            "username": "@moneyfactsunlocked"
+          }
+        }
+      },
+      "cloudinary": {
+        "cloud_name_env": "CLOUDINARY_CLOUD_NAME",
+        "api_key_env": "CLOUDINARY_API_KEY",
+        "api_secret_env": "CLOUDINARY_API_SECRET"
+      },
+      "tts": {
+        "providers": ["elevenlabs", "grok", "gemini"],
+        "default_provider": "elevenlabs",
+        "rotate": true,
+        "elevenlabs": {
+          "api_key_env": "ELEVENLABS_API_KEY",
+          "default_voice": "Adam"
+        },
+        "grok": {
+          "api_key_env": "GROK_API_KEY",
+          "default_voice": "onyx"
+        },
+        "gemini": {
+          "api_key_env": "GEMINI_API_KEY",
+          "default_voice": "Kore"
+        }
+      },
+      "image_gen": {
+        "providers": ["gemini", "openai", "grok"],
+        "default_provider": "gemini",
+        "rotate": true,
+        "gemini": {
+          "api_key_env": "GEMINI_API_KEY",
+          "default_model": "gemini-2.5-flash-image"
+        },
+        "openai": {
+          "api_key_env": "OPENAI_API_KEY",
+          "default_model": "gpt-image-1"
+        },
+        "grok": {
+          "api_key_env": "GROK_API_KEY",
+          "default_model": "grok-2-image"
+        }
+      },
+      "analytics_loop": {
+        "collection_window_hours": 48,
+        "min_impressions": 500,
+        "exploit_explore_ratio": [1, 1],
+        "scoring_weights": {
+          "shares": 4,
+          "saves": 3,
+          "comments": 2,
+          "likes": 1
+        },
+        "template_promotion": {
+          "min_lift": 0.15,
+          "min_channels": 2,
+          "min_cycles": 2,
+          "min_sample": 10
+        }
+      },
+      "defaults": {
+        "tone": "rotate: curious, authoritative, bold, educational",
+        "content_pillars": ["surprising-facts", "did-you-know", "myth-busting", "wealth-history"],
+        "posting_frequency": {
+          "youtube": "3x/day"
+        }
+      },
+      "created": "2026-03-17",
+      "updated": "2026-03-17"
+    }
+  },
+
+  "default_project": "baby-facts-unlocked"
+}

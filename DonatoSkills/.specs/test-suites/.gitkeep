@@ -1,0 +1,15 @@
+# Placeholder for test-suites directory
+
+Create test suite documentation here, mirroring your test directory structure.
+
+Example structure:
+```
+test-suites/
+├── README.md
+├── utils.tests.md
+├── api/
+│   └── handlers.tests.md
+└── services/
+    └── auth.tests.md
+```
+

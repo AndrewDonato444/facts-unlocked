@@ -1,0 +1,67 @@
+---
+description: Design token usage guidelines
+alwaysApply: true
+---
+
+# Design Tokens
+
+This project uses a design token system defined in `.specs/design-system/tokens.md`.
+
+## Token Reference
+
+When implementing UI, use these token names rather than hardcoded values:
+
+### Colors
+- `color-primary` - Primary brand color
+- `color-secondary` - Secondary brand color
+- `color-background` - Page background
+- `color-surface` - Card/panel backgrounds
+- `color-text` - Primary text
+- `color-text-secondary` - Muted text
+- `color-error` - Error states
+- `color-success` - Success states
+- `color-warning` - Warning states
+
+### Typography
+- `text-xs` through `text-5xl` - Font sizes
+- `font-normal`, `font-medium`, `font-semibold`, `font-bold` - Weights
+
+### Spacing
+- `spacing-1` through `spacing-16` - Spacing scale
+
+### Border Radius
+- `radius-sm`, `radius-md`, `radius-lg`, `radius-xl`, `radius-full`
+
+### Shadows
+- `shadow-sm`, `shadow-md`, `shadow-lg`, `shadow-xl`
+
+## Implementation Guidelines
+
+### Tailwind CSS
+```jsx
+// Use semantic class names that map to tokens
+<button className="bg-primary text-white rounded-md px-4 py-2">
+```
+
+### CSS Variables
+```css
+.button {
+  background: var(--color-primary);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-2) var(--spacing-4);
+}
+```
+
+## When Building UI
+
+1. Reference tokens from `.specs/design-system/tokens.md`
+2. Use token names in ASCII mockups (in feature specs)
+3. Implement using actual token values
+4. Document token usage in component docs
+
+## Updates
+
+When tokens change:
+1. Update `.specs/design-system/tokens.md`
+2. Update this rule if token names change
+3. Run `/design-tokens` to sync changes

@@ -1,0 +1,33 @@
+{
+  "skill_name": "social-media",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Schedule this video I just made (output/video.mp4) to Instagram Reels and TikTok for tomorrow morning. Write the captions for me.",
+      "expected_output": "Platform-adapted captions (polished for IG, casual for TikTok), hashtags tailored per platform, confirmation prompt with scheduled time, Buffer API calls to schedule both posts",
+      "files": [],
+      "assertions": [
+        {"name": "asks-confirmation", "description": "Shows summary and asks for confirmation before scheduling"},
+        {"name": "different-captions", "description": "Writes different captions for Instagram vs TikTok"},
+        {"name": "platform-hashtags", "description": "Uses more hashtags for Instagram (5-15) than TikTok (3-5)"},
+        {"name": "calls-profiles-api", "description": "Fetches connected profiles from Buffer API"},
+        {"name": "calls-create-api", "description": "Uses /updates/create.json endpoint to schedule"},
+        {"name": "sets-scheduled-at", "description": "Includes scheduled_at parameter with tomorrow morning time"}
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "Plan my social media content for next week. I post about productivity and personal development. I'm active on Instagram, Twitter, and LinkedIn.",
+      "expected_output": "Weekly content calendar with platform-specific post ideas, suggested posting times, and content pillar rotation",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 2,
+      "prompt": "Post this to Twitter right now: 'Just shipped v2.0 of our app. 3 months of work, 47 bugs fixed, 12 new features. Thread below 👇'",
+      "expected_output": "Confirms the post text, uses Buffer API to post immediately with now=true, returns confirmation with post URL",
+      "files": [],
+      "assertions": []
+    }
+  ]
+}

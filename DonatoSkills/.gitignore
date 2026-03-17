@@ -1,0 +1,24 @@
+# API Keys
+*.env
+.env.*
+**/GEMINI_API_KEY*
+
+# Don't commit generated assets
+**/out/*.mp4
+**/public/generated/*.png
+**/public/audio/*.wav
+**/voice-samples/
+images/*/output/
+text-posts/
+
+# Node
+node_modules/
+dist/
+*.log
+
+# Content engine calendars (generated, contain local paths)
+content-engine/calendars/
+
+# OS
+.DS_Store
+Thumbs.db

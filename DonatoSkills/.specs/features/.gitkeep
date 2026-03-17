@@ -1,0 +1,16 @@
+# Placeholder for features directory
+
+Create feature specifications here organized by domain/feature area.
+
+Example structure:
+```
+features/
+├── auth/
+│   ├── login.feature.md
+│   └── registration.feature.md
+├── data/
+│   └── processing.feature.md
+└── api/
+    └── endpoints.feature.md
+```
+

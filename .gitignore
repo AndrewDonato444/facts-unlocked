@@ -3,6 +3,16 @@
 
 # Environment files
 .env.local
+.env
+
+# Dependencies
+node_modules/
+
+# Rendered video output
+**/out/*.mp4
+
+# Audio backups
+*.wav.bak
 
 # Logs
 logs/*.log

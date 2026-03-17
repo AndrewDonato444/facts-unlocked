@@ -1,0 +1,35 @@
+{
+  "skill_name": "remotion-video",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Make me a TikTok video with the text '5 Reasons to Wake Up at 5AM' — show each reason one at a time with punchy animations. Dark background, gold text. The 5 reasons are: 1. Silence before the world wakes up 2. Time to exercise without excuses 3. Your brain is sharpest in the morning 4. You get a head start on everyone 5. It builds discipline that carries over",
+      "expected_output": "A 1080x1920 TikTok video with animated text showing 5 reasons sequentially, dark background, gold text, rendered as .mp4",
+      "files": [],
+      "assertions": [
+        {"name": "project-scaffolds", "description": "npm install completes, package.json has remotion deps"},
+        {"name": "renders-mp4", "description": "A valid .mp4 file exists in output"},
+        {"name": "tiktok-dimensions", "description": "Composition uses 1080x1920 (9:16)"},
+        {"name": "all-5-reasons", "description": "All 5 reason texts appear in source code"},
+        {"name": "uses-animations", "description": "Code uses spring() or interpolate() for animations"},
+        {"name": "sequential-reveal", "description": "Uses Sequence or Series to stagger reasons"},
+        {"name": "dark-bg-gold-text", "description": "Dark background color and gold/yellow text color in code"},
+        {"name": "has-hook-title", "description": "Title '5 Reasons to Wake Up at 5AM' appears as distinct opening scene"}
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "Create an Instagram Reel with this quote: 'The best time to plant a tree was 20 years ago. The second best time is now.' Make it look clean and minimal.",
+      "expected_output": "A 1080x1920 Instagram Reel with animated quote text, clean/minimal design, rendered as .mp4",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 2,
+      "prompt": "I'm launching a new product called 'ZenBrew' — it's a matcha drink. Make me a 15-second announcement video for both TikTok and Twitter. Here's my logo: logo.png. Use green and cream colors.",
+      "expected_output": "Two compositions (1080x1920 TikTok + 1080x1080 Twitter), green/cream colors, logo integrated, rendered as .mp4 files",
+      "files": [],
+      "assertions": []
+    }
+  ]
+}

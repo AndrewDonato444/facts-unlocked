@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "hooks": {
+    "afterFileEdit": [
+      {
+        "command": ".cursor/hooks/regenerate-mapping.sh",
+        "matcher": "\\.feature\\.md$"
+      }
+    ],
+    "sessionStart": [
+      {
+        "command": ".cursor/hooks/check-conflicts.sh"
+      }
+    ],
+    "stop": [
+      {
+        "command": ".cursor/hooks/session-end.sh"
+      }
+    ]
+  }
+}
