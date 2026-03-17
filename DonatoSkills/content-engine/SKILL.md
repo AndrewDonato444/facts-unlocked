@@ -162,6 +162,10 @@ Check today's date and yesterday's date. If a briefs file exists:
 
 **If brief-driven mode is selected**, skip to the Brief-Driven Mode section below.
 
+### Step 2c: Dedup Check (required)
+
+Before generating any calendar, **read `content-engine/used-topics.md`** and check all existing topics for the relevant channel(s). Never generate content for a topic that already has a video. After the calendar is finalized and content created, **append new topics** to `used-topics.md`.
+
 ### Step 3: Generate Calendar
 
 After gathering answers, generate the content calendar and show it:
@@ -237,6 +241,7 @@ When invoking `remotion-video`, provide ALL of these in your prompt so it skips 
 - Duration
 - Voiceover: yes/no, and if yes: the script, TTS provider (grok, gemini, or elevenlabs), and voice name
 - Output path
+- **Cache params** (when visual mode is ai-generated): `cache_channel` and `cache_tags`
 
 Example orchestrated invocation:
 > "Use the remotion-video skill to create a video. ORCHESTRATED MODE -- all parameters provided, skip questions and build directly.
@@ -247,6 +252,8 @@ Example orchestrated invocation:
 > - Style: [brand style]
 > - Duration: 15 seconds
 > - Voiceover: AI voiceover, TTS Provider: grok, Voice: alloy, Script: [the script]
+> - Cache Channel: [project_id, e.g. "baby-facts-unlocked"] *(only for ai-generated visual mode)*
+> - Cache Tags: [semantic tags from the visual concept, e.g. "baby", "sleeping", "nursery"] *(only for ai-generated visual mode)*
 > - Output: [absolute-path]/content-engine/calendars/[campaign-slug]/videos/001-[name]/"
 
 When invoking `image-gen`, provide ALL of these:
@@ -255,6 +262,7 @@ When invoking `image-gen`, provide ALL of these:
 - Style (photorealistic, flat, abstract, etc.)
 - Text overlay (if any, with exact text and font style)
 - Output path
+- **Cache params** (for background images): `cache_channel` and `cache_tags`
 
 Example orchestrated invocation:
 > "Use the image-gen skill to create an image. ORCHESTRATED MODE -- all parameters provided, skip questions and generate directly.
@@ -263,6 +271,8 @@ Example orchestrated invocation:
 > - Platform: Instagram (1080x1080, 1:1)
 > - Style: [brand style]
 > - Text: '[hook text]' in bold white sans-serif, centered
+> - Cache Channel: [project_id, e.g. "baby-facts-unlocked"]
+> - Cache Tags: [semantic tags derived from concept, e.g. "baby", "sleeping", "nursery", "peaceful"]
 > - Output: [absolute-path]/content-engine/calendars/[campaign-slug]/images/[item-id]-[name]/"
 
 When invoking `text-writer`, provide ALL of these:
@@ -364,6 +374,30 @@ After each item is processed, update `calendar.json` and regenerate `calendar.md
 
 Then move to the next item.
 
+### 5. Image Cache Report (end of batch)
+
+After all items are processed, if any images were generated or served from cache, print a cache report. Track hits and misses during the run, then use `generateCacheReport()`:
+
+```javascript
+const { generateCacheReport } = require("../image-cache/scripts/image-cache");
+
+// Accumulate during the run:
+// stats[channel] = { generated: N, cached: N, cacheSize: N }
+const report = generateCacheReport(stats);
+console.log(report);
+```
+
+Example output:
+```
+IMAGE CACHE REPORT:
+  baby-facts-unlocked: 6 generated, 3 cached → 33% cache hit rate
+  money-facts-unlocked: 3 generated, 0 cached → 0% cache hit rate
+  Total API calls saved: 3 (25% reduction)
+  Cache size: baby=47 images, money=12 images
+```
+
+Include this in the autonomous mode final summary alongside the existing "Created: X videos, Y text posts" stats.
+
 ---
 
 ## Brief-Driven Mode (Analytics Loop Integration)
@@ -403,6 +437,8 @@ Use the remotion-video skill to create a video. ORCHESTRATED MODE — all parame
 - Text Overlay Style: [from text_overlay variable]
 - Music Energy: [from music_energy variable]
 - CTA Style: [from cta_style variable]
+- Cache Channel: [project_id] *(when Visual Mode is ai-generated)*
+- Cache Tags: [semantic tags from the visual concept]
 - Output: videos/[campaign-slug]/item-[NNN]/
 ```
 
@@ -441,7 +477,7 @@ Available content creation skills and their interfaces:
 | Skill | Produces | Required Params | Optional Params |
 |-------|----------|-----------------|-----------------|
 | `remotion-video` | `.mp4` video | platform, message, visual_mode, style, duration | voiceover (script + voice), tts_provider (grok/gemini/elevenlabs), music, template variables |
-| `image-gen` | `.png` image | concept, platform, style | text overlay, provider (gemini/openai), model (gemini: flash/pro, openai: gpt-image-1/gpt-image-1-mini), quantity |
+| `image-gen` | `.png` image | concept, platform, style | text overlay, provider (gemini/openai), model (gemini: flash/pro, openai: gpt-image-1/gpt-image-1-mini), quantity, cache_channel, cache_tags |
 | `text-writer` | Text post (saved to file) | platform, topic, tone | format, CTA, hashtags |
 | `social-media` | Scheduled post | channel_id, text, timing | assets, hashtags, metadata |
 | `analytics-loop` | `briefs.json` | project_id | date_range, platform_filter |

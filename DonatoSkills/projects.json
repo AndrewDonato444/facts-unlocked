@@ -40,7 +40,7 @@
         },
         "grok": {
           "api_key_env": "GROK_API_KEY",
-          "default_voice": "onyx"
+          "default_voice": "rex"
         },
         "gemini": {
           "api_key_env": "GEMINI_API_KEY",
@@ -66,8 +66,10 @@
       },
       "analytics_loop": {
         "collection_window_hours": 48,
-        "min_impressions": 500,
-        "exploit_explore_ratio": [1, 1],
+        "impression_threshold": "adaptive",
+        "impression_floor": 50,
+        "impression_ceiling": 500,
+        "exploit_explore_ratio": [2, 1],
         "scoring_weights": {
           "shares": 4,
           "saves": 3,
@@ -78,8 +80,23 @@
           "min_lift": 0.15,
           "min_channels": 2,
           "min_cycles": 2,
-          "min_sample": 10
+          "min_sample": 6
+        },
+        "suppression": {
+          "min_cycles": 3,
+          "min_data_points": 10,
+          "threshold_ratio": 0.50,
+          "recheck_cadence_days": 14,
+          "lift_ratio_to_unsuppress": 0.75
         }
+      },
+      "image_cache": {
+        "enabled": true,
+        "max_reuse": 5,
+        "max_cache_size": 150,
+        "min_match_score": 0.4,
+        "cache_path": "DonatoSkills/image-cache",
+        "_cache_path_note": "Relative to repo root (Facts-Unlocked/). In generation scripts, resolve with path.resolve(__dirname, '../../../image-cache')"
       },
       "defaults": {
         "tone": "rotate: curious, playful, bold, educational",
@@ -124,7 +141,7 @@
         },
         "grok": {
           "api_key_env": "GROK_API_KEY",
-          "default_voice": "onyx"
+          "default_voice": "rex"
         },
         "gemini": {
           "api_key_env": "GEMINI_API_KEY",
@@ -150,8 +167,10 @@
       },
       "analytics_loop": {
         "collection_window_hours": 48,
-        "min_impressions": 500,
-        "exploit_explore_ratio": [1, 1],
+        "impression_threshold": "adaptive",
+        "impression_floor": 50,
+        "impression_ceiling": 500,
+        "exploit_explore_ratio": [2, 1],
         "scoring_weights": {
           "shares": 4,
           "saves": 3,
@@ -162,8 +181,23 @@
           "min_lift": 0.15,
           "min_channels": 2,
           "min_cycles": 2,
-          "min_sample": 10
+          "min_sample": 6
+        },
+        "suppression": {
+          "min_cycles": 3,
+          "min_data_points": 10,
+          "threshold_ratio": 0.50,
+          "recheck_cadence_days": 14,
+          "lift_ratio_to_unsuppress": 0.75
         }
+      },
+      "image_cache": {
+        "enabled": true,
+        "max_reuse": 5,
+        "max_cache_size": 150,
+        "min_match_score": 0.4,
+        "cache_path": "DonatoSkills/image-cache",
+        "_cache_path_note": "Relative to repo root (Facts-Unlocked/). In generation scripts, resolve with path.resolve(__dirname, '../../../image-cache')"
       },
       "defaults": {
         "tone": "rotate: curious, authoritative, bold, educational",

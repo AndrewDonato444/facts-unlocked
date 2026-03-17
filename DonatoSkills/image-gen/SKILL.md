@@ -20,9 +20,11 @@ You craft the perfect prompt, call the configured image generation API (Gemini o
 When invoked by the `content-engine` skill (or any orchestrator), the prompt will contain **"ORCHESTRATED MODE"** and all required parameters (concept, dimensions, style, output path). In this case:
 
 1. **Skip the interactive question flow entirely** — all decisions are already made
-2. **Confirm in one line** — e.g., "Generating 1080x1080 quote card for Instagram..."
-3. **Generate the image directly**
-4. **Output a structured summary when done:**
+2. **Check the image cache** (if `cache_channel` is provided — see Image Cache section below)
+3. If cache hit → return cached image immediately, skip generation
+4. If cache miss → **Generate the image directly**
+5. After generation → **Write to cache** (if `cache_channel` is provided)
+6. **Output a structured summary when done:**
    ```
    IMAGE_COMPLETE
    asset_path: images/zenbrew-march/quote-card-001.png
@@ -30,7 +32,128 @@ When invoked by the `content-engine` skill (or any orchestrator), the prompt wil
    aspect_ratio: 1:1
    ```
 
+   Or on cache hit:
+   ```
+   CACHE_HIT: <hash> for <channel> (<use_count>/<max_reuse> uses)
+   IMAGE_COMPLETE: image-cache/<channel>/images/<hash>.png | Provider: cache
+   asset_path: image-cache/<channel>/images/<hash>.png
+   dimensions: 1080x1080
+   aspect_ratio: 1:1
+   ```
+
 If any required parameter is missing, fall back to the interactive question flow for that parameter only.
+
+---
+
+## Image Cache Integration
+
+The image cache reduces API calls by reusing previously generated background images when the tags match. It is **per-channel** — each channel has its own cache and images are never shared across channels.
+
+**Cache module**: `image-cache/scripts/image-cache.js`
+**Cache location**: `image-cache/<channel-slug>/` (configured in `projects.json` → `image_cache.cache_path`)
+
+### When to Use the Cache
+
+Use the cache when **all** of these are true:
+1. The orchestrated prompt includes `cache_channel` (the channel slug)
+2. The project's `image_cache.enabled` is `true` in `projects.json`
+3. The image is a **background image** (not a text overlay, quote card with specific text, or unique product shot)
+
+### Cache Flow (Orchestrated Mode)
+
+```
+Orchestrated prompt arrives with cache_channel + cache_tags
+  │
+  ▼
+Read image-cache/<channel>/cache-index.json
+  │
+  ├─ CACHE HIT (score >= min_match_score, use_count < max_reuse)
+  │    → Return cached image path
+  │    → Increment use_count
+  │    → Log: CACHE_HIT: <hash> for <channel> (<count>/<max> uses)
+  │    → Skip generation entirely
+  │
+  └─ CACHE MISS
+       → Log: CACHE_MISS: <channel> — generating new image
+       → Generate image via Gemini/OpenAI as usual
+       → After generation, add to cache:
+           const { ImageCache } = require("../image-cache/scripts/image-cache");
+           const cache = new ImageCache({
+             cachePath: "<project-root>/image-cache",
+             channel: "<cache_channel>",
+             maxReuse: project.image_cache.max_reuse || 5,
+             maxCacheSize: project.image_cache.max_cache_size || 150,
+             minMatchScore: project.image_cache.min_match_score || 0.4,
+           });
+           cache.addImage({
+             sourcePath: "<generated-image-path>",
+             prompt: "<generation-prompt>",
+             tags: cache_tags,  // from orchestrated prompt
+             aspectRatio: "<aspect-ratio>",
+             provider: "<provider-used>",
+             model: "<model-used>",
+           });
+```
+
+### Cache Query in Generation Scripts
+
+When scaffolding a `generate-image.ts` for an orchestrated job that includes `cache_channel`, add the cache check **before** calling the image API:
+
+```typescript
+// --- Cache check (before generation) ---
+const { ImageCache } = require("../../image-cache/scripts/image-cache");
+
+const cacheChannel = "CACHE_CHANNEL_HERE";  // from orchestrated prompt
+const cacheTags = ["tag1", "tag2"];          // from orchestrated prompt
+const cacheConfig = {
+  cachePath: path.resolve(__dirname, "../../../image-cache"),
+  channel: cacheChannel,
+  maxReuse: 5,       // from projects.json image_cache.max_reuse
+  maxCacheSize: 150, // from projects.json image_cache.max_cache_size
+  minMatchScore: 0.4 // from projects.json image_cache.min_match_score
+};
+
+const cache = new ImageCache(cacheConfig);
+const hit = cache.query(cacheTags);
+
+if (hit) {
+  console.log(`CACHE_HIT: ${hit.hash} for ${cacheChannel} (${hit.use_count}/${cacheConfig.maxReuse} uses)`);
+  // Copy cached image to the expected output path
+  fs.copyFileSync(hit.filePath, outputPath);
+  console.log("IMAGE_COMPLETE: " + outputPath + " | Provider: cache");
+  process.exit(0);
+}
+
+console.log(`CACHE_MISS: ${cacheChannel} — generating new image`);
+// ... proceed with normal generation ...
+```
+
+After successful generation, add to cache:
+
+```typescript
+// --- Cache write (after generation) ---
+cache.addImage({
+  sourcePath: outputPath,
+  prompt: job.prompt,
+  tags: cacheTags,
+  aspectRatio: job.aspectRatio,
+  provider: "gemini",  // or "openai"
+  model: job.model || "gemini-2.5-flash-image",
+});
+```
+
+### When NOT to Cache
+
+Do NOT use the cache for:
+- **Quote cards with specific text** — the text is unique per video
+- **Product shots** — too specific to reuse
+- **Thumbnails with text overlays** — text varies
+- **User-provided assets** — not generated, no need to cache
+
+DO use the cache for:
+- **Background scenes** — "cozy nursery", "abstract money pattern", "baby playing"
+- **Mood/atmosphere images** — "warm morning light", "colorful celebration"
+- **Generic topic visuals** — "healthy food spread", "gym equipment"
 
 ---
 
