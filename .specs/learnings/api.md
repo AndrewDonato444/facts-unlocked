@@ -40,9 +40,19 @@ _No learnings yet._
 
 ## Fetching Patterns
 
-<!-- How to call APIs, retry logic, loading states -->
+### 2026-03-17
+- **Gotcha**: ElevenLabs `output_format: "pcm_24000"` actually returns MP3-encoded data despite the name. Using `writeWavSync()` to wrap those bytes as PCM produces durations 3–6x too short → audio cuts off in Remotion. Confirmed: latte-factor-myth scene durations reported as 1.5s/2s/2s/0.37s; real values were 4.6s/5.9s/5.9s/1.1s.
+  - **Fix**: Write raw bytes to a temp file, re-encode with `ffmpeg -acodec pcm_s16le -ar 24000 -ac 1`, then get real duration with `ffprobe -show_entries format=duration`. Never calculate duration from byte count when ElevenLabs is the provider.
 
-_No learnings yet._
+- **Gotcha**: Grok TTS is NOT OpenAI-compatible. `client.audio.speech.create()` via the OpenAI SDK with `baseURL: "https://api.x.ai/v1"` returns 403. Use `fetch("https://api.x.ai/v1/tts")` directly.
+  - **Required body fields**: `text`, `voice`, `language` — omitting `language` causes a deserialization error.
+  - Voices: `eve`, `ara`, `rex`, `sal`, `leo`
+
+- **Gotcha**: Grok TTS returns 500 "Too many pings" on rapid sequential requests. Add a 2-second delay between scene calls.
+
+- **Gotcha**: OpenAI `gpt-image-1` quality parameter values are `"low"`, `"medium"`, `"high"`, `"auto"` — not `"standard"` or `"hd"` (those are dall-e-3 values). Passing `"standard"` returns 400.
+
+- **Pattern**: Zernio `POST /v1/posts` response shape is `{ post: { _id, status, ... } }` — the post ID is nested under `post._id`, not top-level. When a post is sent for a time already past, status comes back as `"published"` immediately.
 
 ---
 
