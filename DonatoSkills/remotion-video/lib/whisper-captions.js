@@ -54,12 +54,17 @@ function groupWordsIntoPhrases(words, options = {}) {
       }
     }
 
+    // Hard cap: never exceed maxWords + 2 even with punctuation look-ahead
+    const atHardMax = currentWords.length >= maxWords + 2;
+
     // Break conditions:
-    // 1. Hit max words AND no nearby punctuation — must break
-    // 2. Hit punctuation AND we have at least minWords
-    // 3. Last word in the input
+    // 1. Hit hard max — must break regardless
+    // 2. Hit max words AND no nearby punctuation — must break
+    // 3. Hit punctuation AND we have at least minWords
+    // 4. Last word in the input
     const shouldBreak =
       isLastWord ||
+      atHardMax ||
       (atMaxWords && !nearbyPunctuation) ||
       (hasPunctuation && atMinWords);
 
@@ -128,8 +133,8 @@ function buildEvenSpacedPhrases(text, durationSec, options = {}) {
 
   // Distribute evenly across duration
   const timePerChunk = durationSec / chunks.length;
-  return chunks.map((text, i) => ({
-    text,
+  return chunks.map((chunkText, i) => ({
+    text: chunkText,
     start: parseFloat((i * timePerChunk).toFixed(4)),
     end: parseFloat(((i + 1) * timePerChunk).toFixed(4)),
   }));

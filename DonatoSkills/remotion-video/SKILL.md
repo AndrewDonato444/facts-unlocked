@@ -852,7 +852,7 @@ See `shared-references/provider-resilience.md` for the full pattern documentatio
 
 After TTS generates audio, run Whisper to extract word-level timestamps for synced captions. This step enriches the manifest with a `words` array per scene.
 
-**Use the OpenAI Whisper API** (not local Whisper) — fast, accurate, returns word timestamps natively:
+**Use the OpenAI Whisper API** (not local Whisper) — fast, accurate, returns word timestamps natively. Cost: ~$0.006 per minute of audio (a 5-scene video ≈ $0.003 total). Requires `OPENAI_API_KEY`.
 
 ```typescript
 import * as fs from "node:fs";

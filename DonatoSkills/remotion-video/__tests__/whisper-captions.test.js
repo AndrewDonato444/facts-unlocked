@@ -205,6 +205,12 @@ describe("getCurrentPhrase", () => {
     { text: "three months in the womb.", start: 2.82, end: 4.10, words: [] },
   ];
 
+  test("UT-WC-017: returns empty text for empty phrases array", () => {
+    const result = getCurrentPhrase([], 0, 30);
+    expect(result.text).toBe("");
+    expect(result.index).toBe(0);
+  });
+
   test("UT-WC-013: returns first phrase at frame 0", () => {
     const result = getCurrentPhrase(phrases, 0, 30);
     expect(result.text).toBe("Your baby already has");

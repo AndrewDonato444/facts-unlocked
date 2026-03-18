@@ -328,17 +328,27 @@ const PhraseSyncedCaption: React.FC<PhraseSyncedCaptionProps> = ({
         gap: 10,
       }}>
         {highlightActive && current.words?.length ? (
-          // Active word highlight mode
+          // Active word highlight mode — uses interpolate() for frame-based animation
+          // (CSS transitions don't work in Remotion's frame-by-frame renderer)
           current.words.map((w: WordTimestamp, i: number) => {
             const isActive = currentTime >= w.start && currentTime < w.end;
             const isPast = currentTime >= w.end;
+
+            // Frame-based scale: ramp up over 3 frames when active, back down over 3 frames after
+            const wordStartFrame = Math.round(w.start * fps);
+            const wordEndFrame = Math.round(w.end * fps);
+            const wordScale = isActive
+              ? interpolate(frame, [wordStartFrame, wordStartFrame + 3], [1, 1.1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })
+              : isPast
+                ? interpolate(frame, [wordEndFrame, wordEndFrame + 3], [1.1, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })
+                : 1;
+
             return (
               <span key={i} style={{
                 fontSize,
                 fontWeight: 900,
                 color: isActive ? "#FFFFFF" : isPast ? "rgba(255,255,255,0.5)" : "rgba(255,255,255,0.8)",
-                transform: isActive ? "scale(1.1)" : "scale(1)",
-                transition: "transform 0.1s, color 0.1s",
+                transform: `scale(${wordScale})`,
                 textShadow: isActive
                   ? "0 0 20px rgba(255,255,255,0.5), 0 2px 8px rgba(0,0,0,0.9)"
                   : "0 2px 8px rgba(0,0,0,0.8)",
