@@ -21,7 +21,7 @@ Cross-cutting patterns learned in this codebase. Updated via `/compound`.
 
 - **2026-03-17** [api] Grok TTS requires `language` field — omitting it causes deserialization error
 - **2026-03-17** [api] Gemini image model is `gemini-2.5-flash-image` — older names 404
-- **2026-03-17** [api] Zernio doesn't support PATCH on posts — must delete + recreate
+- **2026-03-18** [api] Zernio PUT works on pending posts to reschedule; published posts are immutable (delete + recreate)
 - **2026-03-17** [general] Remotion backgrounds must be in `public/generated/` for ai-generated type
 - **2026-03-17** [general] Buffer GraphQL schema doesn't match docs — use introspection
 - **2026-03-17** [general] TTS files are often MP3-in-WAV — always re-encode to PCM before Remotion

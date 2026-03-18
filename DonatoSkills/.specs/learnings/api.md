@@ -26,11 +26,15 @@ Patterns for API and data handling in this codebase.
 
 **Request format**: Must include `"responseModalities": ["TEXT", "IMAGE"]` in `generationConfig`.
 
-### Zernio API does not support PATCH on posts (2026-03-17)
+### Zernio API: PATCH returns 405, PUT works on pending posts only (2026-03-17, updated 2026-03-18)
 
 **Problem**: `PATCH /api/v1/posts/{id}` returns HTTP 405 Method Not Allowed.
 
-**Fix**: To update a scheduled post, delete it and create a new one. The delete + create pattern is the only way to change media or content on an existing post.
+**PUT behavior**:
+- `PUT /api/v1/posts/{id}` with `{ "scheduledFor": "..." }` works on **pending** posts — returns the updated post object.
+- `PUT` on an already-**published** post returns `{"error":"Published posts can only have their recycling config updated"}`.
+
+**Fix**: To reschedule a pending post, use PUT. To reschedule a published post, delete and recreate (or accept it can't be changed).
 
 ---
 

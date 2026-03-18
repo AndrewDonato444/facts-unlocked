@@ -137,17 +137,18 @@ Then the combination is added to suppressed_combinations
   But each value remains available individually
 ```
 
-### Scenario: Generate 2 days of briefs per analytics run
+### Scenario: Generate briefs per analytics run
 
 ```gherkin
 Given the analytics loop runs on Day 1 evening
 When Phase 4 (Generate Briefs) completes
-Then briefs are generated for Day 2 AND Day 3
-  And Day 2 briefs are in analytics-loop/data/{project}/{date}/briefs/all-briefs.json
-  And Day 3 briefs are in analytics-loop/data/{project}/{date}/briefs/day2/all-briefs.json
-  And the content-engine reads Day 2 briefs on Day 2 morning
-  And the content-engine reads Day 3 briefs on Day 3 morning
+Then briefs are written to analytics-loop/data/{project}/{date}/briefs/all-briefs.json
+  And the content-engine reads briefs on the following morning
 ```
+
+<!-- NOTE: Multi-day (Day 2 + Day 3) brief generation is not yet implemented.
+     The current code generates a single briefs file per run.
+     Day 3 lookahead is a future enhancement. -->
 
 ### Scenario: Template promotion requires sustained improvement
 
