@@ -848,9 +848,81 @@ See `shared-references/provider-resilience.md` for the full pattern documentatio
 
 **Always use `npx tsx --no-cache`** when running TypeScript scripts. Without `--no-cache`, tsx may use stale transpiled output that doesn't reflect your latest source changes.
 
+### Step 2b: Whisper Caption Sync (after TTS, before render)
+
+After TTS generates audio, run Whisper to extract word-level timestamps for synced captions. This step enriches the manifest with a `words` array per scene.
+
+**Use the OpenAI Whisper API** (not local Whisper) — fast, accurate, returns word timestamps natively:
+
+```typescript
+import * as fs from "node:fs";
+import * as path from "node:path";
+
+interface WordTimestamp {
+  word: string;
+  start: number;
+  end: number;
+}
+
+async function extractWordTimestamps(audioPath: string): Promise<WordTimestamp[]> {
+  const formData = new FormData();
+  formData.append("file", new Blob([fs.readFileSync(audioPath)]), path.basename(audioPath));
+  formData.append("model", "whisper-1");
+  formData.append("response_format", "verbose_json");
+  formData.append("timestamp_granularities[]", "word");
+
+  const response = await fetch("https://api.openai.com/v1/audio/transcriptions", {
+    method: "POST",
+    headers: { Authorization: `Bearer ${process.env.OPENAI_API_KEY}` },
+    body: formData,
+  });
+
+  const data = await response.json();
+  return (data.words || []).map((w: any) => ({
+    word: w.word,
+    start: w.start,
+    end: w.end,
+  }));
+}
+
+// Enrich manifest with word timestamps
+async function enrichManifest(audioDir: string) {
+  const manifestPath = path.join(audioDir, "manifest.json");
+  const manifest = JSON.parse(fs.readFileSync(manifestPath, "utf-8"));
+
+  for (const [sceneName, sceneData] of Object.entries(manifest)) {
+    if ((sceneData as any).status === "failed") continue;
+
+    const audioPath = path.join(audioDir, "..", (sceneData as any).file);
+    if (!fs.existsSync(audioPath)) continue;
+
+    try {
+      console.log(`Whisper: extracting word timestamps for ${sceneName}...`);
+      const words = await extractWordTimestamps(audioPath);
+      (manifest as any)[sceneName].words = words;
+      console.log(`  Got ${words.length} words`);
+    } catch (err) {
+      console.warn(`  Whisper failed for ${sceneName}: ${err}. Captions will use even-spaced fallback.`);
+    }
+  }
+
+  fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
+  console.log(`Enriched manifest written: ${manifestPath}`);
+}
+
+enrichManifest(path.join(__dirname, "..", "public", "audio")).catch(console.error);
+```
+
+**Run after TTS, before building Remotion compositions:**
+```bash
+npx tsx --no-cache scripts/whisper-timestamps.ts
+```
+
+**Fallback:** If `OPENAI_API_KEY` is not set or Whisper fails, the manifest keeps its original format (no `words` array). The Remotion `PhraseSyncedCaption` component automatically falls back to even-spaced phrase timing — still better than word-by-word karaoke.
+
 ### Step 3: Size Scenes to Audio
 
-After generating audio, read the timing manifest (`public/audio/manifest.json`) and set each scene's `durationInFrames` to match. Add a small buffer (0.3s = ~9 frames) between scenes for breathing room:
+After generating audio (and optionally enriching with Whisper), read the timing manifest (`public/audio/manifest.json`) and set each scene's `durationInFrames` to match. Add a small buffer (0.3s = ~9 frames) between scenes for breathing room:
 
 ```tsx
 import { Audio, staticFile, Sequence } from "remotion";
@@ -866,19 +938,39 @@ const scene3Frames = Math.ceil(manifest["scene-3-cta"].durationSec * fps); // no
 
 // Each scene gets its OWN <Audio> element inside its <Sequence>.
 // Do NOT use a single combined audio track — it drifts from visual timing.
+// Use PhraseSyncedCaption for text overlay — reads word timestamps from manifest.
 <Sequence from={0} durationInFrames={scene1Frames}>
   <Audio src={staticFile("audio/scene-1-hook.wav")} />
   <HookScene />
+  <PhraseSyncedCaption
+    words={manifest["scene-1-hook"].words}
+    text={SCENE_1_TEXT} // fallback if no words
+    durationSec={manifest["scene-1-hook"].durationSec}
+  />
 </Sequence>
 <Sequence from={scene1Frames} durationInFrames={scene2Frames}>
   <Audio src={staticFile("audio/scene-2-body.wav")} />
   <BodyScene />
+  <PhraseSyncedCaption
+    words={manifest["scene-2-body"].words}
+    text={SCENE_2_TEXT}
+    durationSec={manifest["scene-2-body"].durationSec}
+  />
 </Sequence>
 <Sequence from={scene1Frames + scene2Frames} durationInFrames={scene3Frames}>
   <Audio src={staticFile("audio/scene-3-cta.wav")} />
   <CTAScene />
+  <PhraseSyncedCaption
+    words={manifest["scene-3-cta"].words}
+    text={SCENE_3_TEXT}
+    durationSec={manifest["scene-3-cta"].durationSec}
+  />
 </Sequence>
 ```
+
+**Caption component:** `PhraseSyncedCaption` reads word-level timestamps from the enriched manifest. If the manifest has no `words` array (Whisper step was skipped), it falls back to even-spaced phrase timing. See `references/animation-patterns.md` for the full component and usage examples.
+
+**IMPORTANT:** For body text with voiceover, always use `PhraseSyncedCaption` (phrase-at-a-time synced to audio). Only use `WordByWord` for short hooks (3-5 words) where the drip effect adds impact.
 
 The total composition `durationInFrames` should be the sum of all scene frames. Update `constants.ts` scene timings to match these manifest-derived values — never hardcode durations that conflict with actual audio lengths.
 
