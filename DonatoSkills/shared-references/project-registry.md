@@ -118,9 +118,9 @@ The **brand context itself** (vision, personas, design tokens) lives in the proj
         },
         "template_promotion": {
           "min_lift": 0.15,
-          "min_channels": 5,
+          "min_channels": 2,
           "min_cycles": 2,
-          "min_sample": 10
+          "min_sample": 6
         }
       },
       "defaults": {
@@ -248,7 +248,7 @@ The **brand context itself** (vision, personas, design tokens) lives in the proj
 | `scoring_weights` | object | No | Override formula weights. Keys: `shares`, `saves`, `comments`, `likes`. Defaults: `4, 3, 2, 1`. |
 | `template_promotion` | object | No | Rules for when a new winning template replaces the current one. |
 | `template_promotion.min_lift` | number | No | Minimum improvement over current template to trigger switch. Default: `0.15` (15%). |
-| `template_promotion.min_channels` | number | No | Minimum channels showing improvement. Default: `5`. |
+| `template_promotion.min_channels` | number | No | Minimum channels showing improvement. Default: `2`. Raise to 3-5 for large networks (10+ channels). |
 | `template_promotion.min_cycles` | number | No | Minimum consecutive scoring cycles. Default: `2`. |
 | `template_promotion.min_sample` | number | No | Minimum posts with the new combination. Default: `10`. |
 

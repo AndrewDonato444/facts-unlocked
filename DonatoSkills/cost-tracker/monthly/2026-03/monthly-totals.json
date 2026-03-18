@@ -1,0 +1,17 @@
+{
+  "elevenlabs": {
+    "total_units": 4032,
+    "total_cost_usd": 0.88704,
+    "unit_type": "char"
+  },
+  "gemini": {
+    "total_units": 733,
+    "total_cost_usd": 0.4723,
+    "unit_type": "image"
+  },
+  "openai": {
+    "total_units": 5,
+    "total_cost_usd": 0.3,
+    "unit_type": "image"
+  }
+}

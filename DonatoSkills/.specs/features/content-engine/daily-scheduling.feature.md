@@ -1,7 +1,9 @@
 ---
 feature: Daily Content Scheduling
 domain: content-engine
-source: content-engine/scripts/find-target-date.ts
+source:
+  - content-engine/scripts/find-target-date.ts
+  - content-engine/scripts/upload-and-schedule.ts
 tests: []
 components: []
 status: implemented
@@ -11,7 +13,7 @@ updated: 2026-03-18
 
 # Daily Content Scheduling
 
-**Source File**: `content-engine/scripts/find-target-date.ts`
+**Source Files**: `content-engine/scripts/find-target-date.ts`, `content-engine/scripts/upload-and-schedule.ts`
 
 ## Feature: Target Date Resolution
 
@@ -53,4 +55,4 @@ Then it skips the upload and Zernio call for item 002
 
 - ET offset used: UTC-5 (conservative — doesn't attempt DST detection)
 - Posting slots: 09:00, 14:00, 18:00 ET per channel per day
-- 3 videos per channel (baby + money) = 6 total per daily run
+- 3 videos per channel (baby + money + ai) = 9 total per daily run

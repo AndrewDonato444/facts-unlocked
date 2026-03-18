@@ -145,7 +145,7 @@ And the rate table entries are:
       "gpt-image-1-mini": { "unit": "image", "rate": 0.03 }
     },
     "grok": {
-      "grok-2-image": { "unit": "image", "rate": 0.02 },
+      "grok-imagine-image": { "unit": "image", "rate": 0.02 },
       "default-tts": { "unit": "char", "rate": 0.0001 }
     },
     "cloudinary": { "default": { "unit": "upload", "rate": 0.00, "plan": "free" } }

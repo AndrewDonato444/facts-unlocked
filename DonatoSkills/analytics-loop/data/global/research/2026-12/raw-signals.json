@@ -1,0 +1,197 @@
+{
+  "date": "2026-03-18",
+  "week": "2026-12",
+  "queries": [
+    "robertbenjamin YouTube Shorts algorithm March 2026",
+    "vidIQ YouTube Shorts retention hooks March 2026",
+    "creator insider YouTube Shorts algorithm March 2026",
+    "site:reddit.com/r/NewTubers OR site:reddit.com/r/SmallYoutubers YouTube Shorts algorithm 2026",
+    "YouTube Shorts algorithm update March 2026 hooks retention"
+  ],
+  "signals": [
+    {
+      "signal": "Views now count on play/replay with zero minimum watch time (March 31, 2025 update); loops add additional views",
+      "source": "YouTube official algorithm update",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-03-31",
+      "raw_quote": "any YouTube Short that starts playing or replays is counted as a view with no minimum watch time required"
+    },
+    {
+      "signal": "Engaged Views (meaningful interaction) are what actually count for monetization and YouTube Partner Program eligibility, not raw views",
+      "source": "YouTube official policy",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-03-31",
+      "raw_quote": "Only Engaged Views count toward YouTube Partner Program eligibility and revenue payouts"
+    },
+    {
+      "signal": "January 2026: Dedicated 'Shorts' filter in search results; Shorts now first-class search type",
+      "source": "YouTube announcement",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-01-01",
+      "raw_quote": "YouTube announced a redesign of its search filters, including a dedicated 'Shorts' filter in the 'Type' menu"
+    },
+    {
+      "signal": "March 2026: Algorithm shifted to prioritize satisfaction/completion rate over raw watch time",
+      "source": "YouTube algorithm shift",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "A Short that gets 1,000 views with 85% average completion rate will outperform a Short with 5,000 views and 40% completion"
+    },
+    {
+      "signal": "50-60% of viewers drop off within first 3 seconds; average swipe occurs at 5.8 seconds",
+      "source": "vidIQ research",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "50-60% of viewers who drop off do so within the first 3 seconds. The average swipe rate occurs at 5.8 seconds"
+    },
+    {
+      "signal": "Shorts with immediate hook in first 2 seconds retain 19% more viewers; 80%+ engagement occurs in first 10 seconds",
+      "source": "vidIQ research",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Shorts with an immediate hook in the first 2 seconds retain 19% more viewers, and over 80% of all engagement happens within the first 10 seconds"
+    },
+    {
+      "signal": "Recency bias: Shorts older than ~30 days receive significantly reduced algorithmic push",
+      "source": "Retention analysts (100M-1B monthly view channels)",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-06-01",
+      "raw_quote": "Shorts older than roughly 30 days are now much less likely to be pushed in recommendations"
+    },
+    {
+      "signal": "Algorithm uses seed audience testing (24-48 hours); performance determines viral potential",
+      "source": "YouTube algorithm mechanics",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Performance in the first 24-48 hours determines if you go viral"
+    },
+    {
+      "signal": "Target watch-through rate: 70%+ (viral Shorts average 76% retention; below 50% signals broken hook)",
+      "source": "YouTube Shorts performance data",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Top-performing Shorts often hit 80-90% average completion rates. Viral Shorts with 1M+ views average 76% retention"
+    },
+    {
+      "signal": "13 and 60-second Shorts perform best; 15-35 seconds typical for high performers",
+      "source": "YouTube Shorts analytics",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Shorts that are either 13 or 60 seconds long tend to perform best. Most high-performing Shorts sit between 15 and 35 seconds"
+    },
+    {
+      "signal": "Looping structure: seamless visual loop back to opening frame counts as additional view and engagement signal",
+      "source": "YouTube Shorts algorithm update",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-03-01",
+      "raw_quote": "A looping Short ends in a way that connects seamlessly back to the opening frame, and this replay counts as an additional view"
+    },
+    {
+      "signal": "Faceless channels receive equal algorithmic treatment to face-on channels; new videos get seed audience regardless of subscriber count",
+      "source": "YouTube algorithm mechanics",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "A brand-new faceless channel can post one video and get discovered in days — while a channel with 200k subscribers can upload and barely get traction"
+    },
+    {
+      "signal": "Average Shorts retention rate: 73% (vs 52% for long-form); videos under 20-25 seconds achieve highest completion",
+      "source": "YouTube Shorts performance benchmarks",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "The average retention rate for Shorts is 73% (vs. 52% for long-form), and videos under 20–25 seconds achieve the highest completion rates"
+    },
+    {
+      "signal": "Recommended posting frequency: 3-7 Shorts per week for solo creators; consistency matters more than volume",
+      "source": "YouTube creator strategy",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "For most solo creators, 3–7 Shorts per week is a good balance. Consistency matters more than posting 5 times a day and burning out"
+    },
+    {
+      "signal": "'Flattening' pattern observed mid-September 2025: impressions drop sharply after 28-30 day mark across large channels",
+      "source": "Retention analyst Mario Joos",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-09-15",
+      "raw_quote": "impressions on Shorts drop sharply once they cross the 28 to 30 day mark"
+    },
+    {
+      "signal": "#Shorts hashtag is optional (auto-detected); use 3-5 niche hashtags instead for better discovery",
+      "source": "YouTube support documentation",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-01-01",
+      "raw_quote": "the #Shorts hashtag is optional. Use 3-5 niche hashtags instead for better discovery"
+    },
+    {
+      "signal": "Only 40-60 characters of title display in Shorts feed (max 100 allowed); front-load keywords",
+      "source": "YouTube technical specs",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Maximum 100 characters allowed, but only 40-60 characters display in the Shorts feed. Front-load keywords and hooks"
+    },
+    {
+      "signal": "Native feature usage signals investment in Shorts ecosystem; correlates with better distribution",
+      "source": "YouTube algorithm signals",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "The algorithm recognizes when you use YouTube's built-in tools versus uploading content edited elsewhere"
+    },
+    {
+      "signal": "AI content allowed but requires disclosure; repetitive AI templates targeted as inauthentic (July 2025 policy)",
+      "source": "YouTube content policy",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-05-01",
+      "raw_quote": "Properly disclosed AI content is not penalized in 2026. Avoid repetitive templates as July 2025's 'inauthentic content' policy targets mass-produced AI Shorts"
+    },
+    {
+      "signal": "Monetization thresholds: 1,000 subscribers + (10M Shorts views in 90 days OR 4,000 watch hours from long-form)",
+      "source": "YouTube Partner Program",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-03-31",
+      "raw_quote": "To earn money from Shorts using ads, you need 1,000 subscribers and either 10 million Shorts views in 90 days or 4,000 watch hours from long videos"
+    },
+    {
+      "signal": "CPM for Shorts: $0.03-$0.10 per 1,000 views (~$30-$100 per 1M views); varies by niche",
+      "source": "YouTube monetization data",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Most creators earn between $0.03 and $0.10 per 1,000 Shorts views"
+    },
+    {
+      "signal": "YouTube now collects and weighs direct viewer feedback (skip, not interested, surveys) more heavily in ranking",
+      "source": "YouTube algorithm update",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "YouTube now collects viewer feedback more directly and counts it more heavily in ranking decisions. If viewers skip instantly, hit 'not interested,' or give negative survey responses, your Short's reach stalls faster"
+    },
+    {
+      "signal": "Hook clarity more important than creativity; viewers skip if they don't immediately understand topic",
+      "source": "YouTube Shorts best practices",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Clarity matters more than creativity. If viewers do not immediately understand what the Short is about, they are more likely to swipe"
+    }
+  ]
+}

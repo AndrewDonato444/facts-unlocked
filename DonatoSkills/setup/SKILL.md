@@ -344,14 +344,14 @@ If yes:
      },
      "template_promotion": {
        "min_lift": 0.15,
-       "min_channels": 5,
+       "min_channels": 2,
        "min_cycles": 2,
-       "min_sample": 10
+       "min_sample": 6
      }
    }
    ```
 
-   > **Small-scale note**: If the user has fewer than 10 channels, suggest lowering `template_promotion.min_channels` to 3 and `min_impressions` to 200. These are just config values — the scripts read them from projects.json.
+   > **Scaling note**: `min_channels` default is 2 (works for networks with 3+ channels). Raise to 3-5 for large networks (10+ channels). `min_sample` default is 6 — raise to 10 for high-volume channels.
 
 ### Step 9: Write Configuration
 
@@ -419,7 +419,7 @@ After gathering all info, write the project entry to `projects.json`:
         "content": "content-creation-project-slug"
       },
       "template_promotion": {
-        "min_lift": 0.15, "min_channels": 5, "min_cycles": 2, "min_sample": 10
+        "min_lift": 0.15, "min_channels": 2, "min_cycles": 2, "min_sample": 6
       }
     },
     "defaults": {

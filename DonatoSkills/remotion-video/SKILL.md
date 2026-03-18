@@ -624,14 +624,13 @@ When deciding which TTS provider to use:
 
 **Voice selection by project personality:**
 
-*Grok voices:*
+*Grok voices (5 total):*
 
 | Personality | Suggested Voices |
 |------------|-----------------|
-| Professional/Luxury | onyx (deep), sage (authoritative), echo (clear) |
-| Energetic/Fun | nova (upbeat), shimmer (bright), alloy (versatile) |
-| Warm/Friendly | coral, ballad |
-| Technical/Serious | ash, fable |
+| Professional/Authority | rex (confident), leo (authoritative) |
+| Energetic/Fun | eve (energetic, default) |
+| Warm/Friendly | ara (warm), sal (smooth) |
 
 *Gemini voices:*
 
@@ -748,7 +747,7 @@ interface TTSProviderConfig {
 
 const TTS_PROVIDERS: TTSProviderConfig[] = [
   // Order matches projects.json tts.providers — default_provider first
-  { name: "grok",       apiKeyEnv: "GROK_API_KEY",       defaultVoice: "onyx",  model: "grok-3-fast-tts" },
+  { name: "grok",       apiKeyEnv: "GROK_API_KEY",       defaultVoice: "rex",   model: "grok-tts" },
   { name: "gemini",     apiKeyEnv: "GEMINI_API_KEY",     defaultVoice: "Kore",  model: "gemini-2.5-flash-preview-tts" },
   { name: "elevenlabs", apiKeyEnv: "ELEVENLABS_API_KEY", defaultVoice: "Adam",  model: "eleven_multilingual_v2" },
 ];

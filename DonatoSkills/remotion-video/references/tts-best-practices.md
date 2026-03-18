@@ -41,20 +41,20 @@ it's the distribution.
 
 ## Voice Selection Guide
 
-### Grok TTS Voices (Default Provider)
+### Grok TTS Voices (5 voices — NOT OpenAI-compatible)
+
+**Endpoint**: `POST https://api.x.ai/v1/tts` (NOT `/v1/audio/speech`)
+**Body**: `{ "text": "...", "voice_id": "rex", "language": "en" }`
+**Output**: MP3 by default. Re-encode to PCM WAV for Remotion.
+**Do NOT use the OpenAI SDK** — use `fetch()` directly.
 
 | Voice | Character | Good For |
 |-------|-----------|----------|
-| alloy | Versatile, balanced | General purpose, safe default |
-| ash | Measured, steady | Technical, serious content |
-| ballad | Warm, expressive | Storytelling, lifestyle |
-| coral | Friendly, warm | Approachable, community |
-| echo | Clear, neutral | Clean delivery, business |
-| fable | Distinctive, engaging | Narratives, character-driven |
-| nova | Upbeat, energetic | Startup, fitness, youth |
-| onyx | Deep, authoritative | Professional, luxury, finance |
-| sage | Wise, composed | Authority, thought leadership |
-| shimmer | Bright, light | Modern, tech, playful |
+| eve | Energetic, default | General purpose, upbeat content |
+| ara | Warm, approachable | Lifestyle, storytelling, community |
+| rex | Confident, professional | Authority, business, facts |
+| sal | Smooth, balanced | Versatile, clean delivery |
+| leo | Authoritative, deep | Professional, luxury, finance |
 
 ### Gemini TTS Voices (Alternative Provider)
 

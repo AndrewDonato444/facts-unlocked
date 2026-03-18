@@ -1,0 +1,325 @@
+{
+  "generated_at": "2026-03-18T17:42:40.477Z",
+  "week": "2026-12",
+  "date": "2026-03-18",
+  "sources_fetched": [
+    "robert-benjamin",
+    "vidiq",
+    "creator-insider",
+    "reddit",
+    "general-web"
+  ],
+  "sources_skipped": [],
+  "signals": [
+    {
+      "signal": "Views now count on play/replay with zero minimum watch time (March 31, 2025 update); loops add additional views",
+      "source": "YouTube official algorithm update",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-03-31",
+      "raw_quote": "any YouTube Short that starts playing or replays is counted as a view with no minimum watch time required"
+    },
+    {
+      "signal": "Engaged Views (meaningful interaction) are what actually count for monetization and YouTube Partner Program eligibility, not raw views",
+      "source": "YouTube official policy",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-03-31",
+      "raw_quote": "Only Engaged Views count toward YouTube Partner Program eligibility and revenue payouts"
+    },
+    {
+      "signal": "January 2026: Dedicated 'Shorts' filter in search results; Shorts now first-class search type",
+      "source": "YouTube announcement",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-01-01",
+      "raw_quote": "YouTube announced a redesign of its search filters, including a dedicated 'Shorts' filter in the 'Type' menu"
+    },
+    {
+      "signal": "March 2026: Algorithm shifted to prioritize satisfaction/completion rate over raw watch time",
+      "source": "YouTube algorithm shift",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "A Short that gets 1,000 views with 85% average completion rate will outperform a Short with 5,000 views and 40% completion"
+    },
+    {
+      "signal": "50-60% of viewers drop off within first 3 seconds; average swipe occurs at 5.8 seconds",
+      "source": "vidIQ research",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "50-60% of viewers who drop off do so within the first 3 seconds. The average swipe rate occurs at 5.8 seconds"
+    },
+    {
+      "signal": "Shorts with immediate hook in first 2 seconds retain 19% more viewers; 80%+ engagement occurs in first 10 seconds",
+      "source": "vidIQ research",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Shorts with an immediate hook in the first 2 seconds retain 19% more viewers, and over 80% of all engagement happens within the first 10 seconds"
+    },
+    {
+      "signal": "Recency bias: Shorts older than ~30 days receive significantly reduced algorithmic push",
+      "source": "Retention analysts (100M-1B monthly view channels)",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-06-01",
+      "raw_quote": "Shorts older than roughly 30 days are now much less likely to be pushed in recommendations"
+    },
+    {
+      "signal": "Algorithm uses seed audience testing (24-48 hours); performance determines viral potential",
+      "source": "YouTube algorithm mechanics",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Performance in the first 24-48 hours determines if you go viral"
+    },
+    {
+      "signal": "Target watch-through rate: 70%+ (viral Shorts average 76% retention; below 50% signals broken hook)",
+      "source": "YouTube Shorts performance data",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Top-performing Shorts often hit 80-90% average completion rates. Viral Shorts with 1M+ views average 76% retention"
+    },
+    {
+      "signal": "13 and 60-second Shorts perform best; 15-35 seconds typical for high performers",
+      "source": "YouTube Shorts analytics",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Shorts that are either 13 or 60 seconds long tend to perform best. Most high-performing Shorts sit between 15 and 35 seconds"
+    },
+    {
+      "signal": "Looping structure: seamless visual loop back to opening frame counts as additional view and engagement signal",
+      "source": "YouTube Shorts algorithm update",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-03-01",
+      "raw_quote": "A looping Short ends in a way that connects seamlessly back to the opening frame, and this replay counts as an additional view"
+    },
+    {
+      "signal": "Faceless channels receive equal algorithmic treatment to face-on channels; new videos get seed audience regardless of subscriber count",
+      "source": "YouTube algorithm mechanics",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "A brand-new faceless channel can post one video and get discovered in days — while a channel with 200k subscribers can upload and barely get traction"
+    },
+    {
+      "signal": "Average Shorts retention rate: 73% (vs 52% for long-form); videos under 20-25 seconds achieve highest completion",
+      "source": "YouTube Shorts performance benchmarks",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "The average retention rate for Shorts is 73% (vs. 52% for long-form), and videos under 20–25 seconds achieve the highest completion rates"
+    },
+    {
+      "signal": "Recommended posting frequency: 3-7 Shorts per week for solo creators; consistency matters more than volume",
+      "source": "YouTube creator strategy",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "For most solo creators, 3–7 Shorts per week is a good balance. Consistency matters more than posting 5 times a day and burning out"
+    },
+    {
+      "signal": "'Flattening' pattern observed mid-September 2025: impressions drop sharply after 28-30 day mark across large channels",
+      "source": "Retention analyst Mario Joos",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-09-15",
+      "raw_quote": "impressions on Shorts drop sharply once they cross the 28 to 30 day mark"
+    },
+    {
+      "signal": "#Shorts hashtag is optional (auto-detected); use 3-5 niche hashtags instead for better discovery",
+      "source": "YouTube support documentation",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-01-01",
+      "raw_quote": "the #Shorts hashtag is optional. Use 3-5 niche hashtags instead for better discovery"
+    },
+    {
+      "signal": "Only 40-60 characters of title display in Shorts feed (max 100 allowed); front-load keywords",
+      "source": "YouTube technical specs",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Maximum 100 characters allowed, but only 40-60 characters display in the Shorts feed. Front-load keywords and hooks"
+    },
+    {
+      "signal": "Native feature usage signals investment in Shorts ecosystem; correlates with better distribution",
+      "source": "YouTube algorithm signals",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "The algorithm recognizes when you use YouTube's built-in tools versus uploading content edited elsewhere"
+    },
+    {
+      "signal": "AI content allowed but requires disclosure; repetitive AI templates targeted as inauthentic (July 2025 policy)",
+      "source": "YouTube content policy",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-05-01",
+      "raw_quote": "Properly disclosed AI content is not penalized in 2026. Avoid repetitive templates as July 2025's 'inauthentic content' policy targets mass-produced AI Shorts"
+    },
+    {
+      "signal": "Monetization thresholds: 1,000 subscribers + (10M Shorts views in 90 days OR 4,000 watch hours from long-form)",
+      "source": "YouTube Partner Program",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-03-31",
+      "raw_quote": "To earn money from Shorts using ads, you need 1,000 subscribers and either 10 million Shorts views in 90 days or 4,000 watch hours from long videos"
+    },
+    {
+      "signal": "CPM for Shorts: $0.03-$0.10 per 1,000 views (~$30-$100 per 1M views); varies by niche",
+      "source": "YouTube monetization data",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Most creators earn between $0.03 and $0.10 per 1,000 Shorts views"
+    },
+    {
+      "signal": "YouTube now collects and weighs direct viewer feedback (skip, not interested, surveys) more heavily in ranking",
+      "source": "YouTube algorithm update",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "YouTube now collects viewer feedback more directly and counts it more heavily in ranking decisions. If viewers skip instantly, hit 'not interested,' or give negative survey responses, your Short's reach stalls faster"
+    },
+    {
+      "signal": "Hook clarity more important than creativity; viewers skip if they don't immediately understand topic",
+      "source": "YouTube Shorts best practices",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03-01",
+      "raw_quote": "Clarity matters more than creativity. If viewers do not immediately understand what the Short is about, they are more likely to swipe"
+    }
+  ],
+  "tactics": [
+    {
+      "rank": 1,
+      "tactic": "Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+      "why": "50-60% drop-off occurs within first 3 seconds; immediate hooks retain 19% more viewers. Engaged Views (not raw views) drive monetization, requiring meaningful interaction that starts with clarity. Hook clarity more important than creativity—viewers skip if they don't understand the topic.",
+      "source": "vidIQ research, YouTube algorithm mechanics, YouTube Shorts best practices",
+      "test_ideas": [
+        "Test hook text placement (top, center, bottom) and measure completion rate; aim for 70%+",
+        "A/B test hook specificity: vague claim ('You won't believe...') vs. specific number ('73% discovered...') and track watch-through rate",
+        "Measure first 3-second drop-off rate; if above 50%, iterate hook visual intensity and text contrast"
+      ]
+    },
+    {
+      "rank": 2,
+      "tactic": "Target 13-20 second video length with seamless looping structure—end frame visually matches or transitions back to opening frame to trigger automatic loop as additional view and engagement signal. Voiceover should fit within 15-18 seconds to allow 2-5 second visual loop gap.",
+      "why": "13 and 60-second Shorts perform best; videos under 20-25 seconds achieve highest completion (73% average). Looping structure counts as additional view per YouTube March 2025 update. March 2026 algorithm prioritizes satisfaction/completion rate over raw watch time, making loop-optimized videos more valuable.",
+      "source": "YouTube Shorts analytics, YouTube Shorts algorithm update, YouTube algorithm shift",
+      "test_ideas": [
+        "Create two versions of same content: one 18-second with loop transition, one 22-second without; compare completion rates and view counts after 24-48 hour seed testing",
+        "Test loop visibility: subtle visual transition vs. obvious cut-back; measure if obvious loops increase re-engagement or trigger skips",
+        "Track loop-triggered re-watches in analytics; if seamless loops add 15%+ additional views, standardize this structure"
+      ]
+    },
+    {
+      "rank": 3,
+      "tactic": "Post 4-5 Shorts per week on a fixed schedule (e.g., Mon/Wed/Fri/Sat at 9 AM), front-loading keywords in first 40 characters of title only (e.g., 'Psychology fact: Why brains ignore...'), and use 3-5 niche hashtags (e.g., #PsychologyFacts #MindTricks #BehaviorScience) instead of generic #Shorts.",
+      "why": "Consistency matters more than volume for solo creators; 3-7 Shorts per week recommended. Only 40-60 characters display in feed, so front-loading keywords improves discoverability without relying on #Shorts (auto-detected). Niche hashtags signal targeting to seed audience testing (24-48 hours), improving algorithmic ranking in dedicated Shorts search filter (January 2026 update).",
+      "source": "YouTube creator strategy, YouTube technical specs, YouTube announcement, YouTube algorithm mechanics",
+      "test_ideas": [
+        "Test posting cadence: 3/week vs. 5/week vs. 7/week; measure impressions and CPM consistency over 4-week period",
+        "A/B test title keyword placement: front-loaded keywords vs. keywords at end; measure click-through rate and search impressions",
+        "Track hashtag performance: generic tags vs. niche tags; measure which generates more impressions during 24-48 hour seed phase and beyond 30-day mark"
+      ]
+    },
+    {
+      "rank": 4,
+      "tactic": "Publish new Shorts every 5-7 days (not more frequently) to avoid algorithmic flattening; monitor impressions after day 28-30 and pause promotion of videos older than 30 days. Plan content calendar around this recency window (4 Shorts in 30-day cycle maximum).",
+      "why": "Recency bias causes significantly reduced algorithmic push for Shorts older than ~30 days; mid-September 2025 flattening pattern shows sharp impression drop after 28-30 day mark. Seed audience testing (24-48 hours) determines viral potential, but long-term distribution requires constant fresh content. Spacing prevents cannibalizing seed audience across too many active videos.",
+      "source": "Retention analysts (100M-1B monthly view channels), Retention analyst Mario Joos, YouTube algorithm mechanics",
+      "test_ideas": [
+        "Chart impressions per Short from day 1-7, day 8-14, day 15-21, day 22-28, day 29-35; identify exact drop-off point",
+        "Test: publish 4 Shorts in 25 days vs. 7 Shorts in 30 days; measure total impressions, CPM consistency, and seed audience performance",
+        "Monitor if re-promoting videos older than 30 days (via pinning, playlists) reverses flattening or triggers algorithmic penalty"
+      ]
+    },
+    {
+      "rank": 5,
+      "tactic": "Use AI-generated backgrounds and voiceovers but disclose AI usage in description if generating >50% of video content; avoid repetitive AI templates that appear in multiple videos (creates 'inauthentic' signal). Vary AI background styles weekly and add unique text overlays, transitions, or voiceover inflection variations.",
+      "why": "Faceless channels receive equal algorithmic treatment to face-on channels; new videos get seed audience regardless of subscriber count. However, July 2025 policy targets repetitive AI templates as inauthentic, signaling reduced distribution. YouTube now weighs direct viewer feedback (skip, 'not interested') more heavily; inauthentic signals trigger skips. Disclosure requirement prevents policy violation impact on monetization eligibility.",
+      "source": "YouTube algorithm mechanics, YouTube content policy, YouTube algorithm update",
+      "test_ideas": [
+        "Create 3 videos with identical AI template vs. 3 videos with varied AI backgrounds; compare completion rate and 'not interested' clicks",
+        "Test disclosure impact: add 'AI-generated visuals' in description for half of uploads; measure if disclosure affects impression count or monetization eligibility",
+        "Track viewer feedback signals: monitor skip rate and 'not interested' votes for template-heavy videos vs. varied-background videos; aim for <25% skip rate"
+      ]
+    }
+  ],
+  "per_channel_recommendations": [
+    {
+      "channel": "BabyFactsUnlocked",
+      "current_retention_context": null,
+      "recommendations": [
+        "Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+        "Target 13-20 second video length with seamless looping structure—end frame visually matches or transitions back to opening frame to trigger automatic loop as additional view and engagement signal. Voiceover should fit within 15-18 seconds to allow 2-5 second visual loop gap."
+      ],
+      "test_ideas": [
+        "Test hook text placement (top, center, bottom) and measure completion rate; aim for 70%+",
+        "A/B test hook specificity: vague claim ('You won't believe...') vs. specific number ('73% discovered...') and track watch-through rate",
+        "Measure first 3-second drop-off rate; if above 50%, iterate hook visual intensity and text contrast"
+      ]
+    },
+    {
+      "channel": "BabyFactsUnlocked",
+      "current_retention_context": null,
+      "recommendations": [
+        "Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+        "Target 13-20 second video length with seamless looping structure—end frame visually matches or transitions back to opening frame to trigger automatic loop as additional view and engagement signal. Voiceover should fit within 15-18 seconds to allow 2-5 second visual loop gap."
+      ],
+      "test_ideas": [
+        "Test hook text placement (top, center, bottom) and measure completion rate; aim for 70%+",
+        "A/B test hook specificity: vague claim ('You won't believe...') vs. specific number ('73% discovered...') and track watch-through rate",
+        "Measure first 3-second drop-off rate; if above 50%, iterate hook visual intensity and text contrast"
+      ]
+    },
+    {
+      "channel": "BabyFactsUnlocked",
+      "current_retention_context": null,
+      "recommendations": [
+        "Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+        "Target 13-20 second video length with seamless looping structure—end frame visually matches or transitions back to opening frame to trigger automatic loop as additional view and engagement signal. Voiceover should fit within 15-18 seconds to allow 2-5 second visual loop gap."
+      ],
+      "test_ideas": [
+        "Test hook text placement (top, center, bottom) and measure completion rate; aim for 70%+",
+        "A/B test hook specificity: vague claim ('You won't believe...') vs. specific number ('73% discovered...') and track watch-through rate",
+        "Measure first 3-second drop-off rate; if above 50%, iterate hook visual intensity and text contrast"
+      ]
+    }
+  ],
+  "action_items": [
+    {
+      "priority": 1,
+      "item": "Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+      "why": "50-60% drop-off occurs within first 3 seconds; immediate hooks retain 19% more viewers. Engaged Views (not raw views) drive monetization, requiring meaningful interaction that starts with clarity. Hook clarity more important than creativity—viewers skip if they don't understand the topic."
+    },
+    {
+      "priority": 2,
+      "item": "Target 13-20 second video length with seamless looping structure—end frame visually matches or transitions back to opening frame to trigger automatic loop as additional view and engagement signal. Voiceover should fit within 15-18 seconds to allow 2-5 second visual loop gap.",
+      "why": "13 and 60-second Shorts perform best; videos under 20-25 seconds achieve highest completion (73% average). Looping structure counts as additional view per YouTube March 2025 update. March 2026 algorithm prioritizes satisfaction/completion rate over raw watch time, making loop-optimized videos more valuable."
+    },
+    {
+      "priority": 3,
+      "item": "Post 4-5 Shorts per week on a fixed schedule (e.g., Mon/Wed/Fri/Sat at 9 AM), front-loading keywords in first 40 characters of title only (e.g., 'Psychology fact: Why brains ignore...'), and use 3-5 niche hashtags (e.g., #PsychologyFacts #MindTricks #BehaviorScience) instead of generic #Shorts.",
+      "why": "Consistency matters more than volume for solo creators; 3-7 Shorts per week recommended. Only 40-60 characters display in feed, so front-loading keywords improves discoverability without relying on #Shorts (auto-detected). Niche hashtags signal targeting to seed audience testing (24-48 hours), improving algorithmic ranking in dedicated Shorts search filter (January 2026 update)."
+    },
+    {
+      "priority": 4,
+      "item": "Publish new Shorts every 5-7 days (not more frequently) to avoid algorithmic flattening; monitor impressions after day 28-30 and pause promotion of videos older than 30 days. Plan content calendar around this recency window (4 Shorts in 30-day cycle maximum).",
+      "why": "Recency bias causes significantly reduced algorithmic push for Shorts older than ~30 days; mid-September 2025 flattening pattern shows sharp impression drop after 28-30 day mark. Seed audience testing (24-48 hours) determines viral potential, but long-term distribution requires constant fresh content. Spacing prevents cannibalizing seed audience across too many active videos."
+    },
+    {
+      "priority": 5,
+      "item": "Use AI-generated backgrounds and voiceovers but disclose AI usage in description if generating >50% of video content; avoid repetitive AI templates that appear in multiple videos (creates 'inauthentic' signal). Vary AI background styles weekly and add unique text overlays, transitions, or voiceover inflection variations.",
+      "why": "Faceless channels receive equal algorithmic treatment to face-on channels; new videos get seed audience regardless of subscriber count. However, July 2025 policy targets repetitive AI templates as inauthentic, signaling reduced distribution. YouTube now weighs direct viewer feedback (skip, 'not interested') more heavily; inauthentic signals trigger skips. Disclosure requirement prevents policy violation impact on monetization eligibility."
+    }
+  ],
+  "carry_forward_note": null
+}

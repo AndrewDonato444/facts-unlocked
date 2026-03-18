@@ -1,0 +1,40 @@
+{
+  "patterns": [
+    {
+      "tactic": "Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+      "first_seen": "2026-12",
+      "last_seen": "2026-12",
+      "weeks_observed": 1,
+      "source_count": 1
+    },
+    {
+      "tactic": "Target 13-20 second video length with seamless looping structure—end frame visually matches or transitions back to opening frame to trigger automatic loop as additional view and engagement signal. Voiceover should fit within 15-18 seconds to allow 2-5 second visual loop gap.",
+      "first_seen": "2026-12",
+      "last_seen": "2026-12",
+      "weeks_observed": 1,
+      "source_count": 1
+    },
+    {
+      "tactic": "Post 4-5 Shorts per week on a fixed schedule (e.g., Mon/Wed/Fri/Sat at 9 AM), front-loading keywords in first 40 characters of title only (e.g., 'Psychology fact: Why brains ignore...'), and use 3-5 niche hashtags (e.g., #PsychologyFacts #MindTricks #BehaviorScience) instead of generic #Shorts.",
+      "first_seen": "2026-12",
+      "last_seen": "2026-12",
+      "weeks_observed": 1,
+      "source_count": 1
+    },
+    {
+      "tactic": "Publish new Shorts every 5-7 days (not more frequently) to avoid algorithmic flattening; monitor impressions after day 28-30 and pause promotion of videos older than 30 days. Plan content calendar around this recency window (4 Shorts in 30-day cycle maximum).",
+      "first_seen": "2026-12",
+      "last_seen": "2026-12",
+      "weeks_observed": 1,
+      "source_count": 1
+    },
+    {
+      "tactic": "Use AI-generated backgrounds and voiceovers but disclose AI usage in description if generating >50% of video content; avoid repetitive AI templates that appear in multiple videos (creates 'inauthentic' signal). Vary AI background styles weekly and add unique text overlays, transitions, or voiceover inflection variations.",
+      "first_seen": "2026-12",
+      "last_seen": "2026-12",
+      "weeks_observed": 1,
+      "source_count": 1
+    }
+  ],
+  "last_updated": "2026-03-18"
+}

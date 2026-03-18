@@ -317,28 +317,271 @@ async function main() {
     return;
   }
 
-  // Gather signals via Claude web search
-  // In production, this would invoke Claude API with web search tool.
-  // For this implementation, we use the search queries to inform a structured prompt.
+  // Gather signals via Claude API with web search
   const queries = buildSearchQueries(date);
   console.log(`\nSearch queries (${queries.length}):`);
   queries.forEach((q, i) => console.log(`  ${i + 1}. ${q}`));
 
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) {
+    console.error("ANTHROPIC_API_KEY not set — cannot run web search.");
+    console.error("Set it in DonatoSkills/.env.local or export it.");
+    process.exit(1);
+  }
+
   const sources_fetched = [];
   const sources_skipped = [];
-  const rawSignals = [];
+  let rawSignals = [];
+  let tactics = [];
 
-  // Note: actual web search happens when this script is invoked via Claude agent.
-  // The agent is expected to run this script, then manually call WebSearch with
-  // these queries and pipe results back. For automated use, integrate Claude API here.
-  console.log(`\nNote: Run with --auto flag or via Claude agent for live web search.`);
-  console.log(`Generating empty brief for offline/test runs.`);
+  // Two-phase approach:
+  // Phase 1: Single web search call to gather raw research text
+  // Phase 2: Extract structured signals + tactics from the gathered text
+  console.log("\nPhase 1: Gathering external research via web search...");
+
+  const queriesList = queries.map((q, i) => `${i + 1}. ${q}`).join("\n");
+
+  try {
+    const searchResponse = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "x-api-key": apiKey,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({
+        model: "claude-haiku-4-5-20251001",
+        max_tokens: 4096,
+        tools: [{
+          type: "web_search_20250305",
+          name: "web_search",
+          max_uses: 10,
+        }],
+        messages: [{
+          role: "user",
+          content: `You are a YouTube Shorts algorithm researcher. Search the web for the latest insights on YouTube Shorts algorithm changes, retention tactics, and hook strategies.
+
+Run these searches:
+${queriesList}
+
+For each search, summarize what you find. Focus on:
+- Algorithm changes or updates to YouTube Shorts
+- Retention tactics (hook timing, video length, pacing)
+- Hook strategies that are working right now
+- Any creator tips specific to faceless/fact channels
+
+Write a detailed research summary with all findings. Include the source (who said it, what blog/video/post) and approximate date for each finding. Be thorough — capture every useful tactic or signal you find.
+
+If a search returns nothing useful, note that source as having no relevant results.`,
+        }],
+      }),
+    });
+
+    if (!searchResponse.ok) {
+      const errText = await searchResponse.text();
+      console.log(`  API error: ${searchResponse.status} — ${errText.slice(0, 200)}`);
+      sources_skipped.push("all");
+    } else {
+      const result = await searchResponse.json();
+
+      // Collect all text from the response (web search results + synthesis)
+      const allText = (result.content || [])
+        .filter((p) => p.type === "text")
+        .map((p) => p.text)
+        .join("\n\n");
+
+      // Count which web searches actually ran
+      const webSearchBlocks = (result.content || []).filter(
+        (p) => p.type === "web_search_tool_result"
+      );
+      console.log(`  Web searches executed: ${webSearchBlocks.length}`);
+      console.log(`  Research text length: ${allText.length} chars`);
+
+      if (allText.length > 100) {
+        // Phase 2: Extract structured signals + tactics from the raw research
+        console.log("\nPhase 2: Extracting structured signals and tactics...");
+
+        const extractResponse = await fetch("https://api.anthropic.com/v1/messages", {
+          method: "POST",
+          headers: {
+            "x-api-key": apiKey,
+            "anthropic-version": "2023-06-01",
+            "content-type": "application/json",
+          },
+          body: JSON.stringify({
+            model: "claude-haiku-4-5-20251001",
+            max_tokens: 4096,
+            messages: [{
+              role: "user",
+              content: `You are analyzing YouTube Shorts research for a faceless fact channel network. Extract structured data from this research summary.
+
+Today's date: ${date}
+
+RESEARCH TEXT:
+${allText}
+
+Extract TWO JSON objects and return them in this exact format:
+
+SIGNALS_JSON:
+[array of signal objects]
+
+TACTICS_JSON:
+[array of tactic objects]
+
+Signal object format:
+{"signal": "description", "source": "who/where", "confidence": "high|medium|low", "faceless_applicable": true/false, "published_date": "YYYY-MM-DD", "raw_quote": "quote or null"}
+
+Tactic object format (ranked by impact for faceless fact channels):
+{"rank": 1, "tactic": "Specific actionable instruction", "why": "Evidence from research", "source": "who said it", "test_ideas": ["test 1", "test 2"]}
+
+Rules:
+- Include ALL signals found, even low confidence ones
+- Tactics must be specific enough to implement (e.g. "Use a question in the first 0.5 seconds" not "Make better hooks")
+- Tactics must work for faceless channels (voiceover + text overlay + background images)
+- published_date should be approximate if not exact
+- Rank tactics by expected impact on retention/engagement
+- Include 3-5 tactics minimum if any signals were found
+
+If the research found nothing relevant, return empty arrays for both.`,
+            }],
+          }),
+        });
+
+        if (extractResponse.ok) {
+          const extractResult = await extractResponse.json();
+          const extractText = (extractResult.content || [])
+            .filter((p) => p.type === "text")
+            .map((p) => p.text)
+            .join("\n");
+
+          // Parse signals
+          const signalsMatch = extractText.match(/SIGNALS_JSON:\s*(\[[\s\S]*?\])\s*(?:TACTICS_JSON|$)/);
+          if (signalsMatch) {
+            try {
+              rawSignals = JSON.parse(signalsMatch[1]);
+              console.log(`  Signals extracted: ${rawSignals.length}`);
+            } catch {
+              console.log("  Could not parse signals JSON");
+            }
+          }
+
+          // Parse tactics
+          const tacticsMatch = extractText.match(/TACTICS_JSON:\s*(\[[\s\S]*?\])$/m) ||
+            extractText.match(/TACTICS_JSON:\s*(\[[\s\S]*\])/);
+          if (tacticsMatch) {
+            try {
+              tactics = JSON.parse(tacticsMatch[1]);
+              console.log(`  Tactics extracted: ${tactics.length}`);
+            } catch {
+              console.log("  Could not parse tactics JSON");
+            }
+          }
+
+          // If structured parsing missed signals or tactics, try lenient parse
+          if (rawSignals.length === 0 || tactics.length === 0) {
+            const anyArrays = extractText.match(/\[[\s\S]*?\]/g) || [];
+            for (const arr of anyArrays) {
+              try {
+                const parsed = JSON.parse(arr);
+                if (Array.isArray(parsed) && parsed.length > 0) {
+                  if (parsed[0].signal && rawSignals.length === 0) {
+                    rawSignals = parsed;
+                    console.log(`  Signals (fallback parse): ${rawSignals.length}`);
+                  } else if (parsed[0].tactic && tactics.length === 0) {
+                    tactics = parsed;
+                    console.log(`  Tactics (fallback parse): ${tactics.length}`);
+                  }
+                }
+              } catch {
+                // skip unparseable arrays
+              }
+            }
+          }
+        }
+
+        // Mark sources based on web search execution
+        const sourceNames = ["robert-benjamin", "vidiq", "creator-insider", "reddit", "general-web"];
+        if (webSearchBlocks.length >= 3) {
+          sources_fetched.push(...sourceNames);
+        } else if (webSearchBlocks.length > 0) {
+          sources_fetched.push(...sourceNames.slice(0, webSearchBlocks.length));
+          sources_skipped.push(...sourceNames.slice(webSearchBlocks.length));
+        } else {
+          sources_skipped.push(...sourceNames);
+        }
+      } else {
+        console.log("  Insufficient research text returned");
+        sources_skipped.push("all");
+      }
+    }
+  } catch (err) {
+    console.log(`  Research fetch error: ${err.message}`);
+    sources_skipped.push("all");
+  }
+
+  // Filter signals to last 7 days
+  const filteredSignals = filterToLastNDays(rawSignals, 7, date);
+  // Use filtered if any had dates, otherwise keep all (dates may be missing)
+  if (filteredSignals.length > 0 || rawSignals.length === 0) {
+    rawSignals = filteredSignals.length > 0 ? filteredSignals : rawSignals;
+  }
+
+  console.log(`\nRaw signals: ${rawSignals.length} from ${sources_fetched.length} sources`);
+
+  // Phase 3: If we have signals but no tactics, extract tactics in a focused call
+  if (rawSignals.length > 0 && tactics.length === 0) {
+    console.log("\nPhase 3: Generating tactics from signals...");
+    try {
+      const tacticsResponse = await fetch("https://api.anthropic.com/v1/messages", {
+        method: "POST",
+        headers: {
+          "x-api-key": apiKey,
+          "anthropic-version": "2023-06-01",
+          "content-type": "application/json",
+        },
+        body: JSON.stringify({
+          model: "claude-haiku-4-5-20251001",
+          max_tokens: 2048,
+          messages: [{
+            role: "user",
+            content: `Given these YouTube Shorts algorithm signals:
+
+${rawSignals.map((s, i) => `${i + 1}. [${s.confidence}] ${s.signal} (source: ${s.source})`).join("\n")}
+
+Create 3-5 ranked tactics for faceless fact channels (voiceover + text overlay + AI backgrounds). Each tactic must be specific and testable.
+
+Return ONLY a JSON array, no other text:
+[{"rank":1,"tactic":"specific instruction","why":"evidence","source":"source name","test_ideas":["test 1","test 2"]}]`,
+          }],
+        }),
+      });
+
+      if (tacticsResponse.ok) {
+        const tacticsResult = await tacticsResponse.json();
+        const tacticsText = (tacticsResult.content || [])
+          .filter((p) => p.type === "text")
+          .map((p) => p.text)
+          .join("\n");
+
+        const match = tacticsText.match(/\[[\s\S]*\]/);
+        if (match) {
+          try {
+            tactics = JSON.parse(match[0]);
+            console.log(`  Tactics generated: ${tactics.length}`);
+          } catch {
+            console.log("  Could not parse tactics response");
+          }
+        }
+      }
+    } catch (err) {
+      console.log(`  Tactics generation error: ${err.message}`);
+    }
+  }
 
   // Save raw signals
   fs.writeFileSync(rawSignalsPath, JSON.stringify({ date, week, queries, signals: rawSignals }, null, 2));
 
   // Build brief
-  const tactics = [];
   const brief = buildBrief(rawSignals, tactics, channels, {
     week,
     date,
