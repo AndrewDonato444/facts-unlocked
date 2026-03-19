@@ -1,17 +1,22 @@
 {
   "elevenlabs": {
-    "total_units": 4032,
-    "total_cost_usd": 0.88704,
+    "total_units": 5433,
+    "total_cost_usd": 1.19526,
     "unit_type": "char"
   },
   "gemini": {
-    "total_units": 733,
-    "total_cost_usd": 0.4723,
+    "total_units": 2107,
+    "total_cost_usd": 0.6097,
     "unit_type": "image"
   },
   "openai": {
     "total_units": 5,
     "total_cost_usd": 0.3,
     "unit_type": "image"
+  },
+  "grok": {
+    "total_units": 1486,
+    "total_cost_usd": 0.1486,
+    "unit_type": "char"
   }
 }
