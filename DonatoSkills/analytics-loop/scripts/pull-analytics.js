@@ -110,21 +110,11 @@ async function main() {
     process.exit(1);
   }
 
-  // Collect from all profiles (multi-channel support)
-  // Support both "accounts" (projects.json convention) and "channels" (legacy)
+  // Use the workspace-level profile_id — the Zernio API requires this, not
+  // per-channel account IDs (which return 403). The workspace profile aggregates
+  // all connected accounts (TikTok, YouTube, Instagram) in a single response.
   const profiles = [];
-  const accountEntries = project.zernio.accounts || project.zernio.channels;
-  if (accountEntries && typeof accountEntries === "object") {
-    // accounts is an object keyed by platform (e.g., { tiktok: { id, name, ... } })
-    const entries = Array.isArray(accountEntries) ? accountEntries : Object.values(accountEntries);
-    for (const account of entries) {
-      profiles.push({
-        profileId: account.profile_id || account.id,
-        name: account.name,
-      });
-    }
-  } else if (project.zernio.profile_id) {
-    // Single profile
+  if (project.zernio.profile_id) {
     profiles.push({
       profileId: project.zernio.profile_id,
       name: project.name,
