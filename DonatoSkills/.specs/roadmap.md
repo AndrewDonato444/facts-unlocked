@@ -23,12 +23,12 @@
 
 | Status | Count |
 |--------|-------|
-| ✅ Completed | 3 |
+| ✅ Completed | 10 |
 | 🔄 In Progress | 0 |
-| ⬜ Pending | 0 |
+| ⬜ Pending | 2 |
 | ⏸️ Blocked | 0 |
 
-**Last updated**: 2026-03-17
+**Last updated**: 2026-03-19
 
 ---
 
@@ -61,6 +61,24 @@
 | 20 | Analytics: Variable inference from post content | code-review S8 | - | M | - | ✅ |
 | 21 | Analytics: Per-channel overrides (requires 3+ cycles) | code-review S9 | - | M | 20 | ✅ |
 | 22 | Analytics: Pairwise combination tracking | code-review S10 | - | S | - | ✅ |
+
+---
+
+## Phase 4: Long-Form YouTube Content
+
+> Long-form video generation (15-25 min) for YouTube, starting with Baby Facts Unlocked.
+
+| # | Feature | Source | Jira | Complexity | Deps | Status |
+|---|---------|--------|------|------------|------|--------|
+| 30 | Longform: Skill scaffold + script generation | spec | - | M | - | ✅ |
+| 31 | Longform: Image orchestration + cache integration | spec | - | M | 30 | ✅ |
+| 32 | Longform: TTS pipeline (ElevenLabs/Grok multi-scene) | spec | - | M | 30 | ✅ |
+| 33 | Longform: Remotion composition (Ken Burns + chapters) | spec | - | L | 31, 32 | ✅ |
+| 34 | Longform: Content engine + analytics integration (Zernio YouTube daily views) | spec | - | M | 33 | ✅ |
+| 35 | Longform: Testing vectors + publish time optimization | spec | - | S | 34 | ✅ |
+| 36 | Longform: Dry-run + cost optimization | spec | - | S | 35 | ✅ |
+| 37 | Longform: YouTube Data API retention curves (Phase 5b) | spec | - | M | 34 | ⬜ |
+| 38 | Longform: Local TTS via Kokoro-82M (Apple Silicon, stubbed) | spec | - | M | 32 | ⬜ |
 
 ---
 
