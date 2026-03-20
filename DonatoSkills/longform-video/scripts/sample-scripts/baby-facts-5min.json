@@ -1,0 +1,73 @@
+{
+  "title": "5 Mind-Blowing Facts About How Babies Experience the World",
+  "description": "From hearing voices in the womb to tasting flavors before birth, discover five incredible facts about how babies experience the world in their first year of life.",
+  "tags": ["baby facts", "newborn", "child development", "parenting", "baby science"],
+  "theme": "sensory development",
+  "target_length_min": 5,
+  "scenes": [
+    {
+      "scene_id": "hook_01",
+      "chapter": "intro",
+      "narration": "Before a baby even takes their first breath, they've already been listening, tasting, and learning for months. In this video, we're going to explore five mind-blowing facts about how babies experience the world, and some of these might completely change how you think about newborns.",
+      "image_hint": "newborn baby with wide curious eyes looking up at soft colorful lights, warm and dreamy atmosphere",
+      "image_tags": ["baby", "newborn", "curious", "wonder", "sensory"]
+    },
+    {
+      "scene_id": "ch1_fact1",
+      "chapter": "chapter_1",
+      "narration": "Here's our first incredible fact. Babies can hear and recognize their mother's voice from inside the womb. Research from the University of Helsinki found that newborns show measurably different brain responses when they hear their mother's voice compared to a stranger's. They tested this within just hours of birth. The reason is that sound travels through amniotic fluid, and during the last trimester, babies spend weeks listening to the muffled but distinct patterns of their mother's speech. By the time they're born, that voice is already familiar, already comforting.",
+      "image_hint": "soft illustration of pregnant mother with visible baby inside, gentle sound waves connecting them, warm pastel colors",
+      "image_tags": ["pregnancy", "womb", "hearing", "mother", "voice", "connection"]
+    },
+    {
+      "scene_id": "ch1_fact2",
+      "chapter": "chapter_1",
+      "narration": "And it goes even further than voices. Studies show that babies who were regularly exposed to specific music before birth actually prefer that music after they're born. Researchers played the same melody to babies in the third trimester, and after birth, those babies would calm down and even turn toward speakers playing that familiar tune. Their tiny brains had already formed a memory, a preference, before they even entered the world.",
+      "image_hint": "peaceful baby in crib with soft musical notes floating in the air, gentle lullaby atmosphere, pastel illustration",
+      "image_tags": ["baby", "music", "memory", "crib", "lullaby", "calm"]
+    },
+    {
+      "scene_id": "ch2_fact1",
+      "chapter": "chapter_2",
+      "narration": "Now let's talk about something that surprises almost every new parent. Newborn babies can only see about eight to twelve inches in front of them. Everything beyond that is a complete blur. But here's the beautiful part. That eight to twelve inches is exactly the distance from a parent's arms to their face during feeding. Nature designed babies' vision so their entire visual world is focused on the most important thing, their caregiver's face. Every feeding becomes a bonding session where baby and parent are locked in a gaze that strengthens their connection.",
+      "image_hint": "close-up soft illustration of mother holding baby at feeding distance, baby gazing at mother's face, everything beyond them is softly blurred",
+      "image_tags": ["baby", "vision", "mother", "feeding", "bonding", "close-up", "gaze"]
+    },
+    {
+      "scene_id": "ch2_fact2",
+      "chapter": "chapter_2",
+      "narration": "Here's another vision fact that might blow your mind. Newborns see the world in high contrast only. They're drawn to bold black and white patterns, sharp edges, and strong outlines. Soft pastels and subtle colors? Completely invisible to them. This is why so many developmental toys feature bold stripes, checkerboards, and simple geometric shapes. A baby's brain is wired to seek out the highest contrast patterns it can find, because those edges and boundaries are how the visual cortex learns to make sense of the world.",
+      "image_hint": "baby staring fascinated at a black and white geometric mobile toy, bold contrasting patterns, baby development illustration",
+      "image_tags": ["baby", "contrast", "black-white", "patterns", "vision", "development", "toys"]
+    },
+    {
+      "scene_id": "ch3_fact1",
+      "chapter": "chapter_3",
+      "narration": "Our final fact is one of the most incredible. Babies can taste flavors in the womb. Whatever the mother eats during pregnancy flavors the amniotic fluid, and the baby swallows small amounts of it every day. Researchers found that babies whose mothers ate a lot of carrots during pregnancy showed a clear preference for carrot-flavored cereal after they started solid foods, compared to babies who weren't exposed. This means that a baby's food preferences begin forming months before their first bite. The flavors of their culture, their family's cooking, are already becoming familiar before birth.",
+      "image_hint": "whimsical illustration of baby surrounded by floating fruits and vegetables in dreamy watercolor style, taste and discovery theme",
+      "image_tags": ["baby", "taste", "food", "womb", "flavors", "discovery", "fruits", "vegetables"]
+    },
+    {
+      "scene_id": "outro_01",
+      "chapter": "outro",
+      "narration": "Those are five incredible facts about how babies experience the world from the very beginning. From hearing their mother's voice in the womb to tasting flavors before their first meal, babies are absorbing everything around them long before we realize it. If this video surprised you, hit that subscribe button for more fascinating baby facts every week. And drop a comment telling us which fact blew your mind the most.",
+      "image_hint": "happy smiling baby surrounded by soft colorful sensory elements, warm and inviting, subscribe call to action feel",
+      "image_tags": ["baby", "happy", "smile", "discovery", "subscribe", "colorful"]
+    }
+  ],
+  "chapters": [
+    { "chapter_id": "intro", "title": "Introduction" },
+    { "chapter_id": "chapter_1", "title": "What Babies Hear Before Birth" },
+    { "chapter_id": "chapter_2", "title": "How Newborns See the World" },
+    { "chapter_id": "chapter_3", "title": "Tasting the World Before Birth" },
+    { "chapter_id": "outro", "title": "Wrap Up" }
+  ],
+  "variables": {
+    "chapter_count": 3,
+    "intro_style": "fact_hook",
+    "narration_pace": "moderate",
+    "visual_density": "medium",
+    "voice": "matilda",
+    "video_length_min": 5
+  }
+}
