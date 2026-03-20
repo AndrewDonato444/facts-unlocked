@@ -1,0 +1,24 @@
+{
+  "project": "ai-facts-unlocked",
+  "scoredAt": "2026-03-19T00:08:57.132Z",
+  "dateRange": {
+    "from": "2026-03-16",
+    "to": "2026-03-17"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 0,
+    "includedPosts": 0,
+    "excludedPosts": 0,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": []
+}

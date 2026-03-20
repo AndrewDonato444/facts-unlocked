@@ -1,0 +1,67 @@
+{
+  "project": "baby-facts-unlocked",
+  "collectedAt": "2026-03-19T00:08:51.148Z",
+  "dateRange": {
+    "from": "2026-03-16",
+    "to": "2026-03-17"
+  },
+  "profiles": [
+    "69b8912784a675ce87f20d3b"
+  ],
+  "totalPosts": 1,
+  "posts": [
+    {
+      "_id": "69b991276cb7b8cf4c7b9f20",
+      "latePostId": "69b97ec349be5bea2da57071",
+      "content": "Your newborns tears are fake. Literally. Newborns dont produce real tears until 2-4 weeks old becaus\n\nYour newborns tears are fake. Literally. Newborns dont produce real tears until 2-4 weeks old because their tear ducts arent fully developed. #BabyFacts #Shorts #NewbornTrivia",
+      "publishedAt": "2026-03-17T17:21:47.000Z",
+      "scheduledFor": "2026-03-17T17:21:47.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 15,
+        "engagementRate": 6.67,
+        "lastUpdated": "2026-03-19 00:06:11"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 15,
+            "engagementRate": 6.67,
+            "lastUpdated": "2026-03-19 00:06:11"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=bPSTJdVWm0w",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/bPSTJdVWm0w/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/bPSTJdVWm0w/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/bPSTJdVWm0w/default.jpg"
+        }
+      ]
+    }
+  ]
+}

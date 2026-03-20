@@ -29,6 +29,12 @@ Global topic registry. The content engine MUST check this before generating new 
 | 019 | sleep-architecture | Newborns skip deep sleep (REM-only first 6 months) | stat_lead / 30s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
 | 020 | fontanelle | The soft spot (fontanelle) is a rapid brain growth engineering feature | did_you_know / 30s / moderate / full_captions / abstract-animated | TikTok, YouTube, Instagram |
 | 021 | fingerprints-womb | Baby fingerprints fully form by week 24 of pregnancy | question / 30s / fast / key_words_only / ai-gen | TikTok, YouTube, Instagram |
+| 022 | hunger-cry | Babies have 3 distinct cry types (hunger, pain, tiredness) — parents decode within 2 weeks | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 023 | kangaroo-care | Skin-to-skin contact (kangaroo care) reduces preterm mortality by 40% | stat_lead / 30s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
+| 024 | newborn-night-vision | Newborns see best at 8-12 inches — exact nursing distance to mother's face | myth_bust / 30s / moderate / key_words_only / ai-gen | TikTok, YouTube, Instagram |
+| 025 | baby-languages | Babies babble in native-language phonemes by 6 months; deaf babies babble in sign hand shapes | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 026 | baby-pain-myth | Pre-1987 medical myth: newborns couldn't feel pain; surgeries performed without anesthesia | myth_bust / 35s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
+| 027 | walking-timeline | Late walkers (up to 15 months) are normal; Einstein reportedly walked at 15 months | question / 30s / slow / key_words_only / ai-gen | TikTok, YouTube, Instagram |
 
 ## Money Facts Unlocked
 
@@ -46,3 +52,22 @@ Global topic registry. The content engine MUST check this before generating new 
 | 010 | deadbeat-secret | Credit card companies call full-balance payers "deadbeats" — flip the script | controversy / 30s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
 | 011 | atm-fee-math | $3.50 ATM fee weekly = $182/yr = $20K over 40 years at 7% returns | stat_lead / 30s / moderate / full_captions / abstract-animated | TikTok, YouTube, Instagram |
 | 012 | subscription-creep | Average American has 17 subscriptions — avg $1,500/yr unused | most_people_dont_know / 45s / slow / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 013 | rent-vs-buy-myth | Renting beats buying in 45 of 50 largest US cities — the 'renting is throwing money away' rule is broken | myth_bust / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 014 | social-security-2033 | Social Security trust fund runs dry by 2033 — benefits auto-cut to 77 cents on the dollar | controversy / 30s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
+| 015 | unbanked-cash-cost | 4.5M unbanked US households pay $40K more in lifetime fees — poverty premium | stat_lead / 30s / moderate / key_words_only / ai-gen | TikTok, YouTube, Instagram |
+| 016 | vanderbilt-broke | Cornelius Vanderbilt's heirs burned through $100M+ in 2 generations; no millionaires by 1973 | stat_lead / 35s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 017 | credit-card-float | Cash payers subsidize credit card rewards via merchant interchange fees (1.5-3.5%) | most_people_dont_know / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 018 | 401k-match-mistake | 1 in 4 Americans leave avg $1,336/yr in employer 401k match unclaimed | stat_lead / 30s / fast / full_captions / ai-gen | YouTube, Instagram |
+
+## AI Facts Unlocked
+
+| # | Slug | Topic | Permutation (hook / length / pace / overlay / bg) | Platforms |
+|---|------|-------|---------------------------------------------------|-----------|
+| 001 | ai-cancer-detection | AI detects cancer up to 5 years before symptoms via routine blood tests | what_if / 35s / moderate / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 002 | chatgpt-speed-record | ChatGPT reached 100M users in 2 months — fastest app adoption in history | stat_lead / 35s / fast / full_captions / ai-gen | YouTube, Instagram |
+| 003 | ai-jobs-created | AI creates more jobs (97M) than it destroys (85M) — WEF projection | myth_bust / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 004 | deepfake-detection | AI detects deepfakes with 99.5% accuracy via micro-pixel pattern analysis | did_you_know / 30s / moderate / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 005 | gpt4-human-tests | GPT-4 scores top 10% on bar exam, medical license, SAT — beats most humans | stat_lead / 30s / fast / key_words_only / ai-gen | YouTube, Instagram |
+| 006 | ai-protein-folding | AlphaFold solved 50-year protein folding problem; released 200M protein structures free | what_if / 35s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 007 | ai-power-consumption | ChatGPT uses 10x energy vs Google search; AI data centers heading to 8% of US electricity | stat_lead / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 008 | ai-hallucination-rate | Best AI models hallucinate 3-27% of the time with identical confidence level | did_you_know / 30s / moderate / key_words_only / ai-gen | YouTube, Instagram |

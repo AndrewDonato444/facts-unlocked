@@ -1,0 +1,15 @@
+{
+  "date": "2026-03-19",
+  "sample_size": 0,
+  "sample_breakdown": {
+    "tagged": 0,
+    "inferred": 0,
+    "skipped": 0
+  },
+  "excluded_posts": 3,
+  "global_avg_engagement_density": 0,
+  "winning_template": null,
+  "variable_impact": [],
+  "per_channel_overrides": [],
+  "warning": "No posts with variable tags found. Tag content via content-engine."
+}
