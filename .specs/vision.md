@@ -7,10 +7,14 @@
 
 ## Overview
 
-Facts Unlocked is a portfolio of themed social media channels — each dedicated to a
-specific topic (babies, food, fitness, money, etc.) — unified under the "Facts Unlocked"
-brand umbrella. Content is planned, generated, published, measured, and optimized
-entirely by the DonatoSkills autonomous skill chain, with minimal human intervention.
+Facts Unlocked is a portfolio of social media channels unified under the "Facts Unlocked"
+brand umbrella. Most channels are **themed** (babies, food, fitness, money, etc.).
+Some channels like **Viral Facts Unlocked** source their topics from trending news/social
+signals instead of a fixed theme — but once a topic is selected, it flows through the
+same standard short-form content generation and analytics pipeline as every other channel.
+
+Content is planned, generated, published, measured, and optimized entirely by the
+DonatoSkills autonomous skill chain, with minimal human intervention.
 
 **Target users**: Social media audiences interested in bite-sized, surprising facts
 across lifestyle, health, finance, and culture topics.
@@ -29,6 +33,7 @@ performing content into the next cycle.
 | Food Facts Unlocked | YouTube, Instagram, TikTok | Nutrition, cooking science, food history |
 | Fitness Facts Unlocked | YouTube, Instagram, TikTok | Exercise science, body mechanics, health |
 | Money Facts Unlocked | YouTube, Instagram, TikTok | Personal finance, economics, wealth building |
+| Viral Facts Unlocked | YouTube, TikTok | Trending topics, viral news, moment-of-now facts |
 | *(expandable)* | YouTube, Instagram, TikTok | Any topic fitting the "Facts Unlocked" format |
 
 ---
@@ -37,6 +42,7 @@ performing content into the next cycle.
 
 | Area | Purpose | Priority |
 |------|---------|----------|
+| Trending Scanner | Find viral topics above threshold → feed into standard content pipeline | Core |
 | Content Engine | Plan calendars, batch-generate content across all channels | Core |
 | Video Generation (Remotion) | Create short-form fact videos with TTS, images, kinetic text | Core |
 | Image Generation | AI-generated visuals for thumbnails, carousels, quote cards | Core |
@@ -67,6 +73,13 @@ performing content into the next cycle.
 ## Architecture: The Autonomous Loop
 
 ```
+┌──────────────────────┐     ┌─────────────────────────┐
+│  THEMED CHANNELS     │     │  TRENDING SCANNER       │
+│  (fixed topic)       │     │  (viral topic ≥ threshold)│
+└──────────┬───────────┘     └──────────┬──────────────┘
+           │                            │
+           └────────────┬───────────────┘
+                        ▼ topics
 ┌─────────────────────────────────────────────────────────────┐
 │                    CONTENT ENGINE                            │
 │  Calendar planning → Skill dispatch → Upload → Schedule     │
@@ -103,7 +116,6 @@ Templates that show ≥15% lift across ≥3 channels over ≥2 cycles get promot
 
 ## Out of Scope (for now)
 
-- Long-form YouTube content (>60 seconds)
 - Live streaming
 - Community management / comment replies
 - Paid advertising / promotion
