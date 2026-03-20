@@ -53,6 +53,8 @@ When invoked by the `content-engine` skill (or any orchestrator), the prompt wil
 
 If any required parameter is missing, fall back to the interactive question flow for that parameter only.
 
+**CRITICAL — No duplicate posts.** In orchestrated mode, make exactly ONE API call per invocation. The `content` field sent to Zernio must be the full caption provided by the orchestrator. Do NOT also schedule a separate post with just the topic/concept/title — that is an internal planning field, not post content. If you receive both a short concept and a full caption, use ONLY the caption for the Zernio `content` field.
+
 ---
 
 ## Project Registry (Multi-Project Support)
