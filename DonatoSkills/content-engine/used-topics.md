@@ -35,6 +35,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 025 | baby-languages | Babies babble in native-language phonemes by 6 months; deaf babies babble in sign hand shapes | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 | 026 | baby-pain-myth | Pre-1987 medical myth: newborns couldn't feel pain; surgeries performed without anesthesia | myth_bust / 35s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
 | 027 | walking-timeline | Late walkers (up to 15 months) are normal; Einstein reportedly walked at 15 months | question / 30s / slow / key_words_only / ai-gen | TikTok, YouTube, Instagram |
+| 028 | premature-survival | 22-week preemies can now survive; viability threshold moved from 28 weeks to 22 weeks in one generation | stat_lead / 35s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 029 | mirror-neurons | Newborns mimic facial expressions within 42 minutes of birth; mirror neurons active from hour one | did_you_know / 30s / moderate / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
+| 030 | yawn-contagion | Babies don't catch yawns until age 4; contagious yawning requires theory of mind (empathy milestone) | most_people_dont_know / 30s / slow / key_words_only / ai-gen | TikTok, YouTube, Instagram |
 
 ## Money Facts Unlocked
 
@@ -58,6 +61,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 016 | vanderbilt-broke | Cornelius Vanderbilt's heirs burned through $100M+ in 2 generations; no millionaires by 1973 | stat_lead / 35s / moderate / full_captions / ai-gen | YouTube, Instagram |
 | 017 | credit-card-float | Cash payers subsidize credit card rewards via merchant interchange fees (1.5-3.5%) | most_people_dont_know / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
 | 018 | 401k-match-mistake | 1 in 4 Americans leave avg $1,336/yr in employer 401k match unclaimed | stat_lead / 30s / fast / full_captions / ai-gen | YouTube, Instagram |
+| 019 | stock-market-timing | Missing 10 best trading days per decade cuts returns ~50%; biggest gains happen during crashes | stat_lead / 30s / fast / full_captions / ai-gen | YouTube, Instagram |
+| 020 | down-payment-myth | 20% down payment rule invented by private mortgage insurance industry in 1950s to protect lenders | myth_bust / 35s / moderate / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 021 | inheritance-evaporation | 70% of inherited wealth gone by gen 2; 90% by gen 3; universal "shirtsleeves to shirtsleeves" pattern | stat_lead / 35s / moderate / full_captions / ai-gen | YouTube, Instagram |
 
 ## AI Facts Unlocked
 
@@ -71,3 +77,6 @@ Global topic registry. The content engine MUST check this before generating new 
 | 006 | ai-protein-folding | AlphaFold solved 50-year protein folding problem; released 200M protein structures free | what_if / 35s / moderate / full_captions / ai-gen | YouTube, Instagram |
 | 007 | ai-power-consumption | ChatGPT uses 10x energy vs Google search; AI data centers heading to 8% of US electricity | stat_lead / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
 | 008 | ai-hallucination-rate | Best AI models hallucinate 3-27% of the time with identical confidence level | did_you_know / 30s / moderate / key_words_only / ai-gen | YouTube, Instagram |
+| 009 | ai-art-copyright | AI-generated images cannot be copyrighted in the US; courts require human authorship; instant public domain | controversy / 30s / fast / full_captions / ai-gen | YouTube, Instagram |
+| 010 | ai-training-scale | GPT-4 trained on ~1 trillion tokens; all of English Wikipedia is <1% of training corpus | stat_lead / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 011 | ai-music-recognition | Shazam AI identifies any song from 2 seconds of audio with 98% accuracy; 100M songs fingerprinted | what_if / 30s / moderate / key_words_only / ai-gen | YouTube, Instagram |

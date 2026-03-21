@@ -1,0 +1,809 @@
+{
+  "project": "money-facts-unlocked",
+  "scoredAt": "2026-03-21T00:04:48.732Z",
+  "dateRange": {
+    "from": "2026-03-18",
+    "to": "2026-03-19"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 14,
+    "includedPosts": 0,
+    "excludedPosts": 14,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69bac9ae6cb7b8cf4c7f3e9b",
+      "latePostId": "69baa39a77fe1e6bf2d73995",
+      "content": "Credit card companies call people who pay off their balance every month 'deadbeats.' Here's why that\n\nCredit card companies call people who pay off their balance every month 'deadbeats.' Here's why that's the compliment you want. #moneyfacts #creditcard #personalfinance #financetips #money",
+      "publishedAt": "2026-03-18T14:00:00.000Z",
+      "scheduledFor": "2026-03-18T14:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 22,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 973,
+        "engagementRate": 2.47,
+        "lastUpdated": "2026-03-20 23:42:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 22,
+            "comments": 2,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 973,
+            "engagementRate": 2.47,
+            "lastUpdated": "2026-03-20 23:42:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=sk6bGkt3Nm4",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sk6bGkt3Nm4/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/sk6bGkt3Nm4/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/sk6bGkt3Nm4/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bab6806cb7b8cf4c7ee4b2",
+      "latePostId": "69baa39a77fe1e6bf2d73995",
+      "content": "Credit card companies call people who pay off their balance every month 'deadbeats.' Here's why that's the compliment you want. #moneyfacts #creditcard #personalfinance #financetips #money",
+      "publishedAt": "2026-03-18T14:03:27.000Z",
+      "scheduledFor": "2026-03-18T14:03:27.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 143,
+        "engagementRate": 2.8,
+        "lastUpdated": "2026-03-21 00:04:11"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 4,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 143,
+            "engagementRate": 2.8,
+            "lastUpdated": "2026-03-21 00:04:11"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7618595833839111438?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/osJ4CfehDDGpF4Xwv6Esr7ILuBSIrCmgpuBZCE~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=de95279d&x-expires=1774137600&x-signature=5AqO%2Bf%2BgOFQjj1dKzXz%2Fh4yQ1pg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/osJ4CfehDDGpF4Xwv6Esr7ILuBSIrCmgpuBZCE~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=de95279d&x-expires=1774137600&x-signature=5AqO%2Bf%2BgOFQjj1dKzXz%2Fh4yQ1pg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/osJ4CfehDDGpF4Xwv6Esr7ILuBSIrCmgpuBZCE~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=de95279d&x-expires=1774137600&x-signature=5AqO%2Bf%2BgOFQjj1dKzXz%2Fh4yQ1pg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69baf2626cb7b8cf4c7fccdc",
+      "latePostId": "69b9a52c1c02802a8c42057a",
+      "content": "The average American has $65,000 saved 💰\n\nThe MEDIAN American has under $1,000.\n\nA handful of billionaires skew the average so far it becomes meaningless.\n\nWhen someone says 'average' — ask: average or median?\n\n#moneyfacts #personalfinance #factsunlocked #savingmoney #financetok #statistics #didyouknow",
+      "publishedAt": "2026-03-18T18:01:56.000Z",
+      "scheduledFor": "2026-03-18T18:01:56.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 112,
+        "reach": 99,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 112,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-20 23:28:15"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 112,
+            "reach": 99,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 112,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-20 23:28:15"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWCPwq-CQQ2/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/652512007_4831346037102521_6292480840094078058_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=f6WgbuyF3p0Q7kNvwH6Nqht&_nc_oc=Adphfviv_Yjee2Cx_-vKZXPfvHkKMyp-drC9gHqiSfD6tBpgsB78fpsHfdhG__KgDEE&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&_nc_tpa=Q5bMBQFw7jyILvjSvNquUUam5SnpHEWS-D1DT4vyWrJILS4bVo_eoVRaippdIIkCgSRnLHQF_pAP8chJPg&oh=00_Afyr2fNONJssWyZyyOVQeivTINxM0ncvqryledcjpLtrJw&oe=69C39700",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQM6hpv7D6yYsWzxowxOBTW0_UK1zkVMxzqWGF2nwI1ZgpRVNaf91CrGue25yX6EZztC4PlM4B4Oyy_eChtzB29UkmaVdeQEz_HJJqA.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=9a6DjuxDkaoQ7kNvwGjNUgl&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjMzOTExNjkzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=c3a1124615791437&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83OTRBQ0ZCODQ4NzdENjVGNDg0NTBENThCOTA0OTI5Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzRENEUxN0ZGMzJBMjYzNjRDRUU0M0RDQUQ3N0ZBOThGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb82LXh36OWQBUCKAJDMywXQEMRBiTdLxsYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQER5L4VFl-0m16fIDlrOHeaB1fn6G0GDO1ztGaI7Yda6yfk8Pkzx4MqfphV102MhjsaHUeXzfXFTw&oh=00_Afymu6XnSjFElfMLIf-K1kij3klz6b7bV0rmIf09s2MOww&oe=69BFCE7E",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/652512007_4831346037102521_6292480840094078058_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=f6WgbuyF3p0Q7kNvwH6Nqht&_nc_oc=Adphfviv_Yjee2Cx_-vKZXPfvHkKMyp-drC9gHqiSfD6tBpgsB78fpsHfdhG__KgDEE&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&_nc_tpa=Q5bMBQFw7jyILvjSvNquUUam5SnpHEWS-D1DT4vyWrJILS4bVo_eoVRaippdIIkCgSRnLHQF_pAP8chJPg&oh=00_Afyr2fNONJssWyZyyOVQeivTINxM0ncvqryledcjpLtrJw&oe=69C39700"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bac9ae6cb7b8cf4c7f3e9a",
+      "latePostId": "69b9a52acbb4851e15a18b3c",
+      "content": "Winning the lottery might ruin your life 🎰\n\n70% of lottery winners go broke within 7 years.\n\nSudden wealth without financial literacy doesn't create rich people — it creates broke people with trauma.\n\nMoney is a skill. Not a prize.\n\n#moneyfacts #lottery #personalfinance #factsunlocked #wealthmindset #financetok #didyouknow",
+      "publishedAt": "2026-03-18T14:04:00.000Z",
+      "scheduledFor": "2026-03-18T14:04:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 106,
+        "reach": 102,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 106,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-20 23:28:15"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 106,
+            "reach": 102,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 106,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-20 23:28:15"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWB0h8Nj2gY/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/652756115_2324321908057395_7616205331503863391_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2OHRjYzWjmYQ7kNvwFFK7Oq&_nc_oc=AdpXU0C09wnW_8SKbXDtUG_9Y3eaWNJpppf7JqgQcnO-2vXqeg9JOd3hvwYRB3DhoCA&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&_nc_tpa=Q5bMBQEgPmUnc8VNIRrxyl97WofNbR9GB6z2Uo-Fdrayh4uHVuzswdzPOuHAhoQem71P4pb7BZeAmFmrxg&oh=00_AfwrmeJE5n7IE7w2Undj7hGd6NovtYGTTEEHPl5ZIXp0Lw&oe=69C39BD2",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQP9-s0wuSTvWeJzXoEvT6omt6eu9KsHAd_e7HLmc9AHhgpL0RXSzNq9h-BjGdzByYP1TNhd14uQ0ZOBNXu9hzjJDeNnn8oNGyLkejY.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=QLB9B41tCScQ7kNvwE9p5mw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjMzMjE1MDAzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=20733f59db2af2a2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82RjQ0NUE4QUI0NzhCQTIxQUZEREM5Njg2MTA0RkFBMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Y2NDI3OUIwNzdDOEMxNkJGMThEQTVCQUUzODkyOUI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8i_HX2J-WQBUCKAJDMywXQD7mZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHA8umDdA1oNn9O6UkYGqNqLNWEaIM11dlLEZawVoFcP3ijzJh4e--Z8H-GEpQczENrfkHVYVEV3Q&oh=00_AfwJbnITPC45Nl0yHs_DttJtiK_2BOKXiCToChQcWyLjMg&oe=69BFCFB8",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/652756115_2324321908057395_7616205331503863391_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2OHRjYzWjmYQ7kNvwFFK7Oq&_nc_oc=AdpXU0C09wnW_8SKbXDtUG_9Y3eaWNJpppf7JqgQcnO-2vXqeg9JOd3hvwYRB3DhoCA&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&_nc_tpa=Q5bMBQEgPmUnc8VNIRrxyl97WofNbR9GB6z2Uo-Fdrayh4uHVuzswdzPOuHAhoQem71P4pb7BZeAmFmrxg&oh=00_AfwrmeJE5n7IE7w2Undj7hGd6NovtYGTTEEHPl5ZIXp0Lw&oe=69C39BD2"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bac9ae6cb7b8cf4c7f3e9c",
+      "latePostId": "69baa39a77fe1e6bf2d73995",
+      "content": "Credit card companies call people who pay off their balance every month 'deadbeats.' Here's why that's the compliment you want. #moneyfacts #creditcard #personalfinance #financetips #money",
+      "publishedAt": "2026-03-18T14:03:51.000Z",
+      "scheduledFor": "2026-03-18T14:03:51.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 103,
+        "reach": 100,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 103,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-20 23:28:15"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 103,
+            "reach": 100,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 103,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-20 23:28:15"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWB0gvqjveQ/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/654923365_1757603212314896_2388503743499692060_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=jhkTW7xOSBcQ7kNvwHzGRjo&_nc_oc=AdqclSCxjEdby15JC7QOveoXcvzzn4rWZR_CEErXbI6-8m8Wdz1lBzOFsnHESn7RJEU&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&_nc_tpa=Q5bMBQEEEMeKU4rmvvFnQUy8N96Xgm0neA4YlCYhbaYn9oQqesOLl-xV5TFMd963sDc7JMw1NLe0vBceHA&oh=00_AfzHPYpCIz_My_KJv79LnZMu1fXNeE-9yqXGvPwnRHV9-g&oe=69C3AA18",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQM3zWn97nSXAy2_r1Ev4vuRG4ihFZ6ZeRwz7rcQNJfUzGxHilZy6mgl8mlhAiWhVaB7qn10lL4nAw1ZiKJ3oO3JrZoMM36KAYZSQbQ.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=EesVxRAvO-UQ7kNvwEAfxc3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjMzMjE0MTMzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ecd2f1f6ac3ab4ec&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84RDQ0MzdFN0U3NUU3OTIwNDM2MTlFNDVFMTNDQzE5RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFCNEUwRTAxOUQ2MjU1Qjc2NDZEQzE1RDRBMEU5RTkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8_PSE2J-WQBUCKAJDMywXQEBAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGSe_TpemY9r51Y0vc4B4Fi7SJB-SawIy7ERO4mUX2AKYY7whVmam6QD1BIuf8qHuIY-LwJBumgsw&oh=00_AfxvW9f3iJE0s7RMMeTkYqiicvQKLS5vLC4fuVxMXsnoOg&oe=69BFB3A6",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/654923365_1757603212314896_2388503743499692060_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=jhkTW7xOSBcQ7kNvwHzGRjo&_nc_oc=AdqclSCxjEdby15JC7QOveoXcvzzn4rWZR_CEErXbI6-8m8Wdz1lBzOFsnHESn7RJEU&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&_nc_tpa=Q5bMBQEEEMeKU4rmvvFnQUy8N96Xgm0neA4YlCYhbaYn9oQqesOLl-xV5TFMd963sDc7JMw1NLe0vBceHA&oh=00_AfzHPYpCIz_My_KJv79LnZMu1fXNeE-9yqXGvPwnRHV9-g&oe=69C3AA18"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bc8f9b6cb7b8cf4c84c06b",
+      "latePostId": "69baa3ac4f6581bf75b69678",
+      "content": "Most people have no idea they're spending $1,500/year on subscriptions they don't use. #moneyfacts #subscriptions #personalfinance #savemoney #budgeting",
+      "publishedAt": "2026-03-19T23:04:04.000Z",
+      "scheduledFor": "2026-03-19T23:04:04.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 99,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-21 00:04:11"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 99,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-21 00:04:11"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7619106346264300813?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oAQGeeI1DNB4M5IdAxHJAeAQGeTELOGdCFkmQQ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=72509e22&x-expires=1774137600&x-signature=g%2FO0CPi%2FPyrTZ%2BzLEqDuADDE5rI%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oAQGeeI1DNB4M5IdAxHJAeAQGeTELOGdCFkmQQ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=72509e22&x-expires=1774137600&x-signature=g%2FO0CPi%2FPyrTZ%2BzLEqDuADDE5rI%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oAQGeeI1DNB4M5IdAxHJAeAQGeTELOGdCFkmQQ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=72509e22&x-expires=1774137600&x-signature=g%2FO0CPi%2FPyrTZ%2BzLEqDuADDE5rI%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bb21926cb7b8cf4c8069f7",
+      "latePostId": "69b9993cdcf3d506b4d53a9b",
+      "content": "Never borrowed money? Your credit score might be ZERO 😱 Being debt-free looks the same as never existing to banks #moneyfacts #creditscore #personalfinance #financetok #creditbuilding",
+      "publishedAt": "2026-03-18T22:03:28.000Z",
+      "scheduledFor": "2026-03-18T22:03:28.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 97,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-21 00:04:11"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 97,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-21 00:04:11"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7618719548690189581?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o497wcgufEIvuE2UBDBp1TBqIEDSFwsEfyWI74~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=59133404&x-expires=1774137600&x-signature=QwkXQjEruEFMWqrUf4mNURmSkXE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o497wcgufEIvuE2UBDBp1TBqIEDSFwsEfyWI74~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=59133404&x-expires=1774137600&x-signature=QwkXQjEruEFMWqrUf4mNURmSkXE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o497wcgufEIvuE2UBDBp1TBqIEDSFwsEfyWI74~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=59133404&x-expires=1774137600&x-signature=QwkXQjEruEFMWqrUf4mNURmSkXE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bc5f5a6cb7b8cf4c842716",
+      "latePostId": "69baa3a34f6581bf75b694fb",
+      "content": "Americans pay $7 billion in ATM fees every year. That's billion with a B. #moneyfacts #atmfees #personalfinance #savemoney #financetips",
+      "publishedAt": "2026-03-19T19:03:06.000Z",
+      "scheduledFor": "2026-03-19T19:03:06.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 96,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-21 00:04:11"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 96,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-21 00:04:11"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7619044241431465230?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o0AMyVIAIVTLdIJSqDGEfeejLDGmOFVIxCHme8~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=32038eb7&x-expires=1774137600&x-signature=Xic%2BC8VOKZsuoriKYf%2BbJum7JEs%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o0AMyVIAIVTLdIJSqDGEfeejLDGmOFVIxCHme8~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=32038eb7&x-expires=1774137600&x-signature=Xic%2BC8VOKZsuoriKYf%2BbJum7JEs%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o0AMyVIAIVTLdIJSqDGEfeejLDGmOFVIxCHme8~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=32038eb7&x-expires=1774137600&x-signature=Xic%2BC8VOKZsuoriKYf%2BbJum7JEs%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bc56366cb7b8cf4c840616",
+      "latePostId": "69baa3a34f6581bf75b694fb",
+      "content": "Americans pay $7 billion in ATM fees every year. That's billion with a B. #moneyfacts #atmfees #pers\n\nAmericans pay $7 billion in ATM fees every year. That's billion with a B. #moneyfacts #atmfees #personalfinance #savemoney #financetips",
+      "publishedAt": "2026-03-19T19:00:00.000Z",
+      "scheduledFor": "2026-03-19T19:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 46,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-20 23:42:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 46,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-20 23:42:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=F5MuBqaR4i0",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F5MuBqaR4i0/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/F5MuBqaR4i0/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/F5MuBqaR4i0/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bc6aa96cb7b8cf4c844f20",
+      "latePostId": "69bb10d2b2a1fde43409f7c6",
+      "content": "Checking your own credit score does NOT lower it. Stop believing this myth 💳 #MoneyFacts #CreditSco\n\nChecking your own credit score does NOT lower it. Stop believing this myth 💳 #MoneyFacts #CreditScore #FinanceTips",
+      "publishedAt": "2026-03-19T21:02:21.000Z",
+      "scheduledFor": "2026-03-19T21:02:21.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 43,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-20 23:42:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 43,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-20 23:42:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=Q18M3xqbNF4",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q18M3xqbNF4/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/Q18M3xqbNF4/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Q18M3xqbNF4/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bc8f9b6cb7b8cf4c84c068",
+      "latePostId": "69baa3ac4f6581bf75b69678",
+      "content": "Most people have no idea they're spending $1,500/year on subscriptions they don't use. #moneyfacts #subscriptions #personalfinance #savemoney #budgeting",
+      "publishedAt": "2026-03-19T23:05:06.000Z",
+      "scheduledFor": "2026-03-19T23:05:06.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 28,
+        "reach": 25,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 28,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-20 23:28:15"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 28,
+            "reach": 25,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 28,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-20 23:28:15"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWFXP1mAU7Q/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/654467392_1219544090167435_1434557681769426217_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=f8xAFtGu6ncQ7kNvwENgaHe&_nc_oc=AdoYP3vFhJ9bIQoUHQo-2HLM8ZgtA-V7QjtdRcFZ9AvnJ5XLcGQon9CmIKCWH-fNYmg&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&_nc_tpa=Q5bMBQER6VT6i5K6XMMpPthPBi-fW7BxCwZdUqwC1P0IKaJ_9hydQeNrDoZNa5vI6ddoQW_Ufg3CqNAeyw&oh=00_Afy0-9W3vhsjnG9CvUc6hpGXYHxLG0cmfa_ccbAbAy3n0Q&oe=69C3A3DB",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPTwytZuLXklTPxecbjj0BID3dxQ8DCH1C6CcDpTPaNBZj3Se3IJBSEfSSTwOdnEkxu3q9UdsVptl0QwDxEZ5RtxWyBn_nG2BC-lx8.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=e7wjPlxr_eMQ7kNvwFWHTcp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjM4MjAxMzYzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7ab79139b3ac7afc&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81MTQyNUJENTg1QkM1NEI3NzkxMDgzRUIzNUZEMzY5QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzAyNENDNjk2NDBDQUIyNDYxNkQ2OTkwOTRFOThCMkI2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8t53o27yWQBUCKAJDMywXQENMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGGLF0x_abbCWckQsnoI5La81n8K1kaPJsAvYYHnm9NtbqAe8Vhc8UTRXqpuwqLv8ZMzKH_B3_Cwg&oh=00_Afydd8GnjY8Z6TaR-IugxZMQCnpsYFKlVTSQ0QO3ZJdSVg&oe=69BFB520",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/654467392_1219544090167435_1434557681769426217_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=f8xAFtGu6ncQ7kNvwENgaHe&_nc_oc=AdoYP3vFhJ9bIQoUHQo-2HLM8ZgtA-V7QjtdRcFZ9AvnJ5XLcGQon9CmIKCWH-fNYmg&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&_nc_tpa=Q5bMBQER6VT6i5K6XMMpPthPBi-fW7BxCwZdUqwC1P0IKaJ_9hydQeNrDoZNa5vI6ddoQW_Ufg3CqNAeyw&oh=00_Afy0-9W3vhsjnG9CvUc6hpGXYHxLG0cmfa_ccbAbAy3n0Q&oe=69C3A3DB"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bc56366cb7b8cf4c84061a",
+      "latePostId": "69baa3a34f6581bf75b694fb",
+      "content": "Americans pay $7 billion in ATM fees every year. That's billion with a B. #moneyfacts #atmfees #personalfinance #savemoney #financetips",
+      "publishedAt": "2026-03-19T19:04:17.000Z",
+      "scheduledFor": "2026-03-19T19:04:17.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 23,
+        "reach": 19,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 23,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-20 23:28:15"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 23,
+            "reach": 19,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 23,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-20 23:28:15"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWE7sEiknij/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/654054536_942376218539831_2660069737375102452_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NcPxwXiLrk8Q7kNvwFVzW0l&_nc_oc=AdoPRSPqlx1Uo0ag_N0exxmcUgIVRDaTYwCJZMMiF8UF0r_p1OHFH8_-_HZpGetMRis&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&_nc_tpa=Q5bMBQGye9Ea1qg_0egSGeIQAWg9aHq_vo3p8naZ3HJ_uAxwknxteTyuscTz2NRUK3KRJxcePzcNpGv7NA&oh=00_AfzwVLf8uGa_5xDeugh0__dlvi9pOmNG27VkfRPmwW_kbQ&oe=69C3C053",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQNdfeiM-0WfpSzLQl0K7mYFVR5Re7mCRGlfyPxB08p4e0d9AJqDtdD0LtEeB9KR7LYzzXfnroF6aAdKw522Uh1aPWntX9Wxq-NtIew.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=BNLkbZvf89wQ7kNvwFT12VV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjM3NjI0MTAzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5810846cb57f4037&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81OTQ1MEU3MzQ1Rjc3MDI0MkJCNDc3Q0MxQjQ0M0ZCQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzVGNDg1NjIzNDI0QUIwOUM0MUFEMjI4M0I3N0Q4QzhGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8ybbcrbmWQBUCKAJDMywXQD8Q5WBBiTcYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEXc2kBFPRFiztOU7kXnOAQkUGk8aZSUgYEna6Z7WGHwrH3Y2zUQi4XQ5uWLnFiItvaXSpzPaCO8A&oh=00_Afz822lYesu4xbK0vzWmX1awuURTMwTbVUfKTDRysXn8Gg&oe=69BFCEBF",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/654054536_942376218539831_2660069737375102452_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NcPxwXiLrk8Q7kNvwFVzW0l&_nc_oc=AdoPRSPqlx1Uo0ag_N0exxmcUgIVRDaTYwCJZMMiF8UF0r_p1OHFH8_-_HZpGetMRis&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=WHM-rWts0MFUJNzOizOUNA&_nc_tpa=Q5bMBQGye9Ea1qg_0egSGeIQAWg9aHq_vo3p8naZ3HJ_uAxwknxteTyuscTz2NRUK3KRJxcePzcNpGv7NA&oh=00_AfzwVLf8uGa_5xDeugh0__dlvi9pOmNG27VkfRPmwW_kbQ&oe=69C3C053"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69baf2636cb7b8cf4c7fccdf",
+      "latePostId": "69b975edb6f27156283e014d",
+      "content": "You've been told to save 10% of your income.\n\nYou've been told to save 10% of your income.\n\nBut that rule comes from The Richest Man in Babylon — written about a time with NO income tax, NO rent, and NO student loans.\n\nThe original advice was \"one-tenth\" of your earnings. In 2026, that 10% hits very different.\n\nComment what % you actually save 👇\n\n#moneyfacts #personalfinance #factsunlocked #Shorts",
+      "publishedAt": "2026-03-18T18:00:00.000Z",
+      "scheduledFor": "2026-03-18T18:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 4,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-20 23:42:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 4,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-20 23:42:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=sgxNh4XDeiI",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sgxNh4XDeiI/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/sgxNh4XDeiI/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/sgxNh4XDeiI/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bc7d606cb7b8cf4c848e47",
+      "latePostId": "69baa3ac4f6581bf75b69678",
+      "content": "Most people have no idea they're spending $1,500/year on subscriptions they don't use. #moneyfacts #\n\nMost people have no idea they're spending $1,500/year on subscriptions they don't use. #moneyfacts #subscriptions #personalfinance #savemoney #budgeting",
+      "publishedAt": "2026-03-19T22:02:34.000Z",
+      "scheduledFor": "2026-03-19T22:02:34.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 3,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-20 23:42:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 3,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-20 23:42:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=dkPhWQMtEJY",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dkPhWQMtEJY/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/dkPhWQMtEJY/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/dkPhWQMtEJY/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}
