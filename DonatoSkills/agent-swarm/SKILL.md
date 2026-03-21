@@ -9,10 +9,10 @@ Run a structured leadership meeting where four AI agents analyze the Facts Unloc
 
 ## How This Works
 
-You are the **Meeting Orchestrator**. You invoke four agents in sequence, passing each agent's output to the next. The final output is a Board Memo emailed to Andrew.
+You are the **Meeting Orchestrator**. You invoke four agents in sequence, passing each agent's output to the next. The final output is a Board Memo presented inline for Andrew's approval.
 
 ```
-Content Analyst → CMO → CTO → CEO → Board Memo → Email to Andrew
+Content Analyst → CMO → CTO → CEO → Board Memo → Inline Approval
 ```
 
 Each agent has:
