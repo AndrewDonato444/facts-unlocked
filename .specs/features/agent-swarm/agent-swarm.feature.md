@@ -453,25 +453,26 @@ Then the agents execute in this order:
 ```
 
 ### Scenario: Board Approves Recommendations
-Given the Board Memo contains actionable recommendations
-And Andrew reviews the memo (via email or file)
-When Andrew approves specific recommendations
-Then the approval is logged in `agent-swarm/meetings/{date}/board-decision.md`
+Given the Board Memo is displayed in the conversation
+And Andrew responds with decisions (e.g., "approve 1, kill 2, modify 3")
+When the orchestrator parses Andrew's response
+Then the decisions are logged in `agent-swarm/meetings/{date}/board-decision.md`
 And approved items are logged as directives for the next meeting
 And the next meeting's agents reference the approved directives
 And **no automated execution happens** — agents are advisory only (for now)
 
 ### Scenario: Board Rejects or Modifies Recommendations
-Given Andrew reviews the Board Memo
+Given Andrew responds to the Board Memo in the conversation
 When Andrew rejects or modifies a recommendation
 Then the rejection/modification is logged in `board-decision.md`
 And no action is taken on rejected items
 And the next meeting incorporates the feedback (agents learn from rejections)
 
 ### Scenario: Board Adds Directives
-Given Andrew has a directive not in the memo
-When Andrew adds a directive to the Board Decision
+Given Andrew is reviewing the Board Memo in the conversation
+When Andrew adds a directive not in the memo (e.g., "also, I want X")
 Then the directive is treated as highest priority
+And it is logged in `board-decision.md`
 And the next meeting incorporates the directive's outcome
 And agents track directive completion across meetings
 
@@ -483,13 +484,13 @@ And the CMO focuses on content planning rather than optimization
 And the CEO focuses on strategic setup (new channels, pipeline readiness)
 And the CTO reports on pipeline readiness
 
-### Scenario: Board Memo Email Delivery
+### Scenario: Board Memo Delivery and Inline Approval
 Given the CEO has produced the Board Memo
 When the meeting orchestrator finalizes outputs
 Then the Board Memo is saved to `agent-swarm/meetings/{date}/board-memo.md`
-And the full Board Memo is emailed to adonatony@gmail.com via Gmail MCP
-And the email subject is "Board Memo — {date}"
-And the email body contains the full memo (no links, no summary — the whole thing)
+And the Board Memo is printed directly in the conversation
+And Andrew responds with approvals, rejections, and modifications inline
+And the orchestrator writes `board-decision.md` from Andrew's response
 And the meeting is marked complete
 
 ### Scenario: Emergency Meeting (Ad-Hoc)
@@ -642,8 +643,8 @@ DonatoSkills/agent-swarm/
 
 1. Scheduled task triggers daily standup, or Andrew runs `/team-meeting`
 2. **Agent Swarm meeting runs** — 4 agents execute in sequence, reading previous meeting logs
-3. Board Memo saved to `agent-swarm/meetings/{date}/` and emailed to Andrew
-4. Andrew reviews memo from phone/email, approves/rejects/modifies
+3. Board Memo saved to `agent-swarm/meetings/{date}/` and displayed in conversation
+4. Andrew responds inline — approves/rejects/modifies
 5. Approved items become directives tracked in subsequent meetings
 6. (Phase 2, future): Approved items auto-execute via existing pipeline
 
@@ -656,7 +657,7 @@ DonatoSkills/agent-swarm/
 | Meeting time | Scheduled task, after analytics loop, before content creation |
 | Invocation | `/team-meeting` skill — works ad-hoc and in scheduled tasks |
 | Agent memory | Yes — agents read the last 5 meeting logs and Board Decisions |
-| Board Memo delivery | Full memo emailed to adonatony@gmail.com via Gmail MCP |
+| Board Memo delivery | Displayed directly in the conversation — Andrew responds inline |
 | Execution of approved items | **Advisory only (Phase 1)** — agents recommend, Andrew decides, execution is manual. Approved items become directives that agents track in subsequent meetings. Automated execution is a future phase. |
 
 ## Open Questions

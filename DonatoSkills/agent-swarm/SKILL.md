@@ -124,22 +124,30 @@ agent-swarm/meetings/2026-03-20-2/
 
 ---
 
-## Step 4: Email Board Memo
+## Step 4: Present Board Memo for Inline Approval
 
 After the CEO produces the Board Memo:
 
 1. Read `agent-swarm/meetings/{date}/board-memo.md`
-2. Send email via Gmail MCP:
-   - **To**: adonatony@gmail.com
-   - **Subject**: `Board Memo — {YYYY-MM-DD}`
-   - **Body**: Full board memo content (the entire markdown — no summary, no links)
-3. Confirm delivery
+2. **Print the full Board Memo directly in the conversation**
+3. Ask Andrew for his decisions:
+   > "Board Memo delivered. What's your call on these decisions?"
+4. **Wait for Andrew's response** — he will approve, reject, or modify each item inline
+5. Parse Andrew's response and write `agent-swarm/meetings/{date}/board-decision.md`
+6. Confirm the decisions are logged
+
+The meeting happens in real-time. Andrew can ask follow-up questions, challenge recommendations, or add new directives — all within the same conversation.
 
 ---
 
-## Step 5: Report Completion
+## Step 5: Log Board Decision
 
-Output to the user:
+After Andrew responds:
+
+1. Create `agent-swarm/meetings/{date}/board-decision.md` from Andrew's response
+2. For each decision item, log: approved / rejected / modified + any notes
+3. Log any new Board Directives Andrew added
+4. Confirm completion:
 
 ```
 MEETING_COMPLETE
@@ -150,22 +158,15 @@ OUTPUTS:
   - agent-swarm/meetings/{date}/content-strategy.md
   - agent-swarm/meetings/{date}/tech-status.md
   - agent-swarm/meetings/{date}/board-memo.md
-EMAIL_SENT: adonatony@gmail.com
-BOARD_ACTION_REQUIRED: Review memo and create board-decision.md
+  - agent-swarm/meetings/{date}/board-decision.md
+BOARD_DECISIONS_LOGGED: {count} decisions recorded
 ```
 
 ---
 
-## Board Decision Workflow
+## Board Decision Continuity
 
-After Andrew reviews the Board Memo (via email or file), he creates:
-```
-agent-swarm/meetings/{date}/board-decision.md
-```
-
-Use template: `agent-swarm/templates/board-decision-template.md`
-
-The next meeting's agents will read this decision and:
+The next meeting's agents will read `board-decision.md` and:
 - Track approved items as active directives
 - Note rejected items (don't re-propose without new data)
 - Incorporate Board feedback into their analysis
@@ -178,7 +179,7 @@ The next meeting's agents will read this decision and:
 2. **No autonomous execution** — The swarm is advisory only. Recommendations require Board approval. No exceptions.
 3. **Sequential execution** — Each agent must complete before the next starts. No parallel agent invocation.
 4. **Last 5 meetings** — Always load the 5 most recent meeting directories for continuity.
-5. **Full memo in email** — Send the complete Board Memo in the email body. No summaries, no links.
+5. **Inline delivery** — Print the full Board Memo in the conversation. Andrew responds inline. No email, no async.
 6. **Emergency meetings** — When a topic is provided, all agents focus on that topic. The daily standup still runs at its scheduled time.
 
 ---

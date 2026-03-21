@@ -185,10 +185,11 @@ describe("Meeting Orchestrator", () => {
     expect(analystPos).toBeLessThan(ceoPos);
   });
 
-  test("SWM-011: SKILL.md references email delivery to correct address", () => {
+  test("SWM-011: SKILL.md specifies inline Board Memo delivery and approval", () => {
     const skillPath = path.join(SWARM_ROOT, "SKILL.md");
     const content = fs.readFileSync(skillPath, "utf-8");
-    expect(content).toContain("adonatony@gmail.com");
+    expect(content).toMatch(/inline|conversation|directly/i);
+    expect(content).toMatch(/board-decision\.md/);
   });
 
   test("SWM-012: SKILL.md specifies last-5-meetings history loading", () => {
