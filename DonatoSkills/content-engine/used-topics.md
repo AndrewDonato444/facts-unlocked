@@ -38,6 +38,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 028 | premature-survival | 22-week preemies can now survive; viability threshold moved from 28 weeks to 22 weeks in one generation | stat_lead / 35s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 | 029 | mirror-neurons | Newborns mimic facial expressions within 42 minutes of birth; mirror neurons active from hour one | did_you_know / 30s / moderate / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
 | 030 | yawn-contagion | Babies don't catch yawns until age 4; contagious yawning requires theory of mind (empathy milestone) | most_people_dont_know / 30s / slow / key_words_only / ai-gen | TikTok, YouTube, Instagram |
+| 031 | baby-smell | Newborns identify mother's scent within 1 hour of birth; turn toward mom's cloth 80% of the time | question / 30s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
+| 032 | cry-pitch | Baby cries tuned to 3-5 kHz range — hardest for humans to ignore; evolutionary engineering for survival | stat_lead / 45s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 033 | hiccup-womb | Fetuses hiccup at 9 weeks gestation — training diaphragm muscles before birth | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 
 ## Money Facts Unlocked
 
@@ -64,6 +67,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 019 | stock-market-timing | Missing 10 best trading days per decade cuts returns ~50%; biggest gains happen during crashes | stat_lead / 30s / fast / full_captions / ai-gen | YouTube, Instagram |
 | 020 | down-payment-myth | 20% down payment rule invented by private mortgage insurance industry in 1950s to protect lenders | myth_bust / 35s / moderate / karaoke_highlight / ai-gen | YouTube, Instagram |
 | 021 | inheritance-evaporation | 70% of inherited wealth gone by gen 2; 90% by gen 3; universal "shirtsleeves to shirtsleeves" pattern | stat_lead / 35s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 022 | digital-money | 97%+ of US money supply exists only as digital entries; only $2.3T in physical cash vs $21T total M2 | controversy / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 023 | minimum-wage-purchasing | Federal minimum wage lost 21% of real purchasing power since 1968; productivity-adjusted = $24+/hr | myth_bust / 30s / fast / key_words_only / ai-gen | YouTube, Instagram |
+| 024 | mortgage-math | $300K house at 7% for 30yr = $718K total; bank earns more on mortgage than home is worth | stat_lead / 40s / moderate / full_captions / ai-gen | YouTube, Instagram |
 
 ## AI Facts Unlocked
 
@@ -80,3 +86,6 @@ Global topic registry. The content engine MUST check this before generating new 
 | 009 | ai-art-copyright | AI-generated images cannot be copyrighted in the US; courts require human authorship; instant public domain | controversy / 30s / fast / full_captions / ai-gen | YouTube, Instagram |
 | 010 | ai-training-scale | GPT-4 trained on ~1 trillion tokens; all of English Wikipedia is <1% of training corpus | stat_lead / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
 | 011 | ai-music-recognition | Shazam AI identifies any song from 2 seconds of audio with 98% accuracy; 100M songs fingerprinted | what_if / 30s / moderate / key_words_only / ai-gen | YouTube, Instagram |
+| 012 | ai-chess-speed | Stockfish evaluates 70M chess positions/sec vs Magnus Carlsen's ~3/sec; AI speed vs human creativity | did_you_know / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 013 | ai-translation | Google Translate processes 150B words/day — equivalent to all published human history in weeks | stat_lead / 35s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 014 | ai-diagnosis | AI diagnoses diabetic retinopathy with 90% accuracy matching ophthalmologists in 5 seconds | what_if / 30s / moderate / key_words_only / ai-gen | YouTube, Instagram |
