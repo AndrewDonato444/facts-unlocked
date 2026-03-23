@@ -1,0 +1,977 @@
+{
+  "project": "money-facts-unlocked",
+  "scoredAt": "2026-03-23T00:04:00.661Z",
+  "dateRange": {
+    "from": "2026-03-20",
+    "to": "2026-03-21"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 17,
+    "includedPosts": 0,
+    "excludedPosts": 17,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69be8f216cb7b8cf4c8a2e02",
+      "latePostId": "69bd0c9d1f3e3052b3ec064d",
+      "content": "The Vanderbilts were the richest family in America. By 1973, there wasn't a single millionaire left.\n\nThe Vanderbilts were the richest family in America. By 1973, there wasn't a single millionaire left. 💸\n\nCornelius built $100M+ (equivalent to $3B today).\n\nBy 1973 Vanderbilt reunion: not one millionaire in attendance.\n\nWealth without financial literacy evaporates.\n\n#moneyfacts #vanderbilt #wealthhistory #personalfinance #richpoor",
+      "publishedAt": "2026-03-21T12:02:52.000Z",
+      "scheduledFor": "2026-03-21T12:02:52.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 77,
+        "comments": 6,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 921,
+        "engagementRate": 9.01,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 77,
+            "comments": 6,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 921,
+            "engagementRate": 9.01,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=kCSkuqkjU9U",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kCSkuqkjU9U/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/kCSkuqkjU9U/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/kCSkuqkjU9U/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bd4f526cb7b8cf4c86b125",
+      "latePostId": "69bbb9e42f15f6d6b43749df",
+      "content": "Renting is 'throwing money away'? 🏠\n\nRenting is 'throwing money away'? 🏠\n\nIn 45 of the 50 largest US cities right now, renting beats buying.\n\nWith rates at 7%+, you'd need 15+ years to break even on most homes.\n\nThe 'buy always wins' rule just broke.\n\n#moneyfacts #realestate #personalfinance #rentvsbuy #financetips",
+      "publishedAt": "2026-03-20T13:00:00.000Z",
+      "scheduledFor": "2026-03-20T13:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 503,
+        "engagementRate": 0.4,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 503,
+            "engagementRate": 0.4,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=wxtzfFDjywo",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wxtzfFDjywo/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/wxtzfFDjywo/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/wxtzfFDjywo/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bf1a5e6cb7b8cf4c8bcbd8",
+      "latePostId": "69bd0ca705dc33a21307bfad",
+      "content": "1 in 4 Americans leave free money on the table every year 💰\n\n1 in 4 Americans leave free money on the table every year 💰\n\nThe average unclaimed 401(k) match: $1,336/year.\n\nOver 30 years at 7% returns: $135,000+ left behind.\n\nGet. The. Match. It's a 50-100% instant return on your contribution.\n\n#moneyfacts #401k #retirement #personalfinance #investing",
+      "publishedAt": "2026-03-21T22:01:55.000Z",
+      "scheduledFor": "2026-03-21T22:01:55.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 213,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 213,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=IXMciAAh3wY",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/IXMciAAh3wY/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/IXMciAAh3wY/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/IXMciAAh3wY/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bd8cb86cb7b8cf4c879522",
+      "latePostId": "69bbb9ec2f15f6d6b4374a9f",
+      "content": "Social Security runs out of money in 2033 💀\n\nSocial Security runs out of money in 2033 💀\n\nAfter that, benefits automatically drop to 77% of what's owed.\n\nNo act of Congress needed to cut it — inaction IS the cut.\n\nIf you're under 50, plan like it won't be there.\n\n#moneyfacts #socialsecurity #retirement #personalfinance #financetips",
+      "publishedAt": "2026-03-20T18:00:00.000Z",
+      "scheduledFor": "2026-03-20T18:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 190,
+        "engagementRate": 1.58,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 3,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 190,
+            "engagementRate": 1.58,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=O-XZa71eKdM",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/O-XZa71eKdM/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/O-XZa71eKdM/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/O-XZa71eKdM/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69beb02f6cb7b8cf4c8a907e",
+      "latePostId": "69bd0c9d1f3e3052b3ec064d",
+      "content": "The Vanderbilts were the richest family in America. By 1973, there wasn't a single millionaire left. 💸\n\nCornelius built $100M+ (equivalent to $3B today).\n\nBy 1973 Vanderbilt reunion: not one millionaire in attendance.\n\nWealth without financial literacy evaporates.\n\n#moneyfacts #vanderbilt #wealthhistory #personalfinance #richpoor",
+      "publishedAt": "2026-03-21T13:01:44.000Z",
+      "scheduledFor": "2026-03-21T13:01:44.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 117,
+        "reach": 119,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 117,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:59:33"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 117,
+            "reach": 119,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 117,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:59:33"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWJbyZpFiuD/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656745796_934985515950888_1152397602829920743_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=1tzWuBQpyAkQ7kNvwEo9A0x&_nc_oc=AdoXyp8erWl-03xRaFGei5ER6IU2o1pW-StE9ABJewwhVQS2AxyH22rYGpp1t17zzJw&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQFKM7WUl_x71qdOD6pZ5n1itR6RD5VvYqEK01d6WlsMYgL6U20VKkGYyAFBxFgyQtnOcjhsTdBQbw&oh=00_Afytr8wuyIdi_dyACRUa0ch417iOhIXKVlbUJbd22EOo3Q&oe=69C63BC5",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQOylLpGz2_5E6saIZ-1mNxuaFuBp3SNuHUu9MMnQNbmcxN_gPAIr5MH28LwSbjP8AMkI8AyMOFomYQ5efGzB06DHRO0EP5HjBGrTpY.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=6G_KzwdGZdkQ7kNvwHPVmwL&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQzODEyMzUzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=445db49ef58db1c3&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FMzQwRkJBQTFBREJEQzg3M0UxQ0MyQTZDQjdGQzdCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZCNDBEM0EwQ0MxNTZDNTk3NDI0NkQ0NzE5MjRBQjg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb82vepsN2WQBUCKAJDMywXQEdiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nV0W864G354_7fwfKgElVg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQG6ktDZvEyz4Hg4IkV5GKcMYyT8WuztQE_sbPTAD6n4yO-Fvr0NejfdcsN04jxMsFX_lt0jbQrg8w&oh=00_AfyxTsp7XnUIv_UPIE2-UqQI6NMah8ObaU5pZFPQNVZp0A&oe=69C27675",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656745796_934985515950888_1152397602829920743_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=1tzWuBQpyAkQ7kNvwEo9A0x&_nc_oc=AdoXyp8erWl-03xRaFGei5ER6IU2o1pW-StE9ABJewwhVQS2AxyH22rYGpp1t17zzJw&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQFKM7WUl_x71qdOD6pZ5n1itR6RD5VvYqEK01d6WlsMYgL6U20VKkGYyAFBxFgyQtnOcjhsTdBQbw&oh=00_Afytr8wuyIdi_dyACRUa0ch417iOhIXKVlbUJbd22EOo3Q&oe=69C63BC5"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bddb736cb7b8cf4c888d7e",
+      "latePostId": "69bbb9f8560426ea92873ce8",
+      "content": "Being unbanked costs $40,000 more over your lifetime 💸 4.5M US households have no bank account. They pay check-cashing fees (2-10%), money order fees, and payday loan rates (400%+ APR). The financial system charges poor people a poverty premium. #moneyfacts #personalfinance #financialliteracy #moneytips #inequality",
+      "publishedAt": "2026-03-20T23:02:53.000Z",
+      "scheduledFor": "2026-03-20T23:02:53.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 114,
+        "engagementRate": 0.88,
+        "lastUpdated": "2026-03-22 23:22:42"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 114,
+            "engagementRate": 0.88,
+            "lastUpdated": "2026-03-22 23:22:42"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7619477438904503566?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oAIGi3BCIiABInLAmZlTf06efQ7GF7Ae9IOh8Z~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=aa33e834&x-expires=1774306800&x-signature=fINS%2BpuPXNw6w5CVYb0YWC2ruUk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oAIGi3BCIiABInLAmZlTf06efQ7GF7Ae9IOh8Z~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=aa33e834&x-expires=1774306800&x-signature=fINS%2BpuPXNw6w5CVYb0YWC2ruUk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oAIGi3BCIiABInLAmZlTf06efQ7GF7Ae9IOh8Z~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=aa33e834&x-expires=1774306800&x-signature=fINS%2BpuPXNw6w5CVYb0YWC2ruUk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bf1a5d6cb7b8cf4c8bcbd5",
+      "latePostId": "69bb10e05a59a7188ba168c4",
+      "content": "A $1 bill only lasts about 6 years before it's destroyed and replaced 💵 #MoneyFacts #DollarBill #Finance",
+      "publishedAt": "2026-03-21T22:03:03.000Z",
+      "scheduledFor": "2026-03-21T22:03:03.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 109,
+        "reach": 102,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 109,
+        "engagementRate": 0.92,
+        "lastUpdated": "2026-03-22 23:59:33"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 109,
+            "reach": 102,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 109,
+            "engagementRate": 0.92,
+            "lastUpdated": "2026-03-22 23:59:33"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWKZv3NAWNt/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/655884788_3510992155721199_3973378090269012509_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9lMNdqRuTnoQ7kNvwGSrvC8&_nc_oc=Adp5yCZ7jyDsvw-XjJJRtxsa1VFqrhnQO4CG65yJRbXA65C0xrdhmWk31w9t6GXHHKE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQEbxs0ngdRqq14y1f0c8m11bT9O3zcagl_d4tJGrINAUSBxJJ4WWeEHcdoXfN2PxsnEXPt91BDEJA&oh=00_Afy4O5mRRi8rEqaaUIrLHSsec4CzVoq2Igo-ChAq4p8GPA&oe=69C66A30",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQNhWu3DOrVlIG2WL4c0X_kLFF6B6v0W93JcLuzcTaVwecpMhJAw8qdHTBVYeXkQkNvcr0E4q5WhH8YiiHWPnv1j9m0a3JhYU1ERK28.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=XbVIh_GIiO4Q7kNvwFhGgZA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQ1NjI0MDUzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=de87af57913a5039&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83NTQwRTY2MzE5NDk4OUFENjBGNDNBN0JGQjJFMDQ4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M2NDMzNUE4MjlGQjZFQzUwRkI3M0MwNzdBQjk1QTlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8nI6T9ueWQBUCKAJDMywXQDbrhR64UewYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nV0W864G354_7fwfKgElVg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEDHOXZExGX_9vcxujTDpY3LGxPdByEt3c6A7Mw8BIma41r7QnZECj2bN89-WoIwNssYaEn5kBFrw&oh=00_Afw3cqhM0sE7DSZRuw7iWYcbvDs_7r244cKqUDkK-GaHGg&oe=69C27AF4",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/655884788_3510992155721199_3973378090269012509_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9lMNdqRuTnoQ7kNvwGSrvC8&_nc_oc=Adp5yCZ7jyDsvw-XjJJRtxsa1VFqrhnQO4CG65yJRbXA65C0xrdhmWk31w9t6GXHHKE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQEbxs0ngdRqq14y1f0c8m11bT9O3zcagl_d4tJGrINAUSBxJJ4WWeEHcdoXfN2PxsnEXPt91BDEJA&oh=00_Afy4O5mRRi8rEqaaUIrLHSsec4CzVoq2Igo-ChAq4p8GPA&oe=69C66A30"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bd8c646cb7b8cf4c879343",
+      "latePostId": "69bbb9ec2f15f6d6b4374a9f",
+      "content": "Social Security runs out of money in 2033 💀\n\nAfter that, benefits automatically drop to 77% of what's owed.\n\nNo act of Congress needed to cut it — inaction IS the cut.\n\nIf you're under 50, plan like it won't be there.\n\n#moneyfacts #socialsecurity #retirement #personalfinance #financetips",
+      "publishedAt": "2026-03-20T18:01:25.000Z",
+      "scheduledFor": "2026-03-20T18:01:25.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 109,
+        "reach": 101,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 109,
+        "engagementRate": 0.92,
+        "lastUpdated": "2026-03-22 23:59:33"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 109,
+            "reach": 101,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 109,
+            "engagementRate": 0.92,
+            "lastUpdated": "2026-03-22 23:59:33"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWHZScEiUhc/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/655164434_2378455375901921_6730205128026190469_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lmr8eJ1WilYQ7kNvwGmv7kX&_nc_oc=Adr6QK3l7x-kJVnfkSjw5zGDLoGV8W7wftOpcbHc61wg9N6TzPmvaHUJslRbNFxuRFA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQFlll0N_SB7Qz_IgB7JomvoPsXG8ujlUl5rvDdI0yDKICxxp_EEW-Qz59gpYFU3RRBkc8m7O6XLlw&oh=00_Afy3SnkcCA4G6zu2dra0Gcwemnkeyb3zKZEEgpj6ub2jRA&oe=69C63AC4",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQMe595My-wvuy91AAyGOXrwtOtemB6eYogSfw-IpU_7JoYwq7Q_s_XJetYAwHagQETM0wMrVSQOrdXnLXJ-j5H1eXErammv3OBoJpU.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=nqd2w5HgvQ4Q7kNvwHgkSc3&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQxNDAxMDQzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8e3d53ed918a94a8&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85MDQ0RjhFQkU3MzcwQzY4NEExM0I1RTMzRjFFNUE4QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzc2NDRDNkJENUFGQ0JGNEMyREZBODcxRkI4N0IwQ0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8l7_hq8-WQBUCKAJDMywXQEAAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nV0W864G354_7fwfKgElVg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGTwvJyrMxPtN2CpaUGKGjmQUOv1TLBgY1IYNFAAgDAKVzIJvSVl4eHNLLpGUk4oEwcT7E1WhBPvg&oh=00_AfzhrWjLIa2uzG3CB1-gjszEhUK75g1NSWrnUgYM51iwXg&oe=69C25C58",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/655164434_2378455375901921_6730205128026190469_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lmr8eJ1WilYQ7kNvwGmv7kX&_nc_oc=Adr6QK3l7x-kJVnfkSjw5zGDLoGV8W7wftOpcbHc61wg9N6TzPmvaHUJslRbNFxuRFA&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQFlll0N_SB7Qz_IgB7JomvoPsXG8ujlUl5rvDdI0yDKICxxp_EEW-Qz59gpYFU3RRBkc8m7O6XLlw&oh=00_Afy3SnkcCA4G6zu2dra0Gcwemnkeyb3zKZEEgpj6ub2jRA&oe=69C63AC4"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bdd8106cb7b8cf4c8884db",
+      "latePostId": "69bbb9f8560426ea92873ce8",
+      "content": "Being unbanked costs $40,000 more over your lifetime 💸\n\n4.5M US households have no bank account.\n\nThey pay check-cashing fees (2-10%), money order fees, and payday loan rates (400%+ APR).\n\nThe financial system charges poor people a poverty premium.\n\n#moneyfacts #personalfinance #financialliteracy #moneytips #inequality",
+      "publishedAt": "2026-03-20T23:03:19.000Z",
+      "scheduledFor": "2026-03-20T23:03:19.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 108,
+        "reach": 103,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 108,
+        "engagementRate": 0.93,
+        "lastUpdated": "2026-03-22 23:59:33"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 108,
+            "reach": 103,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 108,
+            "engagementRate": 0.93,
+            "lastUpdated": "2026-03-22 23:59:33"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWH71xlFcK2/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/655125150_1413307763815760_9180223215032007550_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UHuTqdjxkeEQ7kNvwGfldRc&_nc_oc=AdqJ7xC0rGyYJc2-nRBf3s94sJRO23uU-3pL83LXSMwU_6CjKwSqiW_628ZMtRVHwX8&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQFQd6I1CmGka5riGEqeqBuxzAwPwqp417Mn9qRt8TfpAIp3EGCJzeDpvkpmWIlryxT4iU9rOdCyeA&oh=00_AfxNL0XWNZK9IKLzatTX_AijIZ41WHpbxbE8ZLC12O99LQ&oe=69C66866",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQOnqrrSX-BIANAsWdeY8cTr7fuFQwsMnXqBUtvvTUnvbsvhdNu0KMelQH75epqiZOFxhtjUnn_mvCu_AHNLKfhIcQyXy22x4AFL4d8.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=1TKO6Q8Vr30Q7kNvwGyj2Cg&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQxOTA3ODMzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1021b6808e86415b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84NDQ1REVBNUQ3OEQ5Q0MxNDkyRkVBNzZBRTQ4MUVBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzgxNDE4NzFBNzU0M0Y4ODg3QTM2RUQ1MjQ1QTMxRThGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8xuCspdKWQBUCKAJDMywXQEAAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nV0W864G354_7fwfKgElVg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHFqgr0UAy4mueGY4IEu10cppsMJ9oNLmiqAZrRyzL_QNwrvVqaHPHagJ4sLQCYJk3cAlLY8h3f3g&oh=00_AfzI1VfhYyVUk-UpLEQYqeH0RmhRnBuAwc9WQeIs3nyqew&oe=69C24E27",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/655125150_1413307763815760_9180223215032007550_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UHuTqdjxkeEQ7kNvwGfldRc&_nc_oc=AdqJ7xC0rGyYJc2-nRBf3s94sJRO23uU-3pL83LXSMwU_6CjKwSqiW_628ZMtRVHwX8&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQFQd6I1CmGka5riGEqeqBuxzAwPwqp417Mn9qRt8TfpAIp3EGCJzeDpvkpmWIlryxT4iU9rOdCyeA&oh=00_AfxNL0XWNZK9IKLzatTX_AijIZ41WHpbxbE8ZLC12O99LQ&oe=69C66866"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bf287f6cb7b8cf4c8bf060",
+      "latePostId": "69bd0ca705dc33a21307bfad",
+      "content": "1 in 4 Americans leave free money on the table every year 💰\n\nThe average unclaimed 401(k) match: $1,336/year.\n\nOver 30 years at 7% returns: $135,000+ left behind.\n\nGet. The. Match. It's a 50-100% instant return on your contribution.\n\n#moneyfacts #401k #retirement #personalfinance #investing",
+      "publishedAt": "2026-03-21T23:02:15.000Z",
+      "scheduledFor": "2026-03-21T23:02:15.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 108,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 108,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:59:33"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 108,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 108,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:59:33"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWKggnnCPcC/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/655149770_2712324862476777_7453120508363023014_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=x-9NqVF1MmcQ7kNvwEIDyhI&_nc_oc=AdqtHIWQ4SpkrKSMDB1DgWZPgzaBIptP7Gh7XxYhG25oRTxkeFqFjkrIN5gPMn1h1TM&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQF7d-mDVJQ-TbT1K2E4IsBYVumeLZ0qk9MkI0MGttglUZV8L_E_uI7IFiW2d4JfnJOCGg2NR0AH4w&oh=00_AfxclzpsQYfBOTjDpVRTRpbM_EDilxRbW4MG-8VeFzpH2A&oe=69C63D80",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPBz5FSrunvTVN0iuprgdHelX1bKed726Mfziwysiknk_rKsQ7d_AY5vRoWSj7f1XrUGiE-ac9BzwSZn_LWdHgkKhDDSc3TU8jd-8Q.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=sb5jya2uE7wQ7kNvwEeloZ0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQ1NzMwODIzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=953c6235e5244027&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EMzQ3MTQxMURBNjRFODgxNjUxNTVENkUyRUQ5MTA5QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzMwNEZDQTg4MzI3RTZCQUNFNzEyQjdBNERGRTUwM0JDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8-b7ZxeiWQBUCKAJDMywXQEZAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nV0W864G354_7fwfKgElVg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQE9tmZJHpJeXXAcF1q9N-P6Bl8vNxvFqtz6fe9VjXzXsnTnO_kCpYptRuJYJpcALkB1muwm9giTLg&oh=00_Afwqva41koM1cJoy-5s_DL26xTg0zzqYvIUrGwgEDZqStw&oe=69C27378",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/655149770_2712324862476777_7453120508363023014_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=x-9NqVF1MmcQ7kNvwEIDyhI&_nc_oc=AdqtHIWQ4SpkrKSMDB1DgWZPgzaBIptP7Gh7XxYhG25oRTxkeFqFjkrIN5gPMn1h1TM&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQF7d-mDVJQ-TbT1K2E4IsBYVumeLZ0qk9MkI0MGttglUZV8L_E_uI7IFiW2d4JfnJOCGg2NR0AH4w&oh=00_AfxclzpsQYfBOTjDpVRTRpbM_EDilxRbW4MG-8VeFzpH2A&oe=69C63D80"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bd8cb76cb7b8cf4c87951f",
+      "latePostId": "69bbb9ec2f15f6d6b4374a9f",
+      "content": "Social Security runs out of money in 2033 💀 After that, benefits automatically drop to 77% of what's owed. No act of Congress needed to cut it — inaction IS the cut. If you're under 50, plan like it won't be there. #moneyfacts #socialsecurity #retirement #personalfinance #financetips",
+      "publishedAt": "2026-03-20T18:00:58.000Z",
+      "scheduledFor": "2026-03-20T18:00:58.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 107,
+        "engagementRate": 0.93,
+        "lastUpdated": "2026-03-22 23:22:42"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 107,
+            "engagementRate": 0.93,
+            "lastUpdated": "2026-03-22 23:22:42"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7619399310928629006?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocv3PiLIMgB9i2WnUwA2ia4iWxBbIBmUNBt23~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=ea1670c0&x-expires=1774306800&x-signature=3mDhNrMxmZWVv%2Bu7IY1MFhnXW7c%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocv3PiLIMgB9i2WnUwA2ia4iWxBbIBmUNBt23~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=ea1670c0&x-expires=1774306800&x-signature=3mDhNrMxmZWVv%2Bu7IY1MFhnXW7c%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocv3PiLIMgB9i2WnUwA2ia4iWxBbIBmUNBt23~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=ea1670c0&x-expires=1774306800&x-signature=3mDhNrMxmZWVv%2Bu7IY1MFhnXW7c%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bdcc196cb7b8cf4c8864a9",
+      "latePostId": "69bb10d9b2a1fde43409f8c4",
+      "content": "Americans pay over $8 BILLION in ATM fees every single year 🏧💸 #MoneyFacts #ATM #FinanceFacts",
+      "publishedAt": "2026-03-20T22:03:05.000Z",
+      "scheduledFor": "2026-03-20T22:03:05.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 106,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:22:42"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 106,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:22:42"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7619461701318036750?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oMRQAIlFGgNQmTie7XOeN4DffptGAFLzIOpOGN~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=490a5399&x-expires=1774306800&x-signature=paqbxyYK7XvaR%2F6poeM1XCZrT0I%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oMRQAIlFGgNQmTie7XOeN4DffptGAFLzIOpOGN~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=490a5399&x-expires=1774306800&x-signature=paqbxyYK7XvaR%2F6poeM1XCZrT0I%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oMRQAIlFGgNQmTie7XOeN4DffptGAFLzIOpOGN~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=490a5399&x-expires=1774306800&x-signature=paqbxyYK7XvaR%2F6poeM1XCZrT0I%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bd4f4d6cb7b8cf4c86b111",
+      "latePostId": "69bbb9e42f15f6d6b43749df",
+      "content": "Renting is 'throwing money away'? 🏠\n\nIn 45 of the 50 largest US cities right now, renting beats buying.\n\nWith rates at 7%+, you'd need 15+ years to break even on most homes.\n\nThe 'buy always wins' rule just broke.\n\n#moneyfacts #realestate #personalfinance #rentvsbuy #financetips",
+      "publishedAt": "2026-03-20T13:02:56.000Z",
+      "scheduledFor": "2026-03-20T13:02:56.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 104,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 104,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:59:33"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 104,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 104,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:59:33"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWG3Iadina4/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/655066069_1139537048298056_2522466505480919725_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=3jshNX09QK8Q7kNvwEZpL9v&_nc_oc=AdqdWvCA5zPmP3x9ge_fVSnw4kO8ipko0p8dfuhVl4ECiAzG9ijzNwwUBqKSivd6zVw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQEN18nTlD5EYtG8XOKBGWA4IV70DGVb6unddGezoefPi6bLNIATcNXO3xtXkaLn9bjcGGRxRMWRag&oh=00_AfwVMSXAvv_7lON2PVXmiz6XWJrYbdKc35YOrYqH5mG1ZQ&oe=69C6588D",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQMHQMoMXnjtSdRYRdwLMev39jb-f4EObyhs-xbJFVAjBx7nyaR2duUwvOMPeXL5dLVg4lgDAP8los8peMDZQN-8W1KM39PrA2Tyj-o.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=qriRafRGzRQQ7kNvwG_phlj&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQwMjg1MTkzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=51222dcdb6793fd7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FMjQ5MjJEQkQxNUY2M0Y1MTREN0Y0MTY3MjBEMjA5RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzY0NDY5MkQyNUFDRDRBRkE1QUIyQTEyN0ZENkY0ODgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8rt-x7MiWQBUCKAJDMywXQD6AAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nV0W864G354_7fwfKgElVg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHHILHNcYgtJgpYC1lTOlCdzKs1qz1uDAa4sxxtGpumuk7NrfxsyuVvMXPOYrhBATsBNalGvRTVNA&oh=00_AfyucbF6crCfMMa_9J0S4okn7W3_SJ9nmylpZv2nCW1OIg&oe=69C26272",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/655066069_1139537048298056_2522466505480919725_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=3jshNX09QK8Q7kNvwEZpL9v&_nc_oc=AdqdWvCA5zPmP3x9ge_fVSnw4kO8ipko0p8dfuhVl4ECiAzG9ijzNwwUBqKSivd6zVw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQEN18nTlD5EYtG8XOKBGWA4IV70DGVb6unddGezoefPi6bLNIATcNXO3xtXkaLn9bjcGGRxRMWRag&oh=00_AfwVMSXAvv_7lON2PVXmiz6XWJrYbdKc35YOrYqH5mG1ZQ&oe=69C6588D"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69beddaf6cb7b8cf4c8b1b58",
+      "latePostId": "69bd0ca405dc33a21307bf24",
+      "content": "Cash payers subsidize credit card rewards 💳\n\nEvery time you swipe, the merchant pays 1.5-3.5% to Visa/Mastercard.\n\nMerchants raise prices for EVERYONE to cover it.\n\nCash users pay the same price — but fund the rewards you earn.\n\n#moneyfacts #creditcards #personalfinance #moneytips #financialliteracy",
+      "publishedAt": "2026-03-21T18:01:18.000Z",
+      "scheduledFor": "2026-03-21T18:01:18.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 102,
+        "reach": 100,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 102,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:59:33"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 102,
+            "reach": 100,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 102,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:59:33"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWJ-ElSjKRY/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656480779_1627683485104902_3368268294403889226_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=bp59VQSTfM0Q7kNvwHhYasb&_nc_oc=Adr373YwXdjp52WIp17CosfU4b8Hz-KFZNtQ86AIaMwrXOcRBj9HULiOL59d03qk78w&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQFNW29uBXh3Dy3eSWbbAV7V-4xM-iV7LmJqFG8-wMWDmk2krq_I7Xc4t59RopGoBU_GXw-sIC6rdw&oh=00_Afywr_5z9FMevGQ4qIB28vuw86N4EsAkJrBV5HF7EoPuMg&oe=69C64358",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQOzShmY_G13W6h3Hn0khK6KrFU2APm6hglJ7Dt0RHOz6FYgCS0-A044Te7ICT6MUylV49ZYtxQVuLhRSYi8GHenE_5ZHx24bSRQZZ8.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=M2_NVfU8YKkQ7kNvwHwHCJk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQ0OTM5NjMzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5753db3b81a77840&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zOTQxNjkxMDUwRDI2RTBERUJCNTcwNTQxRTgyMkRBMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0UxNDc1QUQ3NkZFMEUzRDlBMTczQTFFNjQ0MUE0RThEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb88t2b-OOWQBUCKAJDMywXQEV7peNT988YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=nV0W864G354_7fwfKgElVg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEPfkbsDsXQwoeWUeXlqHqfBeBxzy79QRnbo5SiR3GemdYAvDzI8-0dSpO1t1d5JFgOasTs5o6D2g&oh=00_AfxKbbBwrO1O-S_f81xhTk5ac7w1xV0-DR0izUOV3Vojjg&oe=69C24800",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656480779_1627683485104902_3368268294403889226_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=bp59VQSTfM0Q7kNvwHhYasb&_nc_oc=Adr373YwXdjp52WIp17CosfU4b8Hz-KFZNtQ86AIaMwrXOcRBj9HULiOL59d03qk78w&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=nV0W864G354_7fwfKgElVg&_nc_tpa=Q5bMBQFNW29uBXh3Dy3eSWbbAV7V-4xM-iV7LmJqFG8-wMWDmk2krq_I7Xc4t59RopGoBU_GXw-sIC6rdw&oh=00_Afywr_5z9FMevGQ4qIB28vuw86N4EsAkJrBV5HF7EoPuMg&oe=69C64358"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bd4f526cb7b8cf4c86b120",
+      "latePostId": "69bbb9e42f15f6d6b43749df",
+      "content": "Renting is 'throwing money away'? 🏠 In 45 of the 50 largest US cities right now, renting beats buying. With rates at 7%+, you'd need 15+ years to break even on most homes. The 'buy always wins' rule just broke. #moneyfacts #realestate #personalfinance #rentvsbuy #financetips",
+      "publishedAt": "2026-03-20T13:01:57.000Z",
+      "scheduledFor": "2026-03-20T13:01:57.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 96,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:22:42"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 96,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:22:42"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7619322260540640526?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/osEteiBwIDEfUIi9CpBgopV0SBFVSRvDUEUFwi~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=f85b8628&x-expires=1774306800&x-signature=IA%2Bz7ng238c2KaBgKdUdxQh%2BP0s%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/osEteiBwIDEfUIi9CpBgopV0SBFVSRvDUEUFwi~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=f85b8628&x-expires=1774306800&x-signature=IA%2Bz7ng238c2KaBgKdUdxQh%2BP0s%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/osEteiBwIDEfUIi9CpBgopV0SBFVSRvDUEUFwi~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=f85b8628&x-expires=1774306800&x-signature=IA%2Bz7ng238c2KaBgKdUdxQh%2BP0s%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bdcada6cb7b8cf4c8860a1",
+      "latePostId": "69bbb9f8560426ea92873ce8",
+      "content": "Being unbanked costs $40,000 more over your lifetime 💸\n\nBeing unbanked costs $40,000 more over your lifetime 💸\n\n4.5M US households have no bank account.\n\nThey pay check-cashing fees (2-10%), money order fees, and payday loan rates (400%+ APR).\n\nThe financial system charges poor people a poverty premium.\n\n#moneyfacts #personalfinance #financialliteracy #moneytips #inequality",
+      "publishedAt": "2026-03-20T22:02:03.000Z",
+      "scheduledFor": "2026-03-20T22:02:03.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 71,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 71,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=W41PJPhNi5k",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W41PJPhNi5k/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/W41PJPhNi5k/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/W41PJPhNi5k/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69bede1e6cb7b8cf4c8b1c7b",
+      "latePostId": "69bd0ca405dc33a21307bf24",
+      "content": "Cash payers subsidize credit card rewards 💳\n\nCash payers subsidize credit card rewards 💳\n\nEvery time you swipe, the merchant pays 1.5-3.5% to Visa/Mastercard.\n\nMerchants raise prices for EVERYONE to cover it.\n\nCash users pay the same price — but fund the rewards you earn.\n\n#moneyfacts #creditcards #personalfinance #moneytips #financialliteracy",
+      "publishedAt": "2026-03-21T18:00:00.000Z",
+      "scheduledFor": "2026-03-21T18:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 9,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 9,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=DGrkdpsT8eY",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/DGrkdpsT8eY/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/DGrkdpsT8eY/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/DGrkdpsT8eY/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}

@@ -41,6 +41,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 031 | baby-smell | Newborns identify mother's scent within 1 hour of birth; turn toward mom's cloth 80% of the time | question / 30s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
 | 032 | cry-pitch | Baby cries tuned to 3-5 kHz range — hardest for humans to ignore; evolutionary engineering for survival | stat_lead / 45s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 | 033 | hiccup-womb | Fetuses hiccup at 9 weeks gestation — training diaphragm muscles before birth | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 034 | twin-communication | 40% of twins develop cryptophasia — their own secret language — before speaking | question / 30s / moderate / full_captions / ai-gen | TikTok, YouTube |
+| 035 | cry-darkness | Newborn pupils can't dilate in darkness for first 3 weeks — effectively blind at night | stat_lead / 25s / fast / karaoke / ai-gen | TikTok, YouTube |
+| 036 | immune-transfer | Breastmilk reads baby's saliva, detects pathogens, engineers targeted antibodies in real time | myth_bust / 35s / slow / key_words_only / abstract-animated | TikTok, YouTube |
 
 ## Money Facts Unlocked
 
@@ -70,6 +73,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 022 | digital-money | 97%+ of US money supply exists only as digital entries; only $2.3T in physical cash vs $21T total M2 | controversy / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
 | 023 | minimum-wage-purchasing | Federal minimum wage lost 21% of real purchasing power since 1968; productivity-adjusted = $24+/hr | myth_bust / 30s / fast / key_words_only / ai-gen | YouTube, Instagram |
 | 024 | mortgage-math | $300K house at 7% for 30yr = $718K total; bank earns more on mortgage than home is worth | stat_lead / 40s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 025 | roth-ira-history | Roth IRA named after one senator who quietly inserted it in 1997; died before seeing it shelter trillions | did_you_know / 35s / slow / full_captions / ai-gen | YouTube, Instagram |
+| 026 | insurance-float | Buffett's real secret: $150B insurance float — investing other people's premiums before claims are due | controversy / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 027 | credit-invisible | 26M Americans are "credit invisible" — no score, completely locked out of housing/jobs/phones | stat_lead / 30s / moderate / key_words_only / ai-gen | YouTube, Instagram |
 
 ## AI Facts Unlocked
 
@@ -89,3 +95,6 @@ Global topic registry. The content engine MUST check this before generating new 
 | 012 | ai-chess-speed | Stockfish evaluates 70M chess positions/sec vs Magnus Carlsen's ~3/sec; AI speed vs human creativity | did_you_know / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
 | 013 | ai-translation | Google Translate processes 150B words/day — equivalent to all published human history in weeks | stat_lead / 35s / moderate / full_captions / ai-gen | YouTube, Instagram |
 | 014 | ai-diagnosis | AI diagnoses diabetic retinopathy with 90% accuracy matching ophthalmologists in 5 seconds | what_if / 30s / moderate / key_words_only / ai-gen | YouTube, Instagram |
+| 015 | ai-translation-realtime | AI translates spoken language in under 200ms — faster than human thought; beat professionals in 67% of EU segments | stat_lead / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 016 | nvidia-ai-dependency | NVIDIA controls ~90% of AI training chip market; entire AI revolution runs through one company | controversy / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 017 | ai-weather-prediction | Google's GraphCast AI outperforms 10-day weather forecasts 90% of the time; runs in under 1 minute vs 6hrs of supercomputer | myth_bust / 35s / slow / key_words_only / abstract-animated | YouTube, Instagram |

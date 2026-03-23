@@ -1,0 +1,1180 @@
+{
+  "project": "baby-facts-unlocked",
+  "collectedAt": "2026-03-23T00:03:54.262Z",
+  "dateRange": {
+    "from": "2026-03-20",
+    "to": "2026-03-21"
+  },
+  "profiles": [
+    "69b8912784a675ce87f20d3b"
+  ],
+  "totalPosts": 22,
+  "posts": [
+    {
+      "_id": "69bdb7506cb7b8cf4c8824d3",
+      "latePostId": "69bb10d7b2a1fde43409f863",
+      "content": "Newborns can hear EVERY language sound on Earth. Adults can't even do that 👶🌍 #BabyFacts #Language\n\nNewborns can hear EVERY language sound on Earth. Adults can't even do that 👶🌍 #BabyFacts #Language #MindBlown",
+      "publishedAt": "2026-03-20T21:00:10.000Z",
+      "scheduledFor": "2026-03-20T21:00:10.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 5,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 1373,
+        "engagementRate": 0.36,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 5,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 1373,
+            "engagementRate": 0.36,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=A271-M5uxJA",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/A271-M5uxJA/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/A271-M5uxJA/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/A271-M5uxJA/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69bedd1f6cb7b8cf4c8b19a4",
+      "latePostId": "69bd0c971f3e3052b3ec0453",
+      "content": "Doctors operated on babies WITHOUT anesthesia until the 1980s 😱 The medical community believed newborns couldn't feel pain. The science was wrong. Completely, catastrophically wrong. Newborns feel pain MORE acutely than adults — their inhibitory pathways aren't developed yet. #babyfacts #medicalhistory #mythbusted #newborn #science",
+      "publishedAt": "2026-03-21T18:00:53.000Z",
+      "scheduledFor": "2026-03-21T18:00:53.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 14,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 285,
+        "engagementRate": 5.61,
+        "lastUpdated": "2026-03-22 23:39:34"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 14,
+            "comments": 2,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 285,
+            "engagementRate": 5.61,
+            "lastUpdated": "2026-03-22 23:39:34"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7619770286568738061?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/owVmQIIGDfeOmIuF3mbeAxUQNoLKwGTfirFXlA~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=13d0f613&x-expires=1774306800&x-signature=ycxa%2BP3z5STfJeHSTRYLDZT0wlE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/owVmQIIGDfeOmIuF3mbeAxUQNoLKwGTfirFXlA~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=13d0f613&x-expires=1774306800&x-signature=ycxa%2BP3z5STfJeHSTRYLDZT0wlE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/owVmQIIGDfeOmIuF3mbeAxUQNoLKwGTfirFXlA~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=13d0f613&x-expires=1774306800&x-signature=ycxa%2BP3z5STfJeHSTRYLDZT0wlE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ]
+    },
+    {
+      "_id": "69bedc9d6cb7b8cf4c8b1750",
+      "latePostId": "69bd0c971f3e3052b3ec0453",
+      "content": "Doctors operated on babies WITHOUT anesthesia until the 1980s 😱\n\nDoctors operated on babies WITHOUT anesthesia until the 1980s 😱\n\nThe medical community believed newborns couldn't feel pain.\n\nThe science was wrong. Completely, catastrophically wrong.\n\nNewborns feel pain MORE acutely than adults — their inhibitory pathways aren't developed yet.\n\n#babyfacts #medicalhistory #mythbusted #newborn #science",
+      "publishedAt": "2026-03-21T17:02:41.000Z",
+      "scheduledFor": "2026-03-21T17:02:41.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 14,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 281,
+        "engagementRate": 4.98,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 14,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 281,
+            "engagementRate": 4.98,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=56MoW3Obwcs",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/56MoW3Obwcs/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/56MoW3Obwcs/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/56MoW3Obwcs/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69bd4f4d6cb7b8cf4c86b115",
+      "latePostId": "69bbb9c60aa061d6fc10b2c2",
+      "content": "Your baby is literally speaking a language 👶\n\nYour baby is literally speaking a language 👶\n\nResearchers identified 3 distinct cry types:\n• Hunger — rhythmic, low-pitched\n• Pain — sudden, high-pitched burst\n• Tiredness — whiny, nasal\n\nMost parents learn to tell them apart in just 2 weeks.\n\nYou're not guessing. You're learning.\n\n#babyfacts #newborn #parenting #babycrying #newbornlife",
+      "publishedAt": "2026-03-20T13:00:40.000Z",
+      "scheduledFor": "2026-03-20T13:00:40.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 249,
+        "engagementRate": 0.8,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 249,
+            "engagementRate": 0.8,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=LcDGf2n9YiQ",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/LcDGf2n9YiQ/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/LcDGf2n9YiQ/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/LcDGf2n9YiQ/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69bd4f526cb7b8cf4c86b122",
+      "latePostId": "69bbb9c60aa061d6fc10b2c2",
+      "content": "Your baby is literally speaking a language 👶 Researchers identified 3 distinct cry types: • Hunger — rhythmic, low-pitched • Pain — sudden, high-pitched burst • Tiredness — whiny, nasal Most parents learn to tell them apart in just 2 weeks. You're not guessing. You're learning. #babyfacts #newborn #parenting #babycrying #newbornlife",
+      "publishedAt": "2026-03-20T13:01:58.000Z",
+      "scheduledFor": "2026-03-20T13:01:58.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 7,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 168,
+        "engagementRate": 4.17,
+        "lastUpdated": "2026-03-22 23:39:34"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 7,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 168,
+            "engagementRate": 4.17,
+            "lastUpdated": "2026-03-22 23:39:34"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7619322258208623885?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oMi9FFmwEQdQgfvDU6fVAIGEB1iKpDStDDQpBK~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=78198520&x-expires=1774306800&x-signature=26A8KtU1H5dGZ9lmx6mo6zgv1NM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oMi9FFmwEQdQgfvDU6fVAIGEB1iKpDStDDQpBK~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=78198520&x-expires=1774306800&x-signature=26A8KtU1H5dGZ9lmx6mo6zgv1NM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oMi9FFmwEQdQgfvDU6fVAIGEB1iKpDStDDQpBK~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=78198520&x-expires=1774306800&x-signature=26A8KtU1H5dGZ9lmx6mo6zgv1NM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ]
+    },
+    {
+      "_id": "69be9ca26cb7b8cf4c8a56f1",
+      "latePostId": "69bd0c3acda0b78fef4c6ce7",
+      "content": "Deaf babies babble with their hands 🤟 By 6 months, hearing babies babble sounds specific to their native language. Deaf babies raised with sign language babble the same way — with hand shapes. Language is hardwired. Mouth vs hands doesn't matter. #babyfacts #babylanguage #signlanguage #development #amazingfacts",
+      "publishedAt": "2026-03-21T13:01:25.000Z",
+      "scheduledFor": "2026-03-21T13:01:25.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 170,
+        "engagementRate": 2.35,
+        "lastUpdated": "2026-03-22 23:39:34"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 4,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 170,
+            "engagementRate": 2.35,
+            "lastUpdated": "2026-03-22 23:39:34"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7619692973474860301?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ogCwvdFvDQDnl3DEa8Dgf2EGp9QGBe5DSLCpMB~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=81c0308c&x-expires=1774306800&x-signature=gd8SspJITeJgj7E3UT%2Be7Hx%2Fw5Y%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ogCwvdFvDQDnl3DEa8Dgf2EGp9QGBe5DSLCpMB~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=81c0308c&x-expires=1774306800&x-signature=gd8SspJITeJgj7E3UT%2Be7Hx%2Fw5Y%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ogCwvdFvDQDnl3DEa8Dgf2EGp9QGBe5DSLCpMB~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=81c0308c&x-expires=1774306800&x-signature=gd8SspJITeJgj7E3UT%2Be7Hx%2Fw5Y%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ]
+    },
+    {
+      "_id": "69bf0b0d6cb7b8cf4c8b9d99",
+      "latePostId": "69b97ed849be5bea2da5729b",
+      "content": "Your baby doubles their weight in 5 months. If you grew that fast youd weigh 300+ lbs #BabyFacts",
+      "publishedAt": "2026-03-21T21:08:27.000Z",
+      "scheduledFor": "2026-03-21T21:08:27.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 122,
+        "engagementRate": 2.46,
+        "lastUpdated": "2026-03-22 23:39:34"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 3,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 122,
+            "engagementRate": 2.46,
+            "lastUpdated": "2026-03-22 23:39:34"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7619818656532335886?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oI3ISfjEwLQHvRNpEGBQBC3FFfF8tCwSDDcBgJ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=6ccbd877&x-expires=1774306800&x-signature=uK%2Bcew1pmUtKlRcvogNIMOgL%2BwE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oI3ISfjEwLQHvRNpEGBQBC3FFfF8tCwSDDcBgJ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=6ccbd877&x-expires=1774306800&x-signature=uK%2Bcew1pmUtKlRcvogNIMOgL%2BwE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER",
+          "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oI3ISfjEwLQHvRNpEGBQBC3FFfF8tCwSDDcBgJ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=6ccbd877&x-expires=1774306800&x-signature=uK%2Bcew1pmUtKlRcvogNIMOgL%2BwE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER"
+        }
+      ]
+    },
+    {
+      "_id": "69bf2fe46cb7b8cf4c8c0294",
+      "latePostId": "69bd0c9a1f3e3052b3ec0531",
+      "content": "Late walkers aren't behind — the range is massive 👣 Average walking age: 12 months. Normal range: 9-15 months. Einstein reportedly didn't walk until 15 months. Stop comparing. The range exists because every brain develops differently. #babyfacts #babywalking #developmentmilestones #parenting #newparent",
+      "publishedAt": "2026-03-21T23:02:07.000Z",
+      "scheduledFor": "2026-03-21T23:02:07.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 119,
+        "engagementRate": 1.68,
+        "lastUpdated": "2026-03-22 23:39:34"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 119,
+            "engagementRate": 1.68,
+            "lastUpdated": "2026-03-22 23:39:34"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7619847958552464653?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ogYIIcmLwgfGdNHAdTAfI2gIcEIfGeOKQ3WNYf~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=02d79f6c&x-expires=1774306800&x-signature=WG5FUjzQYB9SKZ6%2FDcUOYnqRnIk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ogYIIcmLwgfGdNHAdTAfI2gIcEIfGeOKQ3WNYf~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=02d79f6c&x-expires=1774306800&x-signature=WG5FUjzQYB9SKZ6%2FDcUOYnqRnIk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ogYIIcmLwgfGdNHAdTAfI2gIcEIfGeOKQ3WNYf~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=02d79f6c&x-expires=1774306800&x-signature=WG5FUjzQYB9SKZ6%2FDcUOYnqRnIk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ]
+    },
+    {
+      "_id": "69bdd8086cb7b8cf4c8884c8",
+      "latePostId": "69bbb9d50aa061d6fc10b38c",
+      "content": "Newborns aren't 'nearly blind' — they're perfectly calibrated 👁️\n\nThey see best at 8-12 inches.\n\nThat's EXACTLY the distance from a nursing mother's breast to her face.\n\nEvolution didn't leave this to chance.\n\n#babyfacts #newborn #babyeyes #evolution #parentingfacts",
+      "publishedAt": "2026-03-20T23:03:23.000Z",
+      "scheduledFor": "2026-03-20T23:03:23.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 115,
+        "reach": 106,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 115,
+        "engagementRate": 0.87,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 115,
+            "reach": 106,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 115,
+            "engagementRate": 0.87,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWH72IXFDPp/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/654760858_1843547376361853_8465593160323654260_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=E0hYgmxglWEQ7kNvwFpUjW_&_nc_oc=AdoL9c0mXqBDt_jtrRbIZM5Tq-p3yMEDXj3nwy8TjzQ6tr00epm2ZP6Jls_c3U1fN4Y&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&_nc_tpa=Q5bMBQF4Awc8JEcPguN-MtyBDf3Z-ZOgytRcoVHSaJKJXQ-kMEnSHVa5QIzJSm787W_HwgZrbm-mJhx0BQ&oh=00_AfwOtl2nI8ShCcydX1K6pZaGdH0ffUNdk3QnmvNiJ-5e-Q&oe=69C65C60",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQNDJHOfpI5AqTQAWTkONUgy9tEYdpVdJF5wkJZiEj4LZlbde-Fi5QJsRGrakmAlmAS4MhKl11637LspbmLXNC6ZMt4Kmo7jMIszMJA.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=Ljg7Ykk2HDgQ7kNvwG2EYTf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjI3OTU1NzA0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e0515267b24f2af6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NjQ5M0I3RDY3QzA2NUQ0MzFCQkI0MUFCQjJGMTM5OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZGNENBQ0ZEQzg0QUMxOTY4MTA3MTlGN0RCMzYwREFGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0uP6ZioGWQBUCKAJDMywXQDwAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQF68eukruCwmB7Jerm2Vfae4slomFz70ENLklDOm71Ef9r0XOzmBB6B1bvUlcQM4xF32VHOJzf_mQ&oh=00_AfwIS1UqYzxbOXUhkkP6quzMDPscTAJEE-3j1ATNHr-cTw&oe=69C2595C",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/654760858_1843547376361853_8465593160323654260_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=E0hYgmxglWEQ7kNvwFpUjW_&_nc_oc=AdoL9c0mXqBDt_jtrRbIZM5Tq-p3yMEDXj3nwy8TjzQ6tr00epm2ZP6Jls_c3U1fN4Y&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&_nc_tpa=Q5bMBQF4Awc8JEcPguN-MtyBDf3Z-ZOgytRcoVHSaJKJXQ-kMEnSHVa5QIzJSm787W_HwgZrbm-mJhx0BQ&oh=00_AfwOtl2nI8ShCcydX1K6pZaGdH0ffUNdk3QnmvNiJ-5e-Q&oe=69C65C60"
+        }
+      ]
+    },
+    {
+      "_id": "69bf0b206cb7b8cf4c8b9dcc",
+      "latePostId": "69bb10de5a59a7188ba16891",
+      "content": "Babies spend 50% of their sleep dreaming. Adults only dream for 20% 💤✨ #BabyFacts #Dreams #Sleep",
+      "publishedAt": "2026-03-21T21:02:26.000Z",
+      "scheduledFor": "2026-03-21T21:02:26.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 111,
+        "reach": 107,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 111,
+        "engagementRate": 0.9,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 111,
+            "reach": 107,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 111,
+            "engagementRate": 0.9,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWKSzgHDZHY/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/655221191_1997472767856768_1355086902241189821_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2VgbOgy84aIQ7kNvwFl1LGD&_nc_oc=AdpCKt-KmZ4clODEblX0Jnx1qNsncb0KUxeV5_x1_6xVmwyyqKEQQ4yvZgn08Bg2otk&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&_nc_tpa=Q5bMBQHL6EBfB3DLIozAK11ZmDssuaPGCv5VxuOaXkaiLFGSrKxbt5vd29PDdZ7r8XjcdzHHdB7sTNMHiw&oh=00_Afz264HnoJGXPCsPjlWRlkK5Lk-2I5iw0pL6bvESIWMK3w&oe=69C66C6D",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQM3KZ50ppAYavsNbnntot5K0qX3-MQJTNI56v7Tol8iwjSpzeiladTbYek9Vee88VVTRFC0LvLIix9ZuljuNMAYFF6Sy3I0QCxQVGY.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=59jJbVUsOpYQ7kNvwEWUvc1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjMxNzcyMTU0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b4cf097b6c7d7816&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xRDRENUY5QzYxMkM3NUE4NTI5QUIyQjg3NjUwNDk4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0E4NENCM0QzNkY1NUE0N0Q1MTM0RjRERUU3Nzg4NkFCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb07YLXpZeWQBUCKAJDMywXQDxcKPXCj1wYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGzcRl7Sv58srg2Ab2i95e7JI7egMjuGakPTZJA2zG5cLIVtYotU9jVIhX-0RKIlyurBpXMZDChpg&oh=00_Afy3tVYCh5rkgUBzlHiRt6UBcP0r_fcCghj9IObZtqIBUQ&oe=69C256C3",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/655221191_1997472767856768_1355086902241189821_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2VgbOgy84aIQ7kNvwFl1LGD&_nc_oc=AdpCKt-KmZ4clODEblX0Jnx1qNsncb0KUxeV5_x1_6xVmwyyqKEQQ4yvZgn08Bg2otk&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&_nc_tpa=Q5bMBQHL6EBfB3DLIozAK11ZmDssuaPGCv5VxuOaXkaiLFGSrKxbt5vd29PDdZ7r8XjcdzHHdB7sTNMHiw&oh=00_Afz264HnoJGXPCsPjlWRlkK5Lk-2I5iw0pL6bvESIWMK3w&oe=69C66C6D"
+        }
+      ]
+    },
+    {
+      "_id": "69bedd706cb7b8cf4c8b1aad",
+      "latePostId": "69bd0c971f3e3052b3ec0453",
+      "content": "Doctors operated on babies WITHOUT anesthesia until the 1980s 😱\n\nThe medical community believed newborns couldn't feel pain.\n\nThe science was wrong. Completely, catastrophically wrong.\n\nNewborns feel pain MORE acutely than adults — their inhibitory pathways aren't developed yet.\n\n#babyfacts #medicalhistory #mythbusted #newborn #science",
+      "publishedAt": "2026-03-21T18:02:10.000Z",
+      "scheduledFor": "2026-03-21T18:02:10.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 109,
+        "reach": 103,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 109,
+        "engagementRate": 0.92,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 109,
+            "reach": 103,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 109,
+            "engagementRate": 0.92,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWJ-JA1EWqp/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/655502084_1412898516806819_6003328546740272390_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=u0IAvLvmfKUQ7kNvwFaX5w1&_nc_oc=Ado6b7Pc6if6ZlLiWl--vRtceYnb0-Z0rbtSaGiENBgTbby7OTcKZYk96PZdzsO70E4&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&_nc_tpa=Q5bMBQGdOVIAg4yaMeFfC4rFne6aFVBNYNjAxmOavPneZi3-a6YVjFL5YZrB9dzDBIuNKnRZAo5JRPhBrg&oh=00_AfwJITPBBSLFrUcBGRZuZ4pelO7-Yragj8NG4OSHHxOOXQ&oe=69C64E8E",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQPz9RhP3-Nw96CyRBeHXX2ZVn1inI2mf6xi4J847xo82nDixnddmX8Kai8J_zVsOJ6fmiV4KZDFAI4k8BHVLua1dEkqz0sDgM-nsD0.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=okJNewUtGgIQ7kNvwH8HB0D&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjMxMzM5ODg0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=483f7bab8fa3f16d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DMjRGRDc3NDYxNUZFNzQ5QTdEQkRBRThFRjcxOEE4QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzMzNDZBRjgzQjI3Mzk0M0JGNkM0QjA0RTExQzAwNEE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0usXO45SWQBUCKAJDMywXQEsqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGZKhkuDuJjSgbnFYuJHbyXce8DH63R1SCPRms9eYHnYi0zwDo_KUjBwz-G_w5PWw3f8FxMM8RgjQ&oh=00_Afzm1cS7f4aidJpKhrlI2uLJ_CdVVoXgsYSP-PVgiCoZug&oe=69C2493D",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/655502084_1412898516806819_6003328546740272390_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=u0IAvLvmfKUQ7kNvwFaX5w1&_nc_oc=Ado6b7Pc6if6ZlLiWl--vRtceYnb0-Z0rbtSaGiENBgTbby7OTcKZYk96PZdzsO70E4&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&_nc_tpa=Q5bMBQGdOVIAg4yaMeFfC4rFne6aFVBNYNjAxmOavPneZi3-a6YVjFL5YZrB9dzDBIuNKnRZAo5JRPhBrg&oh=00_AfwJITPBBSLFrUcBGRZuZ4pelO7-Yragj8NG4OSHHxOOXQ&oe=69C64E8E"
+        }
+      ]
+    },
+    {
+      "_id": "69bd9f106cb7b8cf4c87dbe6",
+      "latePostId": "69b97ed149be5bea2da5720b",
+      "content": "Your newborn already knows who you are. Babies can recognize their mother's voice from the moment th\n\nYour newborn already knows who you are. Babies can recognize their mother's voice from the moment they're born because they've been listening to it for months in the womb. Studies show they even prefer mom's voice over strangers. #BabyFacts #Shorts #NewMom #BabyDevelopment",
+      "publishedAt": "2026-03-20T18:27:18.000Z",
+      "scheduledFor": "2026-03-20T18:27:18.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 109,
+        "engagementRate": 0.92,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 109,
+            "engagementRate": 0.92,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=J2Ju-V7XaH0",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/J2Ju-V7XaH0/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/J2Ju-V7XaH0/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/J2Ju-V7XaH0/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69bd8cb86cb7b8cf4c879524",
+      "latePostId": "69bbb9cf0aa061d6fc10b361",
+      "content": "40% lower mortality rate. Just from holding your baby. 🤱 Skin-to-skin contact — 'kangaroo care' — is more effective than incubators for stable premature babies. Heart rate stabilizes. Temperature regulates. Breathing slows. Your heartbeat is their first medicine. #babyfacts #premature #kangaroocare #newborn #parentingtips",
+      "publishedAt": "2026-03-20T18:00:59.000Z",
+      "scheduledFor": "2026-03-20T18:00:59.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 109,
+        "engagementRate": 0.92,
+        "lastUpdated": "2026-03-22 23:39:34"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 109,
+            "engagementRate": 0.92,
+            "lastUpdated": "2026-03-22 23:39:34"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7619399328645303565?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oU9eIQ3QGfQaxFFIAIerTfDvELmLYmOALW2Go7~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=96af91e9&x-expires=1774306800&x-signature=OTJKbtzeaQpL9jx1H6%2FkO8pMoT8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oU9eIQ3QGfQaxFFIAIerTfDvELmLYmOALW2Go7~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=96af91e9&x-expires=1774306800&x-signature=OTJKbtzeaQpL9jx1H6%2FkO8pMoT8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oU9eIQ3QGfQaxFFIAIerTfDvELmLYmOALW2Go7~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=96af91e9&x-expires=1774306800&x-signature=OTJKbtzeaQpL9jx1H6%2FkO8pMoT8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ]
+    },
+    {
+      "_id": "69bf28796cb7b8cf4c8bf056",
+      "latePostId": "69bd0c9a1f3e3052b3ec0531",
+      "content": "Late walkers aren't behind — the range is massive 👣\n\nAverage walking age: 12 months.\nNormal range: 9-15 months.\n\nEinstein reportedly didn't walk until 15 months.\n\nStop comparing. The range exists because every brain develops differently.\n\n#babyfacts #babywalking #developmentmilestones #parenting #newparent",
+      "publishedAt": "2026-03-21T23:02:34.000Z",
+      "scheduledFor": "2026-03-21T23:02:34.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 107,
+        "reach": 101,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 107,
+        "engagementRate": 0.93,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 107,
+            "reach": 101,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 107,
+            "engagementRate": 0.93,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWKgjAMgXzt/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656624773_2953527098180153_1734728549886378762_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_IA1VTp4sbUQ7kNvwF1luHV&_nc_oc=Adph7wt_Cy-_yPYWFIU161KzdDS29Lz9jr4Pq7mhTNid7VLmR5HufG9pVl7HHlDSoSg&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&_nc_tpa=Q5bMBQEbsptM2WRrgRRS7AfNqm4oMgAzqkA5BwQTcjlTwLItOPsHwiEX932prob7_HEmJ16zWvCzatuDAg&oh=00_Afw1NwHpa8WJF1zExt26XWcKiesx_tbokKePJUGl-Qhhng&oe=69C64A27",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQOzBClq3qVsNc7Dbb-74b0-njf7H3BkePtNw9gjjqT0lcS5M5UQcE-YyUuGP4LtHJl9biTtjdJnxaoCPDr85DXiRZiad4GQPb8-4A0.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=1k2pmjef6BUQ7kNvwHmdGF7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjMxOTczNjM0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1a2a19ac7f61deb5&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EOTQ1OURCN0MwMTQ1NDZFNDc5MjA4QkU2OUNEQTY5MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0QxNDkwRjQzRTQ5NTNBRDc3RjgzOTZGQUE1Q0JGMTlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0wdPlu5iWQBUCKAJDMywXQEjqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFuF02RC2YB2h0qnzz5IQ9mD6mf35w_wZZO62aHIGt7HqyrCaFLDG3u7LfgL_qHHBWHBRLBTULXRQ&oh=00_AfysptFfdGoFZkXUMy0p3mJlr0z4jVpBsjaw-MbC62hkYA&oe=69C24A52",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656624773_2953527098180153_1734728549886378762_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_IA1VTp4sbUQ7kNvwF1luHV&_nc_oc=Adph7wt_Cy-_yPYWFIU161KzdDS29Lz9jr4Pq7mhTNid7VLmR5HufG9pVl7HHlDSoSg&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&_nc_tpa=Q5bMBQEbsptM2WRrgRRS7AfNqm4oMgAzqkA5BwQTcjlTwLItOPsHwiEX932prob7_HEmJ16zWvCzatuDAg&oh=00_Afw1NwHpa8WJF1zExt26XWcKiesx_tbokKePJUGl-Qhhng&oe=69C64A27"
+        }
+      ]
+    },
+    {
+      "_id": "69bd8c2b6cb7b8cf4c87922b",
+      "latePostId": "69bbb9cf0aa061d6fc10b361",
+      "content": "40% lower mortality rate. Just from holding your baby. 🤱\n\nSkin-to-skin contact — 'kangaroo care' — is more effective than incubators for stable premature babies.\n\nHeart rate stabilizes. Temperature regulates. Breathing slows.\n\nYour heartbeat is their first medicine.\n\n#babyfacts #premature #kangaroocare #newborn #parentingtips",
+      "publishedAt": "2026-03-20T18:01:24.000Z",
+      "scheduledFor": "2026-03-20T18:01:24.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 106,
+        "reach": 100,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 106,
+        "engagementRate": 1.89,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 106,
+            "reach": 100,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 106,
+            "engagementRate": 1.89,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWHZSYHjjbV/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/655215582_690709540766207_8573832765353590701_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rCA9JgB_naIQ7kNvwFV-ZXJ&_nc_oc=AdoTuEFixm4R9OeHEK-yRnYQhzuUq0Tv7YGsXAGtocTna9PkEJH-2-5BcSyB3vR1rgE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&_nc_tpa=Q5bMBQFSvEf-LB4E49infd5vFIpKUzZY9rUDmzeTQ1tzFDefn_v93u0MoFxCCkSaYmnNcnVnfqdVY99qNg&oh=00_AfyRyql_tW8yAr7jwFMkDTMso_DFUZ-GYA3I5I1O7rrJpQ&oe=69C65C24",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQOzTGpivj4uwtWOxHOfzBtOPoDlH66IFKxTT50eHG1hpuI_UMoGOJ6ypYa7T1k257Z0bYw39P6Wqs733mV9X9l6QVJHfkJjDoYlYzc.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=8NGjcIQcCzgQ7kNvwFbIU9B&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjI3MzYxMzE0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8dad4e6718865e76&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FRTRCQzNCNjU1M0YxMzBEMERDRDg3OUEwOENFQzc4Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzdFNEU5MDM1NUQyRTE5QkQ1MkQxNkYwNkNCNTIyODk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0kcWsz_2VQBUCKAJDMywXQDqAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFBobO6mykqhm9Msi7z7FRawGe5sC-KS_7ymyPLjR7RgS29VIz7VOwZiDHhdDPGSdah1XaAQaCaXg&oh=00_Afyczp_QvL1YVuZj7-pHQxHPrxs-B99p2xAiS1163X5u2w&oe=69C25617",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/655215582_690709540766207_8573832765353590701_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rCA9JgB_naIQ7kNvwFV-ZXJ&_nc_oc=AdoTuEFixm4R9OeHEK-yRnYQhzuUq0Tv7YGsXAGtocTna9PkEJH-2-5BcSyB3vR1rgE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=UqJgWLWUlBJmdRHxXBOKEA&_nc_tpa=Q5bMBQFSvEf-LB4E49infd5vFIpKUzZY9rUDmzeTQ1tzFDefn_v93u0MoFxCCkSaYmnNcnVnfqdVY99qNg&oh=00_AfyRyql_tW8yAr7jwFMkDTMso_DFUZ-GYA3I5I1O7rrJpQ&oe=69C65C24"
+        }
+      ]
+    },
+    {
+      "_id": "69bddb736cb7b8cf4c888d7c",
+      "latePostId": "69bbb9d50aa061d6fc10b38c",
+      "content": "Newborns aren't 'nearly blind' — they're perfectly calibrated 👁️ They see best at 8-12 inches. That's EXACTLY the distance from a nursing mother's breast to her face. Evolution didn't leave this to chance. #babyfacts #newborn #babyeyes #evolution #parentingfacts",
+      "publishedAt": "2026-03-20T23:02:55.000Z",
+      "scheduledFor": "2026-03-20T23:02:55.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 97,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:39:34"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 97,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:39:34"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7619477092576546061?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o4f3fAA98TgRvhrfDMGmCJFwSQOIWAlvu08gfm~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=280d0dc4&x-expires=1774306800&x-signature=Do8QiAJRwgfsAv45GndOYtmkpPQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o4f3fAA98TgRvhrfDMGmCJFwSQOIWAlvu08gfm~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=280d0dc4&x-expires=1774306800&x-signature=Do8QiAJRwgfsAv45GndOYtmkpPQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o4f3fAA98TgRvhrfDMGmCJFwSQOIWAlvu08gfm~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=280d0dc4&x-expires=1774306800&x-signature=Do8QiAJRwgfsAv45GndOYtmkpPQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ]
+    },
+    {
+      "_id": "69bdcc196cb7b8cf4c8864ae",
+      "latePostId": "69b97ed34d6c378d8d6966f4",
+      "content": "Your newborn already knows your voice from the womb. They even prefer it over strangers #BabyFacts #NewMom",
+      "publishedAt": "2026-03-20T22:16:54.000Z",
+      "scheduledFor": "2026-03-20T22:16:54.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 96,
+        "engagementRate": 1.04,
+        "lastUpdated": "2026-03-22 23:39:34"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 96,
+            "engagementRate": 1.04,
+            "lastUpdated": "2026-03-22 23:39:34"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7619465274470763790?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/osddxASDpBxej1GFEr3c7EIrwD39fvygyBI1WW~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=4e68cf96&x-expires=1774306800&x-signature=I8l%2BwnIHbIF6KoztUaOuAjxNwYU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/osddxASDpBxej1GFEr3c7EIrwD39fvygyBI1WW~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=4e68cf96&x-expires=1774306800&x-signature=I8l%2BwnIHbIF6KoztUaOuAjxNwYU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER",
+          "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/osddxASDpBxej1GFEr3c7EIrwD39fvygyBI1WW~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=4e68cf96&x-expires=1774306800&x-signature=I8l%2BwnIHbIF6KoztUaOuAjxNwYU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER"
+        }
+      ]
+    },
+    {
+      "_id": "69beb0126cb7b8cf4c8a9005",
+      "latePostId": "69b97ed649be5bea2da57261",
+      "content": "Imagine doubling YOUR weight in 5 months. That's exactly what your baby does. The first year is the\n\nImagine doubling YOUR weight in 5 months. That's exactly what your baby does. The first year is the fastest growth period in a human's entire life. If adults grew at the same rate, we'd weigh 300+ pounds by summer. #BabyFacts #Shorts #BabyGrowth #ParentingFacts",
+      "publishedAt": "2026-03-21T14:32:00.000Z",
+      "scheduledFor": "2026-03-21T14:32:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 69,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 69,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=ByR8UQHpQ7Y",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ByR8UQHpQ7Y/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/ByR8UQHpQ7Y/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/ByR8UQHpQ7Y/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69bf1a1f6cb7b8cf4c8bcb40",
+      "latePostId": "69bd0c9a1f3e3052b3ec0531",
+      "content": "Late walkers aren't behind — the range is massive 👣\n\nLate walkers aren't behind — the range is massive 👣\n\nAverage walking age: 12 months.\nNormal range: 9-15 months.\n\nEinstein reportedly didn't walk until 15 months.\n\nStop comparing. The range exists because every brain develops differently.\n\n#babyfacts #babywalking #developmentmilestones #parenting #newparent",
+      "publishedAt": "2026-03-21T22:01:51.000Z",
+      "scheduledFor": "2026-03-21T22:01:51.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 68,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 68,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=B5I5fD5HNLw",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/B5I5fD5HNLw/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/B5I5fD5HNLw/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/B5I5fD5HNLw/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69bdcc196cb7b8cf4c8864ac",
+      "latePostId": "69bbb9d50aa061d6fc10b38c",
+      "content": "Newborns aren't 'nearly blind' — they're perfectly calibrated 👁️\n\nNewborns aren't 'nearly blind' — they're perfectly calibrated 👁️\n\nThey see best at 8-12 inches.\n\nThat's EXACTLY the distance from a nursing mother's breast to her face.\n\nEvolution didn't leave this to chance.\n\n#babyfacts #newborn #babyeyes #evolution #parentingfacts",
+      "publishedAt": "2026-03-20T22:02:00.000Z",
+      "scheduledFor": "2026-03-20T22:02:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 35,
+        "engagementRate": 2.86,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 35,
+            "engagementRate": 2.86,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=iW34vWfkGEU",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iW34vWfkGEU/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/iW34vWfkGEU/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/iW34vWfkGEU/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69bd8cb86cb7b8cf4c879521",
+      "latePostId": "69bbb9cf0aa061d6fc10b361",
+      "content": "40% lower mortality rate. Just from holding your baby. 🤱\n\n40% lower mortality rate. Just from holding your baby. 🤱\n\nSkin-to-skin contact — 'kangaroo care' — is more effective than incubators for stable premature babies.\n\nHeart rate stabilizes. Temperature regulates. Breathing slows.\n\nYour heartbeat is their first medicine.\n\n#babyfacts #premature #kangaroocare #newborn #parentingtips",
+      "publishedAt": "2026-03-20T18:01:17.000Z",
+      "scheduledFor": "2026-03-20T18:01:17.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 4,
+        "engagementRate": 25,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 4,
+            "engagementRate": 25,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=zGuJ4kGuCYU",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/zGuJ4kGuCYU/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/zGuJ4kGuCYU/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/zGuJ4kGuCYU/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69beb0126cb7b8cf4c8a9006",
+      "latePostId": "69be9df6bd98908c56534967",
+      "content": "Becoming a new parent? Here are the surprising facts, science-backed tips, and little-known tricks t\n\nBecoming a new parent? Here are the surprising facts, science-backed tips, and little-known tricks that doctors and parenting books don't always mention.\n\n⏱️ Chapters:\n0:00 Introduction\n0:35 Sleep & Soothing\n4:30 Feeding & Growth\n9:00 Development & Bonding\n13:30 Outro\n\n#newparent #babyfacts #parentingtips #newborn #babytips #newborntips #parentinghacks #babysleep #newmom #newdad",
+      "publishedAt": "2026-03-21T13:33:33.000Z",
+      "scheduledFor": "2026-03-21T13:33:33.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 4,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-22 23:59:32"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 4,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-22 23:59:32"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=jUjlPsjV7ck",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jUjlPsjV7ck/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/jUjlPsjV7ck/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/jUjlPsjV7ck/default.jpg"
+        }
+      ]
+    }
+  ]
+}

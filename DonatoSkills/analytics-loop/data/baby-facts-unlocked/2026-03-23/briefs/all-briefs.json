@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-03-23T00:03:54.480Z",
+  "project": "baby-facts-unlocked",
+  "date": "2026-03-24",
+  "scoring_cycles": 3,
+  "cold_start": false,
+  "suppressed_values": 0,
+  "winning_template": null,
+  "research_week": "2026-12",
+  "channels": [
+    {
+      "date": "2026-03-24",
+      "channel": "BabyFactsUnlocked",
+      "profile_id": "69b891386cb7b8cf4c78c31d",
+      "briefs": [
+        {
+          "slot": 1,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for BabyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-12): Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+          "schedule_time": "09:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 2,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for BabyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-12): Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+          "schedule_time": "14:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 3,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for BabyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-12): Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+          "schedule_time": "19:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        }
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "channel": "BabyFactsUnlocked",
+      "profile_id": "69b8af216cb7b8cf4c791725",
+      "briefs": [
+        {
+          "slot": 1,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for BabyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-12): Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+          "schedule_time": "09:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 2,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for BabyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-12): Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+          "schedule_time": "14:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 3,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for BabyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-12): Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+          "schedule_time": "19:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        }
+      ]
+    },
+    {
+      "date": "2026-03-24",
+      "channel": "BabyFactsUnlocked",
+      "profile_id": "69b994a46cb7b8cf4c7baa8e",
+      "briefs": [
+        {
+          "slot": 1,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for BabyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-12): Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+          "schedule_time": "09:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 2,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for BabyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-12): Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+          "schedule_time": "14:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 3,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for BabyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-12): Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
+          "schedule_time": "19:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        }
+      ]
+    }
+  ]
+}

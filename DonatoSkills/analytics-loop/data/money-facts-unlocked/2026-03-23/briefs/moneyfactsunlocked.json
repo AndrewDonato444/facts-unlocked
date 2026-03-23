@@ -1,0 +1,31 @@
+{
+  "date": "2026-03-24",
+  "channel": "MoneyFactsUnlocked",
+  "profile_id": "69b995666cb7b8cf4c7bad79",
+  "briefs": [
+    {
+      "slot": 1,
+      "type": "explore",
+      "template": {},
+      "topic_guidance": "Exploratory content for MoneyFactsUnlocked. Topic area: general. Pillars: .",
+      "schedule_time": "09:00",
+      "note": "Cold start — no winning template yet. Maximize variable diversity."
+    },
+    {
+      "slot": 2,
+      "type": "explore",
+      "template": {},
+      "topic_guidance": "Exploratory content for MoneyFactsUnlocked. Topic area: general. Pillars: .",
+      "schedule_time": "14:00",
+      "note": "Cold start — no winning template yet. Maximize variable diversity."
+    },
+    {
+      "slot": 3,
+      "type": "explore",
+      "template": {},
+      "topic_guidance": "Exploratory content for MoneyFactsUnlocked. Topic area: general. Pillars: .",
+      "schedule_time": "19:00",
+      "note": "Cold start — no winning template yet. Maximize variable diversity."
+    }
+  ]
+}
