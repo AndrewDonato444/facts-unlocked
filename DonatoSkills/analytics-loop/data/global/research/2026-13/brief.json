@@ -1,0 +1,205 @@
+{
+  "generated_at": "2026-03-23T08:00:00.000Z",
+  "week": "2026-13",
+  "date": "2026-03-23",
+  "sources_fetched": ["Robert Benjamin", "vidIQ", "Creator Insider", "web"],
+  "sources_skipped": ["Reddit"],
+  "signals": [
+    {
+      "signal": "50-60% of viewers who drop off do so within the first 3 seconds — hook quality is the single biggest retention lever.",
+      "source": "vidIQ",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "50-60% of viewers who drop off do so within the first 3 seconds. More significantly, Shorts with an immediate hook in the first 2 seconds retain 19% more viewers."
+    },
+    {
+      "signal": "A 3-part hook (visual + 3-7 word text + 5-10 word verbal) must fire within the first 3 seconds; single-idea rule — if it needs a second sentence to explain, it's too complex.",
+      "source": "vidIQ",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Keep verbal hooks to 5-10 words maximum. All hooks must occur within the first 3 seconds. If it needs a second sentence to make sense, it's too complex."
+    },
+    {
+      "signal": "Faceless voiceover Shorts have a structural loop advantage — no face/body language signals a restart, making loop transitions invisible to viewers.",
+      "source": "virvid.ai",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "There's no face, no body language, no physical continuity cue signaling restart. The transition feels invisible to viewers, enabling stronger loop effects. 58% of faceless YouTube Shorts creators reported higher retention rates in 2025."
+    },
+    {
+      "signal": "Since March 31, 2025, each loop/replay counts as an additional view — seamless looping directly inflates both view count and algorithmic quality signals simultaneously.",
+      "source": "virvid.ai",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-03-31",
+      "raw_quote": "YouTube counts each loop as an additional view, meaning a viewer watching a 20-second Short three times generates three separate views."
+    },
+    {
+      "signal": "Retention benchmark for viral Shorts: 74% first-hour view velocity success average (VVSA); target 70%+ watch-through rate. Shorts averaging 76% retention are reaching 1M+ views.",
+      "source": "web",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Successful Shorts in March 2026 data averaged a 74 percent first-hour view velocity success average (VVSA). Target 70%+ watch-through rate, with viral Shorts with 1M+ views averaging 76% retention."
+    },
+    {
+      "signal": "Shorts older than roughly 30 days are now much less likely to be pushed in recommendations — the evergreen compounding model has ended.",
+      "source": "Creator Insider",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "There's been a shift away from the evergreen model where a Short could keep compounding views for months, with Shorts older than roughly 30 days now much less likely to be pushed in recommendations."
+    },
+    {
+      "signal": "YouTube now uses 'Engaged Views' (watch past initial seconds + interaction) as the primary quality metric for monetization and YPP eligibility — raw view count is no longer sufficient.",
+      "source": "vidIQ",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2025-03-31",
+      "raw_quote": "YouTube now distinguishes between two types of metrics: Engaged Views (when the viewer interacts meaningfully, watches beyond a few seconds, likes, comments, etc.) with only Engaged Views counting toward critical metrics such as YouTube Partner Program (YPP) eligibility and revenue payouts."
+    },
+    {
+      "signal": "Optimal video length for educational/fact content is 25-45 seconds; a 30-second Short with 85% completion consistently outperforms a 60-second video with 50% watch rate.",
+      "source": "web",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "A 30-second short with ~85% completion typically outperforms a 60-second video with ~50% watch rate."
+    },
+    {
+      "signal": "Changing visuals every 2-4 seconds and adding micro open loops every 5-8 seconds are the primary mid-video retention tools after the hook.",
+      "source": "web",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Change something every 1-2 seconds (shot size, overlay, angle, pace). Use micro open loops every 5-8 seconds."
+    },
+    {
+      "signal": "Algorithm no longer cares about channel size — viewer response signals (hook hold rate, completion, replays) are the primary distribution driver at any subscriber count.",
+      "source": "web",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "YouTube Shorts doesn't care about your channel size as much as it cares about viewer response."
+    }
+  ],
+  "tactics": [
+    {
+      "rank": 1,
+      "tactic": "Open every Short with a 3-part hook firing in the first 2 seconds: (1) bold visual — show the result/surprise, not the setup; (2) 3-7 word text overlay stating the fact or question; (3) voiceover beginning within 1 second using 5-10 words. Use 'Did You Know', result-first, or 'X vs Y' formats — no greetings, no context dumps.",
+      "why": "50-60% of viewers drop within the first 3 seconds; immediate 2-second hooks retain 19% more viewers. 'Did You Know' format alone produced 31M views for Nas Daily. The single-idea rule: if the hook needs two sentences, it's too complex.",
+      "source": "vidIQ",
+      "test_ideas": [
+        "'Did You Know [fact]' text overlay vs result-first format (show number/outcome first)",
+        "Voiceover starting at 0.0s vs 0.5s after visual hook",
+        "3-word text hook vs 6-word text hook for hook clarity"
+      ]
+    },
+    {
+      "rank": 2,
+      "tactic": "Engineer every Short as a seamless loop under 25 seconds: end frame visually matches opening frame, final voiceover line echoes opening question (callback), and eliminate all CTAs. Write the ending first, then craft the opening as the question the ending revisits.",
+      "why": "Each loop counts as an additional view since March 2025. Replay rate 10%+ = excellent algorithmic signal, 20%+ = exceptional. Faceless voiceover content has structural loop advantage — no visual continuity cues signal the restart. Average Shorts retention is 73% vs 52% for long-form.",
+      "source": "virvid.ai",
+      "test_ideas": [
+        "15-second loop vs 20-second loop vs 25-second loop length test",
+        "Visual match cut technique vs audio continuity technique at the loop point",
+        "Open question close ('So why does this happen?') vs cliffhanger reversal ending"
+      ]
+    },
+    {
+      "rank": 3,
+      "tactic": "Change visuals every 2-4 seconds throughout the middle section of the video. Add a micro open loop (tease the next point) every 5-8 seconds. Trim all pauses to zero. Cut setup in half, then cut again.",
+      "why": "Mid-video APV collapse after a strong hook is the #1 killer of distribution. Shortimize's 27-tactic framework identifies 'change something every 1-2 seconds' as the primary hold-attention mechanism. Each visual cut resets the swipe-away impulse.",
+      "source": "web",
+      "test_ideas": [
+        "2-second visual cut interval vs 3-second interval on same script",
+        "Static AI-generated image with text overlay changes vs AI image with subtle zoom/pan animation",
+        "Single-image background vs multi-image sequence (4-5 images per 25-second video)"
+      ]
+    },
+    {
+      "rank": 4,
+      "tactic": "Target 25-30 second video length for standard fact videos; 15-20 seconds for single-insight snackable facts. Design the idea first, then choose the shortest length that still feels complete — never pad to hit a length target.",
+      "why": "Completion rate is the most weighted algorithmic signal. A 30-second Short at 85% completion beats a 60-second Short at 50% watch rate. Educational/fact content sweet spot is 25-45 seconds; single insights can live at 8-20 seconds.",
+      "source": "web",
+      "test_ideas": [
+        "Same fact script at 20s vs 30s vs 40s — compare completion rate",
+        "Multi-part fact (3 related facts) at 45s vs 3 separate 15s videos",
+        "15-second single-insight format as dedicated series (labeled 'Quick Facts')"
+      ]
+    },
+    {
+      "rank": 5,
+      "tactic": "Post 3-7 Shorts weekly on a consistent schedule. Combine 2-3 proven hook formats with 1-2 experimental videos each week. Do not actively promote or rely on algorithmic pickup for videos older than 30 days.",
+      "why": "Algorithm flattens older content after ~30 days (evergreen model ended per Creator Insider). Consistency provides algorithmic momentum. The explore/exploit phase tests seed audience first — consistent posting builds seed audience familiarity and signal history.",
+      "source": "Creator Insider",
+      "test_ideas": [
+        "3x/day vs 2x/day posting frequency on same channel over 2-week period",
+        "Fixed posting time (e.g., 9 AM daily) vs spread posting (9 AM / 1 PM / 6 PM)",
+        "2 proven hooks + 1 experimental format per week batch vs 3 experimental formats"
+      ]
+    }
+  ],
+  "per_channel_recommendations": [
+    {
+      "channel": "BabyFactsUnlocked",
+      "current_retention_context": null,
+      "recommendations": [
+        "Open every baby/pregnancy fact with a result-first or 'Did You Know' hook firing in the first 2 seconds: bold text overlay (e.g., 'Did you know: Babies can taste what mom eats') + voiceover starting within 1 second",
+        "Engineer 20-25 second seamless loops where last frame visually matches opening frame — baby content has high rewatch potential from curious/expectant parents"
+      ],
+      "test_ideas": [
+        "'Did You Know [surprising stat]' text hook vs result-first hook (stat shown before explanation) — track stayed-to-watch rate",
+        "15-20s single-fact loop vs 25-30s multi-detail fact — compare completion rates",
+        "Visual cut every 2s vs every 3s on same baby fact script"
+      ]
+    },
+    {
+      "channel": "MoneyFactsUnlocked",
+      "current_retention_context": null,
+      "recommendations": [
+        "Use 'X vs Y' or result-first hooks ('$1 invested in 1990 is now $47') — money/wealth comparison hooks have strong FOMO trigger applicable to this niche",
+        "Target 25-30 second length for wealth/economics facts; keep single financial insight videos at 15-20 seconds with seamless loop structure"
+      ],
+      "test_ideas": [
+        "'$X is now worth $Y' result-first hook vs 'Did you know the average American...' curiosity hook",
+        "20s loop vs 30s with 3 related money facts — compare drop-off on explore phase",
+        "Bold numerical text overlay (e.g., '$1,000,000') as first visual frame vs illustrative AI background"
+      ]
+    },
+    {
+      "channel": "aifactsunlocked",
+      "current_retention_context": null,
+      "recommendations": [
+        "Use 'X vs Y' comparison or 'They don't want you to know' intrigue hooks for AI facts — conspiracy/surprise angle drives strong FOMO; pair with bold text overlay citing a specific number or capability",
+        "Engineer AI fact videos as loops under 25 seconds; AI content has high repeat-watch value from tech-curious audience — callback phrases at the end ('And that's why AI will...') that reference the opening hook"
+      ],
+      "test_ideas": [
+        "Future-tense hook ('By 2027, AI will...') vs present-fact hook ('Right now, AI can...') — which drives higher completion",
+        "Single AI capability fact at 15-20s vs '3 AI facts you didn't know' at 40-45s",
+        "Intrigue hook ('They don't want you to know this about AI') vs knowledge-gap hook ('Did you know ChatGPT...') — stayed-to-watch comparison"
+      ]
+    }
+  ],
+  "action_items": [
+    {
+      "priority": 1,
+      "item": "Audit last 10 videos per channel: measure 'stayed to watch' rate in YouTube Studio. Flag any video where hook fires after 2 seconds — rescript those formats.",
+      "why": "50-60% of drops happen in first 3 seconds. The 19% retention lift from immediate 2-second hooks compounds across all 3 channels at 3x/day posting volume."
+    },
+    {
+      "priority": 2,
+      "item": "Switch default video length target from current format to 25-30 seconds for standard facts, 15-20 seconds for single-insight clips. Update generation prompt to 'write the ending first, then craft the opening as the question the ending answers.'",
+      "why": "Completion rate is the most weighted signal. 30s at 85% beats 60s at 50%. Loop structure under 25s enables replay-inflated view count (each loop = view since March 2025)."
+    },
+    {
+      "priority": 3,
+      "item": "Add visual variety instruction to video generation pipeline: minimum 1 new visual every 3 seconds in middle section, micro open loop text ('But here's the surprising part...') at the 8-12 second mark of any video over 20 seconds.",
+      "why": "Mid-video APV collapse after hook is the primary distribution killer. Visual change every 2-4s resets swipe impulse. Micro open loops at 5-8s intervals are the primary hold-attention mechanism."
+    }
+  ],
+  "carry_forward_note": null
+}
