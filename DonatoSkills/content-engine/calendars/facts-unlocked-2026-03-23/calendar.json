@@ -1,0 +1,621 @@
+{
+  "campaign": {
+    "name": "Facts Unlocked \u2014 Daily Run 2026-03-23",
+    "project_ids": [
+      "baby-facts-unlocked",
+      "money-facts-unlocked",
+      "ai-facts-unlocked"
+    ],
+    "created": "2026-03-23",
+    "timeframe": {
+      "start": "2026-03-24",
+      "end": "2026-03-24"
+    },
+    "mode": "brief-driven",
+    "brief_type": "explore",
+    "external_signal": "Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic. Ensure voiceover begins within 1 second.",
+    "channels": [
+      {
+        "id": "69b891386cb7b8cf4c78c31d",
+        "service": "tiktok",
+        "name": "@babyfactsunlocked",
+        "scheduler": "zernio",
+        "project": "baby-facts-unlocked"
+      },
+      {
+        "id": "69b8af216cb7b8cf4c791725",
+        "service": "youtube",
+        "name": "@babyfactsunlocked",
+        "scheduler": "zernio",
+        "project": "baby-facts-unlocked"
+      },
+      {
+        "id": "69b994a46cb7b8cf4c7baa8e",
+        "service": "instagram",
+        "name": "@babyfactsunlocked",
+        "scheduler": "zernio",
+        "project": "baby-facts-unlocked"
+      },
+      {
+        "id": "69b991446cb7b8cf4c7b9f76",
+        "service": "tiktok",
+        "name": "@moneyfactsunlocked",
+        "scheduler": "zernio",
+        "project": "money-facts-unlocked"
+      },
+      {
+        "id": "69b95c996cb7b8cf4c7ae4ab",
+        "service": "youtube",
+        "name": "@moneyfactsunlocked",
+        "scheduler": "zernio",
+        "project": "money-facts-unlocked"
+      },
+      {
+        "id": "69b995666cb7b8cf4c7bad79",
+        "service": "instagram",
+        "name": "@moneyfactsunlocked",
+        "scheduler": "zernio",
+        "project": "money-facts-unlocked"
+      },
+      {
+        "id": "69bad5396cb7b8cf4c7f69ba",
+        "service": "youtube",
+        "name": "@aifactsunlocked",
+        "scheduler": "zernio",
+        "project": "ai-facts-unlocked"
+      },
+      {
+        "id": "69bad5bc6cb7b8cf4c7f6cd6",
+        "service": "instagram",
+        "name": "@aifactsunlocked",
+        "scheduler": "zernio",
+        "project": "ai-facts-unlocked"
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "001",
+      "project": "baby-facts-unlocked",
+      "slug": "twin-communication",
+      "date": "2026-03-24",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "question",
+      "concept": "40% of twins develop cryptophasia \u2014 their own secret language \u2014 before they can speak",
+      "hook_text": "40% of twins speak a secret language no one else understands",
+      "voiceover_script": "Did you know that 40% of twins develop their own secret language before they can even speak English? It's called cryptophasia \u2014 a spontaneous private language made of invented words, sounds, and grammar that only twins understand. The most documented case was twins Poto and Cabengo, who spoke their private language until age 6. Scientists believe it happens because twins spend more time talking to each other than to adults. Your twins aren't just babbling. They might be fluent in a language no one else on Earth speaks.",
+      "captions": {
+        "tiktok": "40% of twins develop their own secret language before speaking yours \ud83e\udd2f #babyfacts #twins #cryptophasia #parenting #childdevelopment",
+        "youtube": "Did you know twins literally invent their own language? It's called cryptophasia and 40% of twin babies do it. #babyfacts #twins #childdevelopment",
+        "instagram": "40% of twins invent their own secret language before speaking yours \ud83e\udd2f\n\nCalled cryptophasia \u2014 their own grammar, vocabulary, sounds. Only they understand it.\n\nMost famous case: twins Poto & Cabengo who spoke theirs until age 6.\n\n#twins #babyfacts #twinlanguage #cryptophasia #childdevelopment #parenting #pregnancyfacts #babymilestones"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, bold sans-serif text, warm soft colors (cream/peach/lilac), gentle float animations, full caption overlay synced to voiceover",
+      "duration": 30,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "question",
+        "video_length": "30",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "gentle",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/001-twin-communication/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774255550/facts-unlocked/2026-03-23/001-twin-communication.mp4",
+      "zernio_post_ids": {
+        "instagram": "69c24682b249003ca3fd9f69"
+      },
+      "error": null,
+      "created_at": null,
+      "scheduled_at": "2026-03-24",
+      "buffer_post_ids": {
+        "tiktok": "69c0ff541aab5ee06535d653",
+        "youtube": "69c0ff811aab5ee06535d787"
+      },
+      "scheduler": "buffer+zernio"
+    },
+    {
+      "id": "002",
+      "project": "baby-facts-unlocked",
+      "slug": "cry-darkness",
+      "date": "2026-03-24",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "did-you-know",
+      "hook_type": "stat_lead",
+      "concept": "Newborn pupils can't dilate in darkness for the first 3 weeks \u2014 they're effectively blind at night",
+      "hook_text": "Newborns can't see in darkness for their first 3 weeks",
+      "voiceover_script": "Newborns can't see in the dark. At all. Their pupils don't dilate in low light for the first three weeks of life. That means when you check on your baby at night, they can literally see nothing. They're not crying because they're scared of the dark \u2014 they're crying because they genuinely cannot see. This is why dim nightlights are actually helpful. It gives them the visual contrast they need to self-soothe.",
+      "captions": {
+        "tiktok": "Your newborn literally cannot see in the dark for 3 weeks \ud83d\ude31 #babyfacts #newborn #infantdevelopment #parenting #momlife",
+        "youtube": "Newborns can't see in low light for their first 3 weeks \u2014 their pupils can't dilate yet. A soft nightlight actually helps! #babyfacts #newborns",
+        "instagram": "Your newborn literally cannot see in the dark for their first 3 weeks \ud83d\ude31\n\nPupil dilation doesn't develop until week 3. When you check on them at night \u2014 they see nothing.\n\nThis is why a soft nightlight actually helps them self-soothe.\n\n#newbornfacts #babyfacts #newborns #infantdevelopment #parenting #momlife #babytips"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, bold white text on dark navy/deep blue background, karaoke-style word highlights, fast-cut transitions",
+      "duration": 25,
+      "tts_provider": "gemini",
+      "tts_voice": "Aoede",
+      "image_gen_provider": "openai",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "25",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke",
+        "background_type": "ai-gen",
+        "music_energy": "upbeat",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/002-cry-darkness/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774255575/facts-unlocked/2026-03-23/002-cry-darkness.mp4",
+      "zernio_post_ids": {
+        "instagram": "69c2468b7dd520b26af25c88"
+      },
+      "error": null,
+      "created_at": null,
+      "scheduled_at": "2026-03-24",
+      "buffer_post_ids": {
+        "tiktok": "69c0ff67f279342b250eda64",
+        "youtube": "69c0ff90f279342b250edc1e"
+      },
+      "scheduler": "buffer+zernio"
+    },
+    {
+      "id": "003",
+      "project": "baby-facts-unlocked",
+      "slug": "immune-transfer",
+      "date": "2026-03-24",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "myth-busting",
+      "hook_type": "myth_bust",
+      "concept": "Breastmilk reads baby's saliva signals and engineers targeted antibodies in real time \u2014 it's not just nutrition",
+      "hook_text": "Breastmilk reads your baby's saliva and changes its formula in real time",
+      "voiceover_script": "Most people think breastmilk is just nutrition. But that's completely wrong. When a baby latches on, its saliva signals enter the mother's breast through the nipple. Her immune system reads those signals, detects any pathogens the baby has been exposed to, then engineers targeted antibodies within 4 hours. The milk literally changes its immune composition based on what your baby needs right now. It's a real-time adaptive immune communication system built into the human body.",
+      "captions": {
+        "tiktok": "Breastmilk reads your baby's saliva and changes its immune formula in real time \ud83e\uddec #breastfeeding #babyfacts #immunesystem #motherhood #science",
+        "youtube": "Breastmilk isn't just food \u2014 it reads your baby's saliva signals and engineers targeted antibodies within 4 hours. #breastfeeding #babyfacts #science",
+        "instagram": "Breastmilk isn't just food \u2014 it's a real-time immune engineering system \ud83e\uddec\n\nWhen a baby latches, their saliva signals enter through the nipple. Mom's immune system reads those signals, detects pathogens the baby encountered, and engineers targeted antibodies \u2014 within 4 hours.\n\nThe milk literally adapts to what your baby needs right now.\n\n#breastfeeding #babyfacts #immunesystem #newbornfacts #motherhood #sciencefacts #parenting #infant"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, clean white/teal palette, abstract biological cell animations for background, key words only overlay (sparse, bold), slow deliberate pacing",
+      "duration": 35,
+      "tts_provider": "gemini",
+      "tts_voice": "Puck",
+      "image_gen_provider": "grok",
+      "background_type": "abstract-animated",
+      "text_overlay": "key_words_only",
+      "voice_pace": "slow",
+      "variables": {
+        "hook_type": "myth_bust",
+        "video_length": "35",
+        "voice_pace": "slow",
+        "text_overlay": "key_words_only",
+        "background_type": "abstract-animated",
+        "music_energy": "calm",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/003-immune-transfer/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774255586/facts-unlocked/2026-03-23/003-immune-transfer.mp4",
+      "zernio_post_ids": {
+        "instagram": "69c246957dd520b26af25cad"
+      },
+      "error": null,
+      "created_at": null,
+      "scheduled_at": "2026-03-24",
+      "buffer_post_ids": {
+        "tiktok": "69c0ff691aab5ee06535d6d9",
+        "youtube": "69c0ff90f279342b250edc44"
+      },
+      "scheduler": "buffer+zernio"
+    },
+    {
+      "id": "004",
+      "project": "money-facts-unlocked",
+      "slug": "roth-ira-history",
+      "date": "2026-03-24",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "did_you_know",
+      "concept": "The Roth IRA was named after one senator who quietly inserted it as a personal legacy in 1997 \u2014 he died before seeing what it became",
+      "hook_text": "The Roth IRA was one senator's personal legacy project \u2014 he died before it exploded",
+      "voiceover_script": "The Roth IRA wasn't some revolutionary policy proposal. It was quietly inserted into the Taxpayer Relief Act of 1997 by a single senator \u2014 William Roth of Delaware \u2014 as a personal legacy project. He barely made headlines when he did it. But the account he named after himself has since sheltered trillions of dollars from taxation. Senator Roth died in 2003. He never saw the 50 billion dollars per year in tax-advantaged savings his idea created. The most powerful wealth-building tool most Americans have \u2014 named after a senator almost no one remembers.",
+      "captions": {
+        "tiktok": "The Roth IRA was one senator's personal legacy project \u2014 he died before seeing it shelter trillions \ud83d\udcb0 #moneyfacts #rothira #personalfinance #investing",
+        "youtube": "The Roth IRA was inserted by one senator in 1997 as a personal legacy. He died in 2003 never seeing the trillions it sheltered. #moneyfacts #rothira",
+        "instagram": "The Roth IRA wasn't revolutionary policy. It was one senator's personal legacy \ud83d\udcb0\n\nWilliam Roth slipped it into a 1997 tax bill. Barely made headlines. He died in 2003 before seeing the trillions it sheltered.\n\nThe most powerful wealth tool most Americans have \u2014 named after someone almost no one remembers.\n\n#moneyfacts #rothira #personalfinance #wealthbuilding #investing #moneytips #financialfreedom #retirementplanning"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, deep navy/gold color scheme, full captions synchronized to slow voiceover, archival-feel text cards, gravitas",
+      "duration": 35,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "slow",
+      "variables": {
+        "hook_type": "did_you_know",
+        "video_length": "35",
+        "voice_pace": "slow",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "cinematic",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/004-roth-ira-history/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774255616/facts-unlocked/2026-03-23/004-roth-ira-history.mp4",
+      "zernio_post_ids": {
+        "tiktok": "69c246acb249003ca3fda029",
+        "youtube": "69c246acb249003ca3fda029",
+        "instagram": "69c246acb249003ca3fda029"
+      },
+      "error": null,
+      "created_at": null,
+      "scheduled_at": "2026-03-24",
+      "scheduler": "zernio",
+      "scheduler_note": null
+    },
+    {
+      "id": "005",
+      "project": "money-facts-unlocked",
+      "slug": "insurance-float",
+      "date": "2026-03-24",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "myth-busting",
+      "hook_type": "controversy",
+      "concept": "Buffett's wealth secret is $150B of other people's money \u2014 insurance float lets him invest premiums before claims are due",
+      "hook_text": "Warren Buffett invests $150 billion that isn't his money",
+      "voiceover_script": "Everyone thinks Warren Buffett is rich because of great stock picks. That's not the secret. The real secret is 150 billion dollars. That's Berkshire Hathaway's insurance float \u2014 money that policyholders pay in premiums that Buffett gets to invest before any claims come due. He's been using other people's money for 60 years. The average American could never do this. But now you know why he's the greatest investor of all time \u2014 it's not genius. It's leverage.",
+      "captions": {
+        "tiktok": "Warren Buffett invests $150 billion of other people's money \u2014 that's the real secret \ud83d\udcb8 #moneyfacts #warrenbuffett #investing #wealthsecrets #personalfinance",
+        "youtube": "Buffett's secret isn't stock picks. It's $150B of insurance float \u2014 other people's premiums he invests before claims are due. #moneyfacts #warrenbuffett",
+        "instagram": "Warren Buffett's real secret isn't stock picks \u2014 it's $150 billion of other people's money \ud83d\udcb8\n\nBerkshire's insurance float: policyholders pay premiums \u2192 Buffett invests them before claims are due \u2192 keeps the returns.\n\nHe's been legally using other people's money for 60 years.\n\n#moneyfacts #warrenbuffett #investing #personalfinance #wealthsecrets #berkshirehathaway #stockmarket #financialliteracy"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, bold dark green/gold palette, fast karaoke highlight style, punchy cuts on key numbers ($150B), high energy",
+      "duration": 30,
+      "tts_provider": "gemini",
+      "tts_voice": "Charon",
+      "image_gen_provider": "openai",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke_highlight",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "ai-gen",
+        "music_energy": "upbeat",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/005-insurance-float/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774255623/facts-unlocked/2026-03-23/005-insurance-float.mp4",
+      "zernio_post_ids": {
+        "tiktok": "69c246bcb249003ca3fda190",
+        "youtube": "69c246bcb249003ca3fda190",
+        "instagram": "69c246bcb249003ca3fda190"
+      },
+      "error": null,
+      "created_at": null,
+      "scheduled_at": "2026-03-24",
+      "scheduler": "zernio",
+      "scheduler_note": null
+    },
+    {
+      "id": "006",
+      "project": "money-facts-unlocked",
+      "slug": "credit-invisible",
+      "date": "2026-03-24",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "did-you-know",
+      "hook_type": "stat_lead",
+      "concept": "26 million Americans are 'credit invisible' \u2014 no score, not bad credit \u2014 blocking housing, jobs, and basic services",
+      "hook_text": "26 million Americans don't exist in the credit system",
+      "voiceover_script": "26 million Americans have no credit score at all. Not bad credit. No credit. The credit bureaus literally call them credit invisible. They can't get a mortgage. Many can't rent an apartment. They can't get a phone plan. They can't even get certain jobs that require credit checks. Not because they spent irresponsibly \u2014 but because they never had debt. The American financial system has built a world where having zero debt makes you more financially excluded than having bad debt.",
+      "captions": {
+        "tiktok": "26M Americans are 'credit invisible' \u2014 no score, not bad credit, completely locked out \ud83d\udeab #moneyfacts #creditinvisible #personalfinance #financialliteracy",
+        "youtube": "26 million Americans have no credit score at all \u2014 not bad credit, zero. Credit bureaus call them 'credit invisible.' #moneyfacts #creditinvisible",
+        "instagram": "26 million Americans are 'credit invisible' \u2014 the financial system doesn't know they exist \ud83d\udeab\n\nNo mortgage. No rentals. No phone plan. No credit checks for jobs.\n\nNot because they spent badly \u2014 but because they never had debt.\n\nThe system punishes having *no* debt more than *bad* debt.\n\n#moneyfacts #creditinvisible #personalfinance #creditbuilding #financialliteracy #bankinginequality #moneyeducation"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, stark red/white/charcoal palette, key words only \u2014 sparse dramatic text drops, data-driven feel",
+      "duration": 30,
+      "tts_provider": "gemini",
+      "tts_voice": "Orus",
+      "image_gen_provider": "grok",
+      "background_type": "ai-gen",
+      "text_overlay": "key_words_only",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "30",
+        "voice_pace": "moderate",
+        "text_overlay": "key_words_only",
+        "background_type": "ai-gen",
+        "music_energy": "tense",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/006-credit-invisible/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774255635/facts-unlocked/2026-03-23/006-credit-invisible.mp4",
+      "zernio_post_ids": {
+        "tiktok": "69c246cbd4998fcd9c74da97",
+        "youtube": "69c246cbd4998fcd9c74da97",
+        "instagram": "69c246cbd4998fcd9c74da97"
+      },
+      "error": null,
+      "created_at": null,
+      "scheduled_at": "2026-03-24",
+      "scheduler": "zernio",
+      "scheduler_note": null
+    },
+    {
+      "id": "007",
+      "project": "ai-facts-unlocked",
+      "slug": "ai-translation-realtime",
+      "date": "2026-03-24",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "stat_lead",
+      "concept": "AI translates spoken language in under 200ms \u2014 faster than human thought, outperforming professionals in EU testing",
+      "hook_text": "AI translates speech in 200ms \u2014 faster than human thought",
+      "voiceover_script": "AI now translates spoken language in under 200 milliseconds. That's faster than human thought. Professional interpreters need 2 to 3 seconds minimum \u2014 and they can only work in one language pair at a time. AI does it simultaneously in 100 languages. In 2024, the EU tested AI interpreters at official meetings. The AI was faster and more accurate than human pros on 67% of segments. We crossed the threshold where AI translation isn't good enough. It's better.",
+      "captions": {
+        "youtube": "AI translates speech in under 200ms \u2014 faster than human thought. In 2024 EU testing, AI beat professional interpreters on 67% of segments. #aifacts #translation",
+        "instagram": "AI translates speech in 200ms \u2014 faster than human thought \ud83e\udd2f\n\nHuman interpreters need 2-3 seconds minimum. AI does it in 100 languages simultaneously.\n\nIn 2024 EU testing: AI was faster AND more accurate than professionals on 67% of segments.\n\nWe've crossed the threshold.\n\n#aifacts #artificialintelligence #translation #technology #futuretech #aitools #machinelearning #techfacts"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, electric blue/cyan tech palette, karaoke highlight style with fast pop-ins on numbers, futuristic vibe",
+      "duration": 30,
+      "tts_provider": "gemini",
+      "tts_voice": "Puck",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke_highlight",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "ai-gen",
+        "music_energy": "upbeat",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/007-ai-translation-realtime/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774255641/facts-unlocked/2026-03-23/007-ai-translation-realtime.mp4",
+      "zernio_post_ids": {
+        "youtube": "69c246e0d4998fcd9c74dd14",
+        "instagram": "69c246e0d4998fcd9c74dd14"
+      },
+      "error": null,
+      "created_at": null,
+      "scheduled_at": "2026-03-24",
+      "scheduler": "zernio",
+      "scheduler_note": null
+    },
+    {
+      "id": "008",
+      "project": "ai-facts-unlocked",
+      "slug": "nvidia-ai-dependency",
+      "date": "2026-03-24",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "did-you-know",
+      "hook_type": "controversy",
+      "concept": "NVIDIA controls ~90% of the AI training chip market \u2014 the entire AI revolution runs through one company",
+      "hook_text": "90% of all AI runs on chips from one company",
+      "voiceover_script": "Every major AI model \u2014 ChatGPT, Gemini, Claude, Llama \u2014 runs on NVIDIA chips. NVIDIA controls approximately 90% of the AI training chip market. Not 51%. Not 60%. 90. One company decides the hardware future of artificial intelligence. When NVIDIA's H100 chips went into short supply in 2023, AI labs were paying 40,000 dollars per chip and flying executives to Jensen Huang personally to beg for allocation. The entire AI revolution runs through one company, one CEO, and one product line.",
+      "captions": {
+        "youtube": "Every AI you use runs on NVIDIA chips. They control ~90% of the AI training chip market. In 2023 labs paid $40K/chip. #aifacts #nvidia #artificialintelligence",
+        "instagram": "Every AI you use \u2014 ChatGPT, Gemini, Claude \u2014 runs on NVIDIA chips \ud83d\udda5\ufe0f\n\nNVIDIA controls ~90% of the AI training chip market. One company. One product line.\n\nIn 2023, H100 chips hit $40K each. Labs flew executives to Jensen Huang personally to beg for allocation.\n\nThe entire AI revolution has one chokepoint.\n\n#aifacts #nvidia #artificialintelligence #techfacts #gpus #aiindustry #machinelearning #jensenhwang"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, dark charcoal/green NVIDIA palette, full captions with dramatic text reveals on key stats (90%, $40K), bold and confrontational",
+      "duration": 30,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "openai",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "30",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "tense",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/008-nvidia-ai-dependency/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774255649/facts-unlocked/2026-03-23/008-nvidia-ai-dependency.mp4",
+      "zernio_post_ids": {
+        "youtube": "69c246edd4998fcd9c74def0",
+        "instagram": "69c246edd4998fcd9c74def0"
+      },
+      "error": null,
+      "created_at": null,
+      "scheduled_at": "2026-03-24",
+      "scheduler": "zernio",
+      "scheduler_note": null
+    },
+    {
+      "id": "009",
+      "project": "ai-facts-unlocked",
+      "slug": "ai-weather-prediction",
+      "date": "2026-03-24",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "myth-busting",
+      "hook_type": "myth_bust",
+      "concept": "Google GraphCast AI beats traditional supercomputer weather forecasting 90% of the time and runs in under a minute",
+      "hook_text": "AI beats billion-dollar supercomputers at predicting weather",
+      "voiceover_script": "The myth: AI is good at creative tasks but terrible at real-world prediction. The reality: Google's GraphCast AI outperforms traditional 10-day weather forecasts 90% of the time. Traditional supercomputer models take 6 hours of compute. GraphCast runs in under a minute. In 2023, it predicted Hurricane Lee's track 9 days out \u2014 3 days before traditional models even detected the storm. The most physically complex prediction problem humans face, and an AI model running on a laptop now beats billion-dollar supercomputer systems.",
+      "captions": {
+        "youtube": "Google's GraphCast AI beats traditional supercomputer weather forecasting 90% of the time \u2014 in under 60 seconds. Predicted Hurricane Lee 9 days out. #aifacts #graphcast",
+        "instagram": "AI beats billion-dollar supercomputers at 10-day weather forecasting \ud83c\udf00\n\nGoogle's GraphCast outperforms traditional models 90% of the time. Traditional compute: 6 hours. GraphCast: under 60 seconds.\n\nIn 2023 it predicted Hurricane Lee 9 days out \u2014 3 days before supercomputers even detected the storm.\n\n#aifacts #artificialintelligence #weather #graphcast #techfacts #machinelearning #google #weatherprediction"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, stormy dark blue/white palette, abstract weather data visualization animated background, key words only sparse overlay, slow building dramatic pacing",
+      "duration": 35,
+      "tts_provider": "gemini",
+      "tts_voice": "Fenrir",
+      "image_gen_provider": "grok",
+      "background_type": "abstract-animated",
+      "text_overlay": "key_words_only",
+      "voice_pace": "slow",
+      "variables": {
+        "hook_type": "myth_bust",
+        "video_length": "35",
+        "voice_pace": "slow",
+        "text_overlay": "key_words_only",
+        "background_type": "abstract-animated",
+        "music_energy": "cinematic",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/009-ai-weather-prediction/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774255668/facts-unlocked/2026-03-23/009-ai-weather-prediction.mp4",
+      "zernio_post_ids": {
+        "youtube": "69c246f87dd520b26af25fe8",
+        "instagram": "69c246f87dd520b26af25fe8"
+      },
+      "error": null,
+      "created_at": null,
+      "scheduled_at": "2026-03-24",
+      "scheduler": "zernio",
+      "scheduler_note": null
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "pending": 0,
+    "creating": 0,
+    "created": 0,
+    "uploading": 0,
+    "uploaded": 0,
+    "scheduling": 0,
+    "scheduled": 9,
+    "posted": 0,
+    "failed": 0
+  }
+}
