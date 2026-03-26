@@ -1,0 +1,448 @@
+{
+  "campaign": {
+    "name": "Daily Run 2026-03-26",
+    "slug": "daily-2026-03-26",
+    "created": "2026-03-26",
+    "brief_mode": "brief-driven",
+    "research_week": "2026-13",
+    "schedule_date": "2026-03-27",
+    "timeframe": {
+      "start": "2026-03-27",
+      "end": "2026-03-27"
+    },
+    "projects": ["baby-facts-unlocked", "money-facts-unlocked", "ai-facts-unlocked"],
+    "content_pillars": ["surprising-facts", "did-you-know", "myth-busting"],
+    "tone": "curious, bold, educational — rotate per slot",
+    "hook_signal": "3-part hook in first 2 seconds: bold visual + 3-7 word text overlay + voiceover within 1 second",
+    "cold_start": false,
+    "winning_template": null,
+    "variable_diversity": "maximize"
+  },
+  "videos": [
+    {
+      "id": "B1",
+      "project": "baby-facts-unlocked",
+      "slot": 1,
+      "slug": "face-recognition-12hrs",
+      "fact": "Newborns recognize their mother's face within 12 hours of birth — before they can see beyond 12 inches. They preferentially track a face-shaped pattern from the first minutes of life, even as blurry blobs.",
+      "hook_line": "Babies recognize Mom's face in 12 hours",
+      "voiceover_script": "Newborns can't see more than 12 inches. But within 12 hours of birth, they already recognize their mother's face. Not her voice. Her face. Researchers showed newborns two faces — mom's and a stranger's. They tracked mom's face every time. Evolution hard-coded face recognition before it hard-coded sight.",
+      "duration_target": "30s",
+      "tts_provider": "gemini",
+      "tts_voice": "Charon",
+      "variables": {
+        "hook_type": "did_you_know",
+        "video_length": "30",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "ambient",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/B1-face-recognition-12hrs/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/facts-unlocked/video/upload/v1774514674/facts-unlocked/daily-2026-03-26/B1-face-recognition-12hrs.mp4",
+      "cloudinary_version": "v1774514674",
+      "scheduling": [
+        {
+          "platform": "tiktok",
+          "account_id": "69b891386cb7b8cf4c78c31d",
+          "scheduled_for": "2026-03-27T09:00:00-05:00",
+          "zernio_post_id": "69c4f23bd135603441a46782",
+          "status": "scheduled"
+        },
+        {
+          "platform": "youtube",
+          "account_id": "69b8af216cb7b8cf4c791725",
+          "scheduled_for": "2026-03-27T09:00:00-05:00",
+          "zernio_post_id": "69c4f23dd135603441a467f1",
+          "status": "scheduled"
+        },
+        {
+          "platform": "instagram",
+          "account_id": "69b994a46cb7b8cf4c7baa8e",
+          "scheduled_for": "2026-03-27T09:00:00-05:00",
+          "zernio_post_id": "69c4f240d135603441a46872",
+          "status": "scheduled"
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "project": "baby-facts-unlocked",
+      "slot": 2,
+      "slug": "pregnancy-brain-gray-matter",
+      "fact": "Pregnancy permanently shrinks a mother's gray matter — and it's not damage. The brain prunes neural connections to sharpen social attunement, making mothers better at reading infant emotions. The changes last for at least 2 years.",
+      "hook_line": "Pregnancy literally shrinks your brain",
+      "voiceover_script": "Pregnancy shrinks a mother's brain. Not random damage — targeted pruning. Gray matter decreases in regions tied to social cognition. Why? To make mothers hypersensitive to their infant's emotional states. The brain gets smaller and more powerful at the same time. These changes last at least two years after birth. And they may be permanent.",
+      "duration_target": "30s",
+      "tts_provider": "gemini",
+      "tts_voice": "Puck",
+      "variables": {
+        "hook_type": "myth_bust",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "abstract_animated",
+        "music_energy": "upbeat",
+        "cta_style": "end_card"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/B2-pregnancy-brain-gray-matter/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/facts-unlocked/video/upload/v1774514683/facts-unlocked/daily-2026-03-26/B2-pregnancy-brain-gray-matter.mp4",
+      "cloudinary_version": "v1774514683",
+      "scheduling": [
+        {
+          "platform": "tiktok",
+          "account_id": "69b891386cb7b8cf4c78c31d",
+          "scheduled_for": "2026-03-27T14:00:00-05:00",
+          "zernio_post_id": "69c4f25331988ff7de814109",
+          "status": "scheduled"
+        },
+        {
+          "platform": "youtube",
+          "account_id": "69b8af216cb7b8cf4c791725",
+          "scheduled_for": "2026-03-27T14:00:00-05:00",
+          "zernio_post_id": "69c4f25631988ff7de814178",
+          "status": "scheduled"
+        },
+        {
+          "platform": "instagram",
+          "account_id": "69b994a46cb7b8cf4c7baa8e",
+          "scheduled_for": "2026-03-27T14:00:00-05:00",
+          "zernio_post_id": "69c4f258d135603441a469ca",
+          "status": "scheduled"
+        }
+      ]
+    },
+    {
+      "id": "B3",
+      "project": "baby-facts-unlocked",
+      "slot": 3,
+      "slug": "twins-different-fingerprints",
+      "fact": "Identical twins share 100% of their DNA but have completely different fingerprints. Fingerprint patterns are determined by random physical forces in the womb — the angle of the finger touching the amniotic sac — not genetics. No two prints can ever be the same.",
+      "hook_line": "Identical twins have different fingerprints",
+      "voiceover_script": "Identical twins. Same DNA. Same face. Different fingerprints. Every single time. Here's why. Fingerprints form when your fingers press against the amniotic sac in the womb. The exact angle, pressure, and speed of that touch is random — and unrepeatable. DNA controls everything about you — except this. Your fingerprints are a record of physics, not biology.",
+      "duration_target": "35s",
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "variables": {
+        "hook_type": "question",
+        "video_length": "45",
+        "voice_pace": "slow",
+        "text_overlay": "key_words_only",
+        "background_type": "single_static",
+        "music_energy": "dramatic",
+        "cta_style": "none"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/B3-twins-different-fingerprints/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/facts-unlocked/video/upload/v1774514685/facts-unlocked/daily-2026-03-26/B3-twins-different-fingerprints.mp4",
+      "cloudinary_version": "v1774514685",
+      "scheduling": [
+        {
+          "platform": "tiktok",
+          "account_id": "69b891386cb7b8cf4c78c31d",
+          "scheduled_for": "2026-03-27T19:00:00-05:00",
+          "zernio_post_id": "69c4f25ad135603441a46a06",
+          "status": "scheduled"
+        },
+        {
+          "platform": "youtube",
+          "account_id": "69b8af216cb7b8cf4c791725",
+          "scheduled_for": "2026-03-27T19:00:00-05:00",
+          "zernio_post_id": "69c4f25d31988ff7de814297",
+          "status": "scheduled"
+        },
+        {
+          "platform": "instagram",
+          "account_id": "69b994a46cb7b8cf4c7baa8e",
+          "scheduled_for": "2026-03-27T19:00:00-05:00",
+          "zernio_post_id": "69c4f25f31988ff7de8142ce",
+          "status": "scheduled"
+        }
+      ]
+    },
+    {
+      "id": "M1",
+      "project": "money-facts-unlocked",
+      "slot": 1,
+      "slug": "dollar-purchasing-power-97pct",
+      "fact": "The US dollar has lost 97% of its purchasing power since the Federal Reserve was created in 1913. A dollar in 1913 buys what 3 cents buys today. The dollar is the world's reserve currency — and it's a shadow of itself.",
+      "hook_line": "The dollar lost 97% of its value",
+      "voiceover_script": "A dollar in 1913 buys what 3 cents buys today. The US dollar has lost 97 percent of its purchasing power since the Federal Reserve was created. That means prices have risen 3,200 percent. The dollar is still the world's reserve currency. But it is a fraction of what it was. The question isn't whether inflation erodes your savings. It's how fast.",
+      "duration_target": "30s",
+      "tts_provider": "gemini",
+      "tts_voice": "Fenrir",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "ai-gen",
+        "music_energy": "upbeat",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/M1-dollar-purchasing-power-97pct/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/facts-unlocked/video/upload/v1774514689/facts-unlocked/daily-2026-03-26/M1-dollar-purchasing-power-97pct.mp4",
+      "cloudinary_version": "v1774514689",
+      "scheduling": [
+        {
+          "platform": "tiktok",
+          "account_id": "69b991446cb7b8cf4c7b9f76",
+          "scheduled_for": "2026-03-27T09:00:00-05:00",
+          "zernio_post_id": "69c4f271d135603441a46aa2",
+          "status": "scheduled"
+        },
+        {
+          "platform": "youtube",
+          "account_id": "69b95c996cb7b8cf4c7ae4ab",
+          "scheduled_for": "2026-03-27T09:00:00-05:00",
+          "zernio_post_id": "69c4f273d135603441a46abf",
+          "status": "scheduled"
+        },
+        {
+          "platform": "instagram",
+          "account_id": "69b995666cb7b8cf4c7bad79",
+          "scheduled_for": "2026-03-27T09:00:00-05:00",
+          "zernio_post_id": "69c4f275d135603441a46af9",
+          "status": "scheduled"
+        }
+      ]
+    },
+    {
+      "id": "M2",
+      "project": "money-facts-unlocked",
+      "slot": 2,
+      "slug": "buffett-wealth-after-52",
+      "fact": "Warren Buffett earned 99.7% of his net worth after his 52nd birthday. He started investing at age 11. The secret isn't stock-picking skill — it's that he gave compound interest 80 years to work. Most people retire before the math really kicks in.",
+      "hook_line": "Warren Buffett made 99% of his money after 52",
+      "voiceover_script": "Warren Buffett started investing at age 11. He was a millionaire by 30. But here's what nobody tells you. Buffett earned 99.7 percent of his net worth after age 52. The secret wasn't picking stocks. It was time. He gave compound interest eight decades to run. Most investors retire at 65. Buffett's still compounding at 93. Time in the market doesn't mean years. It means decades.",
+      "duration_target": "40s",
+      "tts_provider": "gemini",
+      "tts_voice": "Orus",
+      "variables": {
+        "hook_type": "most_people_dont_know",
+        "video_length": "45",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "abstract_animated",
+        "music_energy": "ambient",
+        "cta_style": "end_card"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/M2-buffett-wealth-after-52/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/facts-unlocked/video/upload/v1774514693/facts-unlocked/daily-2026-03-26/M2-buffett-wealth-after-52.mp4",
+      "cloudinary_version": "v1774514693",
+      "scheduling": [
+        {
+          "platform": "tiktok",
+          "account_id": "69b991446cb7b8cf4c7b9f76",
+          "scheduled_for": "2026-03-27T14:00:00-05:00",
+          "zernio_post_id": "69c4f278d135603441a46b48",
+          "status": "scheduled"
+        },
+        {
+          "platform": "youtube",
+          "account_id": "69b95c996cb7b8cf4c7ae4ab",
+          "scheduled_for": "2026-03-27T14:00:00-05:00",
+          "zernio_post_id": "69c4f27ad135603441a46ba5",
+          "status": "scheduled"
+        },
+        {
+          "platform": "instagram",
+          "account_id": "69b995666cb7b8cf4c7bad79",
+          "scheduled_for": "2026-03-27T14:00:00-05:00",
+          "zernio_post_id": "69c4f27cd135603441a46bf4",
+          "status": "scheduled"
+        }
+      ]
+    },
+    {
+      "id": "M3",
+      "project": "money-facts-unlocked",
+      "slot": 3,
+      "slug": "interest-beats-food",
+      "fact": "The average American spends more money on interest payments than on food. Americans pay $1.2 trillion in interest annually — on mortgages, auto loans, credit cards, and student debt. The US has become a country that feeds banks before it feeds families.",
+      "hook_line": "Americans pay more interest than they spend on food",
+      "voiceover_script": "Americans spend more money paying interest than buying food. $1.2 trillion dollars a year goes to interest payments — mortgages, car loans, credit cards, student debt. Food: roughly $900 billion. We feed the banks before we feed our families. This isn't a personal finance problem. It's a system that profits from debt. And you're inside it.",
+      "duration_target": "30s",
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "minimal",
+        "background_type": "stock_montage",
+        "music_energy": "none",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/M3-interest-beats-food/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/facts-unlocked/video/upload/v1774514695/facts-unlocked/daily-2026-03-26/M3-interest-beats-food.mp4",
+      "cloudinary_version": "v1774514695",
+      "scheduling": [
+        {
+          "platform": "tiktok",
+          "account_id": "69b991446cb7b8cf4c7b9f76",
+          "scheduled_for": "2026-03-27T19:00:00-05:00",
+          "zernio_post_id": "69c4f27ed135603441a46c1f",
+          "status": "scheduled"
+        },
+        {
+          "platform": "youtube",
+          "account_id": "69b95c996cb7b8cf4c7ae4ab",
+          "scheduled_for": "2026-03-27T19:00:00-05:00",
+          "zernio_post_id": "69c4f281d135603441a46c6c",
+          "status": "scheduled"
+        },
+        {
+          "platform": "instagram",
+          "account_id": "69b995666cb7b8cf4c7bad79",
+          "scheduled_for": "2026-03-27T19:00:00-05:00",
+          "zernio_post_id": "69c4f283d135603441a46ca2",
+          "status": "scheduled"
+        }
+      ]
+    },
+    {
+      "id": "A1",
+      "project": "ai-facts-unlocked",
+      "slot": 1,
+      "slug": "ai-eye-scan-heart-attack",
+      "fact": "AI can predict a heart attack 7 years before it happens — using only a photo of your retina. The eye's blood vessels mirror cardiovascular health. Google's AI detects age, blood pressure, and heart attack risk from a standard eye scan with no blood test required.",
+      "hook_line": "AI predicts heart attacks from an eye scan",
+      "voiceover_script": "AI can predict your heart attack risk seven years in advance — using a photo of your eye. The blood vessels in your retina mirror your cardiovascular system. Google trained an AI on retinal scans and medical records. It learned to read age, blood pressure, and heart attack probability from a single eye photograph. No blood test. No imaging. Just light through a lens.",
+      "duration_target": "30s",
+      "tts_provider": "gemini",
+      "tts_voice": "Enceladus",
+      "variables": {
+        "hook_type": "what_if",
+        "video_length": "30",
+        "voice_pace": "moderate",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "ai-gen",
+        "music_energy": "dramatic",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/A1-ai-eye-scan-heart-attack/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/facts-unlocked/video/upload/v1774514697/facts-unlocked/daily-2026-03-26/A1-ai-eye-scan-heart-attack.mp4",
+      "cloudinary_version": "v1774514697",
+      "scheduling": [
+        {
+          "platform": "youtube",
+          "account_id": "69bad5396cb7b8cf4c7f69ba",
+          "scheduled_for": "2026-03-27T09:00:00-05:00",
+          "zernio_post_id": "69c4f296d135603441a46dfc",
+          "status": "scheduled"
+        },
+        {
+          "platform": "instagram",
+          "account_id": "69bad5bc6cb7b8cf4c7f6cd6",
+          "scheduled_for": "2026-03-27T09:00:00-05:00",
+          "zernio_post_id": "69c4f298d135603441a46e45",
+          "status": "scheduled"
+        }
+      ]
+    },
+    {
+      "id": "A2",
+      "project": "ai-facts-unlocked",
+      "slot": 2,
+      "slug": "ai-antibiotics-discovery",
+      "fact": "In 2020, an AI discovered a new antibiotic — halicin — in a single day. Scientists had searched for 60 years without finding one that worked against drug-resistant bacteria. The AI screened 100 million molecules overnight. Halicin kills bacteria in ways evolution hasn't adapted to yet.",
+      "hook_line": "AI found an antibiotic humans couldn't in 60 years",
+      "voiceover_script": "For 60 years, scientists searched for a new antibiotic that could kill drug-resistant bacteria. They failed. In 2020, an AI screened 100 million molecules overnight. It found halicin — a compound that kills bacteria in a way evolution has never encountered. Bacteria can't evolve resistance to something entirely unlike anything they've faced before. One day. One AI. Sixty years of failure solved.",
+      "duration_target": "35s",
+      "tts_provider": "gemini",
+      "tts_voice": "Zephyr",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "full_captions",
+        "background_type": "abstract_animated",
+        "music_energy": "upbeat",
+        "cta_style": "end_card"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/A2-ai-antibiotics-discovery/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/facts-unlocked/video/upload/v1774514699/facts-unlocked/daily-2026-03-26/A2-ai-antibiotics-discovery.mp4",
+      "cloudinary_version": "v1774514699",
+      "scheduling": [
+        {
+          "platform": "youtube",
+          "account_id": "69bad5396cb7b8cf4c7f69ba",
+          "scheduled_for": "2026-03-27T14:00:00-05:00",
+          "zernio_post_id": "69c4f29ad135603441a46eb5",
+          "status": "scheduled"
+        },
+        {
+          "platform": "instagram",
+          "account_id": "69bad5bc6cb7b8cf4c7f6cd6",
+          "scheduled_for": "2026-03-27T14:00:00-05:00",
+          "zernio_post_id": "69c4f29d31988ff7de8143e4",
+          "status": "scheduled"
+        }
+      ]
+    },
+    {
+      "id": "A3",
+      "project": "ai-facts-unlocked",
+      "slot": 3,
+      "slug": "alphago-zero-3days",
+      "fact": "AlphaGo Zero learned to play Go from absolute zero — no human games, no human knowledge — and became the best Go player in history in 72 hours. It then invented entirely new strategies that no human had ever conceived in 3,000 years of the game.",
+      "hook_line": "This AI mastered a 3,000-year-old game in 3 days",
+      "voiceover_script": "The ancient game of Go has been played for 3,000 years. The best humans spent lifetimes mastering it. In 2017, DeepMind built an AI called AlphaGo Zero. It learned with zero human knowledge. No past games. No strategy guides. Just the rules. In 72 hours it was the best Go player alive. Then it started inventing moves no human had ever thought of in three millennia. It didn't learn from us. It surpassed us.",
+      "duration_target": "40s",
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "variables": {
+        "hook_type": "story_open",
+        "video_length": "45",
+        "voice_pace": "slow",
+        "text_overlay": "key_words_only",
+        "background_type": "single_static",
+        "music_energy": "ambient",
+        "cta_style": "none"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/A3-alphago-zero-3days/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/facts-unlocked/video/upload/v1774514701/facts-unlocked/daily-2026-03-26/A3-alphago-zero-3days.mp4",
+      "cloudinary_version": "v1774514701",
+      "scheduling": [
+        {
+          "platform": "youtube",
+          "account_id": "69bad5396cb7b8cf4c7f69ba",
+          "scheduled_for": "2026-03-27T19:00:00-05:00",
+          "zernio_post_id": "69c4f29f31988ff7de814411",
+          "status": "scheduled"
+        },
+        {
+          "platform": "instagram",
+          "account_id": "69bad5bc6cb7b8cf4c7f6cd6",
+          "scheduled_for": "2026-03-27T19:00:00-05:00",
+          "zernio_post_id": "69c4f2a131988ff7de81442e",
+          "status": "scheduled"
+        }
+      ]
+    }
+  ],
+  "items": [],
+  "stats": {
+    "total": 9,
+    "videos": 9,
+    "pending": 0,
+    "creating": 0,
+    "created": 0,
+    "uploading": 0,
+    "uploaded": 0,
+    "scheduling": 0,
+    "scheduled": 9,
+    "posted": 0,
+    "failed": 0
+  }
+}

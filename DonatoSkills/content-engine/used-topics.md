@@ -44,6 +44,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 034 | twin-communication | 40% of twins develop cryptophasia — their own secret language — before speaking | question / 30s / moderate / full_captions / ai-gen | TikTok, YouTube |
 | 035 | cry-darkness | Newborn pupils can't dilate in darkness for first 3 weeks — effectively blind at night | stat_lead / 25s / fast / karaoke / ai-gen | TikTok, YouTube |
 | 036 | immune-transfer | Breastmilk reads baby's saliva, detects pathogens, engineers targeted antibodies in real time | myth_bust / 35s / slow / key_words_only / abstract-animated | TikTok, YouTube |
+| 037 | face-recognition-12hrs | Newborns recognize mom's face within 12 hours of birth — before they can see beyond 12 inches | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 038 | pregnancy-brain-gray-matter | Pregnancy permanently shrinks gray matter — targeted pruning to sharpen infant social attunement | myth_bust / 30s / fast / karaoke_highlight / abstract_animated | TikTok, YouTube, Instagram |
+| 039 | twins-different-fingerprints | Identical twins share 100% DNA but have completely different fingerprints — physics not genetics | question / 45s / slow / key_words_only / single_static | TikTok, YouTube, Instagram |
 
 ## Money Facts Unlocked
 
@@ -76,6 +79,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 025 | roth-ira-history | Roth IRA named after one senator who quietly inserted it in 1997; died before seeing it shelter trillions | did_you_know / 35s / slow / full_captions / ai-gen | YouTube, Instagram |
 | 026 | insurance-float | Buffett's real secret: $150B insurance float — investing other people's premiums before claims are due | controversy / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
 | 027 | credit-invisible | 26M Americans are "credit invisible" — no score, completely locked out of housing/jobs/phones | stat_lead / 30s / moderate / key_words_only / ai-gen | YouTube, Instagram |
+| 028 | dollar-purchasing-power-97pct | US dollar lost 97% purchasing power since 1913 Federal Reserve creation; $1 then = $0.03 today | stat_lead / 30s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
+| 029 | buffett-wealth-after-52 | Warren Buffett earned 99.7% of net worth after age 52 — compound interest needed 80 years to run | most_people_dont_know / 45s / moderate / full_captions / abstract_animated | TikTok, YouTube, Instagram |
+| 030 | interest-beats-food | Americans pay $1.2T/yr in interest vs ~$900B on food — feeds banks before families | controversy / 30s / fast / minimal / stock_montage | TikTok, YouTube, Instagram |
 
 ## AI Facts Unlocked
 
@@ -98,3 +104,6 @@ Global topic registry. The content engine MUST check this before generating new 
 | 015 | ai-translation-realtime | AI translates spoken language in under 200ms — faster than human thought; beat professionals in 67% of EU segments | stat_lead / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
 | 016 | nvidia-ai-dependency | NVIDIA controls ~90% of AI training chip market; entire AI revolution runs through one company | controversy / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
 | 017 | ai-weather-prediction | Google's GraphCast AI outperforms 10-day weather forecasts 90% of the time; runs in under 1 minute vs 6hrs of supercomputer | myth_bust / 35s / slow / key_words_only / abstract-animated | YouTube, Instagram |
+| 018 | ai-eye-scan-heart-attack | AI predicts heart attack risk 7 years in advance from retinal photo alone — no blood test | what_if / 30s / moderate / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 019 | ai-antibiotics-discovery | AI found halicin (new antibiotic) in 1 day after 60 years of human failure; screened 100M molecules | stat_lead / 30s / fast / full_captions / abstract_animated | YouTube, Instagram |
+| 020 | alphago-zero-3days | AlphaGo Zero learned Go from zero human knowledge; world's best in 72 hours; invented never-seen moves | story_open / 45s / slow / key_words_only / single_static | YouTube, Instagram |
