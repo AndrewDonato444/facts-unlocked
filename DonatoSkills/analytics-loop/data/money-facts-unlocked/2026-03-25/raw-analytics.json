@@ -1,0 +1,756 @@
+{
+  "project": "money-facts-unlocked",
+  "collectedAt": "2026-03-25T00:03:37.261Z",
+  "dateRange": {
+    "from": "2026-03-22",
+    "to": "2026-03-23"
+  },
+  "profiles": [
+    "69b95c8c17376a13852d91f7"
+  ],
+  "totalPosts": 14,
+  "posts": [
+    {
+      "_id": "69c05eda6cb7b8cf4c8f1c20",
+      "latePostId": "69bb10e75a59a7188ba16958",
+      "content": "It costs MORE than 1 cent to make a single penny. The US loses millions on this every year 🪙 #Money\n\nIt costs MORE than 1 cent to make a single penny. The US loses millions on this every year 🪙 #MoneyFacts #Penny #Finance",
+      "publishedAt": "2026-03-22T21:01:53.000Z",
+      "scheduledFor": "2026-03-22T21:01:53.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 528,
+        "engagementRate": 0.19,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 528,
+            "engagementRate": 0.19,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=mCBl4KIaibw",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mCBl4KIaibw/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/mCBl4KIaibw/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/mCBl4KIaibw/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c18e646cb7b8cf4c92b4f8",
+      "latePostId": "69bfac50a0f6d59338d22e59",
+      "content": "The minimum wage is worth less than it was in 1968 💵\n\n$7.25/hr today buys less than minimum wage did 56 years ago.\n\nIf it had tracked productivity growth: $24+/hour.\n\nThe wage didn't fall. Prices rose. Wages didn't follow.\n\n#moneyfacts #minimumwage #inflation #economics #financialreality",
+      "publishedAt": "2026-03-23T18:01:59.000Z",
+      "scheduledFor": "2026-03-23T18:01:59.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 113,
+        "reach": 104,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 113,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 113,
+            "reach": 104,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 113,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWPHvB0gbYP/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/658763167_2290506908024384_7888567857866857204_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=wkFLK9SYOgwQ7kNvwFri8qi&_nc_oc=AdoiuVwFNL6NWQifbLNAdrw0nh_o9m5dPc3joTXIt58Pkd9ypNkxg6Pg9on8jsf-xZM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQHNfVMnGl-aiuhDz0ZvmDIhJglT-MW-cZGExAhpX8lxL_jdm9EnvrRbgcEmdZhbFfxZmgrQlYttBQ&oh=00_AfzDJRF5n9FmtMxsLRAOQuMau7Eox8UZQxZUJRTE98UCvQ&oe=69C8FDAE",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQMvZRiqQ6HYIkptbMz-LlOuzcnRg4oxMVO07jxKvWnM56Xqs7EKbc-vHpCI0fcerLlqA-nooHh4JMRHecLosv7iRErX73cqnY7u92c.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=JDtifvyv7HEQ7kNvwHwDJok&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjUyNzEwOTgzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=221f001c98255919&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zRjRERDFERUY3QjRCQTM2MDRFREYyMDMxQkMyRUM5QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0M2NEMxRUQ5QUNDMTU4ODMyMTY0Nzc0QUY3QjMyQUEzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8mbaplpGXQBUCKAJDMywXQEazMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEMxsjXvEY1VHP1Ra_isWLRH3hvIluGtHGwDbrV7wvLabbrhDmG4hB74KacOWN6MVrDOCpOOs2fCg&oh=00_AfwGnKEFubkthpr1yhne9_0O1CVs1Ye4eJTOis5tq4Z3aw&oe=69C4DC91",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/658763167_2290506908024384_7888567857866857204_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=wkFLK9SYOgwQ7kNvwFri8qi&_nc_oc=AdoiuVwFNL6NWQifbLNAdrw0nh_o9m5dPc3joTXIt58Pkd9ypNkxg6Pg9on8jsf-xZM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQHNfVMnGl-aiuhDz0ZvmDIhJglT-MW-cZGExAhpX8lxL_jdm9EnvrRbgcEmdZhbFfxZmgrQlYttBQ&oh=00_AfzDJRF5n9FmtMxsLRAOQuMau7Eox8UZQxZUJRTE98UCvQ&oe=69C8FDAE"
+        }
+      ]
+    },
+    {
+      "_id": "69c02fab6cb7b8cf4c8e8df7",
+      "latePostId": "69be57d5bf674a30b84089e3",
+      "content": "The 20% down payment rule is a myth — and the industry invented it 🏠\n\nThe rule was created by private mortgage insurers in the 1950s to protect lenders, not you.\n\nToday you can buy with 3% down.\n\nThe real cost of waiting to save 20%: years of rent + home price appreciation.\n\n#moneyfacts #homebuying #realestate #mortgagetips #personalfinance",
+      "publishedAt": "2026-03-22T18:00:59.000Z",
+      "scheduledFor": "2026-03-22T18:00:59.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 111,
+        "reach": 109,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 111,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 111,
+            "reach": 109,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 111,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWMi1RUko7R/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656644641_1234255442207891_9006374036279812432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=3zvq-WyKAdIQ7kNvwEmj3hw&_nc_oc=AdoWikWTLpSwug6G9NxMULvdinMoNftLn0FvXNILR3YOXnkrYSVaLY8W6XcFE2yXNsQ&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQHLAQwQVKl4MPVjWfLlrbwsfRvgdSkCPV4YfhZafHkZ9uqQRbDe9J0GGP5q-1J5iwBRX_NqHXApfA&oh=00_AfxO73URMNb2eB-C9bnm0MV0XCbw6t4PLCG7VgZ7ukRr8Q&oe=69C9032B",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQPwe-4ymwUiFcJG2J4GqdxMp4Bsu-LnYle9sbFOTPDvOkMbfihZYLyjYbk3_mMEvHUNgRpMFK9_XMV_3xEMyQcn8QjIVLuc9Pl1158.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=emhQR1UJxccQ7kNvwHo2gHE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQ5MDg3MzEzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=364ca338864060de&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GRTRBRUU1MDJGRDZGRUI0QTU2RTE4NzdBREM0ODhCQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzRCNENCMkU0MjcwNDQ0QUM3OEU1NEU2QjM3NDJFQ0FBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8oqm9ivyWQBUCKAJDMywXQEpEOVgQYk4YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHwzVAqC_toKUlwItO13gTXPULsbbObeJo3PLivLGQb6gMKSqkGJvimumB6QlSlA1_QSXJGRAeF0Q&oh=00_AfyTLMfe0yuiK-El_Q2-UpntS1Yn9m1JKlQTJXPPfzS4VA&oe=69C4FBDC",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656644641_1234255442207891_9006374036279812432_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=3zvq-WyKAdIQ7kNvwEmj3hw&_nc_oc=AdoWikWTLpSwug6G9NxMULvdinMoNftLn0FvXNILR3YOXnkrYSVaLY8W6XcFE2yXNsQ&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQHLAQwQVKl4MPVjWfLlrbwsfRvgdSkCPV4YfhZafHkZ9uqQRbDe9J0GGP5q-1J5iwBRX_NqHXApfA&oh=00_AfxO73URMNb2eB-C9bnm0MV0XCbw6t4PLCG7VgZ7ukRr8Q&oe=69C9032B"
+        }
+      ]
+    },
+    {
+      "_id": "69c13a876cb7b8cf4c917751",
+      "latePostId": "69bfac4da0f6d59338d22dca",
+      "content": "97% of all money has never been printed 💻\n\nTotal US physical cash in circulation: ~$2.3 trillion.\n\nTotal money supply (M2): ~$21 trillion.\n\nThe gap? Digital entries in bank computers — money that has never existed as paper.\n\n#moneyfacts #banking #economics #personalfinance #financialfacts",
+      "publishedAt": "2026-03-23T13:02:59.000Z",
+      "scheduledFor": "2026-03-23T13:02:59.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 109,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 109,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 109,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 109,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWOlhZTk1un/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/656269738_1974829359821045_7426412590049684423_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=TyUhR_vchZAQ7kNvwFL4MMR&_nc_oc=AdqQSXeLorHWWzEkNZ6emH6bH6gMeq3GTzof2xFB0od8NGp51z0NyUdnpg0J2kIpjuk&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQErN9QTsxULnzjoJUTnVNY3UpwaKlJWLGUD7zE4-4FAJExGcHyaPMvCqK-4CmqJoohs323Zy2qSIQ&oh=00_AfzqybvSO39PT0iH-zL4MM229wWwx4eoeK0PP-EunhF4Lg&oe=69C8EFAF",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQO5rjp-tZFu9SjQzgCUfJX1SuIsLoSqMBjgynrgRMTCJZfOIaoQaqaBD5K1MZUJYapL2b4uZZPAnnEnHLDRxqsBhhHsQcqj_ugQQko.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=eBC6_t8Ot0wQ7kNvwE3Yb-7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjUxNTM3NDQzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=66aa11f666a87f44&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MDQ5QjI1NjZCQ0QwMUNBNkRBNkVCRDZFQzc5OTQ4Rl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VFNDczRUMzQUFFMUU2Q0VENEQ1NDlGODJGMjZCMjlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb83_b7q4qXQBUCKAJDMywXQEviDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFT-1j6vQHBn8Pxxb86zi7bLW79690cNf7_WL62Xhe31YC6xOdQDjD-3-dgP6NIl8yybrHBYufXNQ&oh=00_AfyHw-mn3EQcPmK-nFrb-JuY9l6HX-JxZBJzP4HQAKdI0Q&oe=69C4ED60",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/656269738_1974829359821045_7426412590049684423_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=TyUhR_vchZAQ7kNvwFL4MMR&_nc_oc=AdqQSXeLorHWWzEkNZ6emH6bH6gMeq3GTzof2xFB0od8NGp51z0NyUdnpg0J2kIpjuk&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQErN9QTsxULnzjoJUTnVNY3UpwaKlJWLGUD7zE4-4FAJExGcHyaPMvCqK-4CmqJoohs323Zy2qSIQ&oh=00_AfzqybvSO39PT0iH-zL4MM229wWwx4eoeK0PP-EunhF4Lg&oe=69C8EFAF"
+        }
+      ]
+    },
+    {
+      "_id": "69c1cd416cb7b8cf4c938d4f",
+      "latePostId": "69bfac53a0f6d59338d22ec0",
+      "content": "A $300K house at 7% actually costs $718K 🏠\n\nBreakdown:\n→ Home price: $300,000\n→ Interest paid: $418,000\n→ Total cost: $718,000\n\nThe bank earns more on your mortgage than your home is worth.\n\n#moneyfacts #mortgage #homebuying #realestate #interestrates",
+      "publishedAt": "2026-03-23T23:04:56.000Z",
+      "scheduledFor": "2026-03-23T23:04:56.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 108,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 108,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 108,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 108,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWPqZoCijyj/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/656370933_2076337616557608_6816603069610081311_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=EbhH--kPgQQQ7kNvwF88UZg&_nc_oc=AdrxoB-cgKMlBNXUlgn910gY5ZdiYqqiOBKZ37kg6lXgswKLCEBeBhqspQT05PxM1AY&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQEyQVZno8EPR_kL4DD0Xj7GJdkwWeozOwds4w0M6qHHbaUG8Hidq7DKBbVwepNtzIW57KuohnspZg&oh=00_AfzvgBGX7F1fMWnTYi6Xi_BwZfKrIzUonIFs-j80i_4cOg&oe=69C8EE18",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMTMj_pjZ763TvwewZQdlCsN3nnT830G68qRY-1G5PlpacBl-nu2rzsNzUMS6ECo4-BNvDAGJHHXERP7YvJ7sL0uZsP9Oeuyv5pLQQ.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=hOfWbqSCH3QQ7kNvwETROTc&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjUzMzkzNjMzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ff690f8c853af619&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82NDQwRUExNEJFNkEzMDczMEM3MEQxNEQ3RkFFMTRCN192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzA5NDVCRjc3RDJDMzg1NkJDRUQ0MEQxQkI4NjY1Q0ExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8ioD4kpWXQBUCKAJDMywXQE1VP3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQE8nwriqVPZtnTM9D1Ias35JwmXcYm27rmEsB8wHAOSo2B5oIQRdKEr3PW7cYSDVr9OMqSdIys0_g&oh=00_AfwfPfOGTXi-hqvPw9sqzkPxOyA5EQB1KuFBtM6rQMyNiw&oe=69C4D903",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/656370933_2076337616557608_6816603069610081311_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=EbhH--kPgQQQ7kNvwF88UZg&_nc_oc=AdrxoB-cgKMlBNXUlgn910gY5ZdiYqqiOBKZ37kg6lXgswKLCEBeBhqspQT05PxM1AY&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQEyQVZno8EPR_kL4DD0Xj7GJdkwWeozOwds4w0M6qHHbaUG8Hidq7DKBbVwepNtzIW57KuohnspZg&oh=00_AfzvgBGX7F1fMWnTYi6Xi_BwZfKrIzUonIFs-j80i_4cOg&oe=69C8EE18"
+        }
+      ]
+    },
+    {
+      "_id": "69c082646cb7b8cf4c8f8cd7",
+      "latePostId": "69be57d7bf674a30b8408a2e",
+      "content": "70% of inherited wealth is gone by gen 2. 90% by gen 3. 💸\n\n'Shirtsleeves to shirtsleeves in three generations.'\n\nThis proverb exists in English, Chinese, Italian, Scottish, and Japanese cultures.\n\nGenerational wealth isn't money — it's financial literacy and values.\n\n#moneyfacts #inheritance #generationalwealth #personalfinance #wealthmindset",
+      "publishedAt": "2026-03-22T23:02:54.000Z",
+      "scheduledFor": "2026-03-22T23:02:54.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 108,
+        "reach": 106,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 108,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 108,
+            "reach": 106,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 108,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWNFYW2iVGD/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/655816398_1327418589244335_1802937347333412755_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=C6Y1CmIGcXsQ7kNvwF20HBU&_nc_oc=Adq7niPxx7nnuA2xEvmNZtNiqEst_QclXVA5_AaoioQSWcSzKva2kD8I7bUnZHmLIUA&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQFp4vyfrNT21rhisN8-q-gw0QurqGfnpJ-vceO8vkP0sKUFTdpd2SVMeGmf1llfwVJj9immF_obJA&oh=00_Afxguqqijx3aneQtPPDBy88yVB5pZp5lJ_yG5onJG3cTnQ&oe=69C8E528",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQNkrfC8gyxOdd8Jz5jlNo-IuKd8c3CuSg_oIQatxOs6nZpI-iD9LgZp-qPKKmTiCKZjjIEDnkUIP_Jtm8d0r0lSJ_wyhS7XgKM_nZE.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=bPHURCmKSXoQ7kNvwEOeV5f&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQ5NjQxNTMzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f049e3619492e23&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82RTQ4NDJGMDI1NEVCMTIxQjIyNUYxNTAzRjgyOTBBOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzNFNEJGMDY3NTM3NTNBRDQ1MDJGNkY4MDk0REQzRkJEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8kO6zp_-WQBUCKAJDMywXQEoAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHF0d1P4ODGrOdAApFEjIWww8dn8jy1C0Tda62bBcJ9_WC4lpvRnndgHUypj0PAMj-4QqSDMw0hPQ&oh=00_AfxEiVfCG1rqJ8CIa6Pzk4UBUaAtABD3FmgFgVbyrGyeeA&oe=69C5082A",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/655816398_1327418589244335_1802937347333412755_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=C6Y1CmIGcXsQ7kNvwF20HBU&_nc_oc=Adq7niPxx7nnuA2xEvmNZtNiqEst_QclXVA5_AaoioQSWcSzKva2kD8I7bUnZHmLIUA&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQFp4vyfrNT21rhisN8-q-gw0QurqGfnpJ-vceO8vkP0sKUFTdpd2SVMeGmf1llfwVJj9immF_obJA&oh=00_Afxguqqijx3aneQtPPDBy88yVB5pZp5lJ_yG5onJG3cTnQ&oe=69C8E528"
+        }
+      ]
+    },
+    {
+      "_id": "69bff73d6cb7b8cf4c8de3a1",
+      "latePostId": "69be57d2ccebb3fd3d6940d9",
+      "content": "Missing 10 trading days per decade costs you HALF your returns 📉\n\nFrom 1993–2023, the S&P 500 returned ~10.7%/year.\n\nMiss the 10 best days per decade? Returns drop to ~5.5%.\n\nThose days happen during crashes — when everyone's selling.\n\n#moneyfacts #investing #stockmarket #personalfinance #wealthbuilding",
+      "publishedAt": "2026-03-22T13:01:52.000Z",
+      "scheduledFor": "2026-03-22T13:01:52.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 102,
+        "reach": 100,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 1,
+        "clicks": 0,
+        "views": 102,
+        "engagementRate": 2.94,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 102,
+            "reach": 100,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "saves": 1,
+            "clicks": 0,
+            "views": 102,
+            "engagementRate": 2.94,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWMAmmyjM9o/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656283294_862048106861060_8194342351163326161_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Jsk_GGawF2cQ7kNvwEwKXlE&_nc_oc=AdpUdsZminJNLLI4i4D_8sPXnj66K5w9ifM-cltdPk4bId-e6cGZt-nSSeyLUBkq1W0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQGqNNQimH6wmlMly-msaYF_pjy1dzDOgIXn73yA7GVn0ps5wp2h-IXCD1sfaSQWMeuhQBqkTl6IkA&oh=00_AfyHeQ4Vh2rac8GPJ3MmXMjI277jdNAHnQA_0C8J6zpHbg&oe=69C8DBD5",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQNHof29HSkgk_V3cMjwqsKhHU1CmNCuITZMFLRKXLN6dWNrQ_vnQGRdaVotR5kWOer544lex9OUrtesy9CUaRPR-ZMKSOhp6_UYwRs.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=n60Q_Pm_XyEQ7kNvwFWq-Xa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQ3OTQwODMzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6e39ce884851ab1b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xRjQzNzk1MjhGQkQ1RjU2N0ZBRURFQzAwMTE1RTBCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzBGNEJEREZCQzBGNDQ0RkMzMzgzNDBEQ0JDRDdEODhCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8iryktPWWQBUCKAJDMywXQEeu2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHDl128_svRIpTfS7h6SKpa7SsUZGJOOrdFe44FRD6g5iZdYsq6pvUuHZggek7VQ5qlxbgexusAzw&oh=00_AfzlwvHdH02k5QK77rYYts0kNLaHfGRsZ0j08_G7TMpKqw&oe=69C50C3C",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656283294_862048106861060_8194342351163326161_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Jsk_GGawF2cQ7kNvwEwKXlE&_nc_oc=AdpUdsZminJNLLI4i4D_8sPXnj66K5w9ifM-cltdPk4bId-e6cGZt-nSSeyLUBkq1W0&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQGqNNQimH6wmlMly-msaYF_pjy1dzDOgIXn73yA7GVn0ps5wp2h-IXCD1sfaSQWMeuhQBqkTl6IkA&oh=00_AfyHeQ4Vh2rac8GPJ3MmXMjI277jdNAHnQA_0C8J6zpHbg&oe=69C8DBD5"
+        }
+      ]
+    },
+    {
+      "_id": "69c13a876cb7b8cf4c917753",
+      "latePostId": "69bfac4da0f6d59338d22dca",
+      "content": "97% of all money has never been printed 💻\n\n97% of all money has never been printed 💻\n\nTotal US physical cash in circulation: ~$2.3 trillion.\n\nTotal money supply (M2): ~$21 trillion.\n\nThe gap? Digital entries in bank computers — money that has never existed as paper.\n\n#moneyfacts #banking #economics #personalfinance #financialfacts",
+      "publishedAt": "2026-03-23T13:00:00.000Z",
+      "scheduledFor": "2026-03-23T13:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 70,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 70,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=wA2qXX64Puo",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wA2qXX64Puo/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/wA2qXX64Puo/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/wA2qXX64Puo/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c1cd416cb7b8cf4c938d51",
+      "latePostId": "69bb10edb2a1fde43409fbe1",
+      "content": "The average American spends $219/month on subscriptions they forgot about 😱 #MoneyFacts #Subscriptions #SaveMoney",
+      "publishedAt": "2026-03-23T22:02:52.000Z",
+      "scheduledFor": "2026-03-23T22:02:52.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 51,
+        "reach": 50,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 51,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 51,
+            "reach": 50,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 51,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWPjT2LjZUV/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/655245777_3118169795051090_6948836649810072026_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=W7PUh9y9v0kQ7kNvwEAwBZ6&_nc_oc=AdrxbzdKdyZTY_Lls_w5w5QmC0z0H7jCnjWoaA-5jeIRZIdEZXAr2ly-eFh7POJ50cI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQGCBHixXXCCYGxJd45R9ozeQ3m-GT3DGFecmihmQrA9ieN7c4JORTl4v8C34SdOcXywVQ-97wsQzw&oh=00_AfxFfIkXr-BD2NOeB7Df3qTSVFFSpOq7SMapsBitFOW12A&oe=69C8CC9D",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMjuh2gEYSm4ancQL_0_6ejfwOjtqNpfxJOyscf8WMuZ_li_9z1QvjKLlUYUaxtaAURBsHC22UmjPdIBg7AIsOEtIzwLO4I82p7tdU.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=YRmlBDAEm7kQ7kNvwFabsfh&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjUzMjkxOTkzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=73731356d7c7a163&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GMzQ5NThGNUNFREU0QUVFNUM0NzAxM0Q1Qjk2MjZCOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzA1NEMwMEQyRTUyNDZDMENBNjlFRDY2MjQzQkYzRUExX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8tu2ax5SXQBUCKAJDMywXQDXCj1wo9cMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGWVOllBT6fbVNAZg-8qut6VubsdtfPG1drqwgnevcIosT3OesKkiFS-0f23Ad1dcn01dUTQAu-SQ&oh=00_AfxezWY_a5dLt8IMRazMvvJMqjFHNJMgturebnhmjFMxfA&oe=69C4DD45",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/655245777_3118169795051090_6948836649810072026_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=W7PUh9y9v0kQ7kNvwEAwBZ6&_nc_oc=AdrxbzdKdyZTY_Lls_w5w5QmC0z0H7jCnjWoaA-5jeIRZIdEZXAr2ly-eFh7POJ50cI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=f3FWb5Ub7e1-vheyXsKOSA&_nc_tpa=Q5bMBQGCBHixXXCCYGxJd45R9ozeQ3m-GT3DGFecmihmQrA9ieN7c4JORTl4v8C34SdOcXywVQ-97wsQzw&oh=00_AfxFfIkXr-BD2NOeB7Df3qTSVFFSpOq7SMapsBitFOW12A&oe=69C8CC9D"
+        }
+      ]
+    },
+    {
+      "_id": "69c02fab6cb7b8cf4c8e8df4",
+      "latePostId": "69be57d5bf674a30b84089e3",
+      "content": "The 20% down payment rule is a myth — and the industry invented it 🏠\n\nThe 20% down payment rule is a myth — and the industry invented it 🏠\n\nThe rule was created by private mortgage insurers in the 1950s to protect lenders, not you.\n\nToday you can buy with 3% down.\n\nThe real cost of waiting to save 20%: years of rent + home price appreciation.\n\n#moneyfacts #homebuying #realestate #mortgagetips #personalfinance",
+      "publishedAt": "2026-03-22T18:00:00.000Z",
+      "scheduledFor": "2026-03-22T18:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 49,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 49,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=2UY6S2eCXnM",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2UY6S2eCXnM/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/2UY6S2eCXnM/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/2UY6S2eCXnM/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69bfdbd66cb7b8cf4c8d8e8e",
+      "latePostId": "69be57d2ccebb3fd3d6940d9",
+      "content": "Missing 10 trading days per decade costs you HALF your returns 📉\n\nMissing 10 trading days per decade costs you HALF your returns 📉\n\nFrom 1993–2023, the S&P 500 returned ~10.7%/year.\n\nMiss the 10 best days per decade? Returns drop to ~5.5%.\n\nThose days happen during crashes — when everyone's selling.\n\n#moneyfacts #investing #stockmarket #personalfinance #wealthbuilding",
+      "publishedAt": "2026-03-22T12:03:08.000Z",
+      "scheduledFor": "2026-03-22T12:03:08.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 34,
+        "engagementRate": 2.94,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 34,
+            "engagementRate": 2.94,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=W28zvY6KL0Y",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/W28zvY6KL0Y/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/W28zvY6KL0Y/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/W28zvY6KL0Y/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c17f9e6cb7b8cf4c927ed8",
+      "latePostId": "69bfac50a0f6d59338d22e59",
+      "content": "The minimum wage is worth less than it was in 1968 💵\n\nThe minimum wage is worth less than it was in 1968 💵\n\n$7.25/hr today buys less than minimum wage did 56 years ago.\n\nIf it had tracked productivity growth: $24+/hour.\n\nThe wage didn't fall. Prices rose. Wages didn't follow.\n\n#moneyfacts #minimumwage #inflation #economics #financialreality",
+      "publishedAt": "2026-03-23T17:02:31.000Z",
+      "scheduledFor": "2026-03-23T17:02:31.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 17,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 17,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=FPeq7yFTMrk",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FPeq7yFTMrk/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/FPeq7yFTMrk/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/FPeq7yFTMrk/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c1cd416cb7b8cf4c938d34",
+      "latePostId": "69bfac53a0f6d59338d22ec0",
+      "content": "A $300K house at 7% actually costs $718K 🏠\n\nA $300K house at 7% actually costs $718K 🏠\n\nBreakdown:\n→ Home price: $300,000\n→ Interest paid: $418,000\n→ Total cost: $718,000\n\nThe bank earns more on your mortgage than your home is worth.\n\n#moneyfacts #mortgage #homebuying #realestate #interestrates",
+      "publishedAt": "2026-03-23T23:00:00.000Z",
+      "scheduledFor": "2026-03-23T23:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 13,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 13,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=A5wrIFb6A2U",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/A5wrIFb6A2U/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/A5wrIFb6A2U/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/A5wrIFb6A2U/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c06d816cb7b8cf4c8f50cd",
+      "latePostId": "69be57d7bf674a30b8408a2e",
+      "content": "70% of inherited wealth is gone by gen 2. 90% by gen 3. 💸\n\n70% of inherited wealth is gone by gen 2. 90% by gen 3. 💸\n\n'Shirtsleeves to shirtsleeves in three generations.'\n\nThis proverb exists in English, Chinese, Italian, Scottish, and Japanese cultures.\n\nGenerational wealth isn't money — it's financial literacy and values.\n\n#moneyfacts #inheritance #generationalwealth #personalfinance #wealthmindset",
+      "publishedAt": "2026-03-22T22:01:51.000Z",
+      "scheduledFor": "2026-03-22T22:01:51.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 0,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 0,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=z-l-XoG7l1g",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/z-l-XoG7l1g/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/z-l-XoG7l1g/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/z-l-XoG7l1g/default.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "project": "ai-facts-unlocked",
+  "collectedAt": "2026-03-25T00:03:37.444Z",
+  "dateRange": {
+    "from": "2026-03-22",
+    "to": "2026-03-23"
+  },
+  "profiles": [
+    "69bad5297367e1517f143cd4"
+  ],
+  "totalPosts": 14,
+  "posts": [
+    {
+      "_id": "69c02fb66cb7b8cf4c8e8e06",
+      "latePostId": "69be57dcccebb3fd3d694169",
+      "content": "GPT-4 was trained on 1 trillion words. All of Wikipedia is 4 billion. 📚\n\nGPT-4 was trained on 1 trillion words. All of Wikipedia is 4 billion. 📚\n\nThe training corpus for GPT-4 is equivalent to reading ~1 million books.\n\nAll of English Wikipedia? That's just a rounding error — less than 1% of the data.\n\nThis is how AI knows basically everything.\n\n#aifacts #gpt4 #artificialintelligence #machinelearning #techfacts",
+      "publishedAt": "2026-03-22T18:00:02.000Z",
+      "scheduledFor": "2026-03-22T18:00:02.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 10,
+        "comments": 2,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 908,
+        "engagementRate": 1.32,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 10,
+            "comments": 2,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 908,
+            "engagementRate": 1.32,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=1ylj5MuOI24",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1ylj5MuOI24/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/1ylj5MuOI24/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/1ylj5MuOI24/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c13a886cb7b8cf4c91776a",
+      "latePostId": "69bfac55a0f6d59338d22f35",
+      "content": "The best chess AI evaluates 70 million moves per second ♟️\n\nThe best chess AI evaluates 70 million moves per second ♟️\n\nMagnus Carlsen, world's #1 human? About 3 per second.\n\nAI wins on raw speed — but human grandmasters still drive opening innovation.\n\nBrute force isn't the same as creativity.\n\n#aifacts #chess #artificialintelligence #magnuscarlsen #stockfish",
+      "publishedAt": "2026-03-23T13:01:29.000Z",
+      "scheduledFor": "2026-03-23T13:01:29.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 19,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 893,
+        "engagementRate": 2.13,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 19,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 893,
+            "engagementRate": 2.13,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=qWfZNwXOloI",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qWfZNwXOloI/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/qWfZNwXOloI/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/qWfZNwXOloI/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c03f396cb7b8cf4c8ebd88",
+      "latePostId": "69bb10e9b2a1fde43409fb21",
+      "content": "Training GPT-4 cost over $100 MILLION dollars 💰🤖 #AIFacts #GPT4 #OpenAI\n\nTraining GPT-4 cost over $100 MILLION dollars 💰🤖 #AIFacts #GPT4 #OpenAI",
+      "publishedAt": "2026-03-22T19:01:57.000Z",
+      "scheduledFor": "2026-03-22T19:01:57.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 839,
+        "engagementRate": 0.48,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 4,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 839,
+            "engagementRate": 0.48,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=XKP5wp_DnM8",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XKP5wp_DnM8/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/XKP5wp_DnM8/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/XKP5wp_DnM8/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69bfdac16cb7b8cf4c8d8c2c",
+      "latePostId": "69be57d9bf674a30b8408a6a",
+      "content": "AI-generated images can't be copyrighted in the US 🎨\n\nAI-generated images can't be copyrighted in the US 🎨\n\nCourts ruled: only human authorship qualifies for copyright protection.\n\nThe moment an AI generates an image, it's public domain.\n\nAnyone can use, sell, or copy AI art — legally.\n\n#aifacts #artificialintelligence #copyright #aiart #techlaw",
+      "publishedAt": "2026-03-22T12:03:08.000Z",
+      "scheduledFor": "2026-03-22T12:03:08.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 10,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 352,
+        "engagementRate": 2.84,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 10,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 352,
+            "engagementRate": 2.84,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=sFMYoko0DCM",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sFMYoko0DCM/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/sFMYoko0DCM/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/sFMYoko0DCM/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c17f9f6cb7b8cf4c927eda",
+      "latePostId": "69bfac58a0f6d59338d22fbf",
+      "content": "Google Translate processes 150 billion words every day 🌍\n\nGoogle Translate processes 150 billion words every day 🌍\n\nAll of human history's published text?\n\nGoogle Translate handles that much in a few weeks.\n\n150 languages. 500 million users. 24/7.\n\n#aifacts #googletranslate #artificialintelligence #language #techfacts",
+      "publishedAt": "2026-03-23T17:02:35.000Z",
+      "scheduledFor": "2026-03-23T17:02:35.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 186,
+        "engagementRate": 1.61,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 3,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 186,
+            "engagementRate": 1.61,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=VuJ-Esl7zJI",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VuJ-Esl7zJI/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/VuJ-Esl7zJI/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/VuJ-Esl7zJI/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c13a8a6cb7b8cf4c91777b",
+      "latePostId": "69bfac55a0f6d59338d22f35",
+      "content": "The best chess AI evaluates 70 million moves per second ♟️\n\nMagnus Carlsen, world's #1 human? About 3 per second.\n\nAI wins on raw speed — but human grandmasters still drive opening innovation.\n\nBrute force isn't the same as creativity.\n\n#aifacts #chess #artificialintelligence #magnuscarlsen #stockfish",
+      "publishedAt": "2026-03-23T13:02:48.000Z",
+      "scheduledFor": "2026-03-23T13:02:48.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 133,
+        "reach": 123,
+        "likes": 0,
+        "comments": 0,
+        "shares": 2,
+        "saves": 0,
+        "clicks": 0,
+        "views": 133,
+        "engagementRate": 1.5,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 133,
+            "reach": 123,
+            "likes": 0,
+            "comments": 0,
+            "shares": 2,
+            "saves": 0,
+            "clicks": 0,
+            "views": 133,
+            "engagementRate": 1.5,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWOldfCAtmU/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656934988_873104265781211_8094807364867229563_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=m4VllamViEIQ7kNvwHszupk&_nc_oc=Adr_ROKNkr9RAyR-kr-HdSVAqAMSjYlTfP4HEk_BpvEUpVTh-BhTBZgX9XKTue7TihE&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQHDXCtwhUQEbFTUilTqvVe67QZnwBHwtLZo3_PLZNcni8iPnKx-AW4GGwtohCap8lB6vy5JENTtqQ&oh=00_Afwqfb2GCgfB3i2w_5mc5qOwt_SFg-1on8kIDTGvlvckmQ&oe=69C90331",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQODSzcwv7mlSgy9BJZWHMqaCqMhRFbMJW4mqoDFQkaPWovYwwq9LaRed2pFiWWnCqd1tm8x_jIHySMISDxZafTS2AeVGsiGm-kstT0.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=Em03CbCG75sQ7kNvwGi1T_9&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQxNzc3NzgzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=626cf49b3dc5961a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CQzQ1NkRBRDM5MkYyODlEMUJDMUEyNzNEODc4NzM4QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzhCNDJDNjY0N0ZEOUI0NENCRTNDM0MzNzJFNDhCQjg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0l6C6xNGWQBUCKAJDMywXQE0zMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGRP1X7FzuVtqTQjqkoQj0VvWXyMhvM-lXSP00DkzOyoMc5LsBDaHmZ9QX9ZYql60c7I2AFQ6Wz8A&oh=00_AfzTSlCfZ8XahV0mv3bQ7ZcS5mSIdt6OX5i3iq8zYY6z7w&oe=69C4ED3D",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656934988_873104265781211_8094807364867229563_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=m4VllamViEIQ7kNvwHszupk&_nc_oc=Adr_ROKNkr9RAyR-kr-HdSVAqAMSjYlTfP4HEk_BpvEUpVTh-BhTBZgX9XKTue7TihE&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQHDXCtwhUQEbFTUilTqvVe67QZnwBHwtLZo3_PLZNcni8iPnKx-AW4GGwtohCap8lB6vy5JENTtqQ&oh=00_Afwqfb2GCgfB3i2w_5mc5qOwt_SFg-1on8kIDTGvlvckmQ&oe=69C90331"
+        }
+      ]
+    },
+    {
+      "_id": "69c082636cb7b8cf4c8f8cd6",
+      "latePostId": "69be57debf674a30b8408ace",
+      "content": "AI can name any song from 2 seconds of audio 🎵\n\nShazam's neural net has fingerprinted over 100 million songs.\n\nIt works on humming. Whistling. Bad karaoke.\n\nAnd it does it in under 5 seconds — even in a loud bar.\n\n#aifacts #shazam #musictech #artificialintelligence #techfacts",
+      "publishedAt": "2026-03-22T23:00:57.000Z",
+      "scheduledFor": "2026-03-22T23:00:57.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 110,
+        "reach": 103,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 110,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 110,
+            "reach": 103,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 110,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWNFKeWDgvm/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/657751345_4256784847801249_4278296810711836019_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_zjrXuujBosQ7kNvwHyZZy_&_nc_oc=Adrk9uGxd_wRZRqegiDjxmuMtfiuT7qsndaOxx74srcVm9Ehx0strU_NGEPbdbXpsOg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQGC-hmK5k2-lDmFPbRMrF_pANZWZmiJIukQ6JBE57Pzd3Rz3w6EqeJL2zdBab1tV90mAsf-n-YSQQ&oh=00_AfxHaSxl6W6yce7qTU-zRgZVtYEN9Kh4fxraxI_Y8sbvLA&oe=69C8D32C",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQP9zggWNg84hdB8RyUvMsl8vVhAj3nwb-dCyE6dNM3Q4OXndzxHZJhjGVQqFX5HUH7dBYvaoJdFcNrzobJt1l84aRYvz55UxHcV7RE.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=AskBI51rb4gQ7kNvwEdX9F7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjM5MzkxNzYzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=fca32477a8986615&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CNzRFQTc3N0JGQTQ0OUM4M0Q2NUJEOEVDNzczQTFCM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzcxNERDNzhBQjA0QjIxQUJDQUEwOTVBNDlGNUE1NjlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0vdPd0sOWQBUCKAJDMywXQEfqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFO4LZhJfE8wvm4q7jNQNXRl5fPFoQKORiCi_cYLls_66ohQ8lPMkwTbGG9E7VkEDLN5P04QryiLQ&oh=00_Afybd6D6naV5vFX_kszkRxTkEhgSpowvL-Goqzzemgdu4g&oe=69C4ED01",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/657751345_4256784847801249_4278296810711836019_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_zjrXuujBosQ7kNvwHyZZy_&_nc_oc=Adrk9uGxd_wRZRqegiDjxmuMtfiuT7qsndaOxx74srcVm9Ehx0strU_NGEPbdbXpsOg&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQGC-hmK5k2-lDmFPbRMrF_pANZWZmiJIukQ6JBE57Pzd3Rz3w6EqeJL2zdBab1tV90mAsf-n-YSQQ&oh=00_AfxHaSxl6W6yce7qTU-zRgZVtYEN9Kh4fxraxI_Y8sbvLA&oe=69C8D32C"
+        }
+      ]
+    },
+    {
+      "_id": "69c02fab6cb7b8cf4c8e8df3",
+      "latePostId": "69be57dcccebb3fd3d694169",
+      "content": "GPT-4 was trained on 1 trillion words. All of Wikipedia is 4 billion. 📚\n\nThe training corpus for GPT-4 is equivalent to reading ~1 million books.\n\nAll of English Wikipedia? That's just a rounding error — less than 1% of the data.\n\nThis is how AI knows basically everything.\n\n#aifacts #gpt4 #artificialintelligence #machinelearning #techfacts",
+      "publishedAt": "2026-03-22T18:00:58.000Z",
+      "scheduledFor": "2026-03-22T18:00:58.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 109,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 109,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 109,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 109,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWMi1Mzkvve/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657208201_1467506078351659_7014402179667560210_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gO7YY-kkxjQQ7kNvwFK_gH7&_nc_oc=AdoelAxUmccaYulgDYzmhERsUhqO70Wjk8Jf6eIAqEy9-VfxIHmiwkyEQmS9b1m-PBU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQEM4k-u03We-FIwNnrDlur5UL_MFqNXHJUs4Vb3kRlKn3K24Mzal3OluZjgQj2HG0u543kpugEILQ&oh=00_Afx5KlSKf0feUWXOG2yAFrD4NJ63dlS_qyqB_PU6zYWlsw&oe=69C902B7",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQP6ZVlUy48Y3XK1H8Skl2YHEPc21kpZrYr-WjLh8gmzuNhIt7-lAKV-CusN8yCBxqcpufIlne5mvgP9Pyu49XZOrHdd9NGtvpV_IGU.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=kA0SILDxGtQQ7kNvwHjkIFa&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjM4NjI4NDczOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3adaab2d9a19342c&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84ODRCRDNBQ0IzQjI3REM5OTIzRDAxQTY3QjU5MkJCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzYxNDBEQThGNENGNEUyN0MyMzFDNEZGNjZDNEQ3Q0IwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0zNKEmr-WQBUCKAJDMywXQErRBiTdLxsYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEUsNeZUC0xEyCs6OD3qsjLOkZZ9OEtHqjTttAbZ1f381C_iXfLqvGN4lCbFEXH-TmD7iXtX5v7Dw&oh=00_AfyaUdq8WEQZh6HxSzlaIDv3bBoiKdt_3793zu63mTfBVw&oe=69C4F423",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657208201_1467506078351659_7014402179667560210_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gO7YY-kkxjQQ7kNvwFK_gH7&_nc_oc=AdoelAxUmccaYulgDYzmhERsUhqO70Wjk8Jf6eIAqEy9-VfxIHmiwkyEQmS9b1m-PBU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQEM4k-u03We-FIwNnrDlur5UL_MFqNXHJUs4Vb3kRlKn3K24Mzal3OluZjgQj2HG0u543kpugEILQ&oh=00_Afx5KlSKf0feUWXOG2yAFrD4NJ63dlS_qyqB_PU6zYWlsw&oe=69C902B7"
+        }
+      ]
+    },
+    {
+      "_id": "69c18e636cb7b8cf4c92b4e9",
+      "latePostId": "69bfac58a0f6d59338d22fbf",
+      "content": "Google Translate processes 150 billion words every day 🌍\n\nAll of human history's published text?\n\nGoogle Translate handles that much in a few weeks.\n\n150 languages. 500 million users. 24/7.\n\n#aifacts #googletranslate #artificialintelligence #language #techfacts",
+      "publishedAt": "2026-03-23T18:01:56.000Z",
+      "scheduledFor": "2026-03-23T18:01:56.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 106,
+        "reach": 102,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 106,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 106,
+            "reach": 102,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 106,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWPHvLcjRkU/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/655962053_735998249480628_1048305705720721825_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=FCtU3j4be9AQ7kNvwEA46nw&_nc_oc=AdoE_TeFZzVcvorb2Hf9ROobiwEW4xL1y2M88kLzaz3gUkUslm-1WY4WsQ0-AIYY46g&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQFEZ_w2UGEcu08WeYP_50IHgoqAISUlXC70QLw8twA7N_cBtV7SGJMUS74CY1RcOheWlOE4aQ6uPQ&oh=00_AfwZwgPB6zE8-rLUHryBh_xKCKO6P-BlokrcZ7_4dBX2yQ&oe=69C8E6EB",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPFz5WGKvwHkybVYZtu2XMyoNtybPZcYAKD0NQ9ksj6krIuavGuy3unIFaAlAAaJl9n-av6pKqvXF3rliYCgj7BltR2rhiQoTAaByA.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=rSumRPjo1_4Q7kNvwH6VSS7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQzMTg2MjgzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f918a5d15c84ecd&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yQzQyQTcxMzIxMzlDNTMzOEQ3NjZGRkI0OTE3NkQ4Ql92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzc5NDkyMDZEMEVGMjc2RUIyNTVGRjhFQ0RDQzVCNUI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa02aPv3dmWQBUCKAJDMywXQEQqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFdLo6IdWeyNtNDOjH7Ah9ZQVyJXAbEqODVz1mDY5cnJZA0bljNHDeQhXDaIjMVQN1zsehB1l-pnw&oh=00_AfxBw94pfIRRTJ4uKgWkwpNGTDyOuf_aL2040b0QQEOZkA&oe=69C4FA42",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/655962053_735998249480628_1048305705720721825_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=FCtU3j4be9AQ7kNvwEA46nw&_nc_oc=AdoE_TeFZzVcvorb2Hf9ROobiwEW4xL1y2M88kLzaz3gUkUslm-1WY4WsQ0-AIYY46g&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQFEZ_w2UGEcu08WeYP_50IHgoqAISUlXC70QLw8twA7N_cBtV7SGJMUS74CY1RcOheWlOE4aQ6uPQ&oh=00_AfwZwgPB6zE8-rLUHryBh_xKCKO6P-BlokrcZ7_4dBX2yQ&oe=69C8E6EB"
+        }
+      ]
+    },
+    {
+      "_id": "69bff73d6cb7b8cf4c8de39d",
+      "latePostId": "69be57d9bf674a30b8408a6a",
+      "content": "AI-generated images can't be copyrighted in the US 🎨\n\nCourts ruled: only human authorship qualifies for copyright protection.\n\nThe moment an AI generates an image, it's public domain.\n\nAnyone can use, sell, or copy AI art — legally.\n\n#aifacts #artificialintelligence #copyright #aiart #techlaw",
+      "publishedAt": "2026-03-22T13:02:01.000Z",
+      "scheduledFor": "2026-03-22T13:02:01.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 104,
+        "reach": 100,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 104,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 104,
+            "reach": 100,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 104,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWMAnK6CuY0/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/655890212_2696117247427516_2317330134934912473_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Y4KaQF1hINMQ7kNvwEApQAc&_nc_oc=Adoc11J3ZzIDYgWgeicuZJisVyjRRXhh0X5gGkczB8sqXMur0iWgxMwrV6Q0kR3gzoU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQFlaxoWyJLYa3_WIXXEaMr8_cgr2AYRX0Yfu0AG3papRSSwLHTRo8-PaznQNHetK3RwnThK5tq5HQ&oh=00_AfwgESjPjVtjjwLo2X2VnIr1SW2HbcBLVb6KKdYpzi3lyA&oe=69C8E656",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQOboQ7ll7xDdj1buU8h-jGm5UkOQ-0U2kak6n_BgdoK_AYuVETW0pAloC3FVIdi7f6vT5fx4FDxBYBHcuVMn7qO-f0KUSTE5auohZQ.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=eGHeY7eZVqQQ7kNvwEMW_IY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjM3NDk5ODEzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=9edc3e71da19fb8a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EQTRGOUZGREZFMTA5MjE5OEM2Qjg5RTI4QzMxQUM4N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzUyNDhGNDZDOTgyQTc0MDdEMEY4Q0U2QUJEQTBGNTg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa02p6P0biWQBUCKAJDMywXQEeRBiTdLxsYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFLlqXXNOvVYYXC6llBExPNWv6TUdXKlhcaiAd9Wg2r61qhZx4X3lTmKwYryOrOcVIIcm6F80i-qg&oh=00_AfzqGtNRclIuvZ8dJ-EdO3dG6ioAe07in4yvTWyVhnZ8gw&oe=69C4E176",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/655890212_2696117247427516_2317330134934912473_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Y4KaQF1hINMQ7kNvwEApQAc&_nc_oc=Adoc11J3ZzIDYgWgeicuZJisVyjRRXhh0X5gGkczB8sqXMur0iWgxMwrV6Q0kR3gzoU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQFlaxoWyJLYa3_WIXXEaMr8_cgr2AYRX0Yfu0AG3papRSSwLHTRo8-PaznQNHetK3RwnThK5tq5HQ&oh=00_AfwgESjPjVtjjwLo2X2VnIr1SW2HbcBLVb6KKdYpzi3lyA&oe=69C8E656"
+        }
+      ]
+    },
+    {
+      "_id": "69c1cd426cb7b8cf4c938d93",
+      "latePostId": "69bfac5aa0f6d59338d22ff2",
+      "content": "AI diagnoses eye disease as well as a specialist — in 5 seconds 👁️\n\n90% accuracy on diabetic retinopathy.\n\nAn ophthalmologist appointment: weeks of waiting.\n\nAn AI scan: 5 seconds.\n\n362 million diabetics worldwide need regular eye screening. Most don't get it.\n\n#aifacts #medicalai #artificialintelligence #healthcare #futureofmedicine",
+      "publishedAt": "2026-03-23T23:04:13.000Z",
+      "scheduledFor": "2026-03-23T23:04:13.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 98,
+        "reach": 96,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 98,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 98,
+            "reach": 96,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 98,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWPqSeuDo3E/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/655885714_1258491292463979_1855165070298031601_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=b8IZYuBO8ZkQ7kNvwEkLT4K&_nc_oc=AdoG6cSamtOFiIPUJ-LKk2_WBPMS1RVVK6peQuixrr_R21DQNiyEWEdNCBBc4hZLkIs&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQGXgwO_UYUfu0VjmtXgwKN8nTviHf-OtvnqLxcO3y6Qp25E6mt0ZZqdqqvPUTUttIN6hhimeBot2Q&oh=00_AfxQtVaod4mPoefg7dSncRET-JWxlhkD-CCJTMF7WzswGg&oe=69C8E401",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQMhqY5CotCaRwI4wsAzw8XhBwqjJFMEgp4BSRCDR_5zLu_5iZ0adKRsKAehCNcB8SyXUbDOvoDbVh7C3ywhIedFij82YFbsUV0wezs.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=uFUDzx-NprYQ7kNvwF5KMaS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQzOTY5NDAzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8dabfaaa86b73814&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85QzQxQUFFQjMxNEU4OTg0M0RDNEJFRjk0MTNENzVBMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzcyNDQ0NTkyNUQwRjAwNjIzODgyMEYyOUJBMTAxRDlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0gbarpd6WQBUCKAJDMywXQFGiHKwIMScYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEoRjb1gbnIJjckKHuD0WCr70CnZyKosNDm_RWCy4O_4nnYsNELBgL_SiO0LMqg9wV2zSdIf_3NOA&oh=00_Afwb-YBwpWfPtWUOQs9k9za8bkMtT9RiYQdRg-fc_yNeAw&oe=69C50E76",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/655885714_1258491292463979_1855165070298031601_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=b8IZYuBO8ZkQ7kNvwEkLT4K&_nc_oc=AdoG6cSamtOFiIPUJ-LKk2_WBPMS1RVVK6peQuixrr_R21DQNiyEWEdNCBBc4hZLkIs&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQGXgwO_UYUfu0VjmtXgwKN8nTviHf-OtvnqLxcO3y6Qp25E6mt0ZZqdqqvPUTUttIN6hhimeBot2Q&oh=00_AfxQtVaod4mPoefg7dSncRET-JWxlhkD-CCJTMF7WzswGg&oe=69C8E401"
+        }
+      ]
+    },
+    {
+      "_id": "69c06d816cb7b8cf4c8f50cf",
+      "latePostId": "69be57debf674a30b8408ace",
+      "content": "AI can name any song from 2 seconds of audio 🎵\n\nAI can name any song from 2 seconds of audio 🎵\n\nShazam's neural net has fingerprinted over 100 million songs.\n\nIt works on humming. Whistling. Bad karaoke.\n\nAnd it does it in under 5 seconds — even in a loud bar.\n\n#aifacts #shazam #musictech #artificialintelligence #techfacts",
+      "publishedAt": "2026-03-22T22:01:56.000Z",
+      "scheduledFor": "2026-03-22T22:01:56.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 81,
+        "engagementRate": 1.23,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 81,
+            "engagementRate": 1.23,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=Syo_X-vRc0A",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Syo_X-vRc0A/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/Syo_X-vRc0A/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Syo_X-vRc0A/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c1c5946cb7b8cf4c93744e",
+      "latePostId": "69bfac5aa0f6d59338d22ff2",
+      "content": "AI diagnoses eye disease as well as a specialist — in 5 seconds 👁️\n\nAI diagnoses eye disease as well as a specialist — in 5 seconds 👁️\n\n90% accuracy on diabetic retinopathy.\n\nAn ophthalmologist appointment: weeks of waiting.\n\nAn AI scan: 5 seconds.\n\n362 million diabetics worldwide need regular eye screening. Most don't get it.\n\n#aifacts #medicalai #artificialintelligence #healthcare #futureofmedicine",
+      "publishedAt": "2026-03-23T22:02:13.000Z",
+      "scheduledFor": "2026-03-23T22:02:13.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 59,
+        "engagementRate": 3.39,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 59,
+            "engagementRate": 3.39,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=M_Cbh_qfNeM",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M_Cbh_qfNeM/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/M_Cbh_qfNeM/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/M_Cbh_qfNeM/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c19e6a6cb7b8cf4c92ed55",
+      "latePostId": "69bb10efb2a1fde43409fc25",
+      "content": "AI can read and summarize an entire book in less than 60 seconds 📚⚡ #AIFacts #Reading #Technology",
+      "publishedAt": "2026-03-23T20:01:49.000Z",
+      "scheduledFor": "2026-03-23T20:01:49.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 9,
+        "reach": 9,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 9,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-24 22:49:46"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 9,
+            "reach": 9,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 9,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-24 22:49:46"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWPVdMfFCVr/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/656450217_906963542161141_1370646714248925279_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=pvM8Iral1PcQ7kNvwF_ijh5&_nc_oc=Adr0j9LfufZtffqgKyRe_xq0M9peHlgrNP3N8Fh2_a_IWvdwc5wEVKNZf36-oIyC4Q0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQGLGMwikNAVK9vctK6azWbX5CbkfdteMvAvgVK8_ms73Rgb8jiEt95efNXjbVDy9HEcwoCt27H9xg&oh=00_Afy8nc8DVqZrTExJvKcXHvkAgeX3Cba4MI0oqeOEDxVnxw&oe=69C8F66D",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQNmVfUhXE4d_Cqdobzlz8KY11-knYS16--mKQ05Dq5QGGuG9KOvNpCrt8wsCP0wKzBhNZrSPnaqKkpwVx2HvNjq3K4scUc3460SZ88.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=NYGg9c5zpL4Q7kNvwGyLr6x&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQzNjc3MTQzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=138f2919a090b530&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xQzRBRTQ0NDIyNTA1RENDMUJGNEI1QTc2NzIwNzk4Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0RCNDFGRDdERUZGMkMzRTEzMDhDNUJGQzNBQTk3MDgxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0h6vLy9yWQBUCKAJDMywXQDnXCj1wo9cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHGELTwr59qL3nwXQV2Wiag_OFXuNyINr-ZWFZcYj3UFkMGPyD0CQCGr1x0IwADxUu_o_cYPjrKBw&oh=00_Afz3WjTrY3342XUIAXQQpL7Wf0uNtiYh-h_od8P4h1aLwg&oe=69C5089B",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/656450217_906963542161141_1370646714248925279_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=pvM8Iral1PcQ7kNvwF_ijh5&_nc_oc=Adr0j9LfufZtffqgKyRe_xq0M9peHlgrNP3N8Fh2_a_IWvdwc5wEVKNZf36-oIyC4Q0&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sJkMwvke1ZkL8zmrygxOlg&_nc_tpa=Q5bMBQGLGMwikNAVK9vctK6azWbX5CbkfdteMvAvgVK8_ms73Rgb8jiEt95efNXjbVDy9HEcwoCt27H9xg&oh=00_Afy8nc8DVqZrTExJvKcXHvkAgeX3Cba4MI0oqeOEDxVnxw&oe=69C8F66D"
+        }
+      ]
+    }
+  ]
+}

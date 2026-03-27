@@ -1,0 +1,74 @@
+{
+  "generated_at": "2026-03-25T00:03:37.632Z",
+  "project": "ai-facts-unlocked",
+  "date": "2026-03-26",
+  "scoring_cycles": 4,
+  "cold_start": false,
+  "suppressed_values": 0,
+  "winning_template": null,
+  "research_week": "2026-13",
+  "channels": [
+    {
+      "date": "2026-03-26",
+      "channel": "AI Facts Unlocked",
+      "profile_id": "69bad5396cb7b8cf4c7f69ba",
+      "briefs": [
+        {
+          "slot": 1,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for AI Facts Unlocked. Topic area: general. Pillars: . External signal (week 2026-13): Open every Short with a 3-part hook firing in the first 2 seconds: (1) bold visual — show the result/surprise, not the setup; (2) 3-7 word text overlay stating the fact or question; (3) voiceover beginning within 1 second using 5-10 words. Use 'Did You Know', result-first, or 'X vs Y' formats — no greetings, no context dumps.",
+          "schedule_time": "09:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 2,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for AI Facts Unlocked. Topic area: general. Pillars: . External signal (week 2026-13): Open every Short with a 3-part hook firing in the first 2 seconds: (1) bold visual — show the result/surprise, not the setup; (2) 3-7 word text overlay stating the fact or question; (3) voiceover beginning within 1 second using 5-10 words. Use 'Did You Know', result-first, or 'X vs Y' formats — no greetings, no context dumps.",
+          "schedule_time": "14:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 3,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for AI Facts Unlocked. Topic area: general. Pillars: . External signal (week 2026-13): Open every Short with a 3-part hook firing in the first 2 seconds: (1) bold visual — show the result/surprise, not the setup; (2) 3-7 word text overlay stating the fact or question; (3) voiceover beginning within 1 second using 5-10 words. Use 'Did You Know', result-first, or 'X vs Y' formats — no greetings, no context dumps.",
+          "schedule_time": "19:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        }
+      ]
+    },
+    {
+      "date": "2026-03-26",
+      "channel": "aifactsunlocked",
+      "profile_id": "69bad5bc6cb7b8cf4c7f6cd6",
+      "briefs": [
+        {
+          "slot": 1,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for aifactsunlocked. Topic area: general. Pillars: . External signal (week 2026-13): Open every Short with a 3-part hook firing in the first 2 seconds: (1) bold visual — show the result/surprise, not the setup; (2) 3-7 word text overlay stating the fact or question; (3) voiceover beginning within 1 second using 5-10 words. Use 'Did You Know', result-first, or 'X vs Y' formats — no greetings, no context dumps.",
+          "schedule_time": "09:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 2,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for aifactsunlocked. Topic area: general. Pillars: . External signal (week 2026-13): Open every Short with a 3-part hook firing in the first 2 seconds: (1) bold visual — show the result/surprise, not the setup; (2) 3-7 word text overlay stating the fact or question; (3) voiceover beginning within 1 second using 5-10 words. Use 'Did You Know', result-first, or 'X vs Y' formats — no greetings, no context dumps.",
+          "schedule_time": "14:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 3,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for aifactsunlocked. Topic area: general. Pillars: . External signal (week 2026-13): Open every Short with a 3-part hook firing in the first 2 seconds: (1) bold visual — show the result/surprise, not the setup; (2) 3-7 word text overlay stating the fact or question; (3) voiceover beginning within 1 second using 5-10 words. Use 'Did You Know', result-first, or 'X vs Y' formats — no greetings, no context dumps.",
+          "schedule_time": "19:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,809 @@
+{
+  "project": "ai-facts-unlocked",
+  "scoredAt": "2026-03-27T00:03:57.418Z",
+  "dateRange": {
+    "from": "2026-03-24",
+    "to": "2026-03-25"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 14,
+    "includedPosts": 0,
+    "excludedPosts": 14,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69c3265a6cb7b8cf4c98114f",
+      "latePostId": "69c246f87dd520b26af25fe8",
+      "content": "AI beats billion-dollar supercomputers at predicting weather 🌀",
+      "publishedAt": "2026-03-24T23:02:25.000Z",
+      "scheduledFor": "2026-03-24T23:02:25.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 118,
+        "reach": 105,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 118,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:07"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 118,
+            "reach": 105,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 118,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:07"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWSO6y6Dg4z/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656292949_1470110391282777_4176434036444928097_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=hphsKvfai98Q7kNvwFl-HS0&_nc_oc=AdpMu8uTekcHhehtXZA_h35kkv_UwdPMznzFR-NGk71SN8E7R9ODHdPSKMlK6xbpeTw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQFCMCPZm5lQpx6dJfpswDEcx0wDP2FEdVmBsXWtVDGeIhFmU9sJqKaAP6iL6lweP9QoSDfa076_bw&oh=00_AfxYj6JT0iANdVnb28gvldU9H99pyj46ts_bu36DFqexyg&oe=69CB6398",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQO7zxXOe3u9RaUS94f3BTIU3BunHnSsA6wmiNkiFtvqKzTWiJCq7QHQju-iVWT6fUYYVNsbsHC7RaFnbfqRj1sypp-cqdMkGFnBQJw.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=gn9-FTFTHLsQ7kNvwESYhPw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQ4MDU1MTAzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e5ce6f17966afbdd&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MDRBQTU0NjIwMDNCRjYyOEVCMTdFQ0I1OTdEMERBMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0RGNENBMTQ2N0MyMjUyNTdBNzFCMjZENTNGNUUyRjk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0y5G2ifaWQBUCKAJDMywXQEQqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGTpdzNClbZcaJDrQgAhKeS0garOwRC1aC1F8kbQujrSkUHPyGA3-7Gz1qtc93_tm7kRdmtr3e-Wg&oh=00_Afxf67dCGrKiJPQ0tpQlkf3tf4DU9v_WFsUBnmFQeBJQlw&oe=69C783DF",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656292949_1470110391282777_4176434036444928097_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=hphsKvfai98Q7kNvwFl-HS0&_nc_oc=AdpMu8uTekcHhehtXZA_h35kkv_UwdPMznzFR-NGk71SN8E7R9ODHdPSKMlK6xbpeTw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQFCMCPZm5lQpx6dJfpswDEcx0wDP2FEdVmBsXWtVDGeIhFmU9sJqKaAP6iL6lweP9QoSDfa076_bw&oh=00_AfxYj6JT0iANdVnb28gvldU9H99pyj46ts_bu36DFqexyg&oe=69CB6398"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c44f836cb7b8cf4c9c8109",
+      "latePostId": "69c3ddadf97288cc058bc098",
+      "content": "AI writes 25% of new code at Google and 30% at Meta 💻 Developers aren't writing from scratch anymore — they're reviewing AI code. The most valuable skill isn't writing code. It's knowing what to build and why. #aifacts #AI #coding #programming #tech #futureofwork",
+      "publishedAt": "2026-03-25T21:02:30.000Z",
+      "scheduledFor": "2026-03-25T21:02:30.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 106,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 106,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:07"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 106,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 106,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:07"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWUl_QkEfg4/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658786733_2180468652764722_4428411697049684174_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9GybjnIQa2UQ7kNvwGqBuCH&_nc_oc=AdpUnvwAmQpwhhXEWgPHn86e9oLVD8DdfvjxJOAHQ3ku0LUy-WNszhmJfShuaT3q0wI&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQF6H_nVOSqudMU-i1bQeJnzFNJBtzqmxWevLlv53xjS7tMYS5czblFcp7teRTkdxlwwGeTjLZqdOQ&oh=00_Afz-pZzLfjm0hoLzT_C-mEo36s1pC8avuba2qQAUXDtmEw&oe=69CB79E6",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQN0phU0EMKGwvUr6W9mNJgGa-tnPnJpDJTBq-v0T5TPdhhOXeNH-FcVASKDUZiafB78jyi-wARjIt5IWlHw6cAlUJtsm3wp8mBHtO0.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=8J619b8ds-YQ7kNvwEIZo9B&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjUxNzM2NDkzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=162bf0c34e8255ef&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNDQyRTA0MjU4NzU4RDEwREZENjA1QzZDQjIyNzc4RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzk0NDQxN0Y2Mzk5NkUyMDAxQTI0MTA3NUNFOTk0OEEyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0ruyiwIuXQBUCKAJDMywXQEJu2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGFlCDsVOBuTvuq6Cq9CuQmZzXzjVqkQaN99QzNYlX9y1SWW_K0lCg0NcHx3F6FascXliRiq7tfig&oh=00_AfwAt3nhlcTfBebM3oj83ciXaPEs8rnViQU1amBf1fWdMg&oe=69C76A3D",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658786733_2180468652764722_4428411697049684174_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9GybjnIQa2UQ7kNvwGqBuCH&_nc_oc=AdpUnvwAmQpwhhXEWgPHn86e9oLVD8DdfvjxJOAHQ3ku0LUy-WNszhmJfShuaT3q0wI&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQF6H_nVOSqudMU-i1bQeJnzFNJBtzqmxWevLlv53xjS7tMYS5czblFcp7teRTkdxlwwGeTjLZqdOQ&oh=00_Afz-pZzLfjm0hoLzT_C-mEo36s1pC8avuba2qQAUXDtmEw&oe=69CB79E6"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c440dc6cb7b8cf4c9c270c",
+      "latePostId": "69c3dd809720626f231c45dc",
+      "content": "AI deepfakes of politicians got 500M+ views in 2024 😳 A fake Biden robocall told voters not to vote. Detection lags 6-12 months behind creation. 30 seconds of voice = perfect clone. Seeing is no longer believing. #aifacts #deepfake #AI #election #technology #misinformation",
+      "publishedAt": "2026-03-25T20:05:54.000Z",
+      "scheduledFor": "2026-03-25T20:05:54.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 105,
+        "reach": 100,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 105,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:07"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 105,
+            "reach": 100,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 105,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:07"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWUfgpREQGr/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656197836_1267314864760212_3558511593718821466_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qsHLnhjnoY0Q7kNvwF5aPqt&_nc_oc=Adqw-BT7Z_4dnHmMwq2DgjHnKHyauKOkuCIMqUg-PKHiSwfoe_whL3qh-1Ezdc0CEhY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQERTXjsbATgSvr2-JJBPS9siSjLoHKsFXP6ovib5mQn6rrj_nOD7OCWNTOlnED17BbjDRl3jf78nw&oh=00_AfxiXN6gbOzApHDqa6zQCoYlxdSZeqi5rzUjl3yrwYq7ew&oe=69CB74C7",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQOsYypPTR3m-0OLxtEm3ZcEskzf25649-Sh0fnHIG-YhB1V3zjtT1n5Oid_M8k884dY5uyH6xH-VSdMGIQybw3uw3hT_rDuuuoFVGE.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=g5mmp_-Dbh4Q7kNvwHrCqMw&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjUxNjI5OTMzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e9bffc7968747e64&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9EQTQ0Mzg2MjU2RDlCMjkzOEVFMDBCMTYwMTQ4ODVCN192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZDNDVFOEEwQjMyMkVBN0ZEOTIxQkI1NkYyNUFENDk2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0jr_w8IqXQBUCKAJDMywXQEaqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFh11E-nDzPp1gY1NAXnYhbp5JyPfbSJcEvkmdyI9vtXXfkNTjaTLzW4SdV4latRAcKlEzLbIbRGw&oh=00_AfwsFMZtckux08O42Lv1ziXd3i-vGj20e-h3SwTnNMbxCQ&oe=69C77938",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656197836_1267314864760212_3558511593718821466_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qsHLnhjnoY0Q7kNvwF5aPqt&_nc_oc=Adqw-BT7Z_4dnHmMwq2DgjHnKHyauKOkuCIMqUg-PKHiSwfoe_whL3qh-1Ezdc0CEhY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQERTXjsbATgSvr2-JJBPS9siSjLoHKsFXP6ovib5mQn6rrj_nOD7OCWNTOlnED17BbjDRl3jf78nw&oh=00_AfxiXN6gbOzApHDqa6zQCoYlxdSZeqi5rzUjl3yrwYq7ew&oe=69CB74C7"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c2d3ad6cb7b8cf4c96e887",
+      "latePostId": "69c246edd4998fcd9c74def0",
+      "content": "90% of all AI runs on chips from one company 🖥️",
+      "publishedAt": "2026-03-24T18:01:38.000Z",
+      "scheduledFor": "2026-03-24T18:01:38.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 104,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 104,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:07"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 104,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 104,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:07"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWRsf_BCf1X/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656851833_1677795796987948_8277439179668194548_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=bpoPTRNisSgQ7kNvwGP8_XR&_nc_oc=AdpkaIcCUlj6q1u4TOu5B06bHHzOb6p0gwCp4e8IzS17ayeEE5LZs-l4GanCZpp7cvg&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQERZ5vRQZVlUzWmwv0sahDWtzJVscjR_hz_iLHgM-kazVFQi_B9uslkZOBEsHa9yR3PEEGmsW6RZw&oh=00_AfwexDuyxoYQ-rEUKsJA-KIISnay4U1QW01WW83EwHn3iw&oe=69CB6F3D",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQMkAXo2RcU1LTfmn5ibYKQAOH3C0UyQglT18DHZG0lcI1CJr3Y101GRY3XiIs7esy-cYBOJJRqvbDGuoZSSWCe9Wqs3O4jjw_N-gF8.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=muzGSWm3Np4Q7kNvwF2FvIb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQ3NDMwMjYzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=2987c32b63d0cc9a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xRjRBNkY1NzAxQjExQ0E0NzlFMDA3MUI4NTUzRjNCQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzM2NDM1M0M0RjVDNDY4Qjk1MUJDODM5Q0JEMTVGQ0FGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0l-Dwt_KWQBUCKAJDMywXQEb7peNT988YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGxLJHsjwvBhuhyfQW4py_jnw1_Eyhzvs8k9KRL4X6uH4LHa2bMdiUhGpQ1Qj3BvJuOVxIJPxB-uQ&oh=00_AfwUnrYxEvJstWLHuHE6NqHqj6BUrrGJtP4vApnsaAQL9Q&oe=69C79749",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656851833_1677795796987948_8277439179668194548_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=bpoPTRNisSgQ7kNvwGP8_XR&_nc_oc=AdpkaIcCUlj6q1u4TOu5B06bHHzOb6p0gwCp4e8IzS17ayeEE5LZs-l4GanCZpp7cvg&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQERZ5vRQZVlUzWmwv0sahDWtzJVscjR_hz_iLHgM-kazVFQi_B9uslkZOBEsHa9yR3PEEGmsW6RZw&oh=00_AfwexDuyxoYQ-rEUKsJA-KIISnay4U1QW01WW83EwHn3iw&oe=69CB6F3D"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c2a0ec6cb7b8cf4c960759",
+      "latePostId": "69c246e0d4998fcd9c74dd14",
+      "content": "AI translates speech in 200ms — faster than human thought 🤯",
+      "publishedAt": "2026-03-24T13:01:57.000Z",
+      "scheduledFor": "2026-03-24T13:01:57.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 99,
+        "reach": 97,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 99,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:07"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 99,
+            "reach": 97,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 99,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:07"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWRKMq6jdZa/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/655865158_1951108638869799_5082794767446774777_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lE3VU84gg9cQ7kNvwHwljls&_nc_oc=AdrBAIM6WOFJIUZzkdkWRH-rRTYmg_KV3R-BGv-SePtQSUE3R225eKmB_ECNXq4B3zo&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQH_D6mSWch8QNxrxZnSFtvQiFBh2mGQO6IrKDHY5PdNmO1VUu5zTOmnGzIYdsVsRxoWMNnjuoogKQ&oh=00_Afx1WY5bjSHw3YcYlzJtiJAPjFlWYXhKvwVV9xUzfzHyeQ&oe=69CB63DD",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQN4D4d7RUCgelFEM0bxdrPymeo34nP7lx9ziaaFZAuVou4LfnRgjGQVJEELPaxsbV5HVSp5wxJyNjXTehiS8EvbYFRQWmWUqSVXqQU.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=cvmJkth5OWsQ7kNvwEGBmc0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjQ2MzExMjAzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=80e109f532de559c&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DQTQwODA4MDYyMUIwQjJBMzk5MjEwN0E5RjRCNUFBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzdENDM0QzIzQjZEQzE2NTUwQTA2N0ZERTA1NjRGQjg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa05e-O9uuWQBUCKAJDMywXQEBiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQH3x_eF11Uhn2b_y40uL3KHrGtTvuM8rZmvEDl718ziDLu6uxapy4cb6UJTDudRruAcIUIS2fJP0g&oh=00_AfwdqUK8WhwAdENHLjQZ7tZnQfM4Um-BwOxGwnOmW2sLuQ&oe=69C785F3",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/655865158_1951108638869799_5082794767446774777_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lE3VU84gg9cQ7kNvwHwljls&_nc_oc=AdrBAIM6WOFJIUZzkdkWRH-rRTYmg_KV3R-BGv-SePtQSUE3R225eKmB_ECNXq4B3zo&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQH_D6mSWch8QNxrxZnSFtvQiFBh2mGQO6IrKDHY5PdNmO1VUu5zTOmnGzIYdsVsRxoWMNnjuoogKQ&oh=00_Afx1WY5bjSHw3YcYlzJtiJAPjFlWYXhKvwVV9xUzfzHyeQ&oe=69CB63DD"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c288f96cb7b8cf4c95a45f",
+      "latePostId": "69c246e0d4998fcd9c74dd14",
+      "content": "AI translates speech in 200ms — faster than human thought 🤯\n\nAI translates speech in 200ms — faster than human thought 🤯",
+      "publishedAt": "2026-03-24T12:03:07.000Z",
+      "scheduledFor": "2026-03-24T12:03:07.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 59,
+        "engagementRate": 3.39,
+        "lastUpdated": "2026-03-26 21:25:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 59,
+            "engagementRate": 3.39,
+            "lastUpdated": "2026-03-26 21:25:06"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=iDIhBvbHgqI",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/iDIhBvbHgqI/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/iDIhBvbHgqI/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/iDIhBvbHgqI/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c3e9026cb7b8cf4c9a4feb",
+      "latePostId": "69c3dd809720626f231c45dc",
+      "content": "AI deepfakes of politicians got 500M+ views in 2024 😳 A fake Biden robocall told voters not to vote\n\nAI deepfakes of politicians got 500M+ views in 2024 😳 A fake Biden robocall told voters not to vote. Detection lags 6-12 months behind creation. 30 seconds of voice = perfect clone. Seeing is no longer believing. #aifacts #deepfake #AI #election #technology #misinformation",
+      "publishedAt": "2026-03-25T13:46:52.000Z",
+      "scheduledFor": "2026-03-25T13:46:52.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 59,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 59,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:06"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=oW9nvP-ZUwI",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/oW9nvP-ZUwI/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/oW9nvP-ZUwI/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/oW9nvP-ZUwI/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c440dc6cb7b8cf4c9c270e",
+      "latePostId": "69c3dd554d448ea53bca2b2d",
+      "content": "AI discovered a new antibiotic in 2 HOURS that kills superbugs 🧬 MIT screened 100M+ compounds and found halicin. Traditional discovery takes 3-6 years. The last new class was found in the 1980s. #aifacts #AI #antibiotics #medicine #science #drugdiscovery",
+      "publishedAt": "2026-03-25T19:02:22.000Z",
+      "scheduledFor": "2026-03-25T19:02:22.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 45,
+        "reach": 37,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 45,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:07"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 45,
+            "reach": 37,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 45,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:07"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWUYPY2jw57/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656156348_4601083263448879_2716524623641059416_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qZW1XF6JyysQ7kNvwEbfbXD&_nc_oc=AdozwWW8gWSkYUWuAQr1-GOVNmf4ei0Y8xrhiVcW-8eisknxcR9y17uw6X4RkpXYHQY&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQFWyeQgT2DJiSL1gQVXISoNpKAufyXHk0k1LzdPdhvPxx-pxYNaDceD86RN-vtmRkeUANuUGCp51A&oh=00_Afz8mi51hJLNoNBSzjlQtxXakF3KfvbMhvW1kLWipBwYgw&oe=69CB8567",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQMGcZXXx4DerPmW6bTASM5-1cz8eyQsvo9XBeHyo-g20srHmSPKVn3DPdAI9PObIN9zKIX1bNkYs-fJy6cO64Jg-VNGFdKHQyQdWTg.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=uz5JFXH2JaUQ7kNvwFwqOsA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjUxNDgzMDgzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=54cb77a6fd19e343&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CMjQwMzUxOEI5RUFBM0Y2NjE2OTk3Qjk4OEVGQ0I5MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0RENDNFMDA2QjlCM0Q3QUFCNjBFRjQ5MDFFOTZCNEFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0yeS7g4qXQBUCKAJDMywXQEfMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHoI04Ix0Fbt-DnLbIQ14YoHBN2qcpP2fszDPhQZsG70laU7nSLVJG6FjuwWPIOYfB4Fu9zctZGUQ&oh=00_AfynpPAqq8hFPwdLSeE1aX3Y1qr9CqV2u4N5Ot88m-Ewpw&oe=69C78AA3",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656156348_4601083263448879_2716524623641059416_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qZW1XF6JyysQ7kNvwEbfbXD&_nc_oc=AdozwWW8gWSkYUWuAQr1-GOVNmf4ei0Y8xrhiVcW-8eisknxcR9y17uw6X4RkpXYHQY&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQFWyeQgT2DJiSL1gQVXISoNpKAufyXHk0k1LzdPdhvPxx-pxYNaDceD86RN-vtmRkeUANuUGCp51A&oh=00_Afz8mi51hJLNoNBSzjlQtxXakF3KfvbMhvW1kLWipBwYgw&oe=69CB8567"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c2c55a6cb7b8cf4c96ab92",
+      "latePostId": "69c246edd4998fcd9c74def0",
+      "content": "90% of all AI runs on chips from one company 🖥️\n\n90% of all AI runs on chips from one company 🖥️",
+      "publishedAt": "2026-03-24T17:03:45.000Z",
+      "scheduledFor": "2026-03-24T17:03:45.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 31,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 31,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:06"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=MMskhE4htlI",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/MMskhE4htlI/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/MMskhE4htlI/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/MMskhE4htlI/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c3e9026cb7b8cf4c9a4fee",
+      "latePostId": "69c3dd554d448ea53bca2b2d",
+      "content": "AI discovered a new antibiotic in 2 HOURS that kills superbugs 🧬 MIT screened 100M+ compounds and f\n\nAI discovered a new antibiotic in 2 HOURS that kills superbugs 🧬 MIT screened 100M+ compounds and found halicin. Traditional discovery takes 3-6 years. The last new class was found in the 1980s. #aifacts #AI #antibiotics #medicine #science #drugdiscovery",
+      "publishedAt": "2026-03-25T13:41:51.000Z",
+      "scheduledFor": "2026-03-25T13:41:51.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 22,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 22,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:06"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=COwffqC0DO0",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/COwffqC0DO0/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/COwffqC0DO0/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/COwffqC0DO0/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c41b146cb7b8cf4c9b3a01",
+      "latePostId": "69c40a94443a59d3c69fdc9f",
+      "content": "What if most of the internet isn't even real anymore? #shorts #aifacts #deadinternettheory #ai #cons\n\nWhat if most of the internet isn't even real anymore? #shorts #aifacts #deadinternettheory #ai #conspiracy #facts",
+      "publishedAt": "2026-03-25T16:37:22.000Z",
+      "scheduledFor": "2026-03-25T16:37:22.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 21,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 21,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:06"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=9bR_qrdLEx8",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/9bR_qrdLEx8/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/9bR_qrdLEx8/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/9bR_qrdLEx8/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c3e9026cb7b8cf4c9a4ff1",
+      "latePostId": "69c35c996f6f3525718db14f",
+      "content": "What if most of the internet isn't even real anymore?",
+      "publishedAt": "2026-03-25T12:57:51.000Z",
+      "scheduledFor": "2026-03-25T12:57:51.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 7,
+        "reach": 8,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 7,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:07"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 7,
+            "reach": 8,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 7,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:07"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWTuhNOiGhF/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656208060_961136139590198_4143703209149910914_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=GT0ACGA4BbgQ7kNvwHgFrCH&_nc_oc=Adqf2e3Ps7fyb2rQGIU-fN3kYNEp4WGgHwxN6SOmDnPiiHvellFzSkEFG4XQbpaBJpo&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQFH-uffTjvA1ctZRlL0ALxdnH2-ajegKKPCAok5S6zAa1F3ubBYgXy_Zakw406qAVpGPDgtM0uibQ&oh=00_AfyrOfdsaCPgaF4_vtEwBDt2Ywx8r7m43XIpMxAfKD_dVw&oe=69CB613D",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQM6IvKCef4clb2mB350TIt7Vzk2DcANWkxNKoSAyn8sfbXsV-F6IlxLSAEZVqnIoLxif85RtbbBgSyBDdrPyzVdCQ8IO4eHoIZwQUM.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=1exdw8UMdHMQ7kNvwGqLAOA&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuMTI4MC5kYXNoX2Jhc2VsaW5lXzFfdjEiLCJ4cHZfYXNzZXRfaWQiOjE4MDY1MDI0MjEwMzk0NTg2LCJhc3NldF9hZ2VfZGF5cyI6MSwidmlfdXNlY2FzZV9pZCI6MTAwOTksImR1cmF0aW9uX3MiOjM5LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=408f948b096ef170&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CRjQzRTE2OTM1RkU2RTE2RjYwMzZEMUNBOTc3ODNBMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZFNDA0MjRCMDdGRDRDRUYwMUY1MDlGQTk1M0Y0MTg3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa099ru5oKXQBUCKAJDMywXQEOeuFHrhR8YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEmWeNdWnaB8o8Y1WQoW8YNo_Gw-YmgyNAjm3PWAjJImYyNt85If_ZXGWqCS18qt2ncv-x81KwQ6Q&oh=00_AfwdYy4wGADW5u4LoBqSHuAOmYdPmXMRw9hpWaM0cylr5Q&oe=69C766AE",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656208060_961136139590198_4143703209149910914_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=GT0ACGA4BbgQ7kNvwHgFrCH&_nc_oc=Adqf2e3Ps7fyb2rQGIU-fN3kYNEp4WGgHwxN6SOmDnPiiHvellFzSkEFG4XQbpaBJpo&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Sc9QnXUjXbKLBYzZlvxoHw&_nc_tpa=Q5bMBQFH-uffTjvA1ctZRlL0ALxdnH2-ajegKKPCAok5S6zAa1F3ubBYgXy_Zakw406qAVpGPDgtM0uibQ&oh=00_AfyrOfdsaCPgaF4_vtEwBDt2Ywx8r7m43XIpMxAfKD_dVw&oe=69CB613D"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c3e9026cb7b8cf4c9a4fe9",
+      "latePostId": "69c3ddadf97288cc058bc098",
+      "content": "AI writes 25% of new code at Google and 30% at Meta 💻 Developers aren't writing from scratch anymor\n\nAI writes 25% of new code at Google and 30% at Meta 💻 Developers aren't writing from scratch anymore — they're reviewing AI code. The most valuable skill isn't writing code. It's knowing what to build and why. #aifacts #AI #coding #programming #tech #futureofwork",
+      "publishedAt": "2026-03-25T13:51:52.000Z",
+      "scheduledFor": "2026-03-25T13:51:52.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 2,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 2,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:06"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=b_ACaT8jNbI",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/b_ACaT8jNbI/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/b_ACaT8jNbI/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/b_ACaT8jNbI/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c3150a6cb7b8cf4c97db05",
+      "latePostId": "69c246f87dd520b26af25fe8",
+      "content": "AI beats billion-dollar supercomputers at predicting weather 🌀\n\nAI beats billion-dollar supercomputers at predicting weather 🌀",
+      "publishedAt": "2026-03-24T22:02:37.000Z",
+      "scheduledFor": "2026-03-24T22:02:37.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 1,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-26 21:25:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 1,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-26 21:25:06"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=mz2k7NLyV3g",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mz2k7NLyV3g/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/mz2k7NLyV3g/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/mz2k7NLyV3g/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}

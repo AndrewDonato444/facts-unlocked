@@ -47,6 +47,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 037 | face-recognition-12hrs | Newborns recognize mom's face within 12 hours of birth — before they can see beyond 12 inches | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 | 038 | pregnancy-brain-gray-matter | Pregnancy permanently shrinks gray matter — targeted pruning to sharpen infant social attunement | myth_bust / 30s / fast / karaoke_highlight / abstract_animated | TikTok, YouTube, Instagram |
 | 039 | twins-different-fingerprints | Identical twins share 100% DNA but have completely different fingerprints — physics not genetics | question / 45s / slow / key_words_only / single_static | TikTok, YouTube, Instagram |
+| 040 | gut-microbiome-birth | Babies born vaginally get gut microbiome from mom's birth canal — C-section babies start with skin bacteria, linked to higher allergy/autoimmune rates | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 041 | synaptic-pruning | Newborns have 100 trillion synapses — twice adults' 50T. Brain overproduces then prunes unused connections by adolescence | stat_lead / 30s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
+| 042 | early-birth-design | Humans born 9-12 months "premature" vs other primates — bipedalism forced smaller pelvis, brains finish developing outside womb | myth_bust / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 
 ## Money Facts Unlocked
 
@@ -82,6 +85,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 028 | dollar-purchasing-power-97pct | US dollar lost 97% purchasing power since 1913 Federal Reserve creation; $1 then = $0.03 today | stat_lead / 30s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
 | 029 | buffett-wealth-after-52 | Warren Buffett earned 99.7% of net worth after age 52 — compound interest needed 80 years to run | most_people_dont_know / 45s / moderate / full_captions / abstract_animated | TikTok, YouTube, Instagram |
 | 030 | interest-beats-food | Americans pay $1.2T/yr in interest vs ~$900B on food — feeds banks before families | controversy / 30s / fast / minimal / stock_montage | TikTok, YouTube, Instagram |
+| 031 | penny-production-loss | US Mint loses $147M/yr making pennies — each costs 3.07¢ to produce, worth 1¢. Congress blocks elimination due to zinc lobby | controversy / 30s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
+| 032 | credit-card-interchange | Cash payers subsidize credit card rewards via 2-3% interchange fees built into all prices — ~$1,500/yr transfer from poor to rich | most_people_dont_know / 30s / moderate / keywords / ai-gen | TikTok, YouTube, Instagram |
+| 033 | new-car-depreciation | New cars lose 20% value instantly, 50% in 3 years — a 2-yr-old same model saves ~$8K with nearly identical reliability | stat_lead / 30s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
 
 ## AI Facts Unlocked
 
@@ -107,3 +113,6 @@ Global topic registry. The content engine MUST check this before generating new 
 | 018 | ai-eye-scan-heart-attack | AI predicts heart attack risk 7 years in advance from retinal photo alone — no blood test | what_if / 30s / moderate / karaoke_highlight / ai-gen | YouTube, Instagram |
 | 019 | ai-antibiotics-discovery | AI found halicin (new antibiotic) in 1 day after 60 years of human failure; screened 100M molecules | stat_lead / 30s / fast / full_captions / abstract_animated | YouTube, Instagram |
 | 020 | alphago-zero-3days | AlphaGo Zero learned Go from zero human knowledge; world's best in 72 hours; invented never-seen moves | story_open / 45s / slow / key_words_only / single_static | YouTube, Instagram |
+| 021 | voice-clone-3-seconds | AI clones any voice from 3 seconds of audio — available to anyone online now. Used in scams, corporate fraud, deepfakes. Voice biometrics quietly breaking. | what_if / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 022 | openai-loses-money | OpenAI lost $5B in 2024 on $3.7B revenue — every free ChatGPT query costs 1-4¢ in compute. World's most-used AI runs on investor money. | controversy / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 023 | ai-writes-46pct-code | GitHub Copilot writes 46% of code in enabled files — developers 55% faster with AI. Highest-value skill now: knowing when AI is wrong. | stat_lead / 30s / fast / karaoke / ai-gen | YouTube, Instagram |
