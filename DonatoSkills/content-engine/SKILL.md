@@ -366,6 +366,8 @@ curl -s -X POST https://zernio.com/api/v1/posts \
 
 Update calendar item status to `scheduled` with `buffer_post_id` or `zernio_post_id`.
 
+**CRITICAL — One API call per calendar item.** Each calendar item produces exactly ONE `POST /v1/posts` call to Zernio (or one Buffer mutation). Do NOT make a separate API call for the `concept` field — `concept` is an internal planning description, not post content. The `content` field in the Zernio API body must always be the full `caption` from the calendar item (hook + body + hashtags). Never post the `concept` or a truncated version of the caption as a separate scheduled post.
+
 ### 4. Log & Continue
 
 After each item is processed, update `calendar.json` and regenerate `calendar.md`. Show a brief progress line:

@@ -1,0 +1,8 @@
+# Python virtual environments
+tts-test/.venv/
+
+# Generated test output
+tts-test/output/
+
+# Rendered video output
+output/
