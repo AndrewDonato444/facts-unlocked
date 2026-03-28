@@ -50,6 +50,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 040 | gut-microbiome-birth | Babies born vaginally get gut microbiome from mom's birth canal — C-section babies start with skin bacteria, linked to higher allergy/autoimmune rates | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 | 041 | synaptic-pruning | Newborns have 100 trillion synapses — twice adults' 50T. Brain overproduces then prunes unused connections by adolescence | stat_lead / 30s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
 | 042 | early-birth-design | Humans born 9-12 months "premature" vs other primates — bipedalism forced smaller pelvis, brains finish developing outside womb | myth_bust / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 043 | newborn-salt-blind | Babies can't taste salt at all — salt receptors don't activate until ~4 months. Evolutionary design: breast milk is sweet not salty. | question / 30s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
+| 044 | baby-eye-color-melanin | Most babies born with blue-gray eyes regardless of genetics — final eye color set at 6-12 months when melanin production activates | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 045 | baby-immune-at-birth | Newborns have no immune system of their own — borrow mom's antibodies via placenta/breast milk for 6 months; then it fades | most_people_dont_know / 30s / moderate / keywords / ai-gen | TikTok, YouTube, Instagram |
 
 ## Money Facts Unlocked
 
@@ -88,6 +91,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 031 | penny-production-loss | US Mint loses $147M/yr making pennies — each costs 3.07¢ to produce, worth 1¢. Congress blocks elimination due to zinc lobby | controversy / 30s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
 | 032 | credit-card-interchange | Cash payers subsidize credit card rewards via 2-3% interchange fees built into all prices — ~$1,500/yr transfer from poor to rich | most_people_dont_know / 30s / moderate / keywords / ai-gen | TikTok, YouTube, Instagram |
 | 033 | new-car-depreciation | New cars lose 20% value instantly, 50% in 3 years — a 2-yr-old same model saves ~$8K with nearly identical reliability | stat_lead / 30s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
+| 034 | gold-standard-1971 | Nixon ended gold standard in 1971 in a 15-min TV address — every dollar became backed only by trust in US government; all currencies followed within 2 years | controversy / 30s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
+| 035 | student-loan-nondischargeable | Student loans survive bankruptcy — 1976 legal carve-out means <1% of filers successfully discharge. Credit cards, medical, gambling debt can be wiped. Not student loans. | myth_bust / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 036 | index-fund-outperformance | 92% of active fund managers fail to beat S&P 500 over 15 years (SPIVA). Charge 1-2% to underperform a 0.03% index fund. Buffett won $1M bet on this in 2017. | stat_lead / 30s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
 
 ## AI Facts Unlocked
 
@@ -116,3 +122,6 @@ Global topic registry. The content engine MUST check this before generating new 
 | 021 | voice-clone-3-seconds | AI clones any voice from 3 seconds of audio — available to anyone online now. Used in scams, corporate fraud, deepfakes. Voice biometrics quietly breaking. | what_if / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
 | 022 | openai-loses-money | OpenAI lost $5B in 2024 on $3.7B revenue — every free ChatGPT query costs 1-4¢ in compute. World's most-used AI runs on investor money. | controversy / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
 | 023 | ai-writes-46pct-code | GitHub Copilot writes 46% of code in enabled files — developers 55% faster with AI. Highest-value skill now: knowing when AI is wrong. | stat_lead / 30s / fast / karaoke / ai-gen | YouTube, Instagram |
+| 024 | ai-water-usage | ChatGPT uses ~500ml water per conversation for data center cooling. GPT-3 training = 700K liters. AI data centers on track to consume more water than some countries by 2027. | controversy / 30s / fast / full_captions / ai-gen | YouTube, Instagram |
+| 025 | ai-fda-approved-imaging | FDA-approved AI imaging tools catch 20% more cancers than radiologists alone. 700+ AI medical devices FDA-cleared. Emerging question: is it malpractice NOT to use AI? | what_if / 30s / moderate / keywords / ai-gen | YouTube, Instagram |
+| 026 | ai-bias-documented | Amazon's AI hiring tool penalized women's resumes for years — trained on 10yr male-dominated data. Quietly shut down in 2018. The bias wasn't a bug; it learned from humans. | stat_lead / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
