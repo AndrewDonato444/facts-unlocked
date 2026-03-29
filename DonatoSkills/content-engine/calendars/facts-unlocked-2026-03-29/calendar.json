@@ -1,0 +1,723 @@
+{
+  "campaign": {
+    "name": "Facts Unlocked — Daily Run 2026-03-29",
+    "project_ids": [
+      "baby-facts-unlocked",
+      "money-facts-unlocked",
+      "ai-facts-unlocked"
+    ],
+    "created": "2026-03-29",
+    "timeframe": {
+      "start": "2026-03-30",
+      "end": "2026-03-30"
+    },
+    "mode": "brief-driven",
+    "brief_type": "explore",
+    "external_signal": "Open every Short with a 3-part hook firing in the first 2 seconds: (1) bold visual — show result/surprise first; (2) 3-7 word text overlay stating the fact or question; (3) voiceover beginning within 1 second using 5-10 words. Use Did You Know, result-first, or X vs Y formats. No greetings, no context dumps.",
+    "channels": [
+      {
+        "id": "69b891386cb7b8cf4c78c31d",
+        "service": "tiktok",
+        "name": "@babyfactsunlocked",
+        "scheduler": "zernio",
+        "project": "baby-facts-unlocked"
+      },
+      {
+        "id": "69b8af216cb7b8cf4c791725",
+        "service": "youtube",
+        "name": "@babyfactsunlocked",
+        "scheduler": "zernio",
+        "project": "baby-facts-unlocked"
+      },
+      {
+        "id": "69b994a46cb7b8cf4c7baa8e",
+        "service": "instagram",
+        "name": "@babyfactsunlocked",
+        "scheduler": "zernio",
+        "project": "baby-facts-unlocked"
+      },
+      {
+        "id": "69b991446cb7b8cf4c7b9f76",
+        "service": "tiktok",
+        "name": "@moneyfactsunlocked",
+        "scheduler": "zernio",
+        "project": "money-facts-unlocked"
+      },
+      {
+        "id": "69b95c996cb7b8cf4c7ae4ab",
+        "service": "youtube",
+        "name": "@moneyfactsunlocked",
+        "scheduler": "zernio",
+        "project": "money-facts-unlocked"
+      },
+      {
+        "id": "69b995666cb7b8cf4c7bad79",
+        "service": "instagram",
+        "name": "@moneyfactsunlocked",
+        "scheduler": "zernio",
+        "project": "money-facts-unlocked"
+      },
+      {
+        "id": "69bad5396cb7b8cf4c7f69ba",
+        "service": "youtube",
+        "name": "@aifactsunlocked",
+        "scheduler": "zernio",
+        "project": "ai-facts-unlocked"
+      },
+      {
+        "id": "69bad5bc6cb7b8cf4c7f6cd6",
+        "service": "instagram",
+        "name": "@aifactsunlocked",
+        "scheduler": "zernio",
+        "project": "ai-facts-unlocked"
+      }
+    ]
+  },
+  "items": [
+    {
+      "id": "001",
+      "project": "baby-facts-unlocked",
+      "slug": "vernix-caseosa",
+      "date": "2026-03-30",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "most_people_dont_know",
+      "concept": "The white waxy coating on newborns (vernix caseosa) is antimicrobial and should be rubbed into the skin rather than washed off. Hospitals now recommend delaying first bath 24+ hours. Most still wipe it off immediately.",
+      "hook_text": "Don't wash off the white coating on your newborn",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "That white waxy coating on newborns? Most hospitals wipe it off immediately. That's the wrong move.",
+          "direction": "urgent, revelatory"
+        },
+        "scene-2": {
+          "text": "It's called vernix caseosa. It's packed with antimicrobial proteins, antioxidants, and moisturizing agents that protect your baby from bacteria and infection."
+        },
+        "scene-3": {
+          "text": "Vernix is essentially nature's first antibiotic and first moisturizer combined into one coating applied in the womb."
+        },
+        "scene-4": {
+          "text": "In 2016, the American Academy of Pediatrics updated guidance to delay the first bath by at least 24 hours — so the vernix can be absorbed into the skin. Most hospitals still ignore this."
+        },
+        "scene-5": {
+          "text": "Follow Baby Facts Unlocked for more.",
+          "direction": "warm, inviting"
+        }
+      },
+      "captions": {
+        "tiktok": "Don't wash the vernix off your newborn 🍼 that white coating is nature's antibiotic #babyfacts #newborn #vernix #birth #parenting",
+        "youtube": "The white waxy coating on newborns (vernix caseosa) has antimicrobial properties — AAP now recommends delaying first bath 24+ hours. Most hospitals still wipe it off. #babyfacts #newborn #vernix",
+        "instagram": "Don't wash off the white coating on your newborn 🍼\n\nThat white, waxy substance is called vernix caseosa — and it's not just aesthetics.\n\nVernix is packed with antimicrobial proteins, antioxidants, and skin-barrier agents that protect your baby from bacteria in the birth environment.\n\nIn 2016, the American Academy of Pediatrics updated its guidance: delay the first bath by at least 24 hours so the vernix can be absorbed into the skin.\n\nMost hospitals still wipe it off within minutes of birth.\n\nNature spent 9 months building that coating. Don't wash it away.\n\n#babyfacts #newborn #vernix #birth #hospitalcare #infantskin #parenting #sciencefacts #babyscience"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, warm cream/ivory palette, soft medical/nurturing visuals, keyword overlay synced to voiceover",
+      "duration": 25,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "key_words_only",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "most_people_dont_know",
+        "video_length": "25",
+        "voice_pace": "moderate",
+        "text_overlay": "key_words_only",
+        "background_type": "ai-gen",
+        "music_energy": "gentle",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/001-vernix-caseosa/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774774679/facts-unlocked/2026-03-29/001-vernix-caseosa.mp4",
+      "zernio_post_id": "69c8e99bdee8fb4e845fe389",
+      "error": null,
+      "created_at": "2026-03-29",
+      "scheduled_at": "2026-03-30T09:00:00-04:00"
+    },
+    {
+      "id": "002",
+      "project": "baby-facts-unlocked",
+      "slug": "breast-milk-composition",
+      "date": "2026-03-30",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "did-you-know",
+      "hook_type": "did_you_know",
+      "concept": "Breast milk changes within a single feeding: foremilk (thin, watery, high-lactose) comes first, then hindmilk (creamy, high-fat, calorie-dense). Babies who stop early only get hydration — not the calories they need to grow.",
+      "hook_text": "Breast milk isn't the same liquid from start to finish",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "The first milk that flows out at any feeding is completely different from what flows at the end.",
+          "direction": "calm, curious, informative"
+        },
+        "scene-2": {
+          "text": "It's called foremilk versus hindmilk. Foremilk is thin, watery, and rich in lactose. Its job is hydration."
+        },
+        "scene-3": {
+          "text": "Hindmilk comes next — creamy and high-fat, with up to five times more fat than foremilk. That's the caloric payload."
+        },
+        "scene-4": {
+          "text": "Babies who stop nursing early only get the watery portion. Lactation consultants are specifically trained to ensure babies nurse long enough to reach the hindmilk. The difference matters for weight gain and satiety."
+        },
+        "scene-5": {
+          "text": "Follow Baby Facts Unlocked for more.",
+          "direction": "warm, inviting"
+        }
+      },
+      "captions": {
+        "tiktok": "Breast milk changes mid-feeding 🤱 foremilk vs hindmilk is everything #babyfacts #breastfeeding #newborn #lactation #parenting",
+        "youtube": "Breast milk changes composition within a single feeding — thin watery foremilk first, then calorie-dense hindmilk. Babies who stop early miss the most important part. #babyfacts #breastfeeding",
+        "instagram": "Breast milk isn't the same liquid from start to finish 🤱\n\nEvery feeding has two phases:\n\n**Foremilk** comes first — thin, watery, and high in lactose. Its job is hydration.\n\n**Hindmilk** follows — creamy, rich, with up to 5x the fat content. This is where the calories live.\n\nBabies who stop feeding too early only get the watery portion.\n\nThis is why lactation consultants emphasize feeding until the breast feels soft — to make sure babies reach the hindmilk.\n\nTiming matters more than volume.\n\n#babyfacts #breastfeeding #foremilk #hindmilk #lactation #newborn #infantfeeding #parenting #babyscience"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, soft blue-white palette, organic warm breastfeeding visuals, full caption overlay synced to voiceover",
+      "duration": 35,
+      "tts_provider": "grok",
+      "tts_voice": "rex",
+      "image_gen_provider": "gemini",
+      "background_type": "abstract-animated",
+      "text_overlay": "full_captions",
+      "voice_pace": "slow",
+      "variables": {
+        "hook_type": "did_you_know",
+        "video_length": "35",
+        "voice_pace": "slow",
+        "text_overlay": "full_captions",
+        "background_type": "abstract-animated",
+        "music_energy": "subtle",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/002-breast-milk-composition/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774774685/facts-unlocked/2026-03-29/002-breast-milk-composition.mp4",
+      "zernio_post_id": "69c8e9a29c1f79614512f807",
+      "error": null,
+      "created_at": "2026-03-29",
+      "scheduled_at": "2026-03-30T14:00:00-04:00"
+    },
+    {
+      "id": "003",
+      "project": "baby-facts-unlocked",
+      "slug": "lanugo-hair",
+      "date": "2026-03-30",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "stat_lead",
+      "concept": "Fetuses grow a full coat of fine body hair (lanugo) by week 20, shed most of it by week 36 into the amniotic fluid. The baby then swallows that fluid — and the hair becomes part of their first poop (meconium). Premature babies are often born still covered in it.",
+      "hook_text": "Babies grow a full coat of body hair in the womb",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "By week 20 of pregnancy, a fetus is completely covered in fine body hair.",
+          "direction": "precise, slightly surprising"
+        },
+        "scene-2": {
+          "text": "It's called lanugo. Most of it sheds between weeks 32 and 36 — directly into the amniotic fluid surrounding the baby."
+        },
+        "scene-3": {
+          "text": "The baby then swallows that fluid — including the hair — as they practice breathing and swallowing in the womb. It becomes a key component of their first poop, called meconium."
+        },
+        "scene-4": {
+          "text": "Premature babies are often born still covered in lanugo — the fine, downy hair visible on their shoulders and back. It typically falls off within a few weeks."
+        },
+        "scene-5": {
+          "text": "Follow Baby Facts Unlocked for more.",
+          "direction": "warm, inviting"
+        }
+      },
+      "captions": {
+        "tiktok": "Babies grow a full coat of body hair in the womb 🤰 #babyfacts #lanugo #pregnancy #womb #newborn",
+        "youtube": "Fetuses develop a full coat of body hair (lanugo) by week 20. It sheds into amniotic fluid, is swallowed, and becomes meconium. Premature babies are born still covered in it. #babyfacts #pregnancy #fetal",
+        "instagram": "Babies grow a full coat of body hair in the womb 🤰\n\nBy week 20 of pregnancy, a fetus is completely covered in fine, downy hair called lanugo.\n\nBetween weeks 32-36, most of it sheds — directly into the amniotic fluid.\n\nThe baby swallows that fluid (which is normal — how they practice breathing/swallowing). The lanugo hair becomes part of meconium, the baby's first poop after birth.\n\nPremature babies are often still visibly covered in lanugo at birth — you can see it on their shoulders and back. It falls off within a few weeks.\n\n#babyfacts #lanugo #pregnancy #fetaldevelopment #newborn #meconium #womb #parenting #sciencefacts"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, deep purple-blue palette, soft womb/prenatal imagery, karaoke caption overlay",
+      "duration": 20,
+      "tts_provider": "gemini",
+      "tts_voice": "Puck",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "20",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke",
+        "background_type": "ai-gen",
+        "music_energy": "upbeat",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/003-lanugo-hair/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774774693/facts-unlocked/2026-03-29/003-lanugo-hair.mp4",
+      "zernio_post_id": "69c8e9a971f582dc826e4d26",
+      "error": null,
+      "created_at": "2026-03-29",
+      "scheduled_at": "2026-03-30T19:00:00-04:00"
+    },
+    {
+      "id": "004",
+      "project": "money-facts-unlocked",
+      "slug": "payday-loan-apr",
+      "date": "2026-03-30",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "myth-busting",
+      "hook_type": "controversy",
+      "concept": "Payday loans average 391% APR — legal in 37 states. A $300 two-week loan costs $46 in fees. Roll it over four times (as most borrowers do) and the fees exceed the original loan. 12 million Americans use them annually. The product is designed around repeat rollover, not repayment.",
+      "hook_text": "391% interest — and it's completely legal",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "The average payday loan charges 391% annual interest. That is legal in 37 US states.",
+          "direction": "direct, sharp, matter-of-fact"
+        },
+        "scene-2": {
+          "text": "A $300 two-week loan costs about $46 in fees. Roll it over four times — which most borrowers do — and the fees exceed the original loan amount."
+        },
+        "scene-3": {
+          "text": "12 million Americans use payday loans each year. The industry generates 9 billion dollars annually. Most of that revenue comes from rollover fees, not from original loans."
+        },
+        "scene-4": {
+          "text": "The Consumer Financial Protection Bureau found payday borrowers are in debt for five months out of every year on average. This product is not designed for emergencies. It is designed for entrapment. Only 13 states have capped rates."
+        },
+        "scene-5": {
+          "text": "Follow Money Facts Unlocked for more.",
+          "direction": "confident, inviting"
+        }
+      },
+      "captions": {
+        "tiktok": "391% APR is completely legal in most states 😤 #moneyfacts #paydayloans #personalfinance #debt #financialliteracy",
+        "youtube": "Payday loans average 391% APR — legal in 37 states. A $300 loan rolled over 4 times generates fees larger than the original loan. 12M Americans use them annually. #moneyfacts #paydayloans #finance",
+        "instagram": "391% interest — and it's completely legal 😤\n\nThe average payday loan carries a 391% annual percentage rate.\n\nThat's legal in 37 US states.\n\nA $300 two-week loan costs ~$46 in fees. Most borrowers roll it over 4+ times:\n• Rollover 1: +$46\n• Rollover 2: +$46\n• Rollover 3: +$46\n• Rollover 4: +$46\n\nYou've now paid $184 in fees on a $300 loan. You still owe $300.\n\n12 million Americans use payday loans annually. The CFPB found they're in debt 5 months/year on average.\n\nOnly 13 states cap rates at 36% or below.\n\n#moneyfacts #paydayloans #personalfinance #debt #financialliteracy #consumerdebt #financialtraps #economics"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, deep red/crimson palette, stark debt/loan imagery, karaoke highlight caption overlay",
+      "duration": 30,
+      "tts_provider": "gemini",
+      "tts_voice": "Charon",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke_highlight",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "ai-gen",
+        "music_energy": "tense",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/004-payday-loan-apr/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774774702/facts-unlocked/2026-03-29/004-payday-loan-apr.mp4",
+      "zernio_post_id": "69c8e9b202989c61c05d66c6",
+      "error": null,
+      "created_at": "2026-03-29",
+      "scheduled_at": "2026-03-30T09:00:00-04:00"
+    },
+    {
+      "id": "005",
+      "project": "money-facts-unlocked",
+      "slug": "gig-economy-hidden-costs",
+      "date": "2026-03-30",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "myth-busting",
+      "hook_type": "myth_bust",
+      "concept": "Uber and DoorDash advertise earnings of $20-25/hr but independent studies find actual take-home averages $8.55/hr after vehicle expenses. Platforms classify workers as independent contractors specifically to avoid wage laws. Prop 22 in California cost Uber/DoorDash $200M in lobbying to maintain this classification.",
+      "hook_text": "Gig workers make $8.55 an hour — after expenses",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "Uber advertises $20, $25, sometimes $30 per hour. Independent economists find the real take-home is $8.55 after expenses.",
+          "direction": "measured, slightly incredulous"
+        },
+        "scene-2": {
+          "text": "Federal minimum wage is $7.25. Most state minimums are higher. But gig workers are classified as independent contractors — which means they don't qualify for either."
+        },
+        "scene-3": {
+          "text": "Platforms take 35 to 40 percent of gross revenue. Then subtract fuel, vehicle depreciation, insurance, and maintenance — all of which gig workers pay entirely out of pocket."
+        },
+        "scene-4": {
+          "text": "This classification isn't a loophole. It was the intended design. When California tried to reclassify drivers as employees in 2020, Uber and DoorDash spent over 200 million dollars lobbying to pass Proposition 22 and block it."
+        },
+        "scene-5": {
+          "text": "Follow Money Facts Unlocked for more.",
+          "direction": "confident, inviting"
+        }
+      },
+      "captions": {
+        "tiktok": "Gig workers actually earn $8.55/hr after expenses — legally below minimum wage 😤 #moneyfacts #gigeconomy #uber #doordash #wages",
+        "youtube": "Gig apps advertise $25/hr. Independent studies find actual take-home averages $8.55/hr after vehicle costs. Independent contractor classification is the entire business model — Uber spent $200M lobbying to keep it. #moneyfacts #gigeconomy",
+        "instagram": "Gig workers earn $8.55/hr — after expenses 😤\n\nUber, DoorDash, and similar platforms advertise hourly earnings of $20-25.\n\nIndependent research (MIT, Economic Policy Institute) finds the actual take-home averages **$8.55/hr** after accounting for:\n• Fuel\n• Vehicle depreciation (~$0.30/mile)\n• Insurance (gig work often voids standard policies)\n• Maintenance\n\nFederal minimum wage is $7.25. Most states are higher.\n\nBut none of it applies — because drivers are **independent contractors**, not employees.\n\nThis classification isn't a bug. When California tried to change it in 2020, Uber and DoorDash spent **$200 million** lobbying to pass Prop 22 and block reclassification.\n\n#moneyfacts #gigeconomy #uber #doordash #wages #minimumwage #personalfinance #economics"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, dark industrial orange/charcoal palette, gig delivery imagery, full caption overlay",
+      "duration": 35,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "abstract-animated",
+      "text_overlay": "full_captions",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "myth_bust",
+        "video_length": "35",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "abstract-animated",
+        "music_energy": "driving",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/005-gig-economy-hidden-costs/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774774711/facts-unlocked/2026-03-29/005-gig-economy-hidden-costs.mp4",
+      "zernio_post_id": "69c8e9bb9c1f79614512f9ca",
+      "error": null,
+      "created_at": "2026-03-29",
+      "scheduled_at": "2026-03-30T14:00:00-04:00"
+    },
+    {
+      "id": "006",
+      "project": "money-facts-unlocked",
+      "slug": "zip-code-life-expectancy",
+      "date": "2026-03-30",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "stat_lead",
+      "concept": "Your zip code predicts life expectancy better than your genetics. In some US cities, a 10-mile radius separates neighborhoods with a 20-year life expectancy gap. Wealth determines address, address determines health, health determines lifespan.",
+      "hook_text": "Move 10 miles and gain 20 years of life",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "Your zip code predicts your life expectancy better than your genetics.",
+          "direction": "calm, weighty, precise"
+        },
+        "scene-2": {
+          "text": "In Baltimore, a 10-mile difference separates neighborhoods where life expectancy differs by 20 years. You see the same pattern in Chicago, Detroit, Los Angeles, and New York."
+        },
+        "scene-3": {
+          "text": "It's not just healthcare access. It's chronic stress from financial insecurity. Air quality. Food deserts. Walkability. Noise pollution. All of these compound over decades."
+        },
+        "scene-4": {
+          "text": "The Robert Wood Johnson Foundation calls zip code the single most powerful predictor of health in the United States. Wealth determines where you can live. Where you live determines your health. Your health determines how long you live. The wealth gap is, ultimately, a lifespan gap."
+        },
+        "scene-5": {
+          "text": "Follow Money Facts Unlocked for more.",
+          "direction": "confident, inviting"
+        }
+      },
+      "captions": {
+        "tiktok": "Your zip code predicts your lifespan better than DNA 📍 #moneyfacts #health #wealthgap #economics #life",
+        "youtube": "Your zip code predicts life expectancy better than your genetics. A 10-mile difference in Baltimore = 20-year lifespan gap. Wealth → address → health → lifespan. #moneyfacts #healthequity #wealth",
+        "instagram": "Move 10 miles and gain 20 years of life 📍\n\nYour zip code is a stronger predictor of life expectancy than your DNA.\n\nIn Baltimore, a 10-mile difference separates neighborhoods with a **20-year lifespan gap**. The same pattern exists in Chicago, Detroit, LA, and New York.\n\nIt's not just healthcare access:\n• Chronic stress from financial insecurity\n• Air quality and pollution\n• Food deserts (limited fresh produce)\n• Walkability and physical activity\n• Noise pollution and sleep disruption\n\nAll compound silently over decades.\n\nThe Robert Wood Johnson Foundation calls zip code the most powerful health predictor in America.\n\nWealth → address → health → lifespan.\n\n#moneyfacts #healthequity #wealthgap #lifeexpectancy #economics #personalfinance #socialdeterminants #publichealth"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, deep forest green/navy palette, urban map and neighborhood contrast imagery, key words overlay",
+      "duration": 30,
+      "tts_provider": "gemini",
+      "tts_voice": "Aoede",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "key_words_only",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "30",
+        "voice_pace": "moderate",
+        "text_overlay": "key_words_only",
+        "background_type": "ai-gen",
+        "music_energy": "cinematic",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/006-zip-code-life-expectancy/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774774723/facts-unlocked/2026-03-29/006-zip-code-life-expectancy.mp4",
+      "zernio_post_id": "69c8e9c79c1f79614512fb3a",
+      "error": null,
+      "created_at": "2026-03-29",
+      "scheduled_at": "2026-03-30T19:00:00-04:00"
+    },
+    {
+      "id": "007",
+      "project": "ai-facts-unlocked",
+      "slug": "deepseek-cost-shock",
+      "date": "2026-03-30",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "stat_lead",
+      "concept": "DeepSeek R1 was trained for approximately $6M vs GPT-4's estimated $100M+. That's a 95% cost reduction in 18 months. Every major AI company's valuation depends on frontier AI being expensive. DeepSeek published their methods openly. NVIDIA dropped 17% in one day.",
+      "hook_text": "DeepSeek trained for $6M. GPT-4 cost $100M+.",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "DeepSeek R1 was trained for approximately six million dollars.",
+          "direction": "crisp, impactful, slightly stunned"
+        },
+        "scene-2": {
+          "text": "GPT-4 cost an estimated 100 million dollars or more. DeepSeek matched it on most benchmarks."
+        },
+        "scene-3": {
+          "text": "That is a 95 percent cost reduction in AI training capability — achieved in under 18 months."
+        },
+        "scene-4": {
+          "text": "Every major AI company is valued partly on the assumption that frontier AI is expensive to build — creating a moat. DeepSeek published their methods openly. NVIDIA dropped 17 percent in a single day. The moat everyone was paying for may not exist."
+        },
+        "scene-5": {
+          "text": "Follow AI Facts Unlocked for more.",
+          "direction": "confident, forward-looking"
+        }
+      },
+      "captions": {
+        "youtube": "DeepSeek R1 trained for ~$6M. GPT-4 cost ~$100M+. Same benchmark performance. 95% cost reduction in 18 months. NVIDIA dropped 17% in one day. The AI moat may not be real. #aifacts #deepseek #openai #nvidia #artificialintelligence",
+        "instagram": "DeepSeek trained for $6M. GPT-4 cost $100M+. 🤖\n\nIn January 2025, Chinese AI lab DeepSeek released R1 — a model that matches GPT-4 on most benchmarks.\n\nTheir training cost: ~$6 million.\nGPT-4 estimated cost: $100 million+.\n\nThat's a **95% cost reduction** in AI training in under 18 months.\n\nThe implications are massive:\n\nEvery major AI company (OpenAI, Google, Anthropic) carries valuations partly justified by the assumption that frontier AI is expensive — creating barriers to entry.\n\nDeepSeek published their methodology openly.\n\nNVIDIA stock dropped 17% in one trading day — its largest single-day loss ever.\n\n#aifacts #deepseek #openai #nvidia #artificialintelligence #techindustry #airace #machinelearning"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, electric blue/dark navy palette, server room and cost chart imagery, karaoke caption overlay",
+      "duration": 30,
+      "tts_provider": "gemini",
+      "tts_voice": "Charon",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke",
+        "background_type": "ai-gen",
+        "music_energy": "driving",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/007-deepseek-cost-shock/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774774732/facts-unlocked/2026-03-29/007-deepseek-cost-shock.mp4",
+      "zernio_post_id": "69c8e9cf9c1f79614512fbf7",
+      "error": null,
+      "created_at": "2026-03-29",
+      "scheduled_at": "2026-03-30T09:00:00-04:00"
+    },
+    {
+      "id": "008",
+      "project": "ai-facts-unlocked",
+      "slug": "ai-voice-scams-surge",
+      "date": "2026-03-30",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "controversy",
+      "concept": "AI voice cloning scams increased 400% in 2024 (FTC). The grandparent scam is now fully automated: AI generates the voice, writes the script, makes the call, handles objections. Only needs 3 seconds of audio from a public video. FTC received $2.7B in fraud reports tied to AI-assisted identity theft.",
+      "hook_text": "AI scam calls are up 400% — no human required",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "AI voice cloning scams jumped 400 percent in 2024, according to the FTC.",
+          "direction": "urgent, alarming but clear"
+        },
+        "scene-2": {
+          "text": "The grandparent scam used to require a human caller pretending to be a family member in trouble. Now it's fully automated: AI generates the voice, writes the script, makes the call, and handles objections in real time."
+        },
+        "scene-3": {
+          "text": "All it needs is three seconds of audio — from a TikTok, a voicemail, anything publicly available. Current voice cloning tools can replicate someone's voice convincingly from that alone."
+        },
+        "scene-4": {
+          "text": "The FTC received 2.7 billion dollars in fraud reports tied to AI-assisted identity theft in 2024. These systems run 24 hours a day, seven days a week, at near-zero cost per call. Establish a family code word that your AI clone would never know."
+        },
+        "scene-5": {
+          "text": "Follow AI Facts Unlocked for more.",
+          "direction": "confident, forward-looking"
+        }
+      },
+      "captions": {
+        "youtube": "AI voice cloning scams up 400% in 2024 (FTC). The grandparent scam is now fully automated — AI makes the call, handles objections, no human needed. Only needs 3 seconds of audio. $2.7B in related fraud. #aifacts #aiscams #voicecloning #fraud",
+        "instagram": "AI scam calls are up 400% — and there's no human on the other end 📞\n\nThe grandparent scam (AI mimics a family member in distress) used to require a human operator.\n\nNow it's fully automated:\n• AI generates the voice\n• Writes the script in real time\n• Makes the call\n• Handles your objections\n\nIt only needs **3 seconds of audio** — from a TikTok, YouTube video, or voicemail. That's enough for current voice cloning tools to create a convincing replica.\n\nFTC received $2.7B in fraud reports linked to AI-assisted identity theft in 2024.\n\nThese systems run 24/7 at near-zero cost per call.\n\n**Establish a family code word. Your AI clone won't know it.**\n\n#aifacts #aiscams #voicecloning #fraud #artificialintelligence #cybercrime #privacy #scamawareness"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, dark red/ember palette, phone call and digital threat imagery, full caption overlay",
+      "duration": 35,
+      "tts_provider": "gemini",
+      "tts_voice": "Puck",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "35",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "tense",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/008-ai-voice-scams-surge/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774774741/facts-unlocked/2026-03-29/008-ai-voice-scams-surge.mp4",
+      "zernio_post_id": "69c8e9d89c1f79614512fd56",
+      "error": null,
+      "created_at": "2026-03-29",
+      "scheduled_at": "2026-03-30T14:00:00-04:00"
+    },
+    {
+      "id": "009",
+      "project": "ai-facts-unlocked",
+      "slug": "ai-synthetic-data",
+      "date": "2026-03-30",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "future-tech",
+      "hook_type": "myth_bust",
+      "concept": "AI models are increasingly training on AI-generated synthetic data. Researchers call the risk 'model collapse': errors compound across generations, rare but real information disappears, and models become more confident while becoming less accurate. A 2023 Oxford study showed 10 generations of self-training destroyed image generation quality entirely.",
+      "hook_text": "AI is eating its own output — and degrading",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "AI models are now training on AI-generated content. Researchers call the outcome model collapse.",
+          "direction": "calm, slightly ominous, precise"
+        },
+        "scene-2": {
+          "text": "When a model trains on its own outputs, errors compound across generations. The tail of the distribution — rare but real information — gets erased."
+        },
+        "scene-3": {
+          "text": "The model becomes more confident and simultaneously less accurate. It loses the unusual, the edge cases, the exceptions. It converges to a narrower, blander version of reality."
+        },
+        "scene-4": {
+          "text": "A 2023 Oxford paper demonstrated that after 10 generations of self-training, image generation models lost structural coherence entirely. The internet is now flooded with AI-generated text — which future AI models are already training on. We are in generation one of this cycle."
+        },
+        "scene-5": {
+          "text": "Follow AI Facts Unlocked for more.",
+          "direction": "confident, forward-looking"
+        }
+      },
+      "captions": {
+        "youtube": "AI models training on AI-generated data causes 'model collapse' — errors compound, rare information disappears, models degrade over generations. A 2023 Oxford study proved this. The internet is already full of AI text. #aifacts #modelcollapse #airesearch #syntheticdata",
+        "instagram": "AI is eating its own output — and degrading 🤖\n\nTo reduce costs, AI companies are training models on **synthetic data** — content generated by other AI models.\n\nResearchers call the outcome **model collapse**:\n\n1. Errors compound across training generations\n2. Rare but real information (edge cases, exceptions) gets erased\n3. Models become more confident while becoming less accurate\n4. Output converges to a narrower, blander version of reality\n\nA 2023 Oxford study showed that after just 10 generations of self-training, image generation models lost structural coherence entirely.\n\nThe internet is now saturated with AI-generated text. Future AI models are already training on it.\n\nWe're in generation one.\n\n#aifacts #modelcollapse #syntheticdata #artificialintelligence #airesearch #futureofai #machinelearning #airisks"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, deep purple/dark teal palette, abstract AI data loop and digital decay imagery, key words overlay",
+      "duration": 30,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "abstract-animated",
+      "text_overlay": "key_words_only",
+      "voice_pace": "slow",
+      "variables": {
+        "hook_type": "myth_bust",
+        "video_length": "30",
+        "voice_pace": "slow",
+        "text_overlay": "key_words_only",
+        "background_type": "abstract-animated",
+        "music_energy": "cinematic",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/009-ai-synthetic-data/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774774750/facts-unlocked/2026-03-29/009-ai-synthetic-data.mp4",
+      "zernio_post_id": "69c8e9e29c1f79614512ff37",
+      "error": null,
+      "created_at": "2026-03-29",
+      "scheduled_at": "2026-03-30T19:00:00-04:00"
+    }
+  ],
+  "stats": {
+    "total": 9,
+    "scheduled": 9,
+    "failed": 0,
+    "skipped": 0
+  }
+}

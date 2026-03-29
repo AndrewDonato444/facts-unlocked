@@ -53,6 +53,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 043 | newborn-salt-blind | Babies can't taste salt at all — salt receptors don't activate until ~4 months. Evolutionary design: breast milk is sweet not salty. | question / 30s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
 | 044 | baby-eye-color-melanin | Most babies born with blue-gray eyes regardless of genetics — final eye color set at 6-12 months when melanin production activates | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 | 045 | baby-immune-at-birth | Newborns have no immune system of their own — borrow mom's antibodies via placenta/breast milk for 6 months; then it fades | most_people_dont_know / 30s / moderate / keywords / ai-gen | TikTok, YouTube, Instagram |
+| 046 | vernix-caseosa | Vernix caseosa is antimicrobial + moisturizing; AAP recommends delaying first bath 24+ hours; most hospitals still wipe it off | most_people_dont_know / 25s / moderate / key_words_only / ai-gen | TikTok, YouTube, Instagram |
+| 047 | breast-milk-composition | Breast milk changes within a single feeding: foremilk (hydration) then hindmilk (5x fat, calorie-dense). Babies who stop early miss the calories. | did_you_know / 25s / slow / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 048 | lanugo-hair | Fetus covered in lanugo by wk 20; sheds into amniotic fluid wks 32-36; baby swallows it, becomes meconium; preemies born still covered | question / 25s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
 
 ## Money Facts Unlocked
 
@@ -94,6 +97,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 034 | gold-standard-1971 | Nixon ended gold standard in 1971 in a 15-min TV address — every dollar became backed only by trust in US government; all currencies followed within 2 years | controversy / 30s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
 | 035 | student-loan-nondischargeable | Student loans survive bankruptcy — 1976 legal carve-out means <1% of filers successfully discharge. Credit cards, medical, gambling debt can be wiped. Not student loans. | myth_bust / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 | 036 | index-fund-outperformance | 92% of active fund managers fail to beat S&P 500 over 15 years (SPIVA). Charge 1-2% to underperform a 0.03% index fund. Buffett won $1M bet on this in 2017. | stat_lead / 30s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
+| 037 | payday-loan-apr | Average payday loan = 391% APR, legal in 37 states. $300 loan rolls into $184 fees. CFPB: borrowers in debt 5 months/yr. Only 13 states cap rates. | controversy / 25s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
+| 038 | gig-economy-hidden-costs | Uber/gig workers take home $8.55/hr after expenses vs advertised $25. Platforms take 35-40%. $200M spent to block CA reclassification. | myth_bust / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 039 | zip-code-life-expectancy | Zip code predicts life expectancy better than genetics. 10-mile gap = 20yr lifespan diff in Baltimore. RWJF: zip code is #1 health predictor. | stat_lead / 30s / moderate / key_words_only / ai-gen | TikTok, YouTube, Instagram |
 
 ## AI Facts Unlocked
 
@@ -125,3 +131,6 @@ Global topic registry. The content engine MUST check this before generating new 
 | 024 | ai-water-usage | ChatGPT uses ~500ml water per conversation for data center cooling. GPT-3 training = 700K liters. AI data centers on track to consume more water than some countries by 2027. | controversy / 30s / fast / full_captions / ai-gen | YouTube, Instagram |
 | 025 | ai-fda-approved-imaging | FDA-approved AI imaging tools catch 20% more cancers than radiologists alone. 700+ AI medical devices FDA-cleared. Emerging question: is it malpractice NOT to use AI? | what_if / 30s / moderate / keywords / ai-gen | YouTube, Instagram |
 | 026 | ai-bias-documented | Amazon's AI hiring tool penalized women's resumes for years — trained on 10yr male-dominated data. Quietly shut down in 2018. The bias wasn't a bug; it learned from humans. | stat_lead / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 027 | deepseek-cost-shock | DeepSeek R1 trained for $6M vs GPT-4's $100M+; 95% cost reduction in 18 months; NVIDIA dropped 17% in one day; AI moat assumptions broken | controversy / 25s / fast / karaoke / ai-gen | YouTube, Instagram |
+| 028 | ai-voice-scams-surge | AI voice cloning scams up 400% (FTC 2024); $2.7B fraud reports; 3sec audio enough to clone voice; fully automated 24/7. Establish family code word. | most_people_dont_know / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 029 | ai-synthetic-data | AI training on AI-generated content causes model collapse; errors compound; rare info erased; Oxford 2023: 10 generations = structural failure. Internet already saturated with gen-1 AI text. | controversy / 30s / slow / key_words_only / ai-gen | YouTube, Instagram |
