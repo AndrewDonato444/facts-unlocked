@@ -1,0 +1,86 @@
+{
+  "date": "2026-03-30",
+  "week": "2026-14",
+  "signals": [
+    {
+      "signal": "Swipe-away rate is now the #1 ranking signal for Shorts distribution, surpassing raw watch time as the primary indicator of whether distribution expands.",
+      "source": "web",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "The most important metric is the ratio of swipes to views, which now occupies first place among all indicators."
+    },
+    {
+      "signal": "Shorts with 70%+ completion rates receive ~30% more algorithmic promotion; improving retention by 10 percentage points correlates with 25% more impressions.",
+      "source": "virvid.ai",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Over 70% completion rates yield roughly 30% more algorithmic promotion."
+    },
+    {
+      "signal": "50-60% of viewer dropoff happens in the first 3 seconds; the opening window is the single highest-leverage moment for faceless Shorts.",
+      "source": "vidIQ",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "50-60% of viewers who drop off do so within the first 3 seconds."
+    },
+    {
+      "signal": "On-screen text during the hook increases average watch time by 18%; text makes faceless content legible on mute and creates pattern interrupts.",
+      "source": "virvid.ai",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Shorts with on-screen text during the hook see 18% more watch time on average."
+    },
+    {
+      "signal": "Pattern interrupts in the first 5 seconds boost average retention by 23% versus a static opening.",
+      "source": "virvid.ai",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "A pattern interrupt in the first 5 seconds boosts average retention by 23% versus a static opening."
+    },
+    {
+      "signal": "Looping structures (15-25 second optimal length) can push average view duration past 100%, as each loop counts as a new view since March 2025.",
+      "source": "virvid.ai",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Looping structures push average view duration past 100%."
+    },
+    {
+      "signal": "Shorts older than ~30 days are now much less likely to be pushed in recommendations—a significant shift away from the evergreen compounding model.",
+      "source": "web",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Shorts older than roughly 30 days now much less likely to be pushed in recommendations."
+    },
+    {
+      "signal": "January 2026: YouTube introduced a dedicated 'Shorts' search filter, significantly increasing discoverability for searchable/topic-driven Short content.",
+      "source": "Miraflow",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-01",
+      "raw_quote": "YouTube introduced a 'Shorts' type filter in search results, separating short-form vertical content from traditional long-form videos."
+    },
+    {
+      "signal": "Inserting micro open loops every 5-8 seconds in the middle section ('But here's the surprising part...') prevents the typical mid-roll retention cliff.",
+      "source": "Shortimize",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Insert 'micro open loops' every 5-8 seconds."
+    },
+    {
+      "signal": "Post-watch satisfaction signals (surveys, shares, replays, session continuation) now weigh equally with engagement metrics in distribution scoring.",
+      "source": "virvid.ai",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Distribution now weighs multiple engagement types equally: post-watch survey responses, likes and shares (shares = strongest endorsement signal), rewatches and replays, session continuation."
+    }
+  ]
+}

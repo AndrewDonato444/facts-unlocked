@@ -3,30 +3,30 @@
     {
       "tactic": "Front-load hook in first 2 seconds with bold text overlay stating the surprising fact/number, paired with AI background that matches the topic (e.g., 'Did you know: 73% of people...' over relevant animated visuals). Ensure voiceover begins within 1 second.",
       "first_seen": "2026-12",
-      "last_seen": "2026-13",
-      "weeks_observed": 2,
-      "source_count": 2
+      "last_seen": "2026-14",
+      "weeks_observed": 3,
+      "source_count": 3
     },
     {
       "tactic": "Target 13-20 second video length with seamless looping structure—end frame visually matches or transitions back to opening frame to trigger automatic loop as additional view and engagement signal. Voiceover should fit within 15-18 seconds to allow 2-5 second visual loop gap.",
       "first_seen": "2026-12",
-      "last_seen": "2026-13",
-      "weeks_observed": 2,
-      "source_count": 2
+      "last_seen": "2026-14",
+      "weeks_observed": 3,
+      "source_count": 3
     },
     {
       "tactic": "Post 4-5 Shorts per week on a fixed schedule (e.g., Mon/Wed/Fri/Sat at 9 AM), front-loading keywords in first 40 characters of title only (e.g., 'Psychology fact: Why brains ignore...'), and use 3-5 niche hashtags (e.g., #PsychologyFacts #MindTricks #BehaviorScience) instead of generic #Shorts.",
       "first_seen": "2026-12",
-      "last_seen": "2026-13",
-      "weeks_observed": 2,
-      "source_count": 2
+      "last_seen": "2026-14",
+      "weeks_observed": 3,
+      "source_count": 3
     },
     {
       "tactic": "Publish new Shorts every 5-7 days (not more frequently) to avoid algorithmic flattening; monitor impressions after day 28-30 and pause promotion of videos older than 30 days. Plan content calendar around this recency window (4 Shorts in 30-day cycle maximum).",
       "first_seen": "2026-12",
-      "last_seen": "2026-12",
-      "weeks_observed": 1,
-      "source_count": 1
+      "last_seen": "2026-14",
+      "weeks_observed": 2,
+      "source_count": 2
     },
     {
       "tactic": "Use AI-generated backgrounds and voiceovers but disclose AI usage in description if generating >50% of video content; avoid repetitive AI templates that appear in multiple videos (creates 'inauthentic' signal). Vary AI background styles weekly and add unique text overlays, transitions, or voiceover inflection variations.",
@@ -38,9 +38,9 @@
     {
       "tactic": "Use a 3-part hook structure firing within 3 seconds: (1) visual hook showing the payoff/result, not the setup; (2) 3-7 word text overlay stating a result, secret, or comparison; (3) 5-10 word verbal hook. Single-idea rule: if the hook needs two sentences, it's too complex.",
       "first_seen": "2026-13",
-      "last_seen": "2026-13",
-      "weeks_observed": 1,
-      "source_count": 1
+      "last_seen": "2026-14",
+      "weeks_observed": 2,
+      "source_count": 2
     },
     {
       "tactic": "Target 25-30 seconds for standard fact videos, 15-20 seconds for single-insight clips. Design the idea first, then choose the shortest length that feels complete. A 30-second Short at 85% completion outperforms a 60-second Short at 50% watch rate.",
@@ -52,10 +52,24 @@
     {
       "tactic": "Change visuals every 2-4 seconds throughout the middle section. Add a micro open loop tease every 5-8 seconds ('But here's the surprising part...'). Trim all pauses to zero. Cut setup in half, then cut again.",
       "first_seen": "2026-13",
-      "last_seen": "2026-13",
+      "last_seen": "2026-14",
+      "weeks_observed": 2,
+      "source_count": 2
+    },
+    {
+      "tactic": "Design Shorts for 70%+ completion by using either 13-25s looping structure or exactly 60s with 3 tightly paced facts. Reject any script that doesn't fit one of these two formats. 70%+ completion = ~30% more algorithmic promotion.",
+      "first_seen": "2026-14",
+      "last_seen": "2026-14",
+      "weeks_observed": 1,
+      "source_count": 2
+    },
+    {
+      "tactic": "Optimize Shorts titles for the Jan 2026 dedicated Shorts search filter: front-load topic keyword in first 20-25 characters (e.g., 'Baby fact: why newborns...' not 'Did you know...'). Use 3-5 niche hashtags instead of generic #Shorts.",
+      "first_seen": "2026-14",
+      "last_seen": "2026-14",
       "weeks_observed": 1,
       "source_count": 1
     }
   ],
-  "last_updated": "2026-03-23"
+  "last_updated": "2026-03-30"
 }

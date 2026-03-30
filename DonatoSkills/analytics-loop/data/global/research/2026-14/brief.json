@@ -1,0 +1,228 @@
+{
+  "generated_at": "2026-03-30T00:00:00.000Z",
+  "week": "2026-14",
+  "date": "2026-03-30",
+  "sources_fetched": ["vidIQ", "Miraflow", "virvid.ai", "Shortimize", "web"],
+  "sources_skipped": ["Robert Benjamin", "Creator Insider", "Reddit"],
+  "signals": [
+    {
+      "signal": "Swipe-away rate is now the #1 ranking signal for Shorts distribution, surpassing raw watch time as the primary indicator of whether distribution expands.",
+      "source": "web",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "The most important metric is the ratio of swipes to views, which now occupies first place among all indicators."
+    },
+    {
+      "signal": "Shorts with 70%+ completion rates receive ~30% more algorithmic promotion; improving retention by 10 percentage points correlates with 25% more impressions.",
+      "source": "virvid.ai",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Over 70% completion rates yield roughly 30% more algorithmic promotion."
+    },
+    {
+      "signal": "50-60% of viewer dropoff happens in the first 3 seconds; the opening window is the single highest-leverage moment for faceless Shorts.",
+      "source": "vidIQ",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "50-60% of viewers who drop off do so within the first 3 seconds."
+    },
+    {
+      "signal": "On-screen text during the hook increases average watch time by 18%; text makes faceless content legible on mute and creates pattern interrupts.",
+      "source": "virvid.ai",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Shorts with on-screen text during the hook see 18% more watch time on average."
+    },
+    {
+      "signal": "Pattern interrupts in the first 5 seconds boost average retention by 23% versus a static opening.",
+      "source": "virvid.ai",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "A pattern interrupt in the first 5 seconds boosts average retention by 23% versus a static opening."
+    },
+    {
+      "signal": "Looping structures (15-25 second optimal length) can push average view duration past 100%, as each loop counts as a new view since March 2025.",
+      "source": "virvid.ai",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Looping structures push average view duration past 100%."
+    },
+    {
+      "signal": "Shorts older than ~30 days are much less likely to be pushed in recommendations—a significant shift away from the evergreen compounding model.",
+      "source": "web",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Shorts older than roughly 30 days now much less likely to be pushed in recommendations."
+    },
+    {
+      "signal": "January 2026: YouTube introduced a dedicated 'Shorts' search filter, significantly increasing discoverability for searchable/topic-driven Short content.",
+      "source": "Miraflow",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-01",
+      "raw_quote": "YouTube introduced a 'Shorts' type filter in search results, separating short-form vertical content from traditional long-form videos."
+    },
+    {
+      "signal": "Inserting micro open loops every 5-8 seconds in the middle section prevents the typical mid-roll retention cliff.",
+      "source": "Shortimize",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Insert 'micro open loops' every 5-8 seconds."
+    },
+    {
+      "signal": "Post-watch satisfaction signals (surveys, shares, replays, session continuation) now weigh equally with engagement metrics in distribution scoring.",
+      "source": "virvid.ai",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Distribution now weighs multiple engagement types equally: post-watch survey responses, likes and shares (shares = strongest endorsement signal), rewatches and replays, session continuation."
+    }
+  ],
+  "tactics": [
+    {
+      "rank": 1,
+      "tactic": "Use a 3-part pattern interrupt hook firing within 3 seconds: (1) bold on-screen text (3-6 words) naming the payoff/result, not the setup; (2) AI visual that shows the result or creates instant curiosity; (3) verbal hook starting within 1 second. Avoid logos, greetings, or context dumps entirely.",
+      "why": "Multiple sources confirm 50-60% of dropoff happens in first 3 seconds; on-screen text boosts watch time +18%; pattern interrupts boost retention +23%. Swipe-away rate is now the #1 distribution signal—the hook is the primary defense against swipes.",
+      "source": "vidIQ, virvid.ai, Shortimize",
+      "test_ideas": [
+        "Result-reveal hook ('The brain trick that earns 40% more') vs curiosity-gap hook ('Why smart people lose money')",
+        "Text + AI visual hook vs text-only hook vs voice-only hook",
+        "Verbal hook at 0s (simultaneous with text) vs verbal hook at 1s (text-first, then voice)"
+      ]
+    },
+    {
+      "rank": 2,
+      "tactic": "Design Shorts for 70%+ completion by targeting either 13-25 seconds with a seamless looping end frame, or exactly 60 seconds with 3 tightly paced facts. No other lengths. Reject any script that doesn't fit cleanly into one of these two formats.",
+      "why": "70%+ completion = 30% more distribution; vidIQ research confirms 13s and 60s outperform all other lengths due to retention curve fit. Looping at 15-25s can push AVD past 100% as loops count as additional views.",
+      "source": "vidIQ, virvid.ai",
+      "test_ideas": [
+        "13-second single-fact loop vs 20-second two-beat loop",
+        "60-second 3-fact format vs 60-second 1-deep-dive format",
+        "Check APV in YouTube Studio for each length tier across 10 recent videos"
+      ]
+    },
+    {
+      "rank": 3,
+      "tactic": "Insert a micro open loop tease ('But here's the part nobody tells you...') every 5-8 seconds in the middle section, and change visuals every 2-3 seconds to prevent mid-roll cliff. Cut all pauses to zero and halve your setup length, then halve again.",
+      "why": "Shortimize confirms mid-roll cliff is the second most common failure mode after hook dropoff. Micro open loops create forward momentum; 2-3s visual pacing matches the attention cadence of faceless Shorts with AI backgrounds.",
+      "source": "Shortimize, virvid.ai",
+      "test_ideas": [
+        "Verbal micro loop tease vs text-only tease every 7 seconds",
+        "2-second visual change pace vs 3-second pace",
+        "Single static AI background vs 3 scene transitions in 20-second Short"
+      ]
+    },
+    {
+      "rank": 4,
+      "tactic": "Optimize Shorts titles for the new dedicated Shorts search filter (Jan 2026): front-load the topic keyword in first 20-25 characters (e.g., 'Baby fact: why newborns...' not 'Did you know that babies...'). Use 3-5 topic-specific hashtags instead of generic #Shorts.",
+      "why": "Miraflow confirmed YouTube introduced a 'Shorts' search filter in January 2026, making searchable titles a new discovery channel. Channels with topic-keyword-first titles will surface in filtered Shorts search results.",
+      "source": "Miraflow",
+      "test_ideas": [
+        "Keyword-first title vs curiosity-gap title on same content",
+        "3 niche hashtags vs 5 niche hashtags vs #Shorts only",
+        "Title as statement ('The $1 coin worth $50,000') vs title as question ('Is your old coin worth a fortune?')"
+      ]
+    },
+    {
+      "rank": 5,
+      "tactic": "Monitor all Shorts after day 28 in YouTube Studio; stop promoting and treat as inactive any video older than 30 days. Maintain freshness by ensuring at least 1 new Short per 5-7 days per channel, and never rely on older content to carry weekly impression targets.",
+      "why": "Algorithm shift away from evergreen model—Shorts >30 days get significantly less recommendation push. Distribution is now predominantly freshness-weighted. Impression budgets should concentrate on current-week content.",
+      "source": "web, vidIQ",
+      "test_ideas": [
+        "Compare impressions day 1-7 vs day 21-28 vs day 35-42 on same video",
+        "Schedule social shares on day 1, 7, 14 max vs continuous promotion",
+        "Test 1 Short/week vs 3 Shorts/week—measure per-video impressions not total"
+      ]
+    }
+  ],
+  "per_channel_recommendations": [
+    {
+      "channel": "BabyFactsUnlocked",
+      "current_retention_context": null,
+      "recommendations": [
+        "Use 3-part hook: on-screen text naming the baby fact payoff (e.g., 'Babies can taste in the womb') + matching AI visual + voice starting at 0-1s",
+        "Design all Shorts as either 13-20s seamless loops OR 60s 3-fact compilations; reject any other length"
+      ],
+      "test_ideas": [
+        "Result-reveal hook vs curiosity-gap hook on baby development facts",
+        "13s single-fact loop vs 20s two-beat structure",
+        "Keyword-first title ('Baby fact: why newborns...') vs curiosity gap title"
+      ]
+    },
+    {
+      "channel": "MoneyFactsUnlocked",
+      "current_retention_context": null,
+      "recommendations": [
+        "Lead with a bold dollar figure or percentage in the first on-screen text (e.g., '$47,000 in a mattress') to create immediate pattern interrupt for money content",
+        "Insert a micro open loop every 5-8s ('But here's what most financial advisors hide...') to sustain mid-roll retention on 60-second finance facts"
+      ],
+      "test_ideas": [
+        "Dollar-figure hook vs percentage-stat hook for money content",
+        "60s 3-fact format vs 20s single-insight loop for finance shorts",
+        "Keyword-first title ('Money fact: why millionaires...') vs question-format title"
+      ]
+    },
+    {
+      "channel": "AI Facts Unlocked",
+      "current_retention_context": null,
+      "recommendations": [
+        "Use 'Before/After' or 'Expected vs Reality' visual structure in hook—AI content benefits from showing the surprising output/result immediately as pattern interrupt",
+        "Optimize titles for new Shorts search filter with keyword-first format (e.g., 'AI fact: ChatGPT actually...')"
+      ],
+      "test_ideas": [
+        "Show-the-result hook vs question hook for AI facts",
+        "Tech-specific hashtags (#AIFacts #MachineLearning) vs generic #Shorts",
+        "13s single-AI-fact loop vs 60s 3-fact AI compilation"
+      ]
+    },
+    {
+      "channel": "Viral Facts Unlocked",
+      "current_retention_context": null,
+      "recommendations": [
+        "For trending content, front-load the trend name in first on-screen text AND title (swipe-away risk is highest when viewers don't immediately recognize the topic)",
+        "Monitor all Shorts after day 28—viral/trending content ages fastest; concentrate promotion budget on content under 7 days old"
+      ],
+      "test_ideas": [
+        "Trend name in first text frame vs teaser/curiosity approach",
+        "Day 1-7 social push vs continuous promotion—measure impression decay curve",
+        "13s reactive trending fact vs 60s trending deep-dive"
+      ]
+    }
+  ],
+  "action_items": [
+    {
+      "priority": 1,
+      "item": "Audit current hook templates across all channels: ensure every Short has bold on-screen text within first 1 second naming the fact/result (not the setup). Update prompt templates to enforce this.",
+      "why": "Swipe-away rate is #1 distribution signal; 50-60% dropoff in first 3 seconds. Hook text is the single highest-ROI change available."
+    },
+    {
+      "priority": 2,
+      "item": "Enforce 13-20s or 60s-only length policy in content generation scripts. Reject or flag any generated scripts that fall outside these two ranges.",
+      "why": "Retention curves favor these lengths; 70%+ completion = 30% more distribution. Looping at 15-25s multiplies view count via replays."
+    },
+    {
+      "priority": 3,
+      "item": "Update all channel title templates to keyword-first format (topic keyword in first 20-25 chars) to capture the new January 2026 Shorts search filter.",
+      "why": "New dedicated Shorts search filter makes titles a discovery mechanism they weren't before. Low-effort change with search discoverability upside."
+    },
+    {
+      "priority": 4,
+      "item": "Add micro open loop lines ('But here's what makes this surprising...') to video script templates at the 7-second and 14-second marks for 20s+ Shorts.",
+      "why": "Prevents mid-roll retention cliff which is second most common failure mode after hook dropoff."
+    },
+    {
+      "priority": 5,
+      "item": "Set up a 30-day impression monitoring rule: review Studio analytics on all Shorts at day 28, stop promoting any with declining impressions, and prioritize scheduling for new content.",
+      "why": "Algorithm shift away from evergreen model—Shorts >30 days get significantly less recommendation push."
+    }
+  ],
+  "carry_forward_note": null
+}
