@@ -1,0 +1,697 @@
+{
+  "project": "money-facts-unlocked",
+  "scoredAt": "2026-03-29T00:03:48.820Z",
+  "dateRange": {
+    "from": "2026-03-26",
+    "to": "2026-03-27"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 12,
+    "includedPosts": 0,
+    "excludedPosts": 12,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69c6d4d86cb7b8cf4ca5e0b8",
+      "latePostId": "69c4f278d135603441a46b48",
+      "content": "Warren Buffett made 99% of his money after age 52. He's been investing since age 11. The secret isn't what you pick — it's how long you wait. #warrenbuffett #investing #compoundinterest #moneyfacts #wealthbuilding",
+      "publishedAt": "2026-03-27T18:01:22.000Z",
+      "scheduledFor": "2026-03-27T18:01:22.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 5,
+        "comments": 0,
+        "shares": 5,
+        "saves": 0,
+        "clicks": 0,
+        "views": 227,
+        "engagementRate": 4.41,
+        "lastUpdated": "2026-03-28 23:57:25"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 5,
+            "comments": 0,
+            "shares": 5,
+            "saves": 0,
+            "clicks": 0,
+            "views": 227,
+            "engagementRate": 4.41,
+            "lastUpdated": "2026-03-28 23:57:25"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7621997031623511310?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oAgv9FMyFGBIA4UO71T8GiEydAgcxiIaBbhqH~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=5f8055cb&x-expires=1774825200&x-signature=pf0oPuFMYIw0iBUYjB7rEz7MnNg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oAgv9FMyFGBIA4UO71T8GiEydAgcxiIaBbhqH~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=5f8055cb&x-expires=1774825200&x-signature=pf0oPuFMYIw0iBUYjB7rEz7MnNg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oAgv9FMyFGBIA4UO71T8GiEydAgcxiIaBbhqH~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=5f8055cb&x-expires=1774825200&x-signature=pf0oPuFMYIw0iBUYjB7rEz7MnNg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c67ff46cb7b8cf4ca48bc5",
+      "latePostId": "69c4f271d135603441a46aa2",
+      "content": "The US dollar has lost 97% of its value since 1913. A dollar then = 3 cents now. The Fed was created that same year. #moneyfacts #inflation #personalfinance #economics #didyouknow",
+      "publishedAt": "2026-03-27T13:02:02.000Z",
+      "scheduledFor": "2026-03-27T13:02:02.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 130,
+        "engagementRate": 0.77,
+        "lastUpdated": "2026-03-28 23:57:25"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 130,
+            "engagementRate": 0.77,
+            "lastUpdated": "2026-03-28 23:57:25"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7621919708673051917?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o0Kkmf9M8L81dAfBgOIGG5eUgneaAeTacQZVjN~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=33a93d08&x-expires=1774825200&x-signature=qZvyQmzNAkcydmh%2Bbk0qXZV1u4Y%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o0Kkmf9M8L81dAfBgOIGG5eUgneaAeTacQZVjN~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=33a93d08&x-expires=1774825200&x-signature=qZvyQmzNAkcydmh%2Bbk0qXZV1u4Y%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o0Kkmf9M8L81dAfBgOIGG5eUgneaAeTacQZVjN~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=33a93d08&x-expires=1774825200&x-signature=qZvyQmzNAkcydmh%2Bbk0qXZV1u4Y%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c680f96cb7b8cf4ca49098",
+      "latePostId": "69c4f275d135603441a46af9",
+      "content": "The US dollar has lost 97% of its value since 1913. A dollar then = 3 cents now. The Fed was created that same year. #moneyfacts #inflation #personalfinance #economics #didyouknow",
+      "publishedAt": "2026-03-27T13:02:31.000Z",
+      "scheduledFor": "2026-03-27T13:02:31.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 119,
+        "reach": 114,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 119,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:27"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 119,
+            "reach": 114,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 119,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:27"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWY4n3kjUGR/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658135367_2185717578863815_3150460604880094704_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Q49qutBp9NUQ7kNvwGmYlMj&_nc_oc=AdoZ-g56ke4vjUT1jd1xNngw0mYNun8ce44gaynsqeOf3T7_LlT8IOQywxwi2UJufWI&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&_nc_tpa=Q5bMBQE5nZPbZY_xNQSeexOKUjdocTMDUQOAUGyH1dGJLsWpdjA6xS8_XloLdaDYKkcQ2gJVJ71xVN9OAw&oh=00_AfzKWIw41EzuiwVlNwHDCpCoen-4es15UjjJ_0Aet-ILNQ&oe=69CE3C89",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMqPsQUM7rYcAxH8I5-4aeOSkNMAHS7xpjZsNPrzFlUWV8OBBygjic_LMTRd7wlWkLd0mog73Vxg5rfH9eronVQqw1fZOvywm1Z1Bg.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=fNjUg_LyywgQ7kNvwF6gBcY&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjY3NTc5MDczNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=1401cf5ae2416be9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zMTQ1MUQ5RjE0MEEyM0ZEQkJGRjI4QkE4RENERUM4MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzBDNDRFRTMxQzYwM0VERDcxNjZCMEJGNUE1ODhERkFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8uv302-eXQBUCKAJDMywXQENqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHiQGQCoqf4gcoWY9wWKiABqwL8YgZ5wGfUjhhv6KjR-g2JH4F5Oev-5FF8Liz2hXvAgGSE_pIFTQ&oh=00_Afz9SbiX9W_phzqddUNhfOfY-prNW-PcbqfGv57fRsdUOQ&oe=69CA4EC5",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658135367_2185717578863815_3150460604880094704_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Q49qutBp9NUQ7kNvwGmYlMj&_nc_oc=AdoZ-g56ke4vjUT1jd1xNngw0mYNun8ce44gaynsqeOf3T7_LlT8IOQywxwi2UJufWI&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&_nc_tpa=Q5bMBQE5nZPbZY_xNQSeexOKUjdocTMDUQOAUGyH1dGJLsWpdjA6xS8_XloLdaDYKkcQ2gJVJ71xVN9OAw&oh=00_AfzKWIw41EzuiwVlNwHDCpCoen-4es15UjjJ_0Aet-ILNQ&oe=69CE3C89"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c6d4dd6cb7b8cf4ca5e0d0",
+      "latePostId": "69c4f27cd135603441a46bf4",
+      "content": "Warren Buffett made 99% of his money after age 52. He's been investing since age 11. The secret isn't what you pick — it's how long you wait. #warrenbuffett #investing #compoundinterest #moneyfacts #wealthbuilding",
+      "publishedAt": "2026-03-27T18:01:50.000Z",
+      "scheduledFor": "2026-03-27T18:01:50.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 118,
+        "reach": 106,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 118,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:27"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 118,
+            "reach": 106,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 118,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:27"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWZa5QOghTj/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/658054127_1617480279593522_4325675846756709290_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=iLjTfg3E8JAQ7kNvwEpE0uu&_nc_oc=Adq2gr-vOwUtO_X3d0jxXm2SkFB8im7E8TJXC2CTX1huJyaHy2ulDL8urELITKG2kwU&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&_nc_tpa=Q5bMBQEAJo4CdX4ubiftUxA5M7XwnfoivxtmwJ_0NS-Pp-pndcRO_XWi4zYlBB6jHkrROz11RHlqWFDKZQ&oh=00_Afw7fODWPoi1P_vZP0xce2HM3WRFeL_AHI5PB4cYWJTfzQ&oe=69CE2B60",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQObenyygFL4lNz0xmQTrKWRwYL9j1P1AXj3QjM-VlwqRK8zmXPNjPq8Mk2I6Y7wsHMyGNyYs_7UwoAYH_Qi4faQx8_ooJh6L6TwRHw.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=yh9NhzG9zskQ7kNvwHgmY11&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjY4NzkxMDEzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4488630ebfbeb770&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FRTREMTYwQTJDNEM5N0M4OTZCNjYwQUQ0NTA0ODNCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0UwNENDRjE1NzU0NzRBRjk1MjBDNkE5N0MzNTk3NjlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb89Mrw4u6XQBUCKAJDMywXQEMiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQERJsahrOrAaSzWwdeFrolqrzJF8stQIpw78eTNWtCtkgKEpmt7VeL2qxOgYVUatoDO3WNKodA7Yg&oh=00_AfwriE9PUFpfFHWa6O73y_nVBRVpBIGxZ4TDhlDxuaJ-xg&oe=69CA4D01",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/658054127_1617480279593522_4325675846756709290_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=iLjTfg3E8JAQ7kNvwEpE0uu&_nc_oc=Adq2gr-vOwUtO_X3d0jxXm2SkFB8im7E8TJXC2CTX1huJyaHy2ulDL8urELITKG2kwU&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&_nc_tpa=Q5bMBQEAJo4CdX4ubiftUxA5M7XwnfoivxtmwJ_0NS-Pp-pndcRO_XWi4zYlBB6jHkrROz11RHlqWFDKZQ&oh=00_Afw7fODWPoi1P_vZP0xce2HM3WRFeL_AHI5PB4cYWJTfzQ&oe=69CE2B60"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c47c2c6cb7b8cf4c9d8c3c",
+      "latePostId": "69c3dd3cf97288cc058bb59a",
+      "content": "One math trick tells you when your money doubles 💰 The Rule of 72: divide 72 by your interest rate. 8% stock market → 9 years. 2% savings → 36 years. 24% credit card → 3 years (against you). #moneyfacts #investing #rule72 #personalfinance #wealthbuilding",
+      "publishedAt": "2026-03-26T00:03:08.000Z",
+      "scheduledFor": "2026-03-26T00:03:08.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 109,
+        "reach": 101,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 109,
+        "engagementRate": 0.92,
+        "lastUpdated": "2026-03-28 23:57:27"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 109,
+            "reach": 101,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 109,
+            "engagementRate": 0.92,
+            "lastUpdated": "2026-03-28 23:57:27"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWU6qOmiQp-/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/657711794_1632978564681881_4971838901080610991_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=meodSV2wg-4Q7kNvwEYt8XP&_nc_oc=Adp76P304FqLOMYFRoK_hNQ0vGgXTzMCjGnZ4ccr2xaejaIPdEXMwCaY_ib6VPGKIgM&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&_nc_tpa=Q5bMBQEwX4GrfmIU-OPtOEOjjkfOo2f7wylvjLnlTdsqo2nghrtqTp3UdULoBmG3vOMEwHH8LQLIg1NKBQ&oh=00_AfzGYAxY9eCf5brp96AtUU0m2ZIreUvkjqXFDXzO43Wb_Q&oe=69CE234C",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQOcxgNIw-6kEZWjO10ShoMGMwiW5fjooKtly8qaJObGRu2hd0Uf8L7exY955O1wwdcI-EXu63tlQ7a56JhleQQyU1AFeH2UrjJzZmA.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=5MVrwdeX8nIQ7kNvwFE_S5A&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjYxNTc5MzczNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ced12c24a6540ed4&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GNjRBRDRGMTc5Qzc3MUI4NTcxOTBDNTAzQzhCOTZCMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YyNDVDM0FCNTVGMEJDRTFBRTMzQTQ1OUYxN0REQjgzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8iIDl5cSXQBUCKAJDMywXQEQzMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFktKbGReJt4tsuNkgNrH1w7wIZtPyN2f3MhpUsttrMpRO7HS7K22YoQlWb10Vc1egIhYfc9Uux7A&oh=00_AfzDQaMNsy30lx3BymyDpgeYrArkKUF1bTHJyWtKPk6IhA&oe=69CA3704",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/657711794_1632978564681881_4971838901080610991_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=meodSV2wg-4Q7kNvwEYt8XP&_nc_oc=Adp76P304FqLOMYFRoK_hNQ0vGgXTzMCjGnZ4ccr2xaejaIPdEXMwCaY_ib6VPGKIgM&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&_nc_tpa=Q5bMBQEwX4GrfmIU-OPtOEOjjkfOo2f7wylvjLnlTdsqo2nghrtqTp3UdULoBmG3vOMEwHH8LQLIg1NKBQ&oh=00_AfzGYAxY9eCf5brp96AtUU0m2ZIreUvkjqXFDXzO43Wb_Q&oe=69CE234C"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c71e1b6cb7b8cf4ca6f537",
+      "latePostId": "69c4f283d135603441a46ca2",
+      "content": "Americans pay more in interest than they spend on food. .4 trillion in interest. .1 trillion in groceries. The banks eat first. #moneyfacts #debt #personalfinance #economics #financefacts",
+      "publishedAt": "2026-03-27T23:04:24.000Z",
+      "scheduledFor": "2026-03-27T23:04:24.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 107,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 107,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:27"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 107,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 107,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:27"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWZ9hrMFJP0/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656787874_1681166512873913_6739499503164471811_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=bIS9q2kizr8Q7kNvwH8aKS_&_nc_oc=AdpeRRmAhIPkMR6Wbb2GQ5rMy-1jdAdGDOpncnM2YuMqXjYwrNLeLmvkdH52-6JCOdM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&_nc_tpa=Q5bMBQFcSR7pZGoHrVFxRh2Fql8BL6sCBm43QSqtEBMI32HG3xoq26Q7lFVXa8BTTD4FyIO0_mwIxmp_pw&oh=00_AfwJtVePklqHvAe4xAC8_jD1bsP-YbQgPe37kG91OjX12A&oe=69CE4D98",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQP80fDoS-0Ys6QCFgzwexWmiO8n_yy3Ro18HSldmVd8pIg2uw_NVACZjxo_fywg5FpVzy-rp80s2nrrPlAUURRxQPXaM5drcCuXgrE.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=eOIAsB6TU4AQ7kNvwEzZXR4&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjY5NDE4MjIzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f74f7033480133a9&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83QzQwMTBBRUVDQjM5ODVFQTg2ODA3RUNCQUYyNzg4RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzBGNEU1ODJBNDQ4Njc4RDREMTY2NUQxQzE0QjEyRTk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8_f6XtvKXQBUCKAJDMywXQD53S8an754YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHFuyS5h953wVTQxslnZvyJjpW-hyAtAPbbcll1JEBIswvJmxqYojRaGuSTsHEknA1YcO2dBYdJAQ&oh=00_AfwofW0jQc9PK0YnRvKECwAxTRxV50B0C6tanajL3P1BIQ&oe=69CA4907",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656787874_1681166512873913_6739499503164471811_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=bIS9q2kizr8Q7kNvwH8aKS_&_nc_oc=AdpeRRmAhIPkMR6Wbb2GQ5rMy-1jdAdGDOpncnM2YuMqXjYwrNLeLmvkdH52-6JCOdM&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&_nc_tpa=Q5bMBQFcSR7pZGoHrVFxRh2Fql8BL6sCBm43QSqtEBMI32HG3xoq26Q7lFVXa8BTTD4FyIO0_mwIxmp_pw&oh=00_AfwJtVePklqHvAe4xAC8_jD1bsP-YbQgPe37kG91OjX12A&oe=69CE4D98"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c590e06cb7b8cf4ca19879",
+      "latePostId": "69c3af97d9ff805e34c7b01b",
+      "content": "Credit card companies want you to carry a balance 💳\n\nSwipe fees pay for the rewards programs. Interest is the profit.\n\nThe credit card industry earns $130 billion in interest every year — more than movies, music, and video games combined.\n\nThe rewards points you're chasing? They're funded by the people who can't pay their bills.\n\n#creditcards #moneyfacts #personalfinance #financetips #debtfree #moneymindset",
+      "publishedAt": "2026-03-26T19:03:15.000Z",
+      "scheduledFor": "2026-03-26T19:03:15.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 106,
+        "reach": 100,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 106,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:27"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 106,
+            "reach": 100,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 106,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:27"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWW9IiEmuNE/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/656876279_1590807955548205_6522193656033484615_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=731nixbPH3QQ7kNvwG6HIgc&_nc_oc=AdqPf0rDJ7dbM3EBMOJkGnzw1BttKCZrlQjVUmxZiwEEohGsBcatZPnPuvAguT64g98&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&_nc_tpa=Q5bMBQG6PsQJp-Wvno1XtrfFUu3BUDQWg-BZY444hXWGxset89M43tQmxcykhrlfr1flIwNwjGlU64Bk7Q&oh=00_AfzL-TY2kroXoCvJwUcMUDENRe7rW-HyXG9XlcyYUgS7zA&oe=69CE2429",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQOnRaCxixTZaiETuxuY4jNVc1ocqv1K2FdKniVq2Jnl854m5id3ovujBQCetyL-Ow7giA9tWM7nhbtIcbcxuYajrM0KMyuBmZQTVmc.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=4-1EMb8-Z-AQ7kNvwGYLYJ-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjY1MDI2MDQzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6985ac971cd3ff90&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81NDRFNjc3MTA4NDVBMjg0NDc2NjVGNzdBQzlCMTlCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzNGNENDMUExRTE5RTc5MkEwRkE0NzEyRTJDRUVFOEJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8u4jh7diXQBUCKAJDMywXQDdu2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHfS6YEQQfu10kPbHIs06xfz32OUqCGMCjAcBd2rTJQCFf2TrFs4tXtvFZgLOUhO4Ty5Fj3kriMeQ&oh=00_AfzwWnF4Jr_7Vl-blGYbLecUDgvo0rhy0pN8exYrZylbfQ&oe=69CA4C22",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/656876279_1590807955548205_6522193656033484615_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=731nixbPH3QQ7kNvwG6HIgc&_nc_oc=AdqPf0rDJ7dbM3EBMOJkGnzw1BttKCZrlQjVUmxZiwEEohGsBcatZPnPuvAguT64g98&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=_bKUwLOzl5sB66a2yeuKww&_nc_tpa=Q5bMBQG6PsQJp-Wvno1XtrfFUu3BUDQWg-BZY444hXWGxset89M43tQmxcykhrlfr1flIwNwjGlU64Bk7Q&oh=00_AfzL-TY2kroXoCvJwUcMUDENRe7rW-HyXG9XlcyYUgS7zA&oe=69CE2429"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c71e166cb7b8cf4ca6f52a",
+      "latePostId": "69c4f27ed135603441a46c1f",
+      "content": "Americans pay more in interest than they spend on food. .4 trillion in interest. .1 trillion in groceries. The banks eat first. #moneyfacts #debt #personalfinance #economics #financefacts",
+      "publishedAt": "2026-03-27T23:04:24.000Z",
+      "scheduledFor": "2026-03-27T23:04:24.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 99,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:25"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 99,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:25"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7622075062685830413?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/okfBQwzpUo4XPpPHY3BvQJ5DgBFPDpEwxzDSeE~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=aae10c54&x-expires=1774825200&x-signature=bU14yXMj4qkqVubsSjslfdHhlEQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/okfBQwzpUo4XPpPHY3BvQJ5DgBFPDpEwxzDSeE~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=aae10c54&x-expires=1774825200&x-signature=bU14yXMj4qkqVubsSjslfdHhlEQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/okfBQwzpUo4XPpPHY3BvQJ5DgBFPDpEwxzDSeE~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=aae10c54&x-expires=1774825200&x-signature=bU14yXMj4qkqVubsSjslfdHhlEQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c67ff46cb7b8cf4ca48bca",
+      "latePostId": "69c4f273d135603441a46abf",
+      "content": "The US dollar has lost 97% of its value since 1913. A dollar then = 3 cents now. The Fed was created\n\nThe US dollar has lost 97% of its value since 1913. A dollar then = 3 cents now. The Fed was created that same year. #moneyfacts #inflation #personalfinance #economics #didyouknow",
+      "publishedAt": "2026-03-27T13:00:00.000Z",
+      "scheduledFor": "2026-03-27T13:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 51,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 51,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=_zprRGsNT2s",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_zprRGsNT2s/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/_zprRGsNT2s/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/_zprRGsNT2s/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c7091b6cb7b8cf4ca69fcb",
+      "latePostId": "69c4f281d135603441a46c6c",
+      "content": "Americans pay more in interest than they spend on food. .4 trillion in interest. .1 trillion in groc\n\nAmericans pay more in interest than they spend on food. .4 trillion in interest. .1 trillion in groceries. The banks eat first. #moneyfacts #debt #personalfinance #economics #financefacts",
+      "publishedAt": "2026-03-27T22:02:03.000Z",
+      "scheduledFor": "2026-03-27T22:02:03.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 20,
+        "engagementRate": 10,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 1,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 20,
+            "engagementRate": 10,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=HMsRUrBHlyI",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/HMsRUrBHlyI/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/HMsRUrBHlyI/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/HMsRUrBHlyI/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c6c3796cb7b8cf4ca59ea0",
+      "latePostId": "69c4f27ad135603441a46ba5",
+      "content": "Warren Buffett made 99% of his money after age 52. He's been investing since age 11. The secret isn'\n\nWarren Buffett made 99% of his money after age 52. He's been investing since age 11. The secret isn't what you pick — it's how long you wait. #warrenbuffett #investing #compoundinterest #moneyfacts #wealthbuilding",
+      "publishedAt": "2026-03-27T17:02:45.000Z",
+      "scheduledFor": "2026-03-27T17:02:45.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 17,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 17,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=UPFXLcDyO2s",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/UPFXLcDyO2s/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/UPFXLcDyO2s/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/UPFXLcDyO2s/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c578d06cb7b8cf4ca13d0e",
+      "latePostId": "69c3af95e4ac4f814bbc2bd6",
+      "content": "Credit Card Companies Want You to Carry a Balance — The $130 Billion Secret\n\nCredit Card Companies Want You to Carry a Balance — The $130 Billion Secret\n\nSwipe fees pay for the rewards programs. Interest is the profit. The credit card industry earns $130 billion in interest every year — more than movies, music, and video games combined.\n\n#creditcards #moneyfacts #personalfinance #shorts",
+      "publishedAt": "2026-03-26T18:02:15.000Z",
+      "scheduledFor": "2026-03-26T18:02:15.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 1,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 1,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=XLylNVzEPR8",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/XLylNVzEPR8/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/XLylNVzEPR8/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/XLylNVzEPR8/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}

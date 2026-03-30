@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-30",
+  "campaign": "facts-unlocked-2026-03-30",
+  "items": [
+    {
+      "id": "001",
+      "slug": "newborn-voice-recognition",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "002",
+      "slug": "babies-more-bones",
+      "tts_provider": "gemini",
+      "image_provider": "openai",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "003",
+      "slug": "newborns-no-tears",
+      "tts_provider": "gemini",
+      "image_provider": "grok",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "004",
+      "slug": "forgotten-subscriptions",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "005",
+      "slug": "tipping-dark-history",
+      "tts_provider": "gemini",
+      "image_provider": "openai",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "006",
+      "slug": "investor-behavior-gap",
+      "tts_provider": "gemini",
+      "image_provider": "grok",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "007",
+      "slug": "gpt4-parameter-waste",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "008",
+      "slug": "ai-detector-false-positives",
+      "tts_provider": "gemini",
+      "image_provider": "openai",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "009",
+      "slug": "internet-trained-gpt3",
+      "tts_provider": "gemini",
+      "image_provider": "grok",
+      "estimated_cost_usd": 0.08
+    }
+  ],
+  "total_estimated_usd": 0.72
+}

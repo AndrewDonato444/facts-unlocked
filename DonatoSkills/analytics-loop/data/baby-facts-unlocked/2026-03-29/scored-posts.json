@@ -1,0 +1,809 @@
+{
+  "project": "baby-facts-unlocked",
+  "scoredAt": "2026-03-29T00:03:44.680Z",
+  "dateRange": {
+    "from": "2026-03-26",
+    "to": "2026-03-27"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 14,
+    "includedPosts": 0,
+    "excludedPosts": 14,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69c67ff46cb7b8cf4ca48bc8",
+      "latePostId": "69c4f23bd135603441a46782",
+      "content": "Babies recognize Mom's face within 12 hours of birth — before they can even see clearly. Evolution hard-coded this. #babyfacts #parenting #pregnancy #newborn #didyouknow",
+      "publishedAt": "2026-03-27T13:02:04.000Z",
+      "scheduledFor": "2026-03-27T13:02:04.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 27,
+        "comments": 0,
+        "shares": 2,
+        "saves": 0,
+        "clicks": 0,
+        "views": 337,
+        "engagementRate": 8.61,
+        "lastUpdated": "2026-03-28 23:57:27"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 27,
+            "comments": 0,
+            "shares": 2,
+            "saves": 0,
+            "clicks": 0,
+            "views": 337,
+            "engagementRate": 8.61,
+            "lastUpdated": "2026-03-28 23:57:27"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7621919781708369165?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oUZEFLKNQGOMMEAefAaDmW5JgeVZ0fcIcVgkfC~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=57116c42&x-expires=1774825200&x-signature=Aw%2Fdkx2V7GPMGCRGgi7Z1w5wRUg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oUZEFLKNQGOMMEAefAaDmW5JgeVZ0fcIcVgkfC~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=57116c42&x-expires=1774825200&x-signature=Aw%2Fdkx2V7GPMGCRGgi7Z1w5wRUg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oUZEFLKNQGOMMEAefAaDmW5JgeVZ0fcIcVgkfC~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=57116c42&x-expires=1774825200&x-signature=Aw%2Fdkx2V7GPMGCRGgi7Z1w5wRUg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c6d4dd6cb7b8cf4ca5e0d1",
+      "latePostId": "69c4f25331988ff7de814109",
+      "content": "Pregnancy literally shrinks your brain — but it's not damage. It's an upgrade. 🧠 #pregnancy #momlife #babyfacts #brainscience #didyouknow",
+      "publishedAt": "2026-03-27T18:01:22.000Z",
+      "scheduledFor": "2026-03-27T18:01:22.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 9,
+        "comments": 0,
+        "shares": 2,
+        "saves": 0,
+        "clicks": 0,
+        "views": 289,
+        "engagementRate": 3.81,
+        "lastUpdated": "2026-03-28 23:57:27"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 9,
+            "comments": 0,
+            "shares": 2,
+            "saves": 0,
+            "clicks": 0,
+            "views": 289,
+            "engagementRate": 3.81,
+            "lastUpdated": "2026-03-28 23:57:27"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7621996894834773262?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oMYg8jC8uXSIJCkoeTIlD3A6vQgx8HGMgbFefj~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=ccc05946&x-expires=1774825200&x-signature=UswGfVtLsukl4F30uexdyRo4LtM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oMYg8jC8uXSIJCkoeTIlD3A6vQgx8HGMgbFefj~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=ccc05946&x-expires=1774825200&x-signature=UswGfVtLsukl4F30uexdyRo4LtM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oMYg8jC8uXSIJCkoeTIlD3A6vQgx8HGMgbFefj~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=ccc05946&x-expires=1774825200&x-signature=UswGfVtLsukl4F30uexdyRo4LtM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c6c3796cb7b8cf4ca59ea1",
+      "latePostId": "69c4f25631988ff7de814178",
+      "content": "Pregnancy literally shrinks your brain — but it's not damage. It's an upgrade. 🧠 #pregnancy #momlif\n\nPregnancy literally shrinks your brain — but it's not damage. It's an upgrade. 🧠 #pregnancy #momlife #babyfacts #brainscience #didyouknow",
+      "publishedAt": "2026-03-27T17:02:40.000Z",
+      "scheduledFor": "2026-03-27T17:02:40.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 196,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 196,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=U14mIDn9wmk",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/U14mIDn9wmk/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/U14mIDn9wmk/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/U14mIDn9wmk/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c71e1b6cb7b8cf4ca6f53a",
+      "latePostId": "69c4f25f31988ff7de8142ce",
+      "content": "Identical twins have 100% the same DNA — but completely different fingerprints. Physics > genetics. #twins #babyfacts #sciencefacts #fingerprints #didyouknow",
+      "publishedAt": "2026-03-27T23:04:11.000Z",
+      "scheduledFor": "2026-03-27T23:04:11.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 120,
+        "reach": 104,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 120,
+        "engagementRate": 0.83,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 120,
+            "reach": 104,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 120,
+            "engagementRate": 0.83,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWZ9gGikjzb/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658904806_2027176018216429_6022318084532023608_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RLulUcE7uwsQ7kNvwHsYext&_nc_oc=AdpKST9DfYZDmDTTmB06S3wUEOWepyMhUHLKE-8NIjAu7H09QHZSkD6ZsxBugU8o49w&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&_nc_tpa=Q5bMBQFPHYUh5-ad-RThIjsvI_a_Yw-HszWhoU-et5ObIEcKeSzx20UC8BWmlFCUeyC2X5g7UwO455QRLw&oh=00_AfzRbH_r3HxOCbe1UcP2_taogAUryBfPHPbTijIbW3F9Kg&oe=69CE56BB",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQNGk7HBbgdBInxRMHoVhRBAOsxsmV_obyAsfQ0LNQ4K-JkvfzrJkspzNzXWhYdVvVFrnitmMFt_v3t61NIn9z6UpPkqsyBmktcHkPQ.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=H52-0ElQRUYQ7kNvwH8BGPo&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjU4MDc1MjU0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7e46a300ab41ef79&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ERTRENEE4OUI5Qzk2QzlGQ0VFN0JFM0QyNDZDMERBQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzlCNDA3OTJEMDYxODQxRDk0MTg5NUQwMjc5OTVCOUE0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0w46Cs7CXQBUCKAJDMywXQDyAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGKPHgZ3k9VR-3crzP8l_HstrFOOIF2Q2e11XaTWphyxKOr0l9HSUR-jWAtXPLvbey6CYXZFekZ9w&oh=00_Afw64PDMVYZd46u8XKgUy43BqnAci9nFB8t-gtp_ACdI8A&oe=69CA52DA",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658904806_2027176018216429_6022318084532023608_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RLulUcE7uwsQ7kNvwHsYext&_nc_oc=AdpKST9DfYZDmDTTmB06S3wUEOWepyMhUHLKE-8NIjAu7H09QHZSkD6ZsxBugU8o49w&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&_nc_tpa=Q5bMBQFPHYUh5-ad-RThIjsvI_a_Yw-HszWhoU-et5ObIEcKeSzx20UC8BWmlFCUeyC2X5g7UwO455QRLw&oh=00_AfzRbH_r3HxOCbe1UcP2_taogAUryBfPHPbTijIbW3F9Kg&oe=69CE56BB"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c5e1b66cb7b8cf4ca2a7a4",
+      "latePostId": "69c3af8ae4ac4f814bbc2b56",
+      "content": "Your baby tasted your dinner last night 🍽️\n\nBy 21 weeks, a fetus is swallowing amniotic fluid that carries the exact flavor molecules from everything you eat.\n\nStudies show babies exposed to garlic, vanilla, or carrot in the womb consistently prefer those flavors after birth.\n\nWhat you eat during pregnancy shapes their palate before they're even born.\n\n#pregnancyfacts #fetaldevelopment #babyfacts #newborn #pregnancytips #expectingmom",
+      "publishedAt": "2026-03-27T00:03:57.000Z",
+      "scheduledFor": "2026-03-27T00:03:57.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 118,
+        "reach": 113,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 118,
+        "engagementRate": 0.85,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 118,
+            "reach": 113,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 118,
+            "engagementRate": 0.85,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWXfg5LF_bg/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656816409_2299895293828328_3611132507935631909_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Z8tjEEdzlSMQ7kNvwEZ7WLk&_nc_oc=AdoVxdfQ2T1mLEbDSF9K4H6jNN8MSSmMAxj-MHZNpj-vrlIPP10v1ZKZKg2khwpj-Zo&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&_nc_tpa=Q5bMBQHuZMElGS2fV0ij1sjUNiCpT-BHBdwxxR6VGa4-QnThg--SsUu_APFy0gt-kMlwA6I6PpiZVQTvBA&oh=00_AfwZ4K6l-B-4h2vT2LpS4kCronInOMXM8pmOzewsTu_kRQ&oe=69CE4E81",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQOxnsLKXmchSiSZT01UM9_mh_wrTwYjPkC4sx4zyk7CrS-rk_jSagMoGJGlaWQKEEE6ukVX7fyaGPYzgRL2sE_A6vGdokRla-gDQMc.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=ZbDXYA-qoHIQ7kNvwGt7sgy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjU0MjI0OTM0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=788251f1f2abece6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNzQ5REI2NDJGNzU1NThBRDIzNjQyNkJBODc3NzU5Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Y3NEZENDEyRDA2Q0Q0QjM1NTNEQkJDODkxM0NBNUE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0-_2m_pmXQBUCKAJDMywXQDoIcrAgxJwYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGhXABGjOh9H2UUwm8N-R-tu4GNNIZGOnqxNdbEYQi96POFgxuH-dWTU2p69pjGEErDZa2TYB_mzg&oh=00_AfwS2Fc7TySwSusLcs8ruH9ODj64N4G9HDHpPM-elMNrtA&oe=69CA35E6",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656816409_2299895293828328_3611132507935631909_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Z8tjEEdzlSMQ7kNvwEZ7WLk&_nc_oc=AdoVxdfQ2T1mLEbDSF9K4H6jNN8MSSmMAxj-MHZNpj-vrlIPP10v1ZKZKg2khwpj-Zo&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&_nc_tpa=Q5bMBQHuZMElGS2fV0ij1sjUNiCpT-BHBdwxxR6VGa4-QnThg--SsUu_APFy0gt-kMlwA6I6PpiZVQTvBA&oh=00_AfwZ4K6l-B-4h2vT2LpS4kCronInOMXM8pmOzewsTu_kRQ&oe=69CE4E81"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c6d4dd6cb7b8cf4ca5e0cd",
+      "latePostId": "69c4f258d135603441a469ca",
+      "content": "Pregnancy literally shrinks your brain — but it's not damage. It's an upgrade. 🧠 #pregnancy #momlife #babyfacts #brainscience #didyouknow",
+      "publishedAt": "2026-03-27T18:01:53.000Z",
+      "scheduledFor": "2026-03-27T18:01:53.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 117,
+        "reach": 108,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 117,
+        "engagementRate": 0.85,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 117,
+            "reach": 108,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 117,
+            "engagementRate": 0.85,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWZa6QaiWFg/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656744458_26579845331679456_7804215659785170929_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=H-bcVmqsreAQ7kNvwHHb93a&_nc_oc=AdqIU6qhdesGiGNOm89YI9e9kA9QCx13JxSi5SC1AIYaw5rJECwE_WwvoEUyRb5oxsw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&_nc_tpa=Q5bMBQFKEhfD8HngnIZbH8m4VXym_e2MVUYFqTaZGWDzrwpUOWs_LzscRQT1OG3VDg2l_emKsFdb2waKgw&oh=00_Afw59wdltmcQMFS3fAstwbERiS-0-DKm2mkGjmlW7494PA&oe=69CE50AB",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQOkTq1fQkzk3qUBYGUHPFF89jjUpULrAWDUGf8IDIOgt6qYuFd2dGT_-CZ47gujbSZpTMD7YvZpBM3PMjt9OdczcqdXjQ6fPu9SjFY.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=-RCklsoKcW8Q7kNvwFS3OXy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjU3NjUzOTM0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=538dd00140acc87&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xNDQxNTA4RjNGMjY2RjE5OTEzNEUyNzVBQzc5QURBRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzJCNEZEOEIzMjNGNzJGNEM0MkM0MkRENEQzNENDMkIzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0j_SN-a2XQBUCKAJDMywXQDmAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEOFh1dfaUP8z-_FEJi2O0pebkvfzCEmaqV3fPzPn7AJDm1haPUMS5kElKb5NPY-dBXegcKRKnvxw&oh=00_Afy-95jKZ23pfRlMzXBCmcszEZamqfAJjbFdgdIFnWO3qg&oe=69CA3939",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656744458_26579845331679456_7804215659785170929_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=H-bcVmqsreAQ7kNvwHHb93a&_nc_oc=AdqIU6qhdesGiGNOm89YI9e9kA9QCx13JxSi5SC1AIYaw5rJECwE_WwvoEUyRb5oxsw&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&_nc_tpa=Q5bMBQFKEhfD8HngnIZbH8m4VXym_e2MVUYFqTaZGWDzrwpUOWs_LzscRQT1OG3VDg2l_emKsFdb2waKgw&oh=00_Afw59wdltmcQMFS3fAstwbERiS-0-DKm2mkGjmlW7494PA&oe=69CE50AB"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c680f96cb7b8cf4ca49099",
+      "latePostId": "69c4f240d135603441a46872",
+      "content": "Babies recognize Mom's face within 12 hours of birth — before they can even see clearly. Evolution hard-coded this. #babyfacts #parenting #pregnancy #newborn #didyouknow",
+      "publishedAt": "2026-03-27T13:02:40.000Z",
+      "scheduledFor": "2026-03-27T13:02:40.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 111,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 111,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 111,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 111,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWY4qv5FCBY/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657352475_2292419874660417_574746069744912020_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=p50p1wVoaDcQ7kNvwHRs63T&_nc_oc=AdrCHsuIDp_qsEc5BQ46IRVbEw8mnwQMQsYejtQiRcNtDUKGLNj0JLFzsmJlfrkz0qI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&_nc_tpa=Q5bMBQEYHRfRtNlqnR4oBwYkjphp5sXBmIoaNFSP3NKNbaWZKkjmH9UcSg7-34g-bp1b0HMHVBqsgyE2_A&oh=00_Afxty8qaJZoBhg9WAc23Sdt_gcEeOGtN6p1zRgC2mbL4IQ&oe=69CE2E7B",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQMKKjwR9f0kzaiKe1EGr7RgcqgrT_qTck9iEIsfg4HUeqWGWKRrts4Cviakhm50ur3JTG6WUS0P0ELpCb86VWFcOQUhve_EKRNScKU.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=zm5bhhXz6xQQ7kNvwFoocPZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjU2NzkwODA0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=56b9477ebf0e5f87&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9CQjQzMUMwOTMxRDJDNkVENzZDRkEwREE3QzU3NDRBQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzM4NEQzQkRGNEZEN0UxRUZCRUQwMTE4REEyNjREOEIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0nrWD9qiXQBUCKAJDMywXQD_VP3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGHUAmrRhxbM5nh3jF2mr6C_QDwhJXFpKmMOckDtSLZYMPkcXesQ1Ite0wzmv1badXLNvP_HRMJCg&oh=00_AfwMWkVy6dshGO9LjCLVxjrfCsso07ny5dHD-ZQUMhDeHQ&oe=69CA3B52",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657352475_2292419874660417_574746069744912020_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=p50p1wVoaDcQ7kNvwHRs63T&_nc_oc=AdrCHsuIDp_qsEc5BQ46IRVbEw8mnwQMQsYejtQiRcNtDUKGLNj0JLFzsmJlfrkz0qI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&_nc_tpa=Q5bMBQEYHRfRtNlqnR4oBwYkjphp5sXBmIoaNFSP3NKNbaWZKkjmH9UcSg7-34g-bp1b0HMHVBqsgyE2_A&oh=00_Afxty8qaJZoBhg9WAc23Sdt_gcEeOGtN6p1zRgC2mbL4IQ&oe=69CE2E7B"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c590df6cb7b8cf4ca19877",
+      "latePostId": "69c3af83e4ac4f814bbc2ad7",
+      "content": "Your breastmilk knows what time it is ⏰\n\nMorning milk is loaded with cortisol — the hormone that promotes alertness and wakefulness.\n\nNighttime milk contains melatonin — the hormone that helps babies drift off.\n\nYour body isn't just making milk. It's making time-stamped milk.\n\n#breastfeeding #newbornfacts #babyfacts #parenting #momtips #babyhealth",
+      "publishedAt": "2026-03-26T19:04:17.000Z",
+      "scheduledFor": "2026-03-26T19:04:17.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 110,
+        "reach": 105,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 1,
+        "clicks": 0,
+        "views": 110,
+        "engagementRate": 0.91,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 110,
+            "reach": 105,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 1,
+            "clicks": 0,
+            "views": 110,
+            "engagementRate": 0.91,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWW9QgfClTv/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/660793361_1623752702275796_7467589293622488132_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=nTFRmi_OHGMQ7kNvwHt5tr0&_nc_oc=AdoxroIxltUc9oqjbxV7upKtznGcYeURAj3Rp0pwWlsgMilrXMw8fnVkHcOF_C4MfWc&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&_nc_tpa=Q5bMBQEUf6xZhn1kfyiyizPe5f-6lQ728PF5nkmGJ1xw4j42HlsYMPg0FP4LKN8CbhOWXDmobGVgJyjrPg&oh=00_AfzcQhfMXVDwDVVb4SpeEudjo06XLFJcyuahu7Qxp3bOdw&oe=69CE2F37",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQMiEHLNwYTfOEguGGgCBhUQFOP3tkXlm7aOgtJJ6uCrv_PBzj1ufcei5415b--DYk7I9BNjhpmJYgECo2dI7rL3LPAXXq_10ifY0ws.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=qozIN5o-DVQQ7kNvwFwbzd5&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjUzNTU0MjU0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MjEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6e11b50e1aed1785&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82MjQzN0U3MDhCRTkxMzAxNzlCQUFERDVEQkVDMDZCQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzc0NDU5NTMwRUZCRTgyQTUwMTYyNzFGNzM2OUUwMTgyX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0n_rNipaXQBUCKAJDMywXQDW7peNT988YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHRdM1R9UKNkhmwefeUQeKvZMmQhjpL9M8oj7ZINCMwYL3AJxAP9nUo3VnGdvp_r9C_DLIzWn9qiw&oh=00_AfyHWMrEWPvvPC6UPXt_fdPxdVzZyM2XItc5x0VD22mHLg&oe=69CA38F1",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/660793361_1623752702275796_7467589293622488132_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=nTFRmi_OHGMQ7kNvwHt5tr0&_nc_oc=AdoxroIxltUc9oqjbxV7upKtznGcYeURAj3Rp0pwWlsgMilrXMw8fnVkHcOF_C4MfWc&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Ymu4fnRofUgLVnm2QEDdWw&_nc_tpa=Q5bMBQEUf6xZhn1kfyiyizPe5f-6lQ728PF5nkmGJ1xw4j42HlsYMPg0FP4LKN8CbhOWXDmobGVgJyjrPg&oh=00_AfzcQhfMXVDwDVVb4SpeEudjo06XLFJcyuahu7Qxp3bOdw&oe=69CE2F37"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c71e1c6cb7b8cf4ca6f53b",
+      "latePostId": "69c4f25ad135603441a46a06",
+      "content": "Identical twins have 100% the same DNA — but completely different fingerprints. Physics > genetics. #twins #babyfacts #sciencefacts #fingerprints #didyouknow",
+      "publishedAt": "2026-03-27T23:05:12.000Z",
+      "scheduledFor": "2026-03-27T23:05:12.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 93,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:27"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 93,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:27"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7622075220005866765?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oMgA2DCTFjOGpWaeYIeMlABgkaH8JR30eg8lQh~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=bdd8a20e&x-expires=1774825200&x-signature=vuO3UmWYnrEzw4Wos8coiYD0DLo%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oMgA2DCTFjOGpWaeYIeMlABgkaH8JR30eg8lQh~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=bdd8a20e&x-expires=1774825200&x-signature=vuO3UmWYnrEzw4Wos8coiYD0DLo%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oMgA2DCTFjOGpWaeYIeMlABgkaH8JR30eg8lQh~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=bdd8a20e&x-expires=1774825200&x-signature=vuO3UmWYnrEzw4Wos8coiYD0DLo%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c67ff46cb7b8cf4ca48bc6",
+      "latePostId": "69c4f23dd135603441a467f1",
+      "content": "Babies recognize Mom's face within 12 hours of birth — before they can even see clearly. Evolution h\n\nBabies recognize Mom's face within 12 hours of birth — before they can even see clearly. Evolution hard-coded this. #babyfacts #parenting #pregnancy #newborn #didyouknow",
+      "publishedAt": "2026-03-27T13:00:30.000Z",
+      "scheduledFor": "2026-03-27T13:00:30.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 34,
+        "engagementRate": 5.88,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 34,
+            "engagementRate": 5.88,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=AR9yPUSoUr0",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AR9yPUSoUr0/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/AR9yPUSoUr0/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/AR9yPUSoUr0/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c5c9626cb7b8cf4ca25cfb",
+      "latePostId": "69c3af88d9ff805e34c7af3c",
+      "content": "Your Baby Tastes What You Eat — How Flavor Starts in the Womb\n\nYour Baby Tastes What You Eat — How Flavor Starts in the Womb\n\nBy 21 weeks, a fetus is swallowing amniotic fluid that carries the exact flavor molecules from everything you eat. Studies show babies exposed to garlic, vanilla, or carrot in the womb prefer those flavors after birth.\n\n#pregnancyfacts #fetaldevelopment #babyfacts #shorts",
+      "publishedAt": "2026-03-27T00:00:20.000Z",
+      "scheduledFor": "2026-03-27T00:00:20.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 10,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 10,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=BwgfY-ryGRg",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/BwgfY-ryGRg/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/BwgfY-ryGRg/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/BwgfY-ryGRg/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c578d16cb7b8cf4ca13d19",
+      "latePostId": "69c3af81d9ff805e34c7aea1",
+      "content": "Breastmilk Changes Based on Time of Day — Morning vs Night Milk\n\nBreastmilk Changes Based on Time of Day — Morning vs Night Milk\n\nMorning milk is loaded with cortisol — the alertness hormone. Nighttime milk contains melatonin — the sleep hormone. Your body isn't just making milk. It's making time-stamped milk.\n\n#breastfeeding #newbornfacts #babyfacts #shorts",
+      "publishedAt": "2026-03-26T18:02:10.000Z",
+      "scheduledFor": "2026-03-26T18:02:10.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 10,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 10,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=SxneoNoQbpg",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SxneoNoQbpg/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/SxneoNoQbpg/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/SxneoNoQbpg/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c590e06cb7b8cf4ca19878",
+      "latePostId": "69b97eef4d6c378d8d696a43",
+      "content": "Your babys heart is beating ALMOST TWICE as fast as yours. Right now.\n\nYour babys heart is beating ALMOST TWICE as fast as yours. Right now.\n\nA newborns heart beats 120-160 times per minute. An adult? Just 60-100. Their heart is the size of a walnut and has to pump harder to keep up with their rapidly growing body.\n\nIt gradually slows to adult speed by age 10.\n\n#BabyFacts #Shorts #NewbornScience #BabyHeart #ParentingTips",
+      "publishedAt": "2026-03-26T19:52:00.000Z",
+      "scheduledFor": "2026-03-26T19:52:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 3,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 3,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=88Zn82lsZtM",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/88Zn82lsZtM/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/88Zn82lsZtM/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/88Zn82lsZtM/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c578d16cb7b8cf4ca13d1a",
+      "latePostId": "69c56d9c3521175f488877b5",
+      "content": "Three gentle, original bedtime stories to help your little one drift off to sleep. Soft narration wi\n\nThree gentle, original bedtime stories to help your little one drift off to sleep. Soft narration with dreamy illustrations perfect for naptime or bedtime routines.\n\nStories included:\n1. The Little Cloud Who Couldn t Sleep\n2. Luna the Firefly s Garden\n3. The Sleepy Little Whale\n\n0:00 Welcome to Dreamland\n0:27 The Little Cloud Who Couldn t Sleep\n7:02 Luna the Firefly s Garden\n13:59 The Sleepy Little Whale\n20:50 Goodnight\n\n#bedtimestories #babysleep #toddlerbedtime #sleepstories #babyfactsunlocked #kidsstories #naptime #lullaby #gentlestories #toddlerstories",
+      "publishedAt": "2026-03-26T17:42:11.000Z",
+      "scheduledFor": "2026-03-26T17:42:11.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 2,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-28 23:57:26"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 2,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-28 23:57:26"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=0TM8qxMLnsw",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0TM8qxMLnsw/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/0TM8qxMLnsw/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/0TM8qxMLnsw/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}
