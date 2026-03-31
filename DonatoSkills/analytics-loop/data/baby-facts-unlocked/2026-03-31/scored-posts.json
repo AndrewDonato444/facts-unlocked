@@ -1,0 +1,1089 @@
+{
+  "project": "baby-facts-unlocked",
+  "scoredAt": "2026-03-31T00:04:22.300Z",
+  "dateRange": {
+    "from": "2026-03-28",
+    "to": "2026-03-29"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 19,
+    "includedPosts": 0,
+    "excludedPosts": 19,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69c91da46cb7b8cf4cace275",
+      "latePostId": "69c871cb4137ed0a8244c90e",
+      "content": "Your newborn can't taste salt — at all 🤯\n\nYour newborn can't taste salt — at all 🤯\n\nBabies are born with working taste receptors for sweet, bitter, sour, and umami. But not salt.\n\nSalt-detecting taste receptors don't activate until around 4 months of age. Before that, a newborn literally cannot register salty flavor.\n\nThe likely reason: breast milk is sweet, not salty. Evolution had no reason to wire salt detection in at birth.\n\nAt 4 months, the switch flips — and many babies immediately show a preference for salty foods.\n\n#babyfacts #newborn #tastebuds #infantdevelopment #breastfeeding #parenting #sciencefacts #babyscience",
+      "publishedAt": "2026-03-29T12:04:07.000Z",
+      "scheduledFor": "2026-03-29T12:04:07.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 196,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 196,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=FyFmmb-wGi8",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FyFmmb-wGi8/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/FyFmmb-wGi8/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/FyFmmb-wGi8/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c886166cb7b8cf4cab3e1e",
+      "latePostId": "69c6466eaef2a4c4e2b4b91c",
+      "content": "Humans are born 12 months early — on purpose 😮 #babyfacts #evolution #pregnancy #newborn #science",
+      "publishedAt": "2026-03-29T00:03:36.000Z",
+      "scheduledFor": "2026-03-29T00:03:36.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 4,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 179,
+        "engagementRate": 2.23,
+        "lastUpdated": "2026-03-30 21:53:53"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 4,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 179,
+            "engagementRate": 2.23,
+            "lastUpdated": "2026-03-30 21:53:53"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7622461404146093325?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o4JEHgLTkQxCwDZQigQ8CW2kuMCrsNQfqfFOfA~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=519d8370&x-expires=1774990800&x-signature=3Jq7QuBPVA6OoKhVaivVhosbwfQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o4JEHgLTkQxCwDZQigQ8CW2kuMCrsNQfqfFOfA~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=519d8370&x-expires=1774990800&x-signature=3Jq7QuBPVA6OoKhVaivVhosbwfQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o4JEHgLTkQxCwDZQigQ8CW2kuMCrsNQfqfFOfA~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=519d8370&x-expires=1774990800&x-signature=3Jq7QuBPVA6OoKhVaivVhosbwfQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c92e216cb7b8cf4cad234e",
+      "latePostId": "69c871cb4137ed0a8244c90e",
+      "content": "Your newborn can't taste salt — at all 🤯 Babies are born with working taste receptors for sweet, bitter, sour, and umami. But not salt. Salt-detecting taste receptors don't activate until around 4 months of age. Before that, a newborn literally cannot register salty flavor. The likely reason: breast milk is sweet, not salty. Evolution had no reason to wire salt detection in at birth. At 4 months, the switch flips — and many babies immediately show a preference for salty foods. #babyfacts #newborn #tastebuds #infantdevelopment #breastfeeding #parenting #sciencefacts #babyscience",
+      "publishedAt": "2026-03-29T13:02:04.000Z",
+      "scheduledFor": "2026-03-29T13:02:04.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 165,
+        "engagementRate": 0.61,
+        "lastUpdated": "2026-03-30 21:53:53"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 165,
+            "engagementRate": 0.61,
+            "lastUpdated": "2026-03-30 21:53:53"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7622661879495757069?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQkTCJi7IZsLrfIJ5A0Qk4EFDWF6GHCDge8Qfk~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=27426b21&x-expires=1774990800&x-signature=cU4pBdTCKkiyaeb67J0ybug3V9k%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQkTCJi7IZsLrfIJ5A0Qk4EFDWF6GHCDge8Qfk~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=27426b21&x-expires=1774990800&x-signature=cU4pBdTCKkiyaeb67J0ybug3V9k%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQkTCJi7IZsLrfIJ5A0Qk4EFDWF6GHCDge8Qfk~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=27426b21&x-expires=1774990800&x-signature=cU4pBdTCKkiyaeb67J0ybug3V9k%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c9b0246cb7b8cf4caf0bd9",
+      "latePostId": "69c871dc4137ed0a8244d2cc",
+      "content": "Your newborn has no immune system of their own — yet 🛡️ At birth, babies rely entirely on maternal antibodies passed through the placenta and breast milk. This borrowed immunity protects against most infections for about 6 months. Then it fades — and babies must build their own immune defenses from scratch. This is exactly why the vaccine schedule is timed the way it is. The first shots are calibrated to the window before borrowed immunity disappears. Six months of protection. Then they're on their own. #babyfacts #newborn #immunesystem #vaccines #breastfeeding #maternalimmunity #infanthealth #parenting",
+      "publishedAt": "2026-03-29T23:02:36.000Z",
+      "scheduledFor": "2026-03-29T23:02:36.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 151,
+        "engagementRate": 0.66,
+        "lastUpdated": "2026-03-30 21:53:53"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 151,
+            "engagementRate": 0.66,
+            "lastUpdated": "2026-03-30 21:53:53"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7622816771321466125?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oArBwm89IIA37P9hU4aiMJBU5EioggcVjGrBv~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=c79ba626&x-expires=1774990800&x-signature=uEsy7mUVg04vxZ9%2B%2Fqu0BPsdHBk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oArBwm89IIA37P9hU4aiMJBU5EioggcVjGrBv~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=c79ba626&x-expires=1774990800&x-signature=uEsy7mUVg04vxZ9%2B%2Fqu0BPsdHBk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oArBwm89IIA37P9hU4aiMJBU5EioggcVjGrBv~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=c79ba626&x-expires=1774990800&x-signature=uEsy7mUVg04vxZ9%2B%2Fqu0BPsdHBk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c830a46cb7b8cf4caa36fb",
+      "latePostId": "69c6466baef2a4c4e2b4b8d2",
+      "content": "Your newborn has MORE brain connections than you 🧠 (and that's the plan) #babyfacts #braindevelopment #neuroscience #newborn #sciencefacts",
+      "publishedAt": "2026-03-28T19:01:22.000Z",
+      "scheduledFor": "2026-03-28T19:01:22.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 143,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:53"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 143,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:53"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7622383494198578445?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/owHSuQsIEFQgk9wTJfGQDSDLgemeExgkHGSCAC~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=961774e8&x-expires=1774990800&x-signature=9qn%2F3Z5mfjAMGv5nMBM1x3b0El8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/owHSuQsIEFQgk9wTJfGQDSDLgemeExgkHGSCAC~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=961774e8&x-expires=1774990800&x-signature=9qn%2F3Z5mfjAMGv5nMBM1x3b0El8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/owHSuQsIEFQgk9wTJfGQDSDLgemeExgkHGSCAC~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=961774e8&x-expires=1774990800&x-signature=9qn%2F3Z5mfjAMGv5nMBM1x3b0El8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c92e206cb7b8cf4cad2349",
+      "latePostId": "69c871cb4137ed0a8244c90e",
+      "content": "Your newborn can't taste salt — at all 🤯\n\nBabies are born with working taste receptors for sweet, bitter, sour, and umami. But not salt.\n\nSalt-detecting taste receptors don't activate until around 4 months of age. Before that, a newborn literally cannot register salty flavor.\n\nThe likely reason: breast milk is sweet, not salty. Evolution had no reason to wire salt detection in at birth.\n\nAt 4 months, the switch flips — and many babies immediately show a preference for salty foods.\n\n#babyfacts #newborn #tastebuds #infantdevelopment #breastfeeding #parenting #sciencefacts #babyscience",
+      "publishedAt": "2026-03-29T13:03:27.000Z",
+      "scheduledFor": "2026-03-29T13:03:27.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 124,
+        "reach": 122,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 124,
+        "engagementRate": 0.81,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 124,
+            "reach": 122,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 124,
+            "engagementRate": 0.81,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWeCWOeCZ2g/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658166248_1696834058149134_2941745923498477834_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=YwT9EtnSmgoQ7kNvwGF4vue&_nc_oc=Adpilqwy5q7UmLRgGOAbi22bwCX4OKmU7xpelrIIuQJekSMeNTHf-VMAGDqXxLlP1Vk&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IdGlwJApMSodKafEw6h_vw&_nc_tpa=Q5bMBQHX_8s6aEdyZo0ZxPXlvRpHBBWjYpR8tSM_yivKuKoafhZ_JHYryreR9vfwJ4Zq6ADFetseLK9YzQ&oh=00_Afw6m3NDaou63VII-YZS1ty6jN-ty0MCH8N1ZxJwzAB3WA&oe=69D0D345",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQPKxFXp1s7Ry4Jg33VwiXebNUNQLsexm9WJQlugp_vlQjffhySunglAqf99bjiUQCSSnZbhvdve_tPTihLt6IrUxJfzpLvoGNV_N30.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=5aZflykbr2oQ7kNvwE8ttmS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjYyNjYzMzM0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f303f2079f57692e&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81MDRFMUQxNjNCMzJCRjFEMTQ5MzYxOTdBQTQ2RTU5Nl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzBBNEVBNjI2RkYxNTIwMTVCRUNBNDlBRTQ3OEI4M0E1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0u8KzjcuXQBUCKAJDMywXQD7VP3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=IdGlwJApMSodKafEw6h_vw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGovoFtiGIW5CFrTqwFx0RufgAPWDGQ2-nKfZt0rF4FUlItb9893yroO6CgupWHFPhKC7k0JkalMw&oh=00_Afyl50IYeI7c7eKixwb5ubW8jFoNPYYFWE1-fS8wRQ_HrQ&oe=69CCE7CB",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658166248_1696834058149134_2941745923498477834_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=YwT9EtnSmgoQ7kNvwGF4vue&_nc_oc=Adpilqwy5q7UmLRgGOAbi22bwCX4OKmU7xpelrIIuQJekSMeNTHf-VMAGDqXxLlP1Vk&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IdGlwJApMSodKafEw6h_vw&_nc_tpa=Q5bMBQHX_8s6aEdyZo0ZxPXlvRpHBBWjYpR8tSM_yivKuKoafhZ_JHYryreR9vfwJ4Zq6ADFetseLK9YzQ&oh=00_Afw6m3NDaou63VII-YZS1ty6jN-ty0MCH8N1ZxJwzAB3WA&oe=69D0D345"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c9b0256cb7b8cf4caf0bdb",
+      "latePostId": "69c871dc4137ed0a8244d2cc",
+      "content": "Your newborn has no immune system of their own — yet 🛡️\n\nAt birth, babies rely entirely on maternal antibodies passed through the placenta and breast milk.\n\nThis borrowed immunity protects against most infections for about 6 months.\n\nThen it fades — and babies must build their own immune defenses from scratch.\n\nThis is exactly why the vaccine schedule is timed the way it is. The first shots are calibrated to the window before borrowed immunity disappears.\n\nSix months of protection. Then they're on their own.\n\n#babyfacts #newborn #immunesystem #vaccines #breastfeeding #maternalimmunity #infanthealth #parenting",
+      "publishedAt": "2026-03-29T23:03:43.000Z",
+      "scheduledFor": "2026-03-29T23:03:43.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 113,
+        "reach": 108,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 113,
+        "engagementRate": 0.88,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 113,
+            "reach": 108,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 113,
+            "engagementRate": 0.88,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWfHCrDjKTo/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/658826038_3987581528211601_1605515898816192128_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=jtqRjfYrmbwQ7kNvwG6c6GO&_nc_oc=AdrOsBhswY2Vfk-UUxDTxq4f-34-G5b6hLZB32HINiqffBkRPyWhA3FtpUTHDro51us&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IdGlwJApMSodKafEw6h_vw&_nc_tpa=Q5bMBQHYZFMAsDqInr-_vDNvhBqwfR-kTP5vbVJggBXi1Djd-ACi219_5p1filgVtqx6yFTQy_tjCZGd7A&oh=00_AfyExbvC6OBMtINggoNvvp_8ZoPWfZBNwlY-It4c7T_eaQ&oe=69D0D2F1",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQOOwR1VVZxDTq8mjMsea4a6jLR267Mks7ZTDNZXkoTtfrxNg7JeIKffRDaqcGEdkMLi-AUgDCxWhzwyh7H9FsvrNxba2E1JLUJ8zSo.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=VQJ9XJ_QTwcQ7kNvwFvtBuX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjYzNzcwMDY0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b9535c1244cc1a44&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DQzQ3MDVERTAyRTJCNzU3N0UzM0REOUM3RDBFMEVBMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0FDNEIyODU2RjIwNDg4RTBBRTNEMDQ5RjQyOTRFRTg4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0lML9xdGXQBUCKAJDMywXQEEd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=IdGlwJApMSodKafEw6h_vw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQH8xdxUk2ccl8P8Ghct8g1JpBJp7Xm4oSopObwYk2TOkSimnuGNn-FX9tBljiFvctVtDvMFvkk6Xw&oh=00_Afwbfc1zDAE2UPW8hsFqnNTphL-HUmw3bX3LYiLgWORN1A&oe=69CCE754",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/658826038_3987581528211601_1605515898816192128_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=jtqRjfYrmbwQ7kNvwG6c6GO&_nc_oc=AdrOsBhswY2Vfk-UUxDTxq4f-34-G5b6hLZB32HINiqffBkRPyWhA3FtpUTHDro51us&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IdGlwJApMSodKafEw6h_vw&_nc_tpa=Q5bMBQHYZFMAsDqInr-_vDNvhBqwfR-kTP5vbVJggBXi1Djd-ACi219_5p1filgVtqx6yFTQy_tjCZGd7A&oh=00_AfyExbvC6OBMtINggoNvvp_8ZoPWfZBNwlY-It4c7T_eaQ&oe=69D0D2F1"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c886166cb7b8cf4cab3e1d",
+      "latePostId": "69c6466eaef2a4c4e2b4b91c",
+      "content": "Humans are born 12 months early — on purpose 😮 #babyfacts #evolution #pregnancy #newborn #science",
+      "publishedAt": "2026-03-29T00:04:01.000Z",
+      "scheduledFor": "2026-03-29T00:04:01.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 113,
+        "reach": 108,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 113,
+        "engagementRate": 0.88,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 113,
+            "reach": 108,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 113,
+            "engagementRate": 0.88,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWcpJSriaMX/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/657192712_2905210036479346_8064126104981678895_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=j8YoKn8SxecQ7kNvwEKhSD8&_nc_oc=Adp18m7DvVnxm2gp5nmwGbj9gEeJnhGO5IzWKfYE1IAIdDCJRcoL2lzBHuKOrH865FE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IdGlwJApMSodKafEw6h_vw&_nc_tpa=Q5bMBQHzD9Xk9UapxVAvJ0eZSGgvWJcG0V4-m4A3V2dMDC697m7cYxqoGldWV5k4eXIxbgHAjjh_SOwyVA&oh=00_AfxTzr5l1Gze6Zo2TgnXaxNtiC6S1-KPRrPTOjSLbrhetA&oe=69D0AEA8",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQPFgk7UsxAo9zIWELvZFLh1K4NNgMXu9Ex6AjtmPBSjeW2kA71AxzjQSWqeun2XzuEiFFj61q8wXF4w5kSN-x6rQ8CrSjYMVelnLyg.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=FLZl3_SfNRUQ7kNvwE29xuW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjYxMTc0NjE0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=5f24ef9b50b818dc&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80OTRBMUUxRkQ0Mzk3MDZBMDk2MzVBMkEzRENENEVBMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzE5NDVBMEE2QzNDNzVCMTA3OUEzRUZEODBBMkE5QjkxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0846cuMKXQBUCKAJDMywXQEPVP3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=IdGlwJApMSodKafEw6h_vw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQG4UonWnX345lUFQnZqTNNz86yzlpQKrRH8Y9x5JdB_lCXM54baSCjWzgREjNJGO6fgSzULm4j0Bg&oh=00_AfxJV8PCMPLuGuLPsc04xzC2GHSFWV5xWtSdU3QayyJcnQ&oe=69CCC15D",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/657192712_2905210036479346_8064126104981678895_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=j8YoKn8SxecQ7kNvwEKhSD8&_nc_oc=Adp18m7DvVnxm2gp5nmwGbj9gEeJnhGO5IzWKfYE1IAIdDCJRcoL2lzBHuKOrH865FE&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IdGlwJApMSodKafEw6h_vw&_nc_tpa=Q5bMBQHzD9Xk9UapxVAvJ0eZSGgvWJcG0V4-m4A3V2dMDC697m7cYxqoGldWV5k4eXIxbgHAjjh_SOwyVA&oh=00_AfxTzr5l1Gze6Zo2TgnXaxNtiC6S1-KPRrPTOjSLbrhetA&oe=69D0AEA8"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c8309a6cb7b8cf4caa36e5",
+      "latePostId": "69c6466baef2a4c4e2b4b8d2",
+      "content": "Your newborn has MORE brain connections than you 🧠 (and that's the plan) #babyfacts #braindevelopment #neuroscience #newborn #sciencefacts",
+      "publishedAt": "2026-03-28T19:01:55.000Z",
+      "scheduledFor": "2026-03-28T19:01:55.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 114,
+        "reach": 106,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 114,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 114,
+            "reach": 106,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 114,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWcGkewikE2/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/656774106_2073403296569491_329296852346353481_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=pyu5FeHezpgQ7kNvwGc9trZ&_nc_oc=AdoyKNJW-c7GPrgvlYBgrqv8Rrx3NFB_1twWaqJN-ueLsMEypbYNvpGRfb7wdT7PiI8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IdGlwJApMSodKafEw6h_vw&_nc_tpa=Q5bMBQE0cCgHl_XD3iUCva4bfB-hqJRTyjFoHyLVyjE5dn1SoaPiBDsUIokzSMcaDjKopBf9H_3VBEpxRw&oh=00_AfyungTwP6SRl42wbK6euNCro5FpjR3T_fyrpYT-2a0imA&oe=69D0DB2F",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPNYLWP8MBOPIfV-toG_1Bj5gKxZimVZe_NBO8FbVLMnLwtb3WXPYGWSkB6r-OTsW2pFQlbgM4JauTDJWtTvUit_VxPlI3dklpxUV8.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=YHJzlc_Ok-EQ7kNvwE7128l&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjYwODAzNTE0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzYsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=fbe4495f5bc58650&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80QTQyMDE2OEM0OUE1MUYzODAwRjU4ODJCRkFGOEJCNV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFDNDFCRDExNjNDMkE1RkUzQjE2ODgzQjQ3NzhCMUIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0zaHdo8CXQBUCKAJDMywXQEIMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=IdGlwJApMSodKafEw6h_vw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEuvtGxNaoJrjtYzd5A72Jdd2NR0bC3_TdvDqgZE2m17K6aRUyWVb6hWcEQQNe22IMPffSmdOe4kw&oh=00_AfymbS4gYFxnYAOQ8umQDMZsDDMLELFlnwpfqjqNGSfpIg&oe=69CCEA6F",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/656774106_2073403296569491_329296852346353481_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=pyu5FeHezpgQ7kNvwGc9trZ&_nc_oc=AdoyKNJW-c7GPrgvlYBgrqv8Rrx3NFB_1twWaqJN-ueLsMEypbYNvpGRfb7wdT7PiI8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IdGlwJApMSodKafEw6h_vw&_nc_tpa=Q5bMBQE0cCgHl_XD3iUCva4bfB-hqJRTyjFoHyLVyjE5dn1SoaPiBDsUIokzSMcaDjKopBf9H_3VBEpxRw&oh=00_AfyungTwP6SRl42wbK6euNCro5FpjR3T_fyrpYT-2a0imA&oe=69D0DB2F"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c7e78b6cb7b8cf4ca93421",
+      "latePostId": "69c64649aef2a4c4e2b4b7e0",
+      "content": "Your baby's immune system was programmed in the first 48 hours after birth 🧫 #babyfacts #microbiome #csection #newborn #parenting",
+      "publishedAt": "2026-03-28T14:01:57.000Z",
+      "scheduledFor": "2026-03-28T14:01:57.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 108,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 108,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 108,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 108,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWbkPdgEcDX/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/656633669_1662466071419319_1950207352890761384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=zBf6_2Lve-EQ7kNvwH_HoFo&_nc_oc=AdpUaIweIjeoMcW2RZAJTY5BOKOeznozfKGiez5ZCvXYj3Bxy9_DZYZ3jVUVV1rAGV8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IdGlwJApMSodKafEw6h_vw&_nc_tpa=Q5bMBQE7gkXPdipuR2LSN44b7ce_Wa7I5GXVj7uVeMaGblfULAHp3NLbFXwb7wfmNHWiyPmnqNFiK4QXMQ&oh=00_AfzWhsEDwgcEu3owXwEa4mqiN7T20R3ZzMpF9X1328DnxA&oe=69D0CFA2",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQN7mNOanUq0OtfyD--QYikBmc2VfjOVOb8fLr9UvPGpQxuNELkpNs3EEHwCwkFGJSZ8UeuPj3MAIE8rjmD4gFmVOAyZVcYZ-4Yudk0.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=dTe8-DAslJMQ7kNvwEXwkQK&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjYwMDUzOTY0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=77e280128d92b78b&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNzQwM0I2OTBDM0QwNzQ0NzhCMzQyNzAyODg5QzA4RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFBNDFFMEI2MDdBNzc5QTAyQkE5NDhEM0I0MEU2RkJFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0qs2i9buXQBUCKAJDMywXQEUIcrAgxJwYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=IdGlwJApMSodKafEw6h_vw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQF2KEZ_nqzkYtpB6gGn0rz0QVuemiOFmKFXSnGn9IrYlZcC1aKjv8ZjtKQPMCDnKVgNOipupM1mNw&oh=00_AfzMyzgG_Yqg2_QfwoFB49XWbczgmfKxoq-MEZuVQJA0Bg&oe=69CCC931",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/656633669_1662466071419319_1950207352890761384_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=zBf6_2Lve-EQ7kNvwH_HoFo&_nc_oc=AdpUaIweIjeoMcW2RZAJTY5BOKOeznozfKGiez5ZCvXYj3Bxy9_DZYZ3jVUVV1rAGV8&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IdGlwJApMSodKafEw6h_vw&_nc_tpa=Q5bMBQE7gkXPdipuR2LSN44b7ce_Wa7I5GXVj7uVeMaGblfULAHp3NLbFXwb7wfmNHWiyPmnqNFiK4QXMQ&oh=00_AfzWhsEDwgcEu3owXwEa4mqiN7T20R3ZzMpF9X1328DnxA&oe=69D0CFA2"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c976fc6cb7b8cf4cae3e48",
+      "latePostId": "69c871d349c5ffc657f98142",
+      "content": "Your baby's eye color isn't real yet 👀 Most newborns are born with blue-gray or dark gray eyes — regardless of their genetics. The reason: melanocytes (the cells that produce pigment) haven't ramped up production yet. They need light exposure to activate. Over the first 6-12 months, melanin builds up — and true eye color emerges. Dark brown eyes = more melanin. Green or hazel = moderate melanin. Blue eyes = low melanin. The eyes you see at birth are a placeholder. #babyfacts #eyecolor #newborn #genetics #infantdevelopment #melanin #babyscience #parenting",
+      "publishedAt": "2026-03-29T18:01:11.000Z",
+      "scheduledFor": "2026-03-29T18:01:11.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 107,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:53"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 107,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:53"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7622739086134054157?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQDCHLH9GRNeezkIdTgyJQkSfHgggF9tGt0PIA~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=dad7224f&x-expires=1774990800&x-signature=T6gUJavWPOSj%2FF6bgPNV940CJ5w%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQDCHLH9GRNeezkIdTgyJQkSfHgggF9tGt0PIA~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=dad7224f&x-expires=1774990800&x-signature=T6gUJavWPOSj%2FF6bgPNV940CJ5w%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oQDCHLH9GRNeezkIdTgyJQkSfHgggF9tGt0PIA~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=dad7224f&x-expires=1774990800&x-signature=T6gUJavWPOSj%2FF6bgPNV940CJ5w%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c976fc6cb7b8cf4cae3e49",
+      "latePostId": "69c871d349c5ffc657f98142",
+      "content": "Your baby's eye color isn't real yet 👀\n\nMost newborns are born with blue-gray or dark gray eyes — regardless of their genetics.\n\nThe reason: melanocytes (the cells that produce pigment) haven't ramped up production yet. They need light exposure to activate.\n\nOver the first 6-12 months, melanin builds up — and true eye color emerges.\n\nDark brown eyes = more melanin. Green or hazel = moderate melanin. Blue eyes = low melanin.\n\nThe eyes you see at birth are a placeholder.\n\n#babyfacts #eyecolor #newborn #genetics #infantdevelopment #melanin #babyscience #parenting",
+      "publishedAt": "2026-03-29T18:01:33.000Z",
+      "scheduledFor": "2026-03-29T18:01:33.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 105,
+        "reach": 102,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 105,
+        "engagementRate": 0.95,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 105,
+            "reach": 102,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 105,
+            "engagementRate": 0.95,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWekdYskZEn/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/660136880_1966656667263664_5282223067162865738_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=J5rvdqMncXwQ7kNvwF6YvHj&_nc_oc=Ado4mJlYhaMaz4uR8SXScin_FE3rh_pAST3gKuoLzhOu0JTHr2CHdDRSDVd6GCjlxVc&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IdGlwJApMSodKafEw6h_vw&_nc_tpa=Q5bMBQEvHxDMnXcINFCjwZDzFA6xn794qb_FLQqT4SgljCVaYe7Sc-dsbj5VJfQPlK6jJ0pbJ3U1W5e8dQ&oh=00_AfwGcCQAg4h5kYG6hNQGm1DMnJi-HsLOwHtzhNlesaE0GQ&oe=69D0AA27",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMknukrrNWFD5f0S7Db2FCprNhVGmdepRC9H_KXek2bNtfDJn-NvbxnCukKthd1OhNozBUNvML7CVE7anEwXYR78McmO27xayW97jw.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=d4Xp4BoJQkAQ7kNvwEvslSX&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjYzMzQyMjY0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=764d913ab6fc4521&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENzQ4OTZGNEEzM0JENzc1NzU5REQyNjBFRUQyNEQ4NF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzIzNDlDMTg5RTAyMzhDMUZCRDgzODUxQ0Q3NjRCRUI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0mKqfh8-XQBUCKAJDMywXQEM3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=IdGlwJApMSodKafEw6h_vw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQH8qtwVYmiE8TeoDUaZbiH0HSOVRxS1umbnjxXaO57kFqyp9fDmkUDqcnVQYguVhBu5p_WTIj8bRA&oh=00_AfxRffhrJgBQ8Lix2aOWx9AGG3XrLCwPpAbMBK0zUHeVcQ&oe=69CCD1A2",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/660136880_1966656667263664_5282223067162865738_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=J5rvdqMncXwQ7kNvwF6YvHj&_nc_oc=Ado4mJlYhaMaz4uR8SXScin_FE3rh_pAST3gKuoLzhOu0JTHr2CHdDRSDVd6GCjlxVc&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=IdGlwJApMSodKafEw6h_vw&_nc_tpa=Q5bMBQEvHxDMnXcINFCjwZDzFA6xn794qb_FLQqT4SgljCVaYe7Sc-dsbj5VJfQPlK6jJ0pbJ3U1W5e8dQ&oh=00_AfwGcCQAg4h5kYG6hNQGm1DMnJi-HsLOwHtzhNlesaE0GQ&oe=69D0AA27"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c94cd36cb7b8cf4cad9f4d",
+      "latePostId": "69b97ef24d6c378d8d696aa2",
+      "content": "Your babys heart beats TWICE as fast as yours right now #BabyFacts #BabyScience #NewbornLife",
+      "publishedAt": "2026-03-29T15:01:24.000Z",
+      "scheduledFor": "2026-03-29T15:01:24.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 102,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:53"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 102,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:53"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7622692750760135950?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ok4qjIBxIiCeIGA5CAipGPY7BwJaPAMJ0ksnw3~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=79786f10&x-expires=1774990800&x-signature=WUXmlFk1FTtqgrIe9r8caxVEwzY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ok4qjIBxIiCeIGA5CAipGPY7BwJaPAMJ0ksnw3~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=79786f10&x-expires=1774990800&x-signature=WUXmlFk1FTtqgrIe9r8caxVEwzY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ok4qjIBxIiCeIGA5CAipGPY7BwJaPAMJ0ksnw3~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=79786f10&x-expires=1774990800&x-signature=WUXmlFk1FTtqgrIe9r8caxVEwzY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c86ae66cb7b8cf4caaef0f",
+      "latePostId": "69c6466eaef2a4c4e2b4b91c",
+      "content": "Humans are born 12 months early — on purpose 😮 #babyfacts #evolution #pregnancy #newborn #science\n\nHumans are born 12 months early — on purpose 😮 #babyfacts #evolution #pregnancy #newborn #science",
+      "publishedAt": "2026-03-28T23:02:15.000Z",
+      "scheduledFor": "2026-03-28T23:02:15.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 60,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 60,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=F3NYjV7mpRk",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F3NYjV7mpRk/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/F3NYjV7mpRk/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/F3NYjV7mpRk/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c9b0246cb7b8cf4caf0bd6",
+      "latePostId": "69c871dc4137ed0a8244d2cc",
+      "content": "Your newborn has no immune system of their own — yet 🛡️\n\nYour newborn has no immune system of their own — yet 🛡️\n\nAt birth, babies rely entirely on maternal antibodies passed through the placenta and breast milk.\n\nThis borrowed immunity protects against most infections for about 6 months.\n\nThen it fades — and babies must build their own immune defenses from scratch.\n\nThis is exactly why the vaccine schedule is timed the way it is. The first shots are calibrated to the window before borrowed immunity disappears.\n\nSix months of protection. Then they're on their own.\n\n#babyfacts #newborn #immunesystem #vaccines #breastfeeding #maternalimmunity #infanthealth #parenting",
+      "publishedAt": "2026-03-29T23:00:28.000Z",
+      "scheduledFor": "2026-03-29T23:00:28.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 44,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 44,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=k82t26qAPoU",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/k82t26qAPoU/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/k82t26qAPoU/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/k82t26qAPoU/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c7d3826cb7b8cf4ca8e97a",
+      "latePostId": "69c64649aef2a4c4e2b4b7e0",
+      "content": "Your baby's immune system was programmed in the first 48 hours after birth 🧫 #babyfacts #microbiome\n\nYour baby's immune system was programmed in the first 48 hours after birth 🧫 #babyfacts #microbiome #csection #newborn #parenting",
+      "publishedAt": "2026-03-28T13:03:03.000Z",
+      "scheduledFor": "2026-03-28T13:03:03.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 34,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 34,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=sM6nBclIqfQ",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sM6nBclIqfQ/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/sM6nBclIqfQ/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/sM6nBclIqfQ/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c964ba6cb7b8cf4cadf8a6",
+      "latePostId": "69c871d349c5ffc657f98142",
+      "content": "Your baby's eye color isn't real yet 👀\n\nYour baby's eye color isn't real yet 👀\n\nMost newborns are born with blue-gray or dark gray eyes — regardless of their genetics.\n\nThe reason: melanocytes (the cells that produce pigment) haven't ramped up production yet. They need light exposure to activate.\n\nOver the first 6-12 months, melanin builds up — and true eye color emerges.\n\nDark brown eyes = more melanin. Green or hazel = moderate melanin. Blue eyes = low melanin.\n\nThe eyes you see at birth are a placeholder.\n\n#babyfacts #eyecolor #newborn #genetics #infantdevelopment #melanin #babyscience #parenting",
+      "publishedAt": "2026-03-29T17:02:34.000Z",
+      "scheduledFor": "2026-03-29T17:02:34.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 18,
+        "engagementRate": 5.56,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 18,
+            "engagementRate": 5.56,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=o6aC3-BrxAc",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/o6aC3-BrxAc/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/o6aC3-BrxAc/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/o6aC3-BrxAc/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c821846cb7b8cf4caa0378",
+      "latePostId": "69c6466baef2a4c4e2b4b8d2",
+      "content": "Your newborn has MORE brain connections than you 🧠 (and that's the plan) #babyfacts #braindevelopme\n\nYour newborn has MORE brain connections than you 🧠 (and that's the plan) #babyfacts #braindevelopment #neuroscience #newborn #sciencefacts",
+      "publishedAt": "2026-03-28T18:01:37.000Z",
+      "scheduledFor": "2026-03-28T18:01:37.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 12,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 12,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=Y06I53Hp0qg",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y06I53Hp0qg/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/Y06I53Hp0qg/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Y06I53Hp0qg/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69c7e78b6cb7b8cf4ca93425",
+      "latePostId": "69c64649aef2a4c4e2b4b7e0",
+      "content": "Your baby's immune system was programmed in the first 48 hours after birth 🧫 #babyfacts #microbiome #csection #newborn #parenting",
+      "publishedAt": "2026-03-28T14:00:51.000Z",
+      "scheduledFor": "2026-03-28T14:00:51.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 2,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:53"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 2,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:53"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7622306014083255566?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o8yQIHJLUQUWfDDAslgjq4Q7Fe3nGeUCkxbTgH~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=84f3829b&x-expires=1774990800&x-signature=kdxVoJoDVR5jJsPBXJYGlRqDtIw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o8yQIHJLUQUWfDDAslgjq4Q7Fe3nGeUCkxbTgH~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=84f3829b&x-expires=1774990800&x-signature=kdxVoJoDVR5jJsPBXJYGlRqDtIw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o8yQIHJLUQUWfDDAslgjq4Q7Fe3nGeUCkxbTgH~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=84f3829b&x-expires=1774990800&x-signature=kdxVoJoDVR5jJsPBXJYGlRqDtIw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}

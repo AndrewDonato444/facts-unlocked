@@ -56,6 +56,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 046 | vernix-caseosa | Vernix caseosa is antimicrobial + moisturizing; AAP recommends delaying first bath 24+ hours; most hospitals still wipe it off | most_people_dont_know / 25s / moderate / key_words_only / ai-gen | TikTok, YouTube, Instagram |
 | 047 | breast-milk-composition | Breast milk changes within a single feeding: foremilk (hydration) then hindmilk (5x fat, calorie-dense). Babies who stop early miss the calories. | did_you_know / 25s / slow / full_captions / ai-gen | TikTok, YouTube, Instagram |
 | 048 | lanugo-hair | Fetus covered in lanugo by wk 20; sheds into amniotic fluid wks 32-36; baby swallows it, becomes meconium; preemies born still covered | question / 25s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
+| 049 | amniotic-fluid-flavors | Amniotic fluid takes on the flavor of what mom eats — garlic, vanilla, carrots detectable within hours; babies born preferring those flavors for life | result_first / 30s / moderate / karaoke / ai-gen | TikTok, YouTube, Instagram |
+| 050 | cord-clamping-timing | Delayed cord clamping (60+ seconds) transfers 80–100ml extra blood; boosts iron stores for 6 months; WHO recommends it; most US hospitals still cut in under 30s | myth_bust / 35s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 051 | babinski-reflex | Stroke a newborn's foot and toes fan upward — that's the Babinski reflex, a sign of an immature brain; disappears by 12 months; returns only in adult neurological damage | did_you_know / 25s / slow / key_words_only / ai-gen | TikTok, YouTube, Instagram |
 
 ## Money Facts Unlocked
 
@@ -100,6 +103,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 037 | payday-loan-apr | Average payday loan = 391% APR, legal in 37 states. $300 loan rolls into $184 fees. CFPB: borrowers in debt 5 months/yr. Only 13 states cap rates. | controversy / 25s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
 | 038 | gig-economy-hidden-costs | Uber/gig workers take home $8.55/hr after expenses vs advertised $25. Platforms take 35-40%. $200M spent to block CA reclassification. | myth_bust / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 | 039 | zip-code-life-expectancy | Zip code predicts life expectancy better than genetics. 10-mile gap = 20yr lifespan diff in Baltimore. RWJF: zip code is #1 health predictor. | stat_lead / 30s / moderate / key_words_only / ai-gen | TikTok, YouTube, Instagram |
+| 040 | 401k-accident | 401(k) was created as a loophole for executive bonuses in 1978 — HR consultant Ted Benna repurposed it for workers in 1980; Congress never intended mass retirement to depend on it | story_open / 35s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 041 | tax-bracket-myth | Moving into a higher tax bracket only raises taxes on dollars ABOVE the threshold, not your whole income — most Americans believe otherwise (76% per APA survey) | myth_bust / 30s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
+| 042 | share-buybacks | Share buybacks were illegal market manipulation until 1982. Reagan SEC created Rule 10b-18. S&P 500 companies now spend more on buybacks than R&D or wages. | controversy / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 
 ## AI Facts Unlocked
 
@@ -134,3 +140,6 @@ Global topic registry. The content engine MUST check this before generating new 
 | 027 | deepseek-cost-shock | DeepSeek R1 trained for $6M vs GPT-4's $100M+; 95% cost reduction in 18 months; NVIDIA dropped 17% in one day; AI moat assumptions broken | controversy / 25s / fast / karaoke / ai-gen | YouTube, Instagram |
 | 028 | ai-voice-scams-surge | AI voice cloning scams up 400% (FTC 2024); $2.7B fraud reports; 3sec audio enough to clone voice; fully automated 24/7. Establish family code word. | most_people_dont_know / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
 | 029 | ai-synthetic-data | AI training on AI-generated content causes model collapse; errors compound; rare info erased; Oxford 2023: 10 generations = structural failure. Internet already saturated with gen-1 AI text. | controversy / 30s / slow / key_words_only / ai-gen | YouTube, Instagram |
+| 030 | ai-courtroom-fake-cases | Lawyers cited 6 fake AI-hallucinated cases in federal court; Mata v. Avianca 2023; judge fined $5K; real cases found zero precedents because they never existed | controversy / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 031 | ai-cost-compression | GPT-3.5 API cost dropped 97% in 18 months ($0.02→$0.0005/1K tokens); inference getting 10x cheaper per year; entire AI cost structure compressing faster than solar | stat_lead / 35s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 032 | ai-energy-crisis | Training GPT-4 used ~50 GWh — equivalent to 50,000 US homes for a year. US data center electricity demand doubling by 2030. IEA: AI could consume as much power as Japan by 2026. | controversy / 30s / fast / karaoke / ai-gen | YouTube, Instagram |

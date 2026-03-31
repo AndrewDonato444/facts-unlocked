@@ -1,0 +1,650 @@
+{
+  "project": "ai-facts-unlocked",
+  "collectedAt": "2026-03-31T00:04:27.179Z",
+  "dateRange": {
+    "from": "2026-03-28",
+    "to": "2026-03-29"
+  },
+  "profiles": [
+    "69bad5297367e1517f143cd4"
+  ],
+  "totalPosts": 12,
+  "posts": [
+    {
+      "_id": "69c9b0226cb7b8cf4caf0bc9",
+      "latePostId": "69c872194fa623838cd21f7b",
+      "content": "Amazon's AI was secretly penalizing women's resumes — and nobody caught it for years 🚨\n\nAmazon's AI was secretly penalizing women's resumes — and nobody caught it for years 🚨\n\nIn 2018, Amazon's internal AI screening tool was discovered to be systematically downgrading resumes that included words like 'women's' — as in 'women's chess club' or 'women's college.'\n\nWhy? It was trained on 10 years of Amazon's own hiring data — data reflecting a male-dominated tech industry.\n\nThe AI didn't have a bug. It learned the bias from humans.\n\nAmazon quietly shut it down without ever deploying it. But the lesson is still running in thousands of other systems.\n\n#aifacts #aibias #artificialintelligence #amazon #hiring #algorithmbias #machinelearning #techindustry",
+      "publishedAt": "2026-03-29T23:00:50.000Z",
+      "scheduledFor": "2026-03-29T23:00:50.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 261,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 261,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=y-QnjiFKUdI",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/y-QnjiFKUdI/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/y-QnjiFKUdI/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/y-QnjiFKUdI/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c92e206cb7b8cf4cad234a",
+      "latePostId": "69c872074fa623838cd2183c",
+      "content": "ChatGPT uses 500ml of water per conversation 💧\n\nEvery AI query generates heat. Data centers use water-cooling systems to prevent servers from overheating.\n\nA 2023 University of California study found:\n• GPT-3 training alone consumed 700,000 liters of freshwater\n• Each ChatGPT conversation uses ~500ml\n\nWith 100M+ daily users, that's roughly 50 million liters of water per day.\n\nAI data centers are projected to consume more freshwater than several countries by 2027.\n\nThe cost of 'free' AI isn't just electricity.\n\n#aifacts #chatgpt #artificialintelligence #environment #waterusage #datacenter #climatetech #aiimpact",
+      "publishedAt": "2026-03-29T13:02:27.000Z",
+      "scheduledFor": "2026-03-29T13:02:27.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 119,
+        "reach": 111,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 119,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 119,
+            "reach": 111,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 119,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWeCOjJFf1f/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/658975370_919852380669241_478254278406368523_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cfwXE4KlcD8Q7kNvwH8m2AY&_nc_oc=Adqyn-SThPQ_6AKqesOkY64Tq6Od1Nm2wmktFstzFQrgtf0mW8CAtanljEjpSLs0qjY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&_nc_tpa=Q5bMBQEG2E_wZQrAhKskSLmoIq817c0XMiclFA8M8ntN0wCdtKtMDftY2vCcuOSLBB8Fa3ZIBCuDsTWnHw&oh=00_AfwzCI5Mf2PnVOAAgu76qvNw-4PvyHPiMShMkUVCQhy1wQ&oe=69D0B549",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQNbuJnCXNQnE40_jXWdf4-7wNFRpPcrEDhp6Rws_i4ruSeRUoGmHMk4i2SEbtXC2UboeFND2wrHY69-vcLOhwnZCU6dWeFvkMvWPQE.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=h9jjbBuSMUsQ7kNvwHy8OMf&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjY1MzYwNjMzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=8fef63b4cc75388f&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DNzQ5RjUyQjQyRDQwQjI2NEMxRDVBRkEzQ0NEMzVBNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzQyNEFBQTMyN0Q0ODU0OUQxOTIwREZFNEQ5MDlCQjg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0jIuG59qXQBUCKAJDMywXQESEOVgQYk4YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQENbLVva3KTvoIdUbVLqywLovlhuueRVfviggsi8UAqmOc4gSOotnHyHOpIgKdaJ_JY99MlG3s99w&oh=00_AfyXwLcviZjZ9C0sG57PfDSfSgALEYykKdnbWTDK42xHBg&oe=69CCE30F",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/658975370_919852380669241_478254278406368523_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=cfwXE4KlcD8Q7kNvwH8m2AY&_nc_oc=Adqyn-SThPQ_6AKqesOkY64Tq6Od1Nm2wmktFstzFQrgtf0mW8CAtanljEjpSLs0qjY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&_nc_tpa=Q5bMBQEG2E_wZQrAhKskSLmoIq817c0XMiclFA8M8ntN0wCdtKtMDftY2vCcuOSLBB8Fa3ZIBCuDsTWnHw&oh=00_AfwzCI5Mf2PnVOAAgu76qvNw-4PvyHPiMShMkUVCQhy1wQ&oe=69D0B549"
+        }
+      ]
+    },
+    {
+      "_id": "69c886166cb7b8cf4cab3e22",
+      "latePostId": "69c6469a69ffca5e31312628",
+      "content": "46% of new code is now written by AI — developers who adapt are 55% faster. The skill that matters now isn't syntax. #aifacts #github #copilot #programming",
+      "publishedAt": "2026-03-29T00:04:29.000Z",
+      "scheduledFor": "2026-03-29T00:04:29.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 110,
+        "reach": 102,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 110,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 110,
+            "reach": 102,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 110,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWcpMhOjIu9/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656822429_2033602784228026_4611162103785613840_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5dMDtEDOz6wQ7kNvwE6Yc1W&_nc_oc=AdrKm57cPMPS8MhIwH3uWJakmANhONmed2ZGIA8r2uBEwQ1yIT3bxOaar6LOgv5jISo&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&_nc_tpa=Q5bMBQFj_cbVf2ZMshG8xh9aFNPwenjPP68UMYlnJTVdRNRKh3mRYvEGX-MwoqXaEK-6cSpx8lxlTAFMUQ&oh=00_AfxkB-11F9FFIw_kt-lfz5L3h1jVXov9-JIjiVCEyK_YZA&oe=69D0CF90",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQOQcI1vJc_GPhu4PnRPNPHMjVJDbH8ym-eYSje7TIpk6R8vMt8JHzrEy-nSUY8V85NsgQeFAKV6_2zVDyAq2EPKpaKKR_H4U2Elo1c.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=kat8Ir8JobcQ7kNvwEz94kr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjYzOTQ3NTEzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=b68da64fc8c7a8d0&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DQTQwOUQ2MjZGOUZFRTEzRjBERDMyRjNGQzk1RDdCQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzNBNEExNDc5MDAwMEIyQkU1N0Q5NEQ1OURDRDQwNEE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0jLuYytKXQBUCKAJDMywXQEYqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQH6yz9_8zcS2E3_C3fruOPfl9ci0yxX4uwLXGIqXP1bQzxBCSwka9sO6yVQItLxf3_HK6lu7XNDYA&oh=00_AfxYmlfLv6nVFKPFa6XfnVdEjaThzYqbOlEKORXTcpBdQA&oe=69CCCADA",
+          "thumbnail": "https://scontent-iad3-2.cdninstagram.com/v/t51.71878-15/656822429_2033602784228026_4611162103785613840_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=5dMDtEDOz6wQ7kNvwE6Yc1W&_nc_oc=AdrKm57cPMPS8MhIwH3uWJakmANhONmed2ZGIA8r2uBEwQ1yIT3bxOaar6LOgv5jISo&_nc_zt=23&_nc_ht=scontent-iad3-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&_nc_tpa=Q5bMBQFj_cbVf2ZMshG8xh9aFNPwenjPP68UMYlnJTVdRNRKh3mRYvEGX-MwoqXaEK-6cSpx8lxlTAFMUQ&oh=00_AfxkB-11F9FFIw_kt-lfz5L3h1jVXov9-JIjiVCEyK_YZA&oe=69D0CF90"
+        }
+      ]
+    },
+    {
+      "_id": "69c7e78b6cb7b8cf4ca93423",
+      "latePostId": "69c6469469ffca5e31312597",
+      "content": "AI clones your voice from just 3 seconds of audio — available to anyone right now. The trust infrastructure built on voice is quietly breaking. #aifacts #deepfake #voiceclone #ai",
+      "publishedAt": "2026-03-28T14:01:26.000Z",
+      "scheduledFor": "2026-03-28T14:01:26.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 109,
+        "reach": 100,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 109,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 109,
+            "reach": 100,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 109,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWbkLoxjhmK/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/657832206_772919955654341_4926660365609018851_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=m5ZEBMaqdzoQ7kNvwETPh-j&_nc_oc=Adqi2sRJ-botwK1ZwuXRe97xHWq7BxTGgjguMgrGJsoRX6wQ69os_kjA1_IwdswTkbo&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&_nc_tpa=Q5bMBQEPOeT3dRxi4Ls5oRD06x1hZQIGlIKOawrmlJSMljupnfd_hO839WtonPFG-ioSyuQVjCu4IRA7Gw&oh=00_Afzt706E6Yyqlipqw_zZ71FhkNjlaMZ3iuMVAJrkDRSNwQ&oe=69D0CD39",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQMXPYOlKwYobRLwTzm19ZMtjaCt0LXe2dGFcYG_qcFmpnyyU6wDehKKoFqoALB0M9O9KrjJQHWBUeIAtya1b7AVul8AKzXueszl9gQ.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=0nsSYdlG8sQQ7kNvwGfk3Dy&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjYyODMzODUzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=70008d1f7f6780c4&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wQTQzOTA3NDY1RTUwOEEzNDJDREQ4NUI1NUMxRTRCMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzY3NDFBOEE3NEUxRUZFQjAxQzRBRkE1OEZEMDA5RkE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa01si5jMyXQBUCKAJDMywXQEhiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFZydlhLlnx70QxSdKH2795HBbDQ2MD_UNgW_txZvwJgTLyzblRi2q7UV4aX_kpYRTRjrY62apzwQ&oh=00_AfyHsne639W1mC-9fGFz37s7VU0kV3jONbPffqjHW7jyXw&oe=69CCDA96",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/657832206_772919955654341_4926660365609018851_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=m5ZEBMaqdzoQ7kNvwETPh-j&_nc_oc=Adqi2sRJ-botwK1ZwuXRe97xHWq7BxTGgjguMgrGJsoRX6wQ69os_kjA1_IwdswTkbo&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&_nc_tpa=Q5bMBQEPOeT3dRxi4Ls5oRD06x1hZQIGlIKOawrmlJSMljupnfd_hO839WtonPFG-ioSyuQVjCu4IRA7Gw&oh=00_Afzt706E6Yyqlipqw_zZ71FhkNjlaMZ3iuMVAJrkDRSNwQ&oe=69D0CD39"
+        }
+      ]
+    },
+    {
+      "_id": "69c830a46cb7b8cf4caa36fe",
+      "latePostId": "69c6469769ffca5e313125e1",
+      "content": "OpenAI lost $5B in 2024 while giving away free ChatGPT access. Each query costs 1-4 cents in compute. #aifacts #openai #chatgpt #business",
+      "publishedAt": "2026-03-28T19:02:48.000Z",
+      "scheduledFor": "2026-03-28T19:02:48.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 106,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 106,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 106,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 106,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWcGrQWjr84/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657237507_826284656460709_9034877156805630600_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9kXUPAvj53QQ7kNvwFzyXbw&_nc_oc=AdonoQgQjLzJllVxvx8U0reuRsoE5Xj5jBnVrBirUXoC6eyFTmLpjm8pyOyN0aACBGY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&_nc_tpa=Q5bMBQFaHMVTNhmTnKHZYlNgACr4cfFOrBDVOH_iRczShN600BEQfE71NzaFP94s07zkmRKMgjEQPwZxzA&oh=00_AfzcpXVriS73B02y0YoXVwyu7_vVyo6Bm5p6Yw-mUQJTVw&oe=69D0DF18",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQPPi0n3H-lXBRMD7ZpzUtiEkHkFX0C4fdMCMtKbUU3LpXo72138PPWq1Aq6Kuf_Z6EJnlm17-9jLD9IGDGQY3XUTItHnonaYJvzRcw.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=JR8DGAL_BrMQ7kNvwH407MQ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjYzNTE0NDkzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=88bc02430bf4eeaa&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wMDQ4QzA1RENCRDA3ODgwOTE0ODQxOTY0NjhERkFBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0EzNDAxRDEwMDU1REM0OUI0OTMyN0MwQzczMUM2MTlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0trrIh9CXQBUCKAJDMywXQEezMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHT0hLm1pnqzcAF1l9-y7CcdYVzXE4U4YN9w34NIrSe3bKyd-2Pt2S-DPkv1P98oXIt7vZb2Sa-Rw&oh=00_AfyQgNQKoHZuPdS4WnaqW_QjMuFiXdTQMboHHs5CGWENRA&oe=69CCB967",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657237507_826284656460709_9034877156805630600_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=9kXUPAvj53QQ7kNvwFzyXbw&_nc_oc=AdonoQgQjLzJllVxvx8U0reuRsoE5Xj5jBnVrBirUXoC6eyFTmLpjm8pyOyN0aACBGY&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&_nc_tpa=Q5bMBQFaHMVTNhmTnKHZYlNgACr4cfFOrBDVOH_iRczShN600BEQfE71NzaFP94s07zkmRKMgjEQPwZxzA&oh=00_AfzcpXVriS73B02y0YoXVwyu7_vVyo6Bm5p6Yw-mUQJTVw&oe=69D0DF18"
+        }
+      ]
+    },
+    {
+      "_id": "69c9b0256cb7b8cf4caf0bdc",
+      "latePostId": "69c872194fa623838cd21f7b",
+      "content": "Amazon's AI was secretly penalizing women's resumes — and nobody caught it for years 🚨\n\nIn 2018, Amazon's internal AI screening tool was discovered to be systematically downgrading resumes that included words like 'women's' — as in 'women's chess club' or 'women's college.'\n\nWhy? It was trained on 10 years of Amazon's own hiring data — data reflecting a male-dominated tech industry.\n\nThe AI didn't have a bug. It learned the bias from humans.\n\nAmazon quietly shut it down without ever deploying it. But the lesson is still running in thousands of other systems.\n\n#aifacts #aibias #artificialintelligence #amazon #hiring #algorithmbias #machinelearning #techindustry",
+      "publishedAt": "2026-03-29T23:01:54.000Z",
+      "scheduledFor": "2026-03-29T23:01:54.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 103,
+        "reach": 97,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 103,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 103,
+            "reach": 97,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 103,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWfG1LhkpHr/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656353192_912744088267714_1453073715301972041_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=trr10K3AOfgQ7kNvwEyXyc8&_nc_oc=AdphPgbWxG3IullR-YLGQLi6H7fnlETD8JQqQXaaVzkGBNRQHtOv5L65Z9CayDF7urU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&_nc_tpa=Q5bMBQG8ewR5W2vAZgYGZ46vyn-rHJ-UQSEP-Wwfzl6sEmM8S16qaJiW_fCYaajC8AFNU3_U1H8IyUt6CQ&oh=00_AfzHMUT1a-ki9Vp94gNS1ZSRUt94SAbp2UZ-UHEKlSMmSw&oe=69D0AA70",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMeZGkS1os38IVlzmTzi9vtl2AT3gXFksu3UMB7ftBSF3ZjyH3EyGMkWfF0mrQRSek2dq20fukBoN4Ei5VGn1_4ojDaW2nqJ_81zWU.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=AzUUQfoTpK4Q7kNvwECtkeE&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjY2MzcwNjEzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=e6b209725fd4bd52&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81RDQwMzBEQUVCQTE0Nzk5RjQ1NkE1ODE4MDAxMTFBQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzEzNDMyQzNBRkRDNzgwRjdDMzA4Nzk0RDM4RjlGNEE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0wqTF1-CXQBUCKAJDMywXQEVd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQErLLWsmqOE-pQYQ1i4guDBRkBdzqk1ZmwwVUmk3n8xCtXJ4kwHmmIwjxu8tHpKshlB9JIeemQaLQ&oh=00_AfymcCTYKmmVKN08YdsKGfaeGguuRQjEo_cOfknXO7djoA&oe=69CCCAEF",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/656353192_912744088267714_1453073715301972041_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=trr10K3AOfgQ7kNvwEyXyc8&_nc_oc=AdphPgbWxG3IullR-YLGQLi6H7fnlETD8JQqQXaaVzkGBNRQHtOv5L65Z9CayDF7urU&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&_nc_tpa=Q5bMBQG8ewR5W2vAZgYGZ46vyn-rHJ-UQSEP-Wwfzl6sEmM8S16qaJiW_fCYaajC8AFNU3_U1H8IyUt6CQ&oh=00_AfzHMUT1a-ki9Vp94gNS1ZSRUt94SAbp2UZ-UHEKlSMmSw&oe=69D0AA70"
+        }
+      ]
+    },
+    {
+      "_id": "69c976fb6cb7b8cf4cae3e43",
+      "latePostId": "69c872114fa623838cd21b87",
+      "content": "AI catches 20% more cancers than doctors alone 🏥\n\nFDA-approved AI imaging tools now outperform solo radiologist reads by 20% in breast cancer detection.\n\nOver 700 AI medical devices have been FDA-cleared as of 2024.\n\nThis raises a legal question nobody wants to answer:\n\nIf AI-assisted diagnosis is provably more accurate — and your hospital doesn't use it — is that negligence?\n\nRadiology boards are already debating this. Malpractice insurers are watching.\n\nThe future isn't AI replacing doctors. It's AI making it legally risky NOT to use AI.\n\n#aifacts #medicalai #healthcare #fda #artificialintelligence #radiology #cancerdetection #futureofmedicine",
+      "publishedAt": "2026-03-29T18:01:50.000Z",
+      "scheduledFor": "2026-03-29T18:01:50.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 103,
+        "reach": 100,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 103,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 103,
+            "reach": 100,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 103,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWekfohkeX8/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658895704_1478898383819926_5439434562397563666_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Z4KTot8MMQ8Q7kNvwFxRq2O&_nc_oc=Adoo9hZ_X0Ib8Ubq8UHbmkotxfBb_-t9r8X0urCfZhOhs70XqjsA7vTJ-u6M7roDb2I&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&_nc_tpa=Q5bMBQH2BpYJn3mqB4x7N_pgAp5Eq7wQaQwRMZoC5l_Ir05hSXASYPrYWRVnGiEpJ6YLJhUpOqdhFz0vAA&oh=00_AfzFIEVf-13md8AEcpdtyonZFX7IvI2DBSl3KfFpZbGqqg&oe=69D0C90B",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQP-UA9mU33wkwVtnsAShHPdWocu7dk_VDy6DEVrGTApwqGyZ9d0Qr9m657SRuzsox4KXzQenbGW9Iy9tsDEOou-kuY0B9mqLAOYsSo.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=yt3-7tvLFWEQ7kNvwHQ9JDW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjY2MDAzODAzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDAsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=74608937a51f91d6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81QjQ5RThEN0E5RjQ2Q0RGNUYzODEwN0Y0NDJENDFBOF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzM5NDJEQjhDRDc0MDU1MkFCNzZGNDQ5NkVGRDlENzlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0scefxt6XQBUCKAJDMywXQERd0vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHhXPxLDmn0m8hcriSsuCdrdIf1e7G64Uj7eTAwWhnrfdsRz18ShCiXdcQGKqLJTvO00jMUNWDFOA&oh=00_AfyA9ZqbUdq_bNfhJpfEjYZlvz01YsmPZB3FRHbJSTpRUw&oe=69CCD255",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658895704_1478898383819926_5439434562397563666_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Z4KTot8MMQ8Q7kNvwFxRq2O&_nc_oc=Adoo9hZ_X0Ib8Ubq8UHbmkotxfBb_-t9r8X0urCfZhOhs70XqjsA7vTJ-u6M7roDb2I&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=B_UvV1cduLyHen7ljid1Jw&_nc_tpa=Q5bMBQH2BpYJn3mqB4x7N_pgAp5Eq7wQaQwRMZoC5l_Ir05hSXASYPrYWRVnGiEpJ6YLJhUpOqdhFz0vAA&oh=00_AfzFIEVf-13md8AEcpdtyonZFX7IvI2DBSl3KfFpZbGqqg&oe=69D0C90B"
+        }
+      ]
+    },
+    {
+      "_id": "69c7d3836cb7b8cf4ca8e981",
+      "latePostId": "69c6469469ffca5e31312597",
+      "content": "AI clones your voice from just 3 seconds of audio — available to anyone right now. The trust infrast\n\nAI clones your voice from just 3 seconds of audio — available to anyone right now. The trust infrastructure built on voice is quietly breaking. #aifacts #deepfake #voiceclone #ai",
+      "publishedAt": "2026-03-28T13:03:12.000Z",
+      "scheduledFor": "2026-03-28T13:03:12.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 55,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 55,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=FykLPn_I59E",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/FykLPn_I59E/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/FykLPn_I59E/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/FykLPn_I59E/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c86ae66cb7b8cf4caaef0e",
+      "latePostId": "69c6469a69ffca5e31312628",
+      "content": "46% of new code is now written by AI — developers who adapt are 55% faster. The skill that matters n\n\n46% of new code is now written by AI — developers who adapt are 55% faster. The skill that matters now isn't syntax. #aifacts #github #copilot #programming",
+      "publishedAt": "2026-03-28T23:02:23.000Z",
+      "scheduledFor": "2026-03-28T23:02:23.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 50,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 50,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=ad_D17-I3F8",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ad_D17-I3F8/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/ad_D17-I3F8/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/ad_D17-I3F8/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c91da46cb7b8cf4cace26e",
+      "latePostId": "69c872074fa623838cd2183c",
+      "content": "ChatGPT uses 500ml of water per conversation 💧\n\nChatGPT uses 500ml of water per conversation 💧\n\nEvery AI query generates heat. Data centers use water-cooling systems to prevent servers from overheating.\n\nA 2023 University of California study found:\n• GPT-3 training alone consumed 700,000 liters of freshwater\n• Each ChatGPT conversation uses ~500ml\n\nWith 100M+ daily users, that's roughly 50 million liters of water per day.\n\nAI data centers are projected to consume more freshwater than several countries by 2027.\n\nThe cost of 'free' AI isn't just electricity.\n\n#aifacts #chatgpt #artificialintelligence #environment #waterusage #datacenter #climatetech #aiimpact",
+      "publishedAt": "2026-03-29T12:04:11.000Z",
+      "scheduledFor": "2026-03-29T12:04:11.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 18,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 18,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=mWxFusKimmg",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/mWxFusKimmg/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/mWxFusKimmg/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/mWxFusKimmg/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c821846cb7b8cf4caa0377",
+      "latePostId": "69c6469769ffca5e313125e1",
+      "content": "OpenAI lost $5B in 2024 while giving away free ChatGPT access. Each query costs 1-4 cents in compute\n\nOpenAI lost $5B in 2024 while giving away free ChatGPT access. Each query costs 1-4 cents in compute. #aifacts #openai #chatgpt #business",
+      "publishedAt": "2026-03-28T18:01:46.000Z",
+      "scheduledFor": "2026-03-28T18:01:46.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 4,
+        "engagementRate": 25,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 4,
+            "engagementRate": 25,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=lKjfRv58cJc",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/lKjfRv58cJc/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/lKjfRv58cJc/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/lKjfRv58cJc/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c965486cb7b8cf4cadfa9a",
+      "latePostId": "69c872114fa623838cd21b87",
+      "content": "AI catches 20% more cancers than doctors alone 🏥\n\nAI catches 20% more cancers than doctors alone 🏥\n\nFDA-approved AI imaging tools now outperform solo radiologist reads by 20% in breast cancer detection.\n\nOver 700 AI medical devices have been FDA-cleared as of 2024.\n\nThis raises a legal question nobody wants to answer:\n\nIf AI-assisted diagnosis is provably more accurate — and your hospital doesn't use it — is that negligence?\n\nRadiology boards are already debating this. Malpractice insurers are watching.\n\nThe future isn't AI replacing doctors. It's AI making it legally risky NOT to use AI.\n\n#aifacts #medicalai #healthcare #fda #artificialintelligence #radiology #cancerdetection #futureofmedicine",
+      "publishedAt": "2026-03-29T17:02:42.000Z",
+      "scheduledFor": "2026-03-29T17:02:42.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 2,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 2,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=AWMcnodlkjQ",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AWMcnodlkjQ/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/AWMcnodlkjQ/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/AWMcnodlkjQ/default.jpg"
+        }
+      ]
+    }
+  ]
+}

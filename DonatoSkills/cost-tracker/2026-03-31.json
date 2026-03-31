@@ -1,0 +1,70 @@
+{
+  "date": "2026-03-31",
+  "campaign": "facts-unlocked-2026-03-31",
+  "items": [
+    {
+      "id": "001",
+      "slug": "amniotic-fluid-flavors",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "002",
+      "slug": "cord-clamping-timing",
+      "tts_provider": "grok",
+      "image_provider": "openai",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "003",
+      "slug": "babinski-reflex",
+      "tts_provider": "gemini",
+      "image_provider": "grok",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "004",
+      "slug": "401k-accident",
+      "tts_provider": "elevenlabs",
+      "image_provider": "gemini",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "005",
+      "slug": "tax-bracket-myth",
+      "tts_provider": "grok",
+      "image_provider": "openai",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "006",
+      "slug": "share-buybacks",
+      "tts_provider": "gemini",
+      "image_provider": "grok",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "007",
+      "slug": "ai-courtroom-fake-cases",
+      "tts_provider": "elevenlabs",
+      "image_provider": "gemini",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "008",
+      "slug": "ai-cost-compression",
+      "tts_provider": "grok",
+      "image_provider": "openai",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "009",
+      "slug": "ai-energy-crisis",
+      "tts_provider": "gemini",
+      "image_provider": "grok",
+      "estimated_cost_usd": 0.08
+    }
+  ],
+  "total_estimated_usd": 0.72
+}

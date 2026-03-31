@@ -1,0 +1,621 @@
+{
+  "campaign": "facts-unlocked-2026-03-31",
+  "date": "2026-03-31",
+  "generated_at": "2026-03-31T00:00:00Z",
+  "brief_source": "DonatoSkills/analytics-loop/data/*/2026-03-29/briefs/day2/all-briefs.json",
+  "mode": "explore",
+  "research_signal": "week-2026-13: 3-part hook in first 2s — bold visual + 3-7 word overlay + voiceover within 1s",
+  "stats": {
+    "total": 9,
+    "scheduled": 9,
+    "failed": 0,
+    "skipped": 0
+  },
+  "items": [
+    {
+      "id": "001",
+      "project": "baby-facts-unlocked",
+      "slug": "amniotic-fluid-flavors",
+      "used_topic_id": "049",
+      "date": "2026-03-31",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "result_first",
+      "concept": "Babies taste amniotic fluid throughout pregnancy, and flavors from the mother's diet pass into it within 45 minutes. Babies exposed to a flavor prenatally show a measurable preference for it after birth. Food preferences don't start at the dinner table — they start in the womb.",
+      "hook_text": "Your baby has been tasting your food since the womb",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "Your baby has been tasting your food — since before they were born.",
+          "direction": "quiet, surprising, revelatory"
+        },
+        "scene-2": {
+          "text": "Flavors from what you eat pass into amniotic fluid within 45 minutes. By the third trimester, babies swallow up to a liter of that fluid every day — tasting everything in it.",
+          "direction": "calm, curious, informative"
+        },
+        "scene-3": {
+          "text": "Studies show babies whose mothers ate carrots during pregnancy prefer carrot flavor after birth. Food preferences don't start at the dinner table. They start in the womb.",
+          "direction": "warm, grounding, thought-provoking"
+        }
+      },
+      "captions": {
+        "tiktok": "Your baby has been tasting your food since the womb 🍼 #babyfacts #pregnancy #newborn #fetaldevelopment #babyscience",
+        "youtube": "Flavors pass into amniotic fluid within 45 minutes — and babies develop real food preferences before birth. #babyfacts #pregnancy #fetaldevelopment",
+        "instagram": "Your baby has been tasting your food — since before they were born 🍼\n\nFlavors from what you eat pass into amniotic fluid within 45 minutes of eating. By the third trimester, babies are swallowing up to a liter of fluid per day — tasting all of it.\n\nStudies show that babies whose mothers ate carrots during pregnancy show a measurable preference for carrot flavor after birth. The same pattern holds for garlic, vanilla, and many other foods.\n\nFood preferences don't start at the dinner table. They start in the womb.\n\n#babyfacts #pregnancy #newborn #fetaldevelopment #infantscience #parenting #momlife #prenatalnutrition"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, warm cream/ivory palette, soft nurturing visuals, karaoke word-highlight overlay synced to voiceover",
+      "duration": 30,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "result_first",
+        "video_length": "30",
+        "voice_pace": "moderate",
+        "text_overlay": "karaoke",
+        "background_type": "ai-gen",
+        "music_energy": "curious",
+        "cta_style": "share_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/001-amniotic-fluid-flavors/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774946611/facts-unlocked/2026-03-31/001-amniotic-fluid-flavors.mp4",
+      "zernio_post_id": "69cb89373a162f389c9ce8fe",
+      "error": null,
+      "created_at": "2026-03-31",
+      "scheduled_at": "2026-03-31T09:00:00-04:00"
+    },
+    {
+      "id": "002",
+      "project": "baby-facts-unlocked",
+      "slug": "cord-clamping-timing",
+      "used_topic_id": "050",
+      "date": "2026-03-31",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "myth-busting",
+      "hook_type": "myth_bust",
+      "concept": "Most US hospitals cut the umbilical cord within 60 seconds of birth — a practice the WHO says is premature. Delayed cord clamping (waiting 1-3 minutes) transfers 80-100ml of iron-rich blood to the newborn and reduces iron-deficiency anemia by 50% at 4 months. Immediate clamping was standard until the 2010s and many hospitals still practice it.",
+      "hook_text": "Most hospitals cut the umbilical cord too soon",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "Most hospitals cut the umbilical cord too soon.",
+          "direction": "bold, direct, myth-busting"
+        },
+        "scene-2": {
+          "text": "The World Health Organization recommends waiting at least 1 to 3 minutes after birth. That extra time transfers 80 to 100 milliliters of iron-rich blood from the placenta to the baby — reducing iron-deficiency anemia by 50% at 4 months of age.",
+          "direction": "informative, measured, clinical but clear"
+        },
+        "scene-3": {
+          "text": "In the US, many hospitals still cut within 60 seconds — a practice not supported by current evidence. It's called immediate cord clamping, and it was standard until the 2010s. Ask your doctor about delayed cord clamping before you deliver.",
+          "direction": "grounding, actionable, empowering"
+        }
+      },
+      "captions": {
+        "tiktok": "Most hospitals cut the umbilical cord too soon 🩺 #babyfacts #birth #newborn #cordclamping #hospitalfacts",
+        "youtube": "WHO recommends waiting 1-3 mins before cutting the cord. The extra blood transfer reduces anemia by 50% — but many hospitals still rush it. #babyfacts #birth #newborn",
+        "instagram": "Most hospitals cut the umbilical cord too soon 🩺\n\nThe World Health Organization recommends waiting at least 1 to 3 minutes after birth before clamping the cord. That extra time allows 80 to 100 milliliters of iron-rich blood to transfer from the placenta to the baby.\n\nThe result: a 50% reduction in iron-deficiency anemia at 4 months of age.\n\nIn the US, many hospitals still cut within 60 seconds — a practice that isn't supported by current evidence. It's called immediate cord clamping, and it was standard until the 2010s.\n\nAsk your doctor about delayed cord clamping before your due date.\n\n#babyfacts #newborn #birth #cordclamping #maternalhealth #infanthealth #parenting #hospitalfacts"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, warm cream/ivory palette, birth and medical visuals, full sentence overlay",
+      "duration": 35,
+      "tts_provider": "grok",
+      "tts_voice": "rex",
+      "image_gen_provider": "openai",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "myth_bust",
+        "video_length": "35",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "bold",
+        "cta_style": "comment_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/002-cord-clamping-timing/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774946624/facts-unlocked/2026-03-31/002-cord-clamping-timing.mp4",
+      "zernio_post_id": "69cb89455d34cb5780b55227",
+      "error": null,
+      "created_at": "2026-03-31",
+      "scheduled_at": "2026-03-31T14:00:00-04:00"
+    },
+    {
+      "id": "003",
+      "project": "baby-facts-unlocked",
+      "slug": "babinski-reflex",
+      "used_topic_id": "051",
+      "date": "2026-03-31",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "did-you-know",
+      "hook_type": "did_you_know",
+      "concept": "When you stroke the bottom of a baby's foot, their toes fan upward — the Babinski reflex. In adults, this reflex is a sign of serious neurological damage. In babies, it just means the spinal cord isn't fully myelinated yet. Doctors use it to assess neurological maturity. It disappears by age 2.",
+      "hook_text": "Stroke a baby's foot and watch what happens",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "Stroke the bottom of a baby's foot — and watch all their toes fan upward.",
+          "direction": "curious, surprising, inviting"
+        },
+        "scene-2": {
+          "text": "This is called the Babinski reflex. In adults, it's a sign of serious brain or spinal cord damage. In babies, it just means the nervous system isn't fully wired yet. Doctors use it to assess neurological development.",
+          "direction": "informative, curious, clear"
+        },
+        "scene-3": {
+          "text": "It disappears by age two as the spinal cord finishes myelinating — the brain's protective insulation completes. A reflex that signals damage in adults is a perfectly normal milestone in babies.",
+          "direction": "warm, revelatory, grounding"
+        }
+      },
+      "captions": {
+        "tiktok": "Stroke a baby's foot — their toes fan UP 🦶 the Babinski reflex explained #babyfacts #newborn #reflexes #babyscience",
+        "youtube": "The Babinski reflex: toes fan upward in babies, signals brain damage in adults. It's a normal neurological milestone until age 2. #babyfacts #neuroscience",
+        "instagram": "Stroke the bottom of a baby's foot — and watch all their toes fan upward 🦶\n\nThis is called the Babinski reflex. In adults, it's a sign of serious neurological damage — a brain or spinal cord problem requiring urgent evaluation.\n\nIn babies, it just means the spinal cord isn't fully myelinated yet. The nervous system is still being wired.\n\nDoctors use it at every well-baby visit to assess neurological development. It disappears by age two when the spinal cord finishes myelinating — the brain's protective insulation layer completes.\n\nA reflex that signals damage in adults is a perfectly normal developmental milestone in babies.\n\n#babyfacts #newborn #babyreflexes #babyscience #neuroscience #infantdevelopment #parenting #babymilestones"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, warm cream/ivory palette, soft anatomical visuals, key words overlay",
+      "duration": 25,
+      "tts_provider": "gemini",
+      "tts_voice": "Aoede",
+      "image_gen_provider": "grok",
+      "background_type": "ai-gen",
+      "text_overlay": "key_words_only",
+      "voice_pace": "slow",
+      "variables": {
+        "hook_type": "did_you_know",
+        "video_length": "25",
+        "voice_pace": "slow",
+        "text_overlay": "key_words_only",
+        "background_type": "ai-gen",
+        "music_energy": "gentle",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/003-babinski-reflex/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774946633/facts-unlocked/2026-03-31/003-babinski-reflex.mp4",
+      "zernio_post_id": "69cb894d2673283af450038a",
+      "error": null,
+      "created_at": "2026-03-31",
+      "scheduled_at": "2026-03-31T19:00:00-04:00"
+    },
+    {
+      "id": "004",
+      "project": "money-facts-unlocked",
+      "slug": "401k-accident",
+      "used_topic_id": "040",
+      "date": "2026-03-31",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "wealth-history",
+      "hook_type": "story_open",
+      "concept": "The 401(k) was created by accident. Benefits consultant Ted Benna noticed an obscure provision in the 1978 Revenue Act and realized it could be used to defer income from taxes. His company didn't want it — so he used it for his own firm. The IRS approved the arrangement in 1981. No senator designed a national retirement system. One consultant found a loophole, and 55 million Americans now depend on it.",
+      "hook_text": "America's retirement system was created by accident",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "America's entire retirement system was created by accident.",
+          "direction": "bold, direct, surprising"
+        },
+        "scene-2": {
+          "text": "In 1978, a benefits consultant named Ted Benna was reading the tax code — specifically, a provision called section 401(k). He realized employees could use it to defer income from taxes. He pitched the idea to his company. They didn't want it. So he used it for his own firm instead. The IRS approved the arrangement in 1981.",
+          "direction": "story tone, informative, building"
+        },
+        "scene-3": {
+          "text": "No senator designed a national retirement system. No one intended to replace pensions. One consultant found a loophole and filed some paperwork. Today, 55 million Americans depend on it for retirement. The most important savings account in history happened completely by accident.",
+          "direction": "grounding, eye-opening, resonant"
+        }
+      },
+      "captions": {
+        "tiktok": "America's retirement system was created by accident 💼 #moneyfacts #401k #personalfinance #retirementplanning #financefacts",
+        "youtube": "The 401(k) was an accidental creation — one consultant, one tax loophole, one IRS approval in 1981. 55 million Americans depend on it today. #moneyfacts #401k #retirementplanning",
+        "instagram": "America's entire retirement system was created by accident 💼\n\nIn 1978, a benefits consultant named Ted Benna was reading the tax code and noticed a provision: section 401(k). He realized employees could use it to defer income from taxes.\n\nHe pitched the idea to his own company. They didn't want it. So he used it for his own firm instead.\n\nThe IRS approved the arrangement in 1981.\n\nNo senator designed a national retirement system. No one intended to replace pensions. One consultant found a loophole and filed some paperwork. Today, 55 million Americans depend on it for retirement.\n\nThe most important savings account in American history happened completely by accident.\n\n#moneyfacts #401k #retirementplanning #personalfinance #investinghistory #wealthbuilding #financialfreedom #moneyhistory"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, dark blue/gold palette, bold financial visuals, full sentence overlay",
+      "duration": 35,
+      "tts_provider": "elevenlabs",
+      "tts_voice": "Adam",
+      "tts_voice_id": "pNInz6obpgDQGcFmaJgB",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "story_open",
+        "video_length": "35",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "curious",
+        "cta_style": "share_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/004-401k-accident/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774946645/facts-unlocked/2026-03-31/004-401k-accident.mp4",
+      "zernio_post_id": "69cb89593a162f389c9ceaf4",
+      "error": null,
+      "created_at": "2026-03-31",
+      "scheduled_at": "2026-03-31T09:00:00-04:00"
+    },
+    {
+      "id": "005",
+      "project": "money-facts-unlocked",
+      "slug": "tax-bracket-myth",
+      "used_topic_id": "041",
+      "date": "2026-03-31",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "myth-busting",
+      "hook_type": "myth_bust",
+      "concept": "Most Americans think getting a raise can push them into a higher tax bracket and reduce their take-home pay. This is completely wrong. US tax brackets are marginal — only the dollars in each bracket get taxed at that rate, not your entire income. Getting a raise never decreases your take-home pay.",
+      "hook_text": "Getting a raise can never lower your take-home pay",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "Most Americans avoid raises because they think it will push them into a higher tax bracket. That is not how taxes work.",
+          "direction": "direct, myth-busting, confident"
+        },
+        "scene-2": {
+          "text": "US tax brackets are marginal. If you earn $50,000 and fall in the 22% bracket — only the dollars above the previous threshold get taxed at 22%. Not your entire income. Your first $11,000 is still taxed at just 10%.",
+          "direction": "clear, informative, building clarity"
+        },
+        "scene-3": {
+          "text": "Getting a raise never decreases your take-home pay. Ever. If you've turned down a raise over tax bracket fears, you've been leaving money on the table based on a myth. This is the most expensive misunderstanding in personal finance.",
+          "direction": "bold, grounding, memorable"
+        }
+      },
+      "captions": {
+        "tiktok": "Getting a raise never lowers your take-home pay — the tax bracket myth explained 💵 #moneyfacts #taxes #personalfinance #myth #taxbrackets",
+        "youtube": "Tax brackets are MARGINAL — a raise never cuts your take-home pay. The most expensive myth in personal finance, explained. #moneyfacts #taxes #personalfinance",
+        "instagram": "Getting a raise can never lower your take-home pay 💵\n\nMost Americans avoid raises or bonuses because they fear being 'pushed into a higher tax bracket.' This is completely wrong — and it's costing people real money.\n\nUS tax brackets are marginal. If you earn $50,000 and land in the 22% bracket, only the dollars above the previous threshold are taxed at 22%. Not your entire income. Your first $11,000 is still taxed at just 10%.\n\nGetting a raise never decreases your take-home pay. Ever.\n\nIf you've turned down additional income over bracket fears, you've been leaving money on the table based on a myth. This is widely considered the single most expensive financial misunderstanding in America.\n\n#moneyfacts #taxes #taxbrackets #personalfinance #myth #salaryadvice #financialliteracy #incometax"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, dark blue/gold palette, tax chart visuals, karaoke highlight overlay",
+      "duration": 30,
+      "tts_provider": "grok",
+      "tts_voice": "rex",
+      "image_gen_provider": "openai",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke_highlight",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "myth_bust",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "ai-gen",
+        "music_energy": "bold",
+        "cta_style": "comment_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/005-tax-bracket-myth/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774946656/facts-unlocked/2026-03-31/005-tax-bracket-myth.mp4",
+      "zernio_post_id": "69cb89656be338f1f253e69c",
+      "error": null,
+      "created_at": "2026-03-31",
+      "scheduled_at": "2026-03-31T14:00:00-04:00"
+    },
+    {
+      "id": "006",
+      "project": "money-facts-unlocked",
+      "slug": "share-buybacks",
+      "used_topic_id": "042",
+      "date": "2026-03-31",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "controversy",
+      "concept": "In 2023, S&P 500 companies spent $795 billion buying their own stock — more than they paid in dividends. Share buybacks inflate earnings per share without creating new products or jobs, and the profits flow almost entirely to executives and major shareholders. Congress banned them as market manipulation until 1982.",
+      "hook_text": "Companies spent $795B buying their own stock last year",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "In 2023, S&P 500 companies spent $795 billion buying their own stock. More than they paid in dividends. More than most of them invested in new products.",
+          "direction": "bold, alarming, direct"
+        },
+        "scene-2": {
+          "text": "Share buybacks work like this: a company uses cash to purchase its own shares from the market. Fewer shares outstanding means each remaining share looks more valuable — earnings per share goes up without any actual growth. Executives whose pay is tied to stock price benefit directly.",
+          "direction": "clear, informative, slightly edgy"
+        },
+        "scene-3": {
+          "text": "Congress banned share buybacks as market manipulation until 1982, when the SEC created a safe harbor rule. Since then, US companies have spent over $10 trillion buying their own stock. The profits flow almost entirely to executives and large institutional shareholders.",
+          "direction": "grounding, eye-opening, thought-provoking"
+        }
+      },
+      "captions": {
+        "tiktok": "Companies spent $795B buying their own stock last year — here's why 📈 #moneyfacts #stockmarket #corporatefinance #shareholder #investing",
+        "youtube": "S&P 500 companies spent $795B on buybacks in 2023 — more than dividends. Congress banned this as manipulation until 1982. #moneyfacts #investing #stockmarket",
+        "instagram": "In 2023, S&P 500 companies spent $795 billion buying their own stock 📈\n\nThat's more than they paid in dividends. More than most invested in new products or employees.\n\nHere's how it works: a company uses its cash to purchase its own shares from the market. Fewer shares outstanding means each remaining share looks more valuable on paper — earnings per share goes up without any actual business growth. Executives whose compensation is tied to stock price benefit directly.\n\nCongress banned share buybacks as market manipulation until 1982, when the SEC created a safe harbor rule.\n\nSince then, US companies have spent over $10 trillion buying their own stock. The profits flow almost entirely to executives and large institutional shareholders.\n\n#moneyfacts #stockmarket #shareholder #investing #corporatefinance #economics #wealthinequality #wallstreet"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, dark blue/gold palette, stock chart and corporate visuals, full sentence overlay",
+      "duration": 30,
+      "tts_provider": "gemini",
+      "tts_voice": "Fenrir",
+      "image_gen_provider": "grok",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "30",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "bold",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/006-share-buybacks/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774946667/facts-unlocked/2026-03-31/006-share-buybacks.mp4",
+      "zernio_post_id": "69cb89706be338f1f253e7e0",
+      "error": null,
+      "created_at": "2026-03-31",
+      "scheduled_at": "2026-03-31T19:00:00-04:00"
+    },
+    {
+      "id": "007",
+      "project": "ai-facts-unlocked",
+      "slug": "ai-courtroom-fake-cases",
+      "used_topic_id": "030",
+      "date": "2026-03-31",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "controversy",
+      "concept": "In 2023, two New York lawyers submitted legal briefs to a federal court citing six completely fabricated cases. ChatGPT had invented the case names, judges, rulings, and citations with total confidence. The lawyers were fined $5,000 each. A federal judge wrote a 21-page opinion on AI hallucinations — the first time AI's confident wrongness had a legal paper trail.",
+      "hook_text": "A lawyer cited 6 AI-hallucinated cases in federal court",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "In 2023, a New York lawyer submitted legal briefs to a federal court. Six of the cases cited were completely fake.",
+          "direction": "bold, alarming, matter-of-fact"
+        },
+        "scene-2": {
+          "text": "ChatGPT had invented them — case names, judges, rulings, citations — all fabricated with total confidence. When the judge asked for copies, the lawyer searched every legal database. The cases didn't exist. The lawyer admitted the source: ChatGPT.",
+          "direction": "clear, building tension, informative"
+        },
+        "scene-3": {
+          "text": "Both lawyers were sanctioned $5,000 each. A federal judge wrote a 21-page opinion on AI hallucinations. For the first time in history, the confident wrongness of AI had a legal paper trail.",
+          "direction": "grounding, eye-opening, slightly ironic"
+        }
+      },
+      "captions": {
+        "youtube": "A lawyer cited 6 completely fake court cases invented by ChatGPT — and got sanctioned $5K. AI hallucinations now have a legal paper trail. #aifacts #chatgpt #ai #hallucination",
+        "instagram": "A lawyer cited 6 AI-hallucinated cases in federal court 🤖\n\nIn 2023, a New York lawyer submitted legal briefs to a US federal court. Six of the cases cited were completely fabricated.\n\nChatGPT had invented them — case names, judges, rulings, citations — all generated with total confidence. When the judge asked for copies, the lawyer searched every major legal database. The cases didn't exist.\n\nThe lawyer admitted the source: ChatGPT.\n\nBoth lawyers were sanctioned $5,000 each. A federal judge wrote a 21-page opinion on AI hallucinations — the first time AI's confident wrongness had an official legal paper trail.\n\nAI doesn't know what it doesn't know. And it never sounds uncertain.\n\n#aifacts #chatgpt #ai #hallucination #legaltech #artificialintelligence #ailaw #techlegal"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, dark blue/cyan tech palette, legal and AI visuals, karaoke highlight overlay",
+      "duration": 30,
+      "tts_provider": "elevenlabs",
+      "tts_voice": "Adam",
+      "tts_voice_id": "pNInz6obpgDQGcFmaJgB",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke_highlight",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "ai-gen",
+        "music_energy": "tense",
+        "cta_style": "share_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/007-ai-courtroom-fake-cases/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774946677/facts-unlocked/2026-03-31/007-ai-courtroom-fake-cases.mp4",
+      "zernio_post_id": "69cb89796be338f1f253e92d",
+      "error": null,
+      "created_at": "2026-03-31",
+      "scheduled_at": "2026-03-31T09:00:00-04:00"
+    },
+    {
+      "id": "008",
+      "project": "ai-facts-unlocked",
+      "slug": "ai-cost-compression",
+      "used_topic_id": "031",
+      "date": "2026-03-31",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "stat_lead",
+      "concept": "The cost to train a leading AI model has dropped 99% in under 5 years. GPT-2 (2019): $50K. GPT-3 (2020): $4.6M. GPT-4 (2022): ~$100M. DeepSeek-R1 (2025): $6M for near-GPT-4 performance. By 2025, equivalent capability can be trained for $50K-100K. The economics of AI are compressing faster than any technology in history.",
+      "hook_text": "The cost to train AI has dropped 99% in 5 years",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "The cost to train a cutting-edge AI model has dropped 99% in under five years.",
+          "direction": "bold, stat-lead, matter-of-fact"
+        },
+        "scene-2": {
+          "text": "GPT-2 in 2019: $50,000. GPT-3 in 2020: $4.6 million. GPT-4 in 2022: roughly $100 million. Then DeepSeek-R1 in 2025 matched GPT-4 level performance for $6 million. By now, equivalent capability can be reached for $50,000 to $100,000.",
+          "direction": "rapid, informative, building"
+        },
+        "scene-3": {
+          "text": "The AI models that seem out of reach for small companies today will be commodity tools in three years. Every competitive advantage built on AI capability is on a shrinking clock. The only durable edge: speed of implementation.",
+          "direction": "grounding, forward-looking, thought-provoking"
+        }
+      },
+      "captions": {
+        "youtube": "AI training costs dropped 99% in 5 years — GPT-4 cost $100M in 2022, equivalent models now cost $50K. Every AI moat is on a shrinking clock. #aifacts #ai #deepseek #machinelearning",
+        "instagram": "The cost to train a cutting-edge AI has dropped 99% in under 5 years 📉\n\nGPT-2 (2019): $50,000\nGPT-3 (2020): $4.6 million\nGPT-4 (2022): ~$100 million\nDeepSeek-R1 (2025): $6 million for near-GPT-4 performance\n\nBy 2025, equivalent capability can be reached for $50,000 to $100,000.\n\nThis is the fastest cost compression of any technology in history.\n\nThe AI models that seem out of reach for small companies today will be commodity tools in three years. Every competitive advantage built on AI capability is sitting on a shrinking clock.\n\nThe only durable edge: speed of implementation.\n\n#aifacts #ai #deepseek #gpt4 #machinelearning #artificialintelligence #techtrends #futureofai"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, dark blue/cyan tech palette, cost curve graph visuals, full sentence overlay",
+      "duration": 35,
+      "tts_provider": "grok",
+      "tts_voice": "rex",
+      "image_gen_provider": "openai",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "35",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "bold",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/008-ai-cost-compression/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774946686/facts-unlocked/2026-03-31/008-ai-cost-compression.mp4",
+      "zernio_post_id": "69cb89826be338f1f253e9df",
+      "error": null,
+      "created_at": "2026-03-31",
+      "scheduled_at": "2026-03-31T14:00:00-04:00"
+    },
+    {
+      "id": "009",
+      "project": "ai-facts-unlocked",
+      "slug": "ai-energy-crisis",
+      "used_topic_id": "032",
+      "date": "2026-03-31",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "controversy",
+      "concept": "By 2027, AI data centers will consume more electricity than Japan — the world's 4th largest power user. Training GPT-4 used as much energy as 1,000 US homes use in a year. Every AI query uses 10x the electricity of a Google search. Microsoft, Google, and Amazon are now investing in nuclear power plants specifically to feed AI demand.",
+      "hook_text": "AI will use more power than Japan by 2027",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "By 2027, AI data centers will consume more electricity than Japan — currently the world's fourth-largest power user.",
+          "direction": "bold, alarming, matter-of-fact"
+        },
+        "scene-2": {
+          "text": "Training GPT-4 used as much energy as 1,000 US homes consume in an entire year. Every AI query uses ten times the electricity of a Google search. The entire AI industry is on track to account for 4 to 8 percent of global electricity by 2030.",
+          "direction": "informative, building scale, clear"
+        },
+        "scene-3": {
+          "text": "Microsoft, Google, and Amazon are now investing in nuclear power plants — specifically to power their AI data centers. The power grid can't keep up. The intelligence explosion has an electricity bill.",
+          "direction": "grounding, slightly ominous, memorable"
+        }
+      },
+      "captions": {
+        "youtube": "AI data centers will use more power than Japan by 2027. GPT-4 training = 1,000 homes for a year. Big Tech is now buying nuclear plants for AI power. #aifacts #ai #energy #nuclear",
+        "instagram": "AI will use more power than Japan by 2027 ⚡\n\nBy 2027, AI data centers will consume more electricity than Japan — currently the world's fourth-largest power user.\n\nTraining GPT-4 alone used as much energy as 1,000 US homes consume in an entire year. Every AI query uses 10 times the electricity of a standard Google search.\n\nThe AI industry is projected to account for 4 to 8% of global electricity consumption by 2030.\n\nMicrosoft, Google, and Amazon are now investing in nuclear power plants — specifically to power their AI data centers. The existing power grid can't keep up.\n\nThe intelligence explosion has an electricity bill.\n\n#aifacts #ai #energy #nuclearpower #climatetech #artificialintelligence #datacenter #techtrends"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, dark blue/cyan tech palette, energy grid and nuclear visuals, karaoke overlay",
+      "duration": 30,
+      "tts_provider": "gemini",
+      "tts_voice": "Puck",
+      "image_gen_provider": "grok",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke",
+        "background_type": "ai-gen",
+        "music_energy": "urgent",
+        "cta_style": "comment_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/009-ai-energy-crisis/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1774946696/facts-unlocked/2026-03-31/009-ai-energy-crisis.mp4",
+      "zernio_post_id": "69cb898e3a162f389c9cf05b",
+      "error": null,
+      "created_at": "2026-03-31",
+      "scheduled_at": "2026-03-31T19:00:00-04:00"
+    }
+  ]
+}

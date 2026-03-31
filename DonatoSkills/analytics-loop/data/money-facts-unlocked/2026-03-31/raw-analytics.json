@@ -1,0 +1,968 @@
+{
+  "project": "money-facts-unlocked",
+  "collectedAt": "2026-03-31T00:04:27.148Z",
+  "dateRange": {
+    "from": "2026-03-28",
+    "to": "2026-03-29"
+  },
+  "profiles": [
+    "69b95c8c17376a13852d91f7"
+  ],
+  "totalPosts": 18,
+  "posts": [
+    {
+      "_id": "69c92e1b6cb7b8cf4cad2334",
+      "latePostId": "69c871e649c5ffc657f98572",
+      "content": "In 1971, money stopped being real — and nobody told you 💵 On August 15th, 1971, Nixon appeared on TV for 15 minutes and announced the US would no longer exchange dollars for gold. Before that: every dollar was backed by physical gold stored in Fort Knox. After that: every dollar in existence was backed only by trust in the US government. This is called fiat currency — money that has value because the government says it does. Every major currency on earth followed within two years. All of modern finance runs on that 1971 decision. #moneyfacts #goldstandard #nixonshock #economics #history #fiatcurrency #finance #economichistory",
+      "publishedAt": "2026-03-29T13:02:01.000Z",
+      "scheduledFor": "2026-03-29T13:02:01.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 185,
+        "engagementRate": 1.08,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 185,
+            "engagementRate": 1.08,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7622661901813615885?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/owTegSWgJGIeuAj7URvCeLZPWHk2TgM9DkkOsJ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=3d86be41&x-expires=1774990800&x-signature=DRFhBRUwm4dpdSjtXcd3oDF%2FihY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/owTegSWgJGIeuAj7URvCeLZPWHk2TgM9DkkOsJ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=3d86be41&x-expires=1774990800&x-signature=DRFhBRUwm4dpdSjtXcd3oDF%2FihY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/owTegSWgJGIeuAj7URvCeLZPWHk2TgM9DkkOsJ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=3d86be41&x-expires=1774990800&x-signature=DRFhBRUwm4dpdSjtXcd3oDF%2FihY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ]
+    },
+    {
+      "_id": "69c9b0246cb7b8cf4caf0bd1",
+      "latePostId": "69c871fb4137ed0a8244e259",
+      "content": "92% of expert investors lose to the market 📊 S&P SPIVA data: over any 15-year period, 92% of active fund managers fail to beat the S&P 500 index. And they charge 1-2% annually for the privilege of underperforming. A basic index fund costs 0.03%. In 2007, Warren Buffett made a $1M bet that a simple S&P 500 index fund would beat any collection of hedge funds over 10 years. He won in 2017. By a lot. The secret the finance industry doesn't want you to know: most of the time, boring wins. #moneyfacts #indexfunds #investing #sp500 #personalfinance #wealthbuilding #warrenbuffett #passiveinvesting",
+      "publishedAt": "2026-03-29T23:02:50.000Z",
+      "scheduledFor": "2026-03-29T23:02:50.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 158,
+        "engagementRate": 0.63,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 158,
+            "engagementRate": 0.63,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7622816836534553870?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oIQgJFTG1CfqHRDIQfsA6kCAEorbgkhaQPeJD6~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=2cccb117&x-expires=1774990800&x-signature=%2FXsF8RMUF294j9dUqtf2gIhHINg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oIQgJFTG1CfqHRDIQfsA6kCAEorbgkhaQPeJD6~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=2cccb117&x-expires=1774990800&x-signature=%2FXsF8RMUF294j9dUqtf2gIhHINg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oIQgJFTG1CfqHRDIQfsA6kCAEorbgkhaQPeJD6~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=2cccb117&x-expires=1774990800&x-signature=%2FXsF8RMUF294j9dUqtf2gIhHINg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ]
+    },
+    {
+      "_id": "69c976fb6cb7b8cf4cae3e44",
+      "latePostId": "69c871ef49c5ffc657f98626",
+      "content": "Bankruptcy won't save you from student loans 😤 In the US, you can discharge in bankruptcy: • Credit card debt ✅ • Medical debt ✅ • Gambling debt ✅ • Business loans ✅ Student loans ❌ In 1976, Congress carved student loans out of standard bankruptcy protection. Expanded in 1998. To discharge student debt, you must prove 'undue hardship' — a legal standard so difficult that fewer than 1% of filers succeed. The myth that 'you can always file bankruptcy' doesn't apply to the one debt that's crushing most people. #moneyfacts #studentloans #bankruptcy #personalfinance #debtfacts #studentdebt #finance #collegedebt",
+      "publishedAt": "2026-03-29T18:01:10.000Z",
+      "scheduledFor": "2026-03-29T18:01:10.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 116,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 116,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7622739120544025869?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYdJjpDXE2gWEFwLRBSItgDaHmyyBeD8wIOfBB~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=b3ba6189&x-expires=1774990800&x-signature=AlTH%2FI6gsIlhhZJ%2F6%2BoWtYim%2Fww%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYdJjpDXE2gWEFwLRBSItgDaHmyyBeD8wIOfBB~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=b3ba6189&x-expires=1774990800&x-signature=AlTH%2FI6gsIlhhZJ%2F6%2BoWtYim%2Fww%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYdJjpDXE2gWEFwLRBSItgDaHmyyBeD8wIOfBB~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=b3ba6189&x-expires=1774990800&x-signature=AlTH%2FI6gsIlhhZJ%2F6%2BoWtYim%2Fww%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ]
+    },
+    {
+      "_id": "69c830a46cb7b8cf4caa36fa",
+      "latePostId": "69c6468faa0f84a427620820",
+      "content": "When you pay cash, you're still funding someone else's airline miles 😤 #moneyfacts #creditcards #personalfinance #economics #cashback",
+      "publishedAt": "2026-03-28T19:01:31.000Z",
+      "scheduledFor": "2026-03-28T19:01:31.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 113,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 113,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7622383535831223566?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYEBhuQI1f6nlZDGBgfwFzESEWQ6ZWFLDCypJw~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=328f6a70&x-expires=1774990800&x-signature=hGk8CKC%2BML7w0zXf23nr3NymAVk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYEBhuQI1f6nlZDGBgfwFzESEWQ6ZWFLDCypJw~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=328f6a70&x-expires=1774990800&x-signature=hGk8CKC%2BML7w0zXf23nr3NymAVk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYEBhuQI1f6nlZDGBgfwFzESEWQ6ZWFLDCypJw~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=328f6a70&x-expires=1774990800&x-signature=hGk8CKC%2BML7w0zXf23nr3NymAVk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video"
+        }
+      ]
+    },
+    {
+      "_id": "69c7e7896cb7b8cf4ca9341e",
+      "latePostId": "69c6468caa0f84a4276207f5",
+      "content": "The US LOSES $147 million/year making pennies 🤦 #moneyfacts #pennies #economics #finance #funfacts",
+      "publishedAt": "2026-03-28T14:00:51.000Z",
+      "scheduledFor": "2026-03-28T14:00:51.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 113,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 113,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7622306011726056717?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocIHhBBpOxH3eiuqwNLBxgDwSCDfEJmRqII5i9~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=fce088b6&x-expires=1774990800&x-signature=CXYpZJ7WucTIPRva8cdFNvJDULw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocIHhBBpOxH3eiuqwNLBxgDwSCDfEJmRqII5i9~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=fce088b6&x-expires=1774990800&x-signature=CXYpZJ7WucTIPRva8cdFNvJDULw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ocIHhBBpOxH3eiuqwNLBxgDwSCDfEJmRqII5i9~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=fce088b6&x-expires=1774990800&x-signature=CXYpZJ7WucTIPRva8cdFNvJDULw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ]
+    },
+    {
+      "_id": "69c9b0246cb7b8cf4caf0bda",
+      "latePostId": "69c871fb4137ed0a8244e259",
+      "content": "92% of expert investors lose to the market 📊\n\nS&P SPIVA data: over any 15-year period, 92% of active fund managers fail to beat the S&P 500 index.\n\nAnd they charge 1-2% annually for the privilege of underperforming.\n\nA basic index fund costs 0.03%.\n\nIn 2007, Warren Buffett made a $1M bet that a simple S&P 500 index fund would beat any collection of hedge funds over 10 years.\n\nHe won in 2017. By a lot.\n\nThe secret the finance industry doesn't want you to know: most of the time, boring wins.\n\n#moneyfacts #indexfunds #investing #sp500 #personalfinance #wealthbuilding #warrenbuffett #passiveinvesting",
+      "publishedAt": "2026-03-29T23:03:13.000Z",
+      "scheduledFor": "2026-03-29T23:03:13.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 112,
+        "reach": 103,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 112,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 112,
+            "reach": 103,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 112,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWfG-e6go_i/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/660374888_1317738547088528_2618276998326958093_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=96JLOIVvNmQQ7kNvwE_OO6y&_nc_oc=AdpF5VeCAEUYrjy2KjTTYp4P_F5gTe4FUsLrIUyugIrsKJEzeF7_0QMpXRFajyUAxxo&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&_nc_tpa=Q5bMBQGSATAsFY1rDqgdfBAJxA-6ku7woL605pyo_je-ueJFQOWPLPUqQ__f-gfTAt5J_qmV6JBNTy9yTA&oh=00_Afz5DkzmLJA4UQUzkmKtkJFekXceyAAM39MJdVc1JSF5jA&oe=69D0BA31",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQOzE1RkJxs25W-fw7-UiUVVjXx7ZU-YpgPvZlBVI2ZEnO_mXiskwQHPeWaVJXZmWFCkI5MQQNbkdxEfFGzMZxcZS_ziVHmQbFWA1m8.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=9AH6Y5UJcLsQ7kNvwHlOFkC&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjc4MDM0MjgzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=970e648053416f80&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DRDQ2RDYxM0M3QjUzREMxQTdCNDU0MzM5NkIyNjRCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzUzNDU4MkU3RDk4NDk4MjhGOTkwMDE4QUNDNzU2NjlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb808DTyaSYQBUCKAJDMywXQESVP3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEZK395jjY5E43ir7ikwtoUqagdxP9FUUMmyTuq8gRAA0zNUpdffkowJSzY35idVpokZT-nUI7FYg&oh=00_AfxvbZEybdOXrV9-V_DjoMfJxTXoDSdx-X_rv_poPPLQ3Q&oe=69CCBB59",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/660374888_1317738547088528_2618276998326958093_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=96JLOIVvNmQQ7kNvwE_OO6y&_nc_oc=AdpF5VeCAEUYrjy2KjTTYp4P_F5gTe4FUsLrIUyugIrsKJEzeF7_0QMpXRFajyUAxxo&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&_nc_tpa=Q5bMBQGSATAsFY1rDqgdfBAJxA-6ku7woL605pyo_je-ueJFQOWPLPUqQ__f-gfTAt5J_qmV6JBNTy9yTA&oh=00_Afz5DkzmLJA4UQUzkmKtkJFekXceyAAM39MJdVc1JSF5jA&oe=69D0BA31"
+        }
+      ]
+    },
+    {
+      "_id": "69c92e206cb7b8cf4cad234b",
+      "latePostId": "69c871e649c5ffc657f98572",
+      "content": "In 1971, money stopped being real — and nobody told you 💵\n\nOn August 15th, 1971, Nixon appeared on TV for 15 minutes and announced the US would no longer exchange dollars for gold.\n\nBefore that: every dollar was backed by physical gold stored in Fort Knox.\n\nAfter that: every dollar in existence was backed only by trust in the US government.\n\nThis is called fiat currency — money that has value because the government says it does.\n\nEvery major currency on earth followed within two years.\n\nAll of modern finance runs on that 1971 decision.\n\n#moneyfacts #goldstandard #nixonshock #economics #history #fiatcurrency #finance #economichistory",
+      "publishedAt": "2026-03-29T13:03:21.000Z",
+      "scheduledFor": "2026-03-29T13:03:21.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 108,
+        "reach": 102,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 1,
+        "clicks": 0,
+        "views": 108,
+        "engagementRate": 0.93,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 108,
+            "reach": 102,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 1,
+            "clicks": 0,
+            "views": 108,
+            "engagementRate": 0.93,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWeCSWPiCRE/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657708612_1550642332700265_6059522149839663877_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=23-qOk4svxEQ7kNvwH1Isnx&_nc_oc=AdocBSN3kX-7NQmpISk9awCjF0THfcPoVdUUurEAXxhL94p9ZDnQ72vAt5C6G6LYQAI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&_nc_tpa=Q5bMBQG9D7pHH5M5OASvFvNtZrKVhChNZzKJk1MA9LzqR8KVf2iooYc00MGHEpCKhxKQFbuRgP2nyNWpfw&oh=00_AfyTwAwxAz-pYYfeNqRRVoeVamrfOGO1I84zTHE5ZSLblg&oe=69D0DF83",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQPTR956DwSt2YcCAanteUEZO1hfxMOpu_MKOE0E68RINi7jVdfZVNI4bx68d4TuBTu517QEoV8b82N2nigQXZlbPik9FX6NiJ27qNg.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=Bh2ZaCWTuBgQ7kNvwFfmnH0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjc2MjE4OTUzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d708249d148bb6d7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BNDQ2QjdGQUYzNEYwQTUxMTAyNzg3OEMyNDg1MTI5Ml92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzM2NEY4N0I3QkQ2RjlBQ0NFRjBBRDg0MUM1QUNBMkFCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8zpKQgZqYQBUCKAJDMywXQEOu2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGX1ihIR_HNX1DRFtPXBajLHO4Wb-b3wuE8TdjdPQv1Nzj9MikRLvqYVIfLuusOUL1DKBmgjpAFmA&oh=00_AfxJJ_BPX8o8QSyyqSUmjLQ5lM86FIO5s9l4zDc6BJOPQA&oe=69CCB6FB",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/657708612_1550642332700265_6059522149839663877_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=23-qOk4svxEQ7kNvwH1Isnx&_nc_oc=AdocBSN3kX-7NQmpISk9awCjF0THfcPoVdUUurEAXxhL94p9ZDnQ72vAt5C6G6LYQAI&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&_nc_tpa=Q5bMBQG9D7pHH5M5OASvFvNtZrKVhChNZzKJk1MA9LzqR8KVf2iooYc00MGHEpCKhxKQFbuRgP2nyNWpfw&oh=00_AfyTwAwxAz-pYYfeNqRRVoeVamrfOGO1I84zTHE5ZSLblg&oe=69D0DF83"
+        }
+      ]
+    },
+    {
+      "_id": "69c886166cb7b8cf4cab3e1c",
+      "latePostId": "69c646925d0b267ace20d880",
+      "content": "New cars lose 20% of value the SECOND you drive off the lot 😬 #moneyfacts #cars #personalfinance #depreciation #finance",
+      "publishedAt": "2026-03-29T00:03:57.000Z",
+      "scheduledFor": "2026-03-29T00:03:57.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 107,
+        "reach": 100,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 107,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 107,
+            "reach": 100,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 107,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWcpIsIiAhg/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/660040804_1478958057271525_5903215076398281316_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=tdfzEFE_0kUQ7kNvwEj2_mW&_nc_oc=Adp6o5DNEqozQ8NvrS6itD9VoNSoEX41b_Q0L7LPl0coCbcSyS1uNg8znMv6iE0_hn4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&_nc_tpa=Q5bMBQFnZGXxE07SOwXSj3WNauz5mNRJUPQpElpMRpUdLUyJBoc0R3eAX4IULIlI_79IIP03O9fA8E0ikQ&oh=00_AfzVs1E4mAxxU_DiCVudC8cJ5UQrEns_x6KX6wNoTiRjcg&oe=69D0BCD4",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQOtThGd6aCTF3EeBdTJghFcuZXBL83TqqiNTnH1MLrK_eEB4xide-NJ1R1OAtiEKfqZW_zjtLtTrf0TnTojoCzCv0sLspuDm1TzGBw.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=wrvQLytdqQsQ7kNvwF66Znb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjczODgyODIzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=6145f7f58c7ccbf4&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yMTQzNDM3NDRDNUNGODAwODg3NUI0N0JGNkRENTBCOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzgzNDFBMzI4QTE3OTZFM0NBQ0UzMUVGQTU4NzZDOEJCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb82bbJtIyYQBUCKAJDMywXQEOiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFE25tCQHr_rZ15Solt2yOY-xNBwXoIvnhgP-ZibeEPbGLXSNOSGhtHWrWK4RlVCnqdeCip05kQVA&oh=00_AfxXFWRooh-4DjJqMC2C4_0tqGC20UYltdWOgORguKe4dg&oe=69CCB9A6",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/660040804_1478958057271525_5903215076398281316_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=tdfzEFE_0kUQ7kNvwEj2_mW&_nc_oc=Adp6o5DNEqozQ8NvrS6itD9VoNSoEX41b_Q0L7LPl0coCbcSyS1uNg8znMv6iE0_hn4&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&_nc_tpa=Q5bMBQFnZGXxE07SOwXSj3WNauz5mNRJUPQpElpMRpUdLUyJBoc0R3eAX4IULIlI_79IIP03O9fA8E0ikQ&oh=00_AfzVs1E4mAxxU_DiCVudC8cJ5UQrEns_x6KX6wNoTiRjcg&oe=69D0BCD4"
+        }
+      ]
+    },
+    {
+      "_id": "69c7e78b6cb7b8cf4ca93422",
+      "latePostId": "69c6468caa0f84a4276207f5",
+      "content": "The US LOSES $147 million/year making pennies 🤦 #moneyfacts #pennies #economics #finance #funfacts",
+      "publishedAt": "2026-03-28T14:02:11.000Z",
+      "scheduledFor": "2026-03-28T14:02:11.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 107,
+        "reach": 102,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 107,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 107,
+            "reach": 102,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 107,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWbkRMAiOcw/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658921998_1657233815461178_512601015853562886_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=pLZlFg8kx0cQ7kNvwHSLbyN&_nc_oc=Adq0DXBWnNuT-JpB8m3jwMamKfTXAVEZYAzp41F5xeKqB71nVLfdgGcZctRFmJBDp-U&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&_nc_tpa=Q5bMBQFCBGhezuuZifiFE2c_zDn9OsCSZpI0pCeEPyYeG25AEX7RDHomkp3vWAJycvrnx6TlRZ2FoBeKNA&oh=00_AfyQsTyIcboRiF6edV5XJs66HETdkl_F5GKx8-vJV5p8BA&oe=69D0B2D9",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-2.cdninstagram.com/o1/v/t2/f2/m86/AQOV6bTVJHnCjSX3i9lZE2G7gmdSeczb9nffd8yPAJ103DLSUB2Z-8AdbbQ-8zDU9_wqqq_9bZ-PM0EIt4oUbXGDck93UwrcO549Dwc.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-iad3-2.cdninstagram.com&_nc_ohc=2PxJmZYQkasQ7kNvwElje-S&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjcyMDg3OTUzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=d2ceb6fd9055b3a2&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zRjRFMEI2MDI2RDg0NzI4MkY0MjEyOTFEOUI2NUJCQl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0MyNDFGNEM1MDE5RUE0NEUzREMyNzU0MkVCQzQ2RTlDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8wqSl-4GYQBUCKAJDMywXQESVP3ztkWgYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHMvcR2kY1oaI_C-ikwA34GIhIM8f0X1HLBUMfOx1F7-lO-oimUW3cRpMXg25CcaC_rkCcBMt6HNQ&oh=00_AfzEmoPZrp-mo3fxh3GuGuWULB2tkIAhTiTXeKglszVF7w&oe=69CCB87C",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/658921998_1657233815461178_512601015853562886_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=pLZlFg8kx0cQ7kNvwHSLbyN&_nc_oc=Adq0DXBWnNuT-JpB8m3jwMamKfTXAVEZYAzp41F5xeKqB71nVLfdgGcZctRFmJBDp-U&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&_nc_tpa=Q5bMBQFCBGhezuuZifiFE2c_zDn9OsCSZpI0pCeEPyYeG25AEX7RDHomkp3vWAJycvrnx6TlRZ2FoBeKNA&oh=00_AfyQsTyIcboRiF6edV5XJs66HETdkl_F5GKx8-vJV5p8BA&oe=69D0B2D9"
+        }
+      ]
+    },
+    {
+      "_id": "69c830a56cb7b8cf4caa36ff",
+      "latePostId": "69c6468faa0f84a427620820",
+      "content": "When you pay cash, you're still funding someone else's airline miles 😤 #moneyfacts #creditcards #personalfinance #economics #cashback",
+      "publishedAt": "2026-03-28T19:02:53.000Z",
+      "scheduledFor": "2026-03-28T19:02:53.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 106,
+        "reach": 103,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 106,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 106,
+            "reach": 103,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 106,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWcGraSFYK2/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/655236999_2358463827983235_5362594357034243308_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=OGrCRBo5p6oQ7kNvwFtz9rz&_nc_oc=AdrVaOxYnTOs31bW2l-IiQ0Zov3xqJ7YFvi1hHcxTJjRSIW5vGRIiYYTbRGQkjvJq58&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&_nc_tpa=Q5bMBQHM9nLQOrOnvC3IRELBm_wmPyEGE39UDwCXn7Id8tHG0PRa9_oX2parfN1mE7F1hkAmBW5jNDRwqg&oh=00_Afxv3_3k4yv7_X42N4d8E61XYWWaOBH7ZX5l2ljeURaOvQ&oe=69D0A928",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMVaEjFDEcA2qcBBsaFeT4mubW9M-RCZvwDiJRqCq1zDKkMf0u5_WBD6GQjP66QQoNZ94BFsiHvInGSf-YQEFJpTOqw5JGR3Jns4UQ.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-iad6-1.cdninstagram.com&_nc_ohc=KJ8aT2G6Vh4Q7kNvwF5YpW0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjczMTcxNDYzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=40fa4d0498f834ed&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85OTQyMzQzQTFBQTY0REVBM0U0MjBFNERBNjMzNjdBMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0RDNDRDQzUwNDA4OTVFNDhFREYzMEYxRjQ4QUQzMTlCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8-ezIooiYQBUCKAJDMywXQEUAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEnqB97-83tcWoubOZcTYTaw9rY9WmxftNR8RLH6hlNG_p2m0zEJpLzYrGHMWR1LbsMinMCgVV0Ig&oh=00_AfxiAAu4Rpgg6yUc6AY11qc22mjbvJqJDloDdEb48qOpYQ&oe=69CCBA58",
+          "thumbnail": "https://scontent-iad6-1.cdninstagram.com/v/t51.71878-15/655236999_2358463827983235_5362594357034243308_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=OGrCRBo5p6oQ7kNvwFtz9rz&_nc_oc=AdrVaOxYnTOs31bW2l-IiQ0Zov3xqJ7YFvi1hHcxTJjRSIW5vGRIiYYTbRGQkjvJq58&_nc_zt=23&_nc_ht=scontent-iad6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&_nc_tpa=Q5bMBQHM9nLQOrOnvC3IRELBm_wmPyEGE39UDwCXn7Id8tHG0PRa9_oX2parfN1mE7F1hkAmBW5jNDRwqg&oh=00_Afxv3_3k4yv7_X42N4d8E61XYWWaOBH7ZX5l2ljeURaOvQ&oe=69D0A928"
+        }
+      ]
+    },
+    {
+      "_id": "69c976fc6cb7b8cf4cae3e46",
+      "latePostId": "69c871ef49c5ffc657f98626",
+      "content": "Bankruptcy won't save you from student loans 😤\n\nIn the US, you can discharge in bankruptcy:\n• Credit card debt ✅\n• Medical debt ✅\n• Gambling debt ✅\n• Business loans ✅\n\nStudent loans ❌\n\nIn 1976, Congress carved student loans out of standard bankruptcy protection. Expanded in 1998.\n\nTo discharge student debt, you must prove 'undue hardship' — a legal standard so difficult that fewer than 1% of filers succeed.\n\nThe myth that 'you can always file bankruptcy' doesn't apply to the one debt that's crushing most people.\n\n#moneyfacts #studentloans #bankruptcy #personalfinance #debtfacts #studentdebt #finance #collegedebt",
+      "publishedAt": "2026-03-29T18:01:38.000Z",
+      "scheduledFor": "2026-03-29T18:01:38.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 105,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 105,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 105,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 105,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWekdyGAjds/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/659034305_2635284346841800_2629230058864123348_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=VL-ac9mP0xUQ7kNvwEjDntv&_nc_oc=Adqt8HdCKD1-eGQHubkY9SGAO62ubBOa9kZde7Qe3UmlJJ2tiunjgRNDXhFWwIdk9HE&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&_nc_tpa=Q5bMBQHEGFwZqrFXN4am_PixKZKByN9NEG_81tmUZSrseES7hB3h81u5ZPBMl9OU7VIR4x5HfqO2IMt4Sg&oh=00_AfwceDFQzNiEUlNfg6ztxVDJRt1wRfAG_xMLVgu82T6JvQ&oe=69D0D4BD",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-iad3-1.cdninstagram.com/o1/v/t2/f2/m86/AQO0iIXsy2QhUd6XIr4_wcoEyOzkkx-vwAkdjdRHczlJwSwburEkvwen6xZgxQnKJjLSRqiDigxZsjaC0VybFvxr2I6QZfOzzUA2Mqo.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_ohc=8dERJLgIxisQ7kNvwF8vxln&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjc3NDMzNTAzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=caf2bb318561b94a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENzRFQ0E2NDY1MzdGNzQxNTgyMDQ1MzJGMUVENkY5NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzc1NEUwRDJENzlFMUMxMjE0MDZBM0QxNzJCOTg5NEI1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8tdSEiqGYQBUCKAJDMywXQEXAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQF1FYvUhZ0QgtB-kKFg4wM7cXo-Z2tvtzqTbl8mt8FCmxooZR4BfesaFObOa4TZpwAgt_NkPUZwTQ&oh=00_AfyVQdTyylkCUa8DVjDyRGzVef_V9i1_c4LsgRjJdQV5yQ&oe=69CCC411",
+          "thumbnail": "https://scontent-iad3-1.cdninstagram.com/v/t51.71878-15/659034305_2635284346841800_2629230058864123348_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=VL-ac9mP0xUQ7kNvwEjDntv&_nc_oc=Adqt8HdCKD1-eGQHubkY9SGAO62ubBOa9kZde7Qe3UmlJJ2tiunjgRNDXhFWwIdk9HE&_nc_zt=23&_nc_ht=scontent-iad3-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=81zP2S_bFDBdJ2pCGagbsA&_nc_tpa=Q5bMBQHEGFwZqrFXN4am_PixKZKByN9NEG_81tmUZSrseES7hB3h81u5ZPBMl9OU7VIR4x5HfqO2IMt4Sg&oh=00_AfwceDFQzNiEUlNfg6ztxVDJRt1wRfAG_xMLVgu82T6JvQ&oe=69D0D4BD"
+        }
+      ]
+    },
+    {
+      "_id": "69c886156cb7b8cf4cab3e19",
+      "latePostId": "69c646925d0b267ace20d880",
+      "content": "New cars lose 20% of value the SECOND you drive off the lot 😬 #moneyfacts #cars #personalfinance #depreciation #finance",
+      "publishedAt": "2026-03-29T00:03:32.000Z",
+      "scheduledFor": "2026-03-29T00:03:32.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 98,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:52"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 98,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:52"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7622461378816675085?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ok8ibNpkkCHXHLCQDQeVsGJhVfiAFTUvMgDIQf~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=f39d9d2c&x-expires=1774990800&x-signature=IpHLQDNZpmz2qVeeEGBau6%2FCQII%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ok8ibNpkkCHXHLCQDQeVsGJhVfiAFTUvMgDIQf~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=f39d9d2c&x-expires=1774990800&x-signature=IpHLQDNZpmz2qVeeEGBau6%2FCQII%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ok8ibNpkkCHXHLCQDQeVsGJhVfiAFTUvMgDIQf~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=f39d9d2c&x-expires=1774990800&x-signature=IpHLQDNZpmz2qVeeEGBau6%2FCQII%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ]
+    },
+    {
+      "_id": "69c91da56cb7b8cf4cace27a",
+      "latePostId": "69c871e649c5ffc657f98572",
+      "content": "In 1971, money stopped being real — and nobody told you 💵\n\nIn 1971, money stopped being real — and nobody told you 💵\n\nOn August 15th, 1971, Nixon appeared on TV for 15 minutes and announced the US would no longer exchange dollars for gold.\n\nBefore that: every dollar was backed by physical gold stored in Fort Knox.\n\nAfter that: every dollar in existence was backed only by trust in the US government.\n\nThis is called fiat currency — money that has value because the government says it does.\n\nEvery major currency on earth followed within two years.\n\nAll of modern finance runs on that 1971 decision.\n\n#moneyfacts #goldstandard #nixonshock #economics #history #fiatcurrency #finance #economichistory",
+      "publishedAt": "2026-03-29T12:04:09.000Z",
+      "scheduledFor": "2026-03-29T12:04:09.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 60,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 60,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=gw2csLhDuSE",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/gw2csLhDuSE/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/gw2csLhDuSE/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/gw2csLhDuSE/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c86ae66cb7b8cf4caaef0d",
+      "latePostId": "69c646925d0b267ace20d880",
+      "content": "New cars lose 20% of value the SECOND you drive off the lot 😬 #moneyfacts #cars #personalfinance #d\n\nNew cars lose 20% of value the SECOND you drive off the lot 😬 #moneyfacts #cars #personalfinance #depreciation #finance",
+      "publishedAt": "2026-03-28T23:02:19.000Z",
+      "scheduledFor": "2026-03-28T23:02:19.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 18,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 18,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=707xwsMfrbM",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/707xwsMfrbM/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/707xwsMfrbM/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/707xwsMfrbM/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c821846cb7b8cf4caa0379",
+      "latePostId": "69c6468faa0f84a427620820",
+      "content": "When you pay cash, you're still funding someone else's airline miles 😤 #moneyfacts #creditcards #pe\n\nWhen you pay cash, you're still funding someone else's airline miles 😤 #moneyfacts #creditcards #personalfinance #economics #cashback",
+      "publishedAt": "2026-03-28T18:01:41.000Z",
+      "scheduledFor": "2026-03-28T18:01:41.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 15,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 15,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=7LoQUL8me0s",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7LoQUL8me0s/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/7LoQUL8me0s/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/7LoQUL8me0s/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c7d3826cb7b8cf4ca8e97f",
+      "latePostId": "69c6468caa0f84a4276207f5",
+      "content": "The US LOSES $147 million/year making pennies 🤦 #moneyfacts #pennies #economics #finance #funfacts\n\nThe US LOSES $147 million/year making pennies 🤦 #moneyfacts #pennies #economics #finance #funfacts",
+      "publishedAt": "2026-03-28T13:03:07.000Z",
+      "scheduledFor": "2026-03-28T13:03:07.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 2,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 2,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=2sCn0lV9z_8",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/2sCn0lV9z_8/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/2sCn0lV9z_8/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/2sCn0lV9z_8/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c965486cb7b8cf4cadfa9b",
+      "latePostId": "69c871ef49c5ffc657f98626",
+      "content": "Bankruptcy won't save you from student loans 😤\n\nBankruptcy won't save you from student loans 😤\n\nIn the US, you can discharge in bankruptcy:\n• Credit card debt ✅\n• Medical debt ✅\n• Gambling debt ✅\n• Business loans ✅\n\nStudent loans ❌\n\nIn 1976, Congress carved student loans out of standard bankruptcy protection. Expanded in 1998.\n\nTo discharge student debt, you must prove 'undue hardship' — a legal standard so difficult that fewer than 1% of filers succeed.\n\nThe myth that 'you can always file bankruptcy' doesn't apply to the one debt that's crushing most people.\n\n#moneyfacts #studentloans #bankruptcy #personalfinance #debtfacts #studentdebt #finance #collegedebt",
+      "publishedAt": "2026-03-29T17:02:39.000Z",
+      "scheduledFor": "2026-03-29T17:02:39.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 1,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 1,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=E68RM3mogSE",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/E68RM3mogSE/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/E68RM3mogSE/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/E68RM3mogSE/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69c9b0236cb7b8cf4caf0bd0",
+      "latePostId": "69c871fb4137ed0a8244e259",
+      "content": "92% of expert investors lose to the market 📊\n\n92% of expert investors lose to the market 📊\n\nS&P SPIVA data: over any 15-year period, 92% of active fund managers fail to beat the S&P 500 index.\n\nAnd they charge 1-2% annually for the privilege of underperforming.\n\nA basic index fund costs 0.03%.\n\nIn 2007, Warren Buffett made a $1M bet that a simple S&P 500 index fund would beat any collection of hedge funds over 10 years.\n\nHe won in 2017. By a lot.\n\nThe secret the finance industry doesn't want you to know: most of the time, boring wins.\n\n#moneyfacts #indexfunds #investing #sp500 #personalfinance #wealthbuilding #warrenbuffett #passiveinvesting",
+      "publishedAt": "2026-03-29T23:00:00.000Z",
+      "scheduledFor": "2026-03-29T23:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 0,
+        "engagementRate": 0,
+        "lastUpdated": "2026-03-30 21:53:51"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 0,
+            "engagementRate": 0,
+            "lastUpdated": "2026-03-30 21:53:51"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=M_ahfiXkz2g",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/M_ahfiXkz2g/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/M_ahfiXkz2g/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/M_ahfiXkz2g/default.jpg"
+        }
+      ]
+    }
+  ]
+}
