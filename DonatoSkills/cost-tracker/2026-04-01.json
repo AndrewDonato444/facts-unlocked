@@ -1,0 +1,70 @@
+{
+  "date": "2026-04-01",
+  "campaign": "facts-unlocked-2026-04-01",
+  "items": [
+    {
+      "id": "001",
+      "slug": "rooting-reflex",
+      "tts_provider": "elevenlabs",
+      "image_provider": "gemini",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "002",
+      "slug": "newborn-temperature-regulation",
+      "tts_provider": "grok",
+      "image_provider": "openai",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "003",
+      "slug": "colostrum-liquid-gold",
+      "tts_provider": "gemini",
+      "image_provider": "grok",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "004",
+      "slug": "rule-of-72",
+      "tts_provider": "elevenlabs",
+      "image_provider": "gemini",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "005",
+      "slug": "minimum-payment-trap",
+      "tts_provider": "grok",
+      "image_provider": "openai",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "006",
+      "slug": "tax-refund-overpaying",
+      "tts_provider": "gemini",
+      "image_provider": "grok",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "007",
+      "slug": "ai-no-persistent-memory",
+      "tts_provider": "elevenlabs",
+      "image_provider": "gemini",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "008",
+      "slug": "llm-token-prediction",
+      "tts_provider": "grok",
+      "image_provider": "openai",
+      "estimated_cost_usd": 0.08
+    },
+    {
+      "id": "009",
+      "slug": "ai-compute-doubling",
+      "tts_provider": "gemini",
+      "image_provider": "grok",
+      "estimated_cost_usd": 0.08
+    }
+  ],
+  "total_estimated_usd": 0.72
+}
