@@ -1,0 +1,622 @@
+{
+  "campaign": "facts-unlocked-2026-04-02",
+  "date": "2026-04-02",
+  "generated_at": "2026-04-02T00:00:00Z",
+  "brief_source": "DonatoSkills/analytics-loop/data/*/2026-03-31/briefs/all-briefs.json",
+  "mode": "explore",
+  "research_signal": "week-2026-14: 3-part hook in first 3s \u2014 bold on-screen text (3-6 words) naming result + AI visual + verbal hook within 1s. Avoid logos, greetings, context dumps.",
+  "stats": {
+    "total": 9,
+    "scheduled": 9,
+    "failed": 0,
+    "skipped": 0
+  },
+  "items": [
+    {
+      "id": "001",
+      "project": "baby-facts-unlocked",
+      "slug": "baby-first-sense-touch",
+      "used_topic_id": "055",
+      "date": "2026-04-02",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "result_first",
+      "concept": "Touch is the first sense to fully develop in the womb \u2014 by 8 weeks, a fetus responds to light touch on its face. That's 13 weeks before hearing develops and 18 weeks before vision. The entire body is mapped by touch by week 16. Babies arrive as touch-sensing experts before they can hear a heartbeat clearly.",
+      "hook_text": "First sense: not hearing, not sight",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "The first sense to wire up in the womb isn't hearing \u2014 it's touch. By just 8 weeks, a fetus already flinches away from contact on its face.",
+          "direction": "result-first, surprising, confident"
+        },
+        "scene-2": {
+          "text": "Hearing doesn't come online until week 18. Vision is even later. But touch? Touch is already mapping the entire body by week 16 \u2014 two months before a baby could survive outside the womb.",
+          "direction": "informative, measured, fascinated"
+        },
+        "scene-3": {
+          "text": "This is why skin-to-skin contact right after birth is so powerful. Touch is the language babies speak first \u2014 before words, before faces, before sound.",
+          "direction": "warm, grounding, revelatory"
+        }
+      },
+      "captions": {
+        "tiktok": "Touch develops first in the womb \u2014 before hearing or vision \ud83d\udc76 #babyfacts #newborn #fetaldevelopment #babyscience #pregnancy",
+        "youtube": "Touch is the first sense to develop in the womb \u2014 at 8 weeks, before hearing (wk 18) or vision. Babies are touch experts before birth. #babyfacts #fetaldevelopment",
+        "instagram": "The first sense to develop in the womb isn't hearing \u2014 it's touch \ud83d\udc76\n\nBy just 8 weeks, a fetus already responds to contact on its face. Hearing doesn't come online until week 18. Vision even later.\n\nBy week 16, touch has mapped the entire body \u2014 weeks before a baby could survive outside the womb.\n\nThis is why skin-to-skin contact right after birth is so powerful. Touch is the language babies speak first \u2014 before words, before faces, before sound.\n\n#babyfacts #newborn #fetaldevelopment #babyscience #pregnancy #infantdevelopment #parenting #newbornfacts"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, warm cream/ivory palette, soft womb/fetal imagery, karaoke word-highlight overlay synced to voiceover",
+      "duration": 20,
+      "tts_provider": "grok",
+      "tts_voice": "rex",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "result_first",
+        "video_length": "20",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke",
+        "background_type": "ai-gen",
+        "music_energy": "curious",
+        "cta_style": "share_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/001-baby-first-sense-touch/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1775123622/facts-unlocked/2026-04-02/001-baby-first-sense-touch.mp4",
+      "zernio_post_id": "69ce3d0955c87235d839ccbf",
+      "error": null,
+      "created_at": "2026-04-02",
+      "scheduled_at": "2026-04-02T09:00:00-04:00"
+    },
+    {
+      "id": "002",
+      "project": "baby-facts-unlocked",
+      "slug": "newborn-breathing-rate",
+      "used_topic_id": "056",
+      "date": "2026-04-02",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "myth_bust",
+      "concept": "Newborns breathe 40-60 times per minute \u2014 triple the adult rate of 12-20 breaths. Their metabolism runs at three times adult speed to support rapid brain and organ development. First-time parents often panic, thinking something is wrong. Pediatricians call it 'normal newborn breathing' and watch for the opposite: slowness, not speed.",
+      "hook_text": "60 breaths per minute \u2014 normal",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "If you watch a newborn breathe and count 60 breaths in a minute \u2014 that's completely normal. First-time parents call it terrifying. Pediatricians call it textbook.",
+          "direction": "myth-busting, reassuring, confident"
+        },
+        "scene-2": {
+          "text": "Adults breathe 12 to 20 times per minute. Newborns breathe 40 to 60. Their metabolism runs at triple speed \u2014 because their brain is doubling in size and every organ is building itself simultaneously.",
+          "direction": "informative, factual, fascinated"
+        },
+        "scene-3": {
+          "text": "Doctors actually worry when newborns breathe slowly, not fast. The rapid rate is the engine of development. Every fast breath is fuel for the most intense growth window of a human life.",
+          "direction": "revelatory, grounding, warm"
+        }
+      },
+      "captions": {
+        "tiktok": "60 breaths per minute in a newborn = completely normal \ud83d\udc76 #babyfacts #newborn #parenting #babyscience #newbornfacts",
+        "youtube": "Newborns breathe 40-60x per minute (adults: 12-20) \u2014 triple rate is normal, not a sign of distress. Their metabolism runs 3\u00d7 speed to build brain and organs. #babyfacts",
+        "instagram": "Watching a newborn breathe 60 times a minute will terrify first-time parents \ud83d\udc76\n\nPediatricians call it completely normal.\n\nAdults breathe 12-20 times per minute. Newborns breathe 40-60. Their metabolism runs at triple speed \u2014 brain doubling in size, every organ building itself simultaneously.\n\nDoctors actually worry when newborns breathe *slowly*, not fast. The rapid rate is the engine of development.\n\nEvery fast breath is fuel for the most intense growth window of a human life.\n\n#babyfacts #newborn #newbornfacts #babyscience #parenting #infantdevelopment #momlife #firsttimemom"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, clean white/soft blue palette, abstract animated breathing rhythm visuals, keyword highlight overlay",
+      "duration": 25,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "abstract-animated",
+      "text_overlay": "key_words_only",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "myth_bust",
+        "video_length": "25",
+        "voice_pace": "moderate",
+        "text_overlay": "key_words_only",
+        "background_type": "abstract-animated",
+        "music_energy": "neutral",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/002-newborn-breathing-rate/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1775123624/facts-unlocked/2026-04-02/002-newborn-breathing-rate.mp4",
+      "zernio_post_id": "69ce3d093e7fd27068b1d9be",
+      "error": null,
+      "created_at": "2026-04-02",
+      "scheduled_at": "2026-04-02T14:00:00-04:00"
+    },
+    {
+      "id": "003",
+      "project": "baby-facts-unlocked",
+      "slug": "baby-teeth-womb",
+      "used_topic_id": "057",
+      "date": "2026-04-02",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "did-you-know",
+      "hook_type": "question",
+      "concept": "Baby teeth begin forming at 6 weeks of pregnancy \u2014 over 8 months before a baby is born and 6+ months before a typical first tooth appears. All 20 primary teeth are fully formed, hidden under the gums, when a baby is born. The same process starts for permanent adult teeth in the second trimester. A toothless newborn is hiding a full set of teeth in their jaw.",
+      "hook_text": "That toothless smile hides 20 teeth",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "When a baby is born with that completely gummy smile \u2014 they're actually hiding 20 teeth. Every single primary tooth has already formed, waiting under the gums.",
+          "direction": "playful, surprising, curious"
+        },
+        "scene-2": {
+          "text": "Baby teeth start forming at 6 weeks of pregnancy. That's just 6 weeks after conception, 8 months before birth. By the second trimester, the permanent adult teeth are already beginning to form too.",
+          "direction": "informative, measured, amazing"
+        },
+        "scene-3": {
+          "text": "When that first tooth pokes through at 6 months, it didn't just grow \u2014 it was there the entire time. Every baby is born with a full hidden set, just waiting to arrive.",
+          "direction": "revelatory, warm, delightful"
+        }
+      },
+      "captions": {
+        "tiktok": "That toothless smile is hiding 20 teeth \ud83e\uddb7\ud83d\udc76 #babyfacts #newborn #babydevelopment #babyteeth #pregnancy",
+        "youtube": "Every newborn hides 20 fully-formed teeth under their gums \u2014 all primary teeth form starting at 6 weeks of pregnancy, months before birth. #babyfacts #babyteeth",
+        "instagram": "That completely toothless newborn smile? It's hiding 20 teeth \ud83e\uddb7\ud83d\udc76\n\nEvery single primary tooth has already formed, waiting under the gums at birth.\n\nBaby teeth start developing at 6 weeks of pregnancy \u2014 just 6 weeks after conception, 8 months before birth. By the second trimester, permanent adult teeth are already beginning to form too.\n\nWhen that first tooth pokes through at 6 months, it didn't just grow \u2014 it was there the entire time.\n\nEvery baby is born with a full hidden set, just waiting to arrive.\n\n#babyfacts #newborn #babyteeth #babydevelopment #pregnancy #infantdevelopment #newbornfacts #parenting"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, warm pastel palette, playful tooth/smile imagery with gentle animation, full captions overlay",
+      "duration": 30,
+      "tts_provider": "elevenlabs",
+      "tts_voice": "Adam",
+      "tts_voice_id": "pNInz6obpgDQGcFmaJgB",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "question",
+        "video_length": "30",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "playful",
+        "cta_style": "comment_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/003-baby-teeth-womb/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1775123628/facts-unlocked/2026-04-02/003-baby-teeth-womb.mp4",
+      "zernio_post_id": "69ce3d0a3e7fd27068b1d9f9",
+      "error": null,
+      "created_at": "2026-04-02",
+      "scheduled_at": "2026-04-02T19:00:00-04:00"
+    },
+    {
+      "id": "004",
+      "project": "money-facts-unlocked",
+      "slug": "fdic-limit-reality",
+      "used_topic_id": "046",
+      "date": "2026-04-02",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "myth-busting",
+      "hook_type": "controversy",
+      "concept": "FDIC insurance only covers $250,000 per depositor per bank. When Silicon Valley Bank failed in March 2023, 93% of its deposits were uninsured \u2014 over the $250K limit. The FDIC covered them anyway in an emergency ruling, but that protection is not guaranteed by law for future failures. Most Americans assume all bank deposits are fully protected \u2014 they are not.",
+      "hook_text": "Your bank can fail \u2014 $250K max",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "The FDIC guarantees your bank deposits \u2014 but only up to $250,000. Every dollar above that is at risk if your bank fails.",
+          "direction": "bold, direct, slightly alarming"
+        },
+        "scene-2": {
+          "text": "When Silicon Valley Bank collapsed in 2023, 93% of its deposits were above the $250K limit. Uninsured. The FDIC covered them in an emergency decision \u2014 but that protection is not guaranteed by law for the next bank failure.",
+          "direction": "factual, measured, serious"
+        },
+        "scene-3": {
+          "text": "Most Americans assume all bank deposits are fully protected. They are not. If you have more than $250K in one bank, you may want to understand what 'FDIC insured' actually means.",
+          "direction": "grounding, actionable, direct"
+        }
+      },
+      "captions": {
+        "tiktok": "FDIC only covers $250K \u2014 SVB had 93% of deposits uninsured when it failed \ud83d\udc80 #moneyfacts #banking #personalfinance #fdic #svb",
+        "youtube": "FDIC insurance only covers $250K per depositor. When SVB failed in 2023, 93% of deposits were above that limit and uninsured. Emergency coverage isn't law. #moneyfacts #banking",
+        "instagram": "FDIC insures your bank deposits \u2014 but only up to $250,000 \ud83d\udc80\n\nEvery dollar above that is at risk if your bank fails.\n\nWhen Silicon Valley Bank collapsed in March 2023, 93% of its deposits were above the $250K limit. Uninsured. The FDIC covered them in an emergency decision \u2014 but that protection is not guaranteed by law for future failures.\n\nMost Americans assume all bank deposits are fully protected. They are not.\n\nIf you have more than $250K at one bank, you should understand exactly what 'FDIC insured' actually means.\n\n#moneyfacts #banking #personalfinance #fdic #svbfailure #bankingfacts #finance #moneytips"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, dark red/black urgent palette, crumbling bank imagery, karaoke highlight overlay",
+      "duration": 25,
+      "tts_provider": "grok",
+      "tts_voice": "rex",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke_highlight",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "25",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "ai-gen",
+        "music_energy": "tense",
+        "cta_style": "share_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/004-fdic-limit-reality/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1775123635/facts-unlocked/2026-04-02/004-fdic-limit-reality.mp4",
+      "zernio_post_id": "69ce3d0b55c87235d839cd09",
+      "error": null,
+      "created_at": "2026-04-02",
+      "scheduled_at": "2026-04-02T09:00:00-04:00"
+    },
+    {
+      "id": "005",
+      "project": "money-facts-unlocked",
+      "slug": "housing-income-ratio",
+      "used_topic_id": "047",
+      "date": "2026-04-02",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "stat_lead",
+      "concept": "In 1970, the median US home cost 3x the median household income. Today it costs 7.5x. That shift \u2014 a 150% increase in the price-to-income ratio \u2014 happened in one generation. In 1970, a family could buy a median home on 5 years of savings at 20%. Today it takes 12+ years. The housing rules your parents lived by no longer apply.",
+      "hook_text": "1970: 3\u00d7 income. Today: 7.5\u00d7",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "In 1970, the median American home cost 3 times the median household income. Today it costs 7 and a half times. That shift happened in a single generation.",
+          "direction": "stat-lead, sharp, clear"
+        },
+        "scene-2": {
+          "text": "In 1970, a family saving 20% of income could buy a median home in 5 years. Today? That same math takes over 12 years \u2014 and that assumes home prices don't keep climbing while you save.",
+          "direction": "comparative, measured, impactful"
+        },
+        "scene-3": {
+          "text": "The housing rules your parents followed \u2014 save, buy, build equity \u2014 were written for a 3\u00d7 income world. Nobody told you the rules changed.",
+          "direction": "direct, slightly provocative, grounding"
+        }
+      },
+      "captions": {
+        "tiktok": "1970: home cost 3\u00d7 income. Today: 7.5\u00d7. One generation \ud83d\udc80 #moneyfacts #housing #personalfinance #housingcrisis #realestate",
+        "youtube": "US median home price went from 3\u00d7 to 7.5\u00d7 median household income in one generation. The savings math your parents used no longer works. #moneyfacts #housingcrisis",
+        "instagram": "1970: median US home = 3\u00d7 median household income \ud83d\udc80\nToday: 7.5\u00d7\n\nThat shift \u2014 a 150% increase in price-to-income ratio \u2014 happened in one generation.\n\nIn 1970, saving 20% of income bought a median home in 5 years.\nToday, the same math takes 12+ years.\n\nThe housing rules your parents followed \u2014 save, buy, build equity \u2014 were written for a 3\u00d7 income world.\n\nNobody told you the rules changed.\n\n#moneyfacts #housing #housingcrisis #realestate #personalfinance #financialfacts #homebuying #affordability"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, muted gold/charcoal palette, split-screen 1970 vs today comparison, key words only overlay",
+      "duration": 20,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "key_words_only",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "20",
+        "voice_pace": "moderate",
+        "text_overlay": "key_words_only",
+        "background_type": "ai-gen",
+        "music_energy": "serious",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/005-housing-income-ratio/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1775123641/facts-unlocked/2026-04-02/005-housing-income-ratio.mp4",
+      "zernio_post_id": "69ce3d0b3e7fd27068b1da2a",
+      "error": null,
+      "created_at": "2026-04-02",
+      "scheduled_at": "2026-04-02T14:00:00-04:00"
+    },
+    {
+      "id": "006",
+      "project": "money-facts-unlocked",
+      "slug": "social-security-math",
+      "used_topic_id": "048",
+      "date": "2026-04-02",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "myth-busting",
+      "hook_type": "most_people_dont_know",
+      "concept": "A median-wage worker contributing to Social Security for a full 40-year career pays in roughly $650,000 total (employer + employee combined). The average benefit payout is about $19,000 per year. Breakeven on contributions takes 34 years of benefits \u2014 most Americans never collect what they paid in. Social Security is legally not a savings account; the Supreme Court (Flemming v. Nestor, 1960) ruled Congress can change or cut benefits at any time.",
+      "hook_text": "$650K in. $19K/yr out.",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "A median-wage worker pays roughly $650,000 into Social Security over a 40-year career. The average benefit payout is $19,000 per year.",
+          "direction": "stat-heavy, matter-of-fact, slightly provocative"
+        },
+        "scene-2": {
+          "text": "Breakeven on your contributions takes 34 years of collecting benefits. Most Americans never live long enough to collect what they paid in. And Social Security is not legally a savings account.",
+          "direction": "factual, unsettling, measured"
+        },
+        "scene-3": {
+          "text": "In 1960, the Supreme Court ruled Congress can change or eliminate benefits at any time. Your contributions carry no legal guarantee of return. Most people don't know that.",
+          "direction": "direct, grounding, authoritative"
+        }
+      },
+      "captions": {
+        "tiktok": "You pay $650K into Social Security. Average payout: $19K/yr. Breakeven: 34 years \ud83d\udc80 #moneyfacts #socialsecurity #personalfinance #retirement #financefacts",
+        "youtube": "Median worker pays ~$650K lifetime into Social Security. Average benefit = $19K/yr. Breakeven = 34 years of collecting. SCOTUS ruled Congress can cut it anytime. #moneyfacts",
+        "instagram": "A median-wage worker pays roughly $650,000 into Social Security over a 40-year career \ud83d\udc80\n\nThe average benefit payout: $19,000 per year.\n\nBreakeven on your contributions: 34 years of collecting benefits. Most Americans never live long enough to collect what they paid in.\n\nAnd Social Security is not legally a savings account.\n\nIn 1960, the Supreme Court (Flemming v. Nestor) ruled Congress can change or eliminate benefits at any time. Your contributions carry no legal guarantee of return.\n\nMost people don't know that.\n\n#moneyfacts #socialsecurity #retirement #personalfinance #financefacts #retirementsavings #money #financialplanning"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, deep blue/grey authoritative palette, money/document imagery, full captions overlay",
+      "duration": 30,
+      "tts_provider": "elevenlabs",
+      "tts_voice": "Adam",
+      "tts_voice_id": "pNInz6obpgDQGcFmaJgB",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "most_people_dont_know",
+        "video_length": "30",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "serious",
+        "cta_style": "share_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/006-social-security-math/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1775123647/facts-unlocked/2026-04-02/006-social-security-math.mp4",
+      "zernio_post_id": "69ce3d0c55c87235d839cd3a",
+      "error": null,
+      "created_at": "2026-04-02",
+      "scheduled_at": "2026-04-02T19:00:00-04:00"
+    },
+    {
+      "id": "007",
+      "project": "ai-facts-unlocked",
+      "slug": "context-window-explosion",
+      "used_topic_id": "036",
+      "date": "2026-04-02",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "stat_lead",
+      "concept": "GPT-3 in 2020 could hold 4,000 tokens in context \u2014 roughly 3,000 words. GPT-4o today handles 128,000 tokens \u2014 an entire novel. That's a 32x expansion in 4 years. Gemini 1.5 Pro goes to 1 million tokens \u2014 750,000 words, or about 10 novels. The practical limit of what an AI can 'read' and reason over in one session has grown 250x in under 5 years.",
+      "hook_text": "32\u00d7 bigger memory in 4 years",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "In 2020, GPT-3 could read and reason over about 3,000 words in a single session. Today, GPT-4o handles 100,000 words \u2014 an entire novel \u2014 in one prompt.",
+          "direction": "stat-lead, fast, impressive"
+        },
+        "scene-2": {
+          "text": "That's a 32-times expansion in 4 years. Gemini 1.5 Pro pushes it to 750,000 words \u2014 roughly 10 novels. The AI memory window has grown 250 times over in under 5 years.",
+          "direction": "factual, building momentum, fascinated"
+        },
+        "scene-3": {
+          "text": "When people say AI is improving fast \u2014 this is what they mean. The same model that struggled with a short document in 2020 can now analyze an entire codebase in one shot.",
+          "direction": "grounding, direct, impactful"
+        }
+      },
+      "captions": {
+        "youtube": "GPT-3 (2020): 4K token context. GPT-4o today: 128K. Gemini 1.5 Pro: 1M. A 250\u00d7 expansion in under 5 years. AI memory is growing faster than any other capability. #aifacts #chatgpt #gemini",
+        "instagram": "GPT-3 in 2020 could hold ~3,000 words in context \ud83e\udd2f\n\nGPT-4o today: 100,000 words \u2014 an entire novel in one prompt.\nGemini 1.5 Pro: 750,000 words \u2014 roughly 10 novels.\n\nThat's a 250\u00d7 expansion in under 5 years.\n\nThe AI that struggled with a short document in 2020 can now analyze an entire codebase in one session.\n\nThis is what people mean when they say AI is improving fast.\n\n#aifacts #chatgpt #gemini #artificialintelligence #aitools #techhfacts #machinelearning #llm"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, dark tech palette (navy/electric blue), expanding wave/window visualization, karaoke overlay",
+      "duration": 20,
+      "tts_provider": "grok",
+      "tts_voice": "rex",
+      "image_gen_provider": "gemini",
+      "background_type": "abstract-animated",
+      "text_overlay": "karaoke",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "20",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke",
+        "background_type": "abstract-animated",
+        "music_energy": "energetic",
+        "cta_style": "follow_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/007-context-window-explosion/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1775123650/facts-unlocked/2026-04-02/007-context-window-explosion.mp4",
+      "zernio_post_id": "69ce3d0d5a03006fe776ac35",
+      "error": null,
+      "created_at": "2026-04-02",
+      "scheduled_at": "2026-04-02T09:00:00-04:00"
+    },
+    {
+      "id": "008",
+      "project": "ai-facts-unlocked",
+      "slug": "ai-reads-harry-potter",
+      "used_topic_id": "037",
+      "date": "2026-04-02",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "result_first",
+      "concept": "Claude (Anthropic's AI) can read and process the entire Harry Potter series \u2014 all 7 books, 1.1 million words \u2014 in approximately 3 seconds. A fast human reader takes about 77 hours. The full collected works of Shakespeare (884,000 words) take Claude under 2 seconds. Modern LLMs don't just scan text faster \u2014 they extract meaning, relationships, and structure simultaneously. Reading speed is no longer a meaningful human competitive advantage.",
+      "hook_text": "Harry Potter series: 3 seconds",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "Claude can read the entire Harry Potter series \u2014 all 7 books, 1.1 million words \u2014 in about 3 seconds. A fast human reader takes 77 hours.",
+          "direction": "result-first, immediate, surprising"
+        },
+        "scene-2": {
+          "text": "It's not scanning. Modern AI extracts meaning, relationships, plot structure, and character connections simultaneously \u2014 in the same pass. Shakespeare's complete works? Under 2 seconds.",
+          "direction": "clarifying, measured, impressive"
+        },
+        "scene-3": {
+          "text": "Reading speed used to be a human edge. The ability to absorb a document, analyze it, and pull out insights \u2014 AI does that 90,000 times faster. Reading is no longer a competitive skill.",
+          "direction": "direct, thought-provoking, grounding"
+        }
+      },
+      "captions": {
+        "youtube": "Claude reads the entire Harry Potter series in ~3 seconds. Fast human: 77 hours. AI doesn't just scan \u2014 it extracts meaning simultaneously. Reading speed is no longer a human edge. #aifacts",
+        "instagram": "Claude reads the entire Harry Potter series in about 3 seconds \ud83e\udd2f\n\nA fast human reader takes 77 hours.\n\nIt's not just scanning. Modern AI extracts meaning, relationships, plot structure, and character connections simultaneously \u2014 in the same pass.\n\nShakespeare's complete works? Under 2 seconds.\n\nReading speed used to be a human edge. The ability to absorb a document, analyze it, and extract insights \u2014 AI does that 90,000\u00d7 faster now.\n\nReading is no longer a competitive advantage.\n\n#aifacts #claude #anthropic #artificialintelligence #aitools #techfacts #llm #chatgpt"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, dark library aesthetic with electric contrast, fast-scrolling text visualization, key words only overlay",
+      "duration": 25,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "key_words_only",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "result_first",
+        "video_length": "25",
+        "voice_pace": "moderate",
+        "text_overlay": "key_words_only",
+        "background_type": "ai-gen",
+        "music_energy": "curious",
+        "cta_style": "comment_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/008-ai-reads-harry-potter/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1775123657/facts-unlocked/2026-04-02/008-ai-reads-harry-potter.mp4",
+      "zernio_post_id": "69ce3d0d5a03006fe776ac5d",
+      "error": null,
+      "created_at": "2026-04-02",
+      "scheduled_at": "2026-04-02T14:00:00-04:00"
+    },
+    {
+      "id": "009",
+      "project": "ai-facts-unlocked",
+      "slug": "ai-drug-discovery-speed",
+      "used_topic_id": "038",
+      "date": "2026-04-02",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "future-tech",
+      "hook_type": "controversy",
+      "concept": "Insilico Medicine used AI to design a new drug molecule from scratch and advance it to Phase 2 clinical trials in 30 months. The traditional drug discovery timeline is 12-15 years. The AI identified the target, designed the molecule, and ran initial safety simulations before any human researcher touched a lab bench. In 2024, the first fully AI-designed drug entered Phase 3 trials. The pharmaceutical industry is about to face the same disruption as radiologists.",
+      "hook_text": "12 years \u2192 30 months. AI did it.",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "Drug discovery normally takes 12 to 15 years. In 2021, Insilico Medicine used AI to design a new drug molecule from scratch and reach Phase 2 clinical trials in 30 months.",
+          "direction": "bold, result-first, direct"
+        },
+        "scene-2": {
+          "text": "The AI identified the disease target, designed the molecule, and ran initial safety simulations \u2014 before any human researcher touched a lab bench. In 2024, the first fully AI-designed drug entered Phase 3 trials.",
+          "direction": "factual, building, impressed"
+        },
+        "scene-3": {
+          "text": "Pharmaceutical companies spend billions searching for molecules that fit disease proteins. AI screens millions of candidates in hours. The industry that gave us 12-year timelines is about to get the same disruption as radiologists.",
+          "direction": "provocative, grounding, forward-looking"
+        }
+      },
+      "captions": {
+        "youtube": "Drug discovery normally takes 12-15 years. AI did it in 30 months \u2014 designed the molecule, ran safety sims, advanced to Phase 2. First fully AI-designed drug in Phase 3 in 2024. #aifacts #drugdiscovery",
+        "instagram": "Drug discovery normally takes 12-15 years \ud83e\udd2f\n\nIn 2021, Insilico Medicine used AI to design a new drug molecule from scratch and reach Phase 2 clinical trials in 30 months.\n\nThe AI identified the disease target, designed the molecule, and ran initial safety simulations \u2014 before any human researcher touched a lab bench.\n\nIn 2024, the first fully AI-designed drug entered Phase 3 trials.\n\nPharmaceutical companies spend billions searching for molecules that fit disease proteins. AI screens millions of candidates in hours.\n\nThe industry that gave us 12-year timelines is about to face the same disruption as radiologists.\n\n#aifacts #drugdiscovery #artificialintelligence #biotech #aihealth #techfacts #machinelearning #future"
+      },
+      "skill": "remotion-video",
+      "style": "9:16 vertical, clinical white/electric green biopharma palette, molecular structure visualization, full captions overlay",
+      "duration": 30,
+      "tts_provider": "elevenlabs",
+      "tts_voice": "Adam",
+      "tts_voice_id": "pNInz6obpgDQGcFmaJgB",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "tense",
+        "cta_style": "share_cta"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/009-ai-drug-discovery-speed/out/video.mp4",
+      "asset_url": "https://res.cloudinary.com/dk74vmp31/video/upload/v1775123663/facts-unlocked/2026-04-02/009-ai-drug-discovery-speed.mp4",
+      "zernio_post_id": "69ce3d0e55c87235d839cd63",
+      "error": null,
+      "created_at": "2026-04-02",
+      "scheduled_at": "2026-04-02T19:00:00-04:00"
+    }
+  ]
+}
