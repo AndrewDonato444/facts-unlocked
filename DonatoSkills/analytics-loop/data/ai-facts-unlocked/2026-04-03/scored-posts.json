@@ -1,0 +1,697 @@
+{
+  "project": "ai-facts-unlocked",
+  "scoredAt": "2026-04-03T00:04:50.041Z",
+  "dateRange": {
+    "from": "2026-03-31",
+    "to": "2026-04-01"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 12,
+    "includedPosts": 0,
+    "excludedPosts": 12,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69cc5c7a3e56aceadd9c969d",
+      "latePostId": "69cb898e3a162f389c9cf05b",
+      "content": "AI will use more power than Japan by 2027 ⚡\n\nBy 2027, AI data centers will consume more electricity than Japan — currently the world's fourth-largest power user.\n\nTraining GPT-4 alone used as much energy as 1,000 US homes consume in an entire year. Every AI query uses 10 times the electricity of a standard Google search.\n\nThe AI industry is projected to account for 4 to 8% of global electricity consumption by 2030.\n\nMicrosoft, Google, and Amazon are now investing in nuclear power plants — specifically to power their AI data centers. The existing power grid can't keep up.\n\nThe intelligence explosion has an electricity bill.\n\n#aifacts #ai #energy #nuclearpower #climatetech #artificialintelligence #datacenter #techtrends",
+      "publishedAt": "2026-03-31T23:05:23.000Z",
+      "scheduledFor": "2026-03-31T23:05:23.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 164,
+        "reach": 159,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 164,
+        "engagementRate": 0.61,
+        "lastUpdated": "2026-04-02 23:36:26"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 164,
+            "reach": 159,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 164,
+            "engagementRate": 0.61,
+            "lastUpdated": "2026-04-02 23:36:26"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWkQ0PCgR_w/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/658906813_26557950960504220_4005706488641903054_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=HWz-mBvq3oQQ7kNvwFbLBt_&_nc_oc=AdqNY0YxO6Z6gCV_ggtJLL6FoMD09jUwy8DaWyvmJbIqYaQMTgqNj15pnOFCr9wBERs&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&_nc_tpa=Q5bMBQGCI_q2mCZ4OZP9qM4ZRVsFCpHG4moR4WxC5dUQQjhkX_qRGu3exyPnh3zeVC0nqp5f7q2vCtA8xg&oh=00_Af2zX8i8BRerTrtOYyZPJraZuVv-XToO7P21XUoDo9UZ5w&oe=69D4C8E3",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMlQkyIGH3jytBgapY0wGpGdLK8HJXtO_itHkeMiqyPXcJllsjGDnOfugNXWlRuETxcTHOoX2LEiN0RNzQ6ghNCkfdT377X64xCDaY.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=cSiQ8r0CMfEQ7kNvwE9sL1C&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjcxMTYyODQzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=7050274bf8fa1787&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENzQ0N0Y5MEY4QkY4REM2MDc2NzJGODFEMUYxQzBBQV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0MxNEYxMzU0OTg5N0YxRDI2MjI2NUU5REU5MDAzQTk0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa08fmDyvyXQBUCKAJDMywXQEvEOVgQYk4YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEmB0zKSkWDaUO9aVJiK5lxxNdygMOg4n34aO5I7kWiURb109tHP2bEMNAID1eL-mAo9CWlOVJJtQ&oh=00_Af0zGuc-GZ-EGVnLvZBQd4oFaG2fIoshopspE670fnr0XQ&oe=69D0D27A",
+          "thumbnail": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/658906813_26557950960504220_4005706488641903054_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=HWz-mBvq3oQQ7kNvwFbLBt_&_nc_oc=AdqNY0YxO6Z6gCV_ggtJLL6FoMD09jUwy8DaWyvmJbIqYaQMTgqNj15pnOFCr9wBERs&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&_nc_tpa=Q5bMBQGCI_q2mCZ4OZP9qM4ZRVsFCpHG4moR4WxC5dUQQjhkX_qRGu3exyPnh3zeVC0nqp5f7q2vCtA8xg&oh=00_Af2zX8i8BRerTrtOYyZPJraZuVv-XToO7P21XUoDo9UZ5w&oe=69D4C8E3"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69cd1aa93e56aceadd9f1dc7",
+      "latePostId": "69cce83216f2f446658defb8",
+      "content": "ChatGPT doesn't remember you 🤖\n\nEvery conversation starts completely from zero by default.\n\nThe AI you had a breakthrough session with last week? No record of it. You're a stranger every time you open a new chat.\n\nThe optional memory feature exists — but it stores structured summaries you've explicitly saved. Not experiences. Not learning. A database lookup.\n\nThere is no continuous 'it' accumulating wisdom from your interactions. Each session is stateless. The conversation window is the memory. When the tab closes, it ends.\n\nThe feeling of continuity is an interface design choice — not a reflection of how the model works.\n\n#aifacts #chatgpt #artificialintelligence #llm #aimyths #tech #aiexplained #machinelearning",
+      "publishedAt": "2026-04-01T13:01:54.000Z",
+      "scheduledFor": "2026-04-01T13:01:54.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 151,
+        "reach": 143,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 151,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-02 23:36:26"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 151,
+            "reach": 143,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 151,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-02 23:36:26"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWlwjMKgdFX/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/658430041_4005358939762168_5952115011012878069_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=uMUFBq3rpJ0Q7kNvwFKguKk&_nc_oc=Adp-jnCvo4JKQcUxQOubvS7TuktMd2iJylg5ffxZPFqAAa-9YYiC_kXFeU444jF6pZQ&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&_nc_tpa=Q5bMBQGrWPfSW9j_bm8-lntP29miXqPArD1p1htfVvAcGgdADpaHadiPZ5wK04dWQkrEyPM905ybgdqVZw&oh=00_Af3q2IU3h6-d2BX--BkVVoMTLBkQyiWgH5sReAcCzO7EKg&oe=69D4E6E2",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQMH0H5M5IRehyaq4HhMMs61o2xhJQRAvwDImMaEB0sz5FgM0tvThQ34PWJ32n_NtZI1hYL7VIo6raAPPbW69Oe9oA9JVH0qAtlUegY.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=ZSe6jFXGTsoQ7kNvwHFDBB0&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjcyNDQzOTAzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=eb57f52f2cc83a73&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FNjQyRjlCMzYzQzM3NEMxNDY1QTFDQTI3M0Q4REI5QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0I4NDE3N0YxOTc5QzEzMTUzQTE1OTAwNjBCQUJFMDk4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0q62_hISYQBUCKAJDMywXQEr3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGzo3E6adaCHQM7RMGywk_eAqcb1ZklkcZTCQXeyAb7GzCnAgxBAaRUaMUIubvI1BXL8Xge56G-0w&oh=00_Af1ZfVuM6Ldqlumkg8t5AHSUdW590qQgF5BUWvJ2sU3WQQ&oe=69D0DD5C",
+          "thumbnail": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/658430041_4005358939762168_5952115011012878069_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=uMUFBq3rpJ0Q7kNvwFKguKk&_nc_oc=Adp-jnCvo4JKQcUxQOubvS7TuktMd2iJylg5ffxZPFqAAa-9YYiC_kXFeU444jF6pZQ&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&_nc_tpa=Q5bMBQGrWPfSW9j_bm8-lntP29miXqPArD1p1htfVvAcGgdADpaHadiPZ5wK04dWQkrEyPM905ybgdqVZw&oh=00_Af3q2IU3h6-d2BX--BkVVoMTLBkQyiWgH5sReAcCzO7EKg&oe=69D4E6E2"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69cc16c59ebe3a2c7009bf79",
+      "latePostId": "69cb89826be338f1f253e9df",
+      "content": "The cost to train a cutting-edge AI has dropped 99% in under 5 years 📉\n\nGPT-2 (2019): $50,000\nGPT-3 (2020): $4.6 million\nGPT-4 (2022): ~$100 million\nDeepSeek-R1 (2025): $6 million for near-GPT-4 performance\n\nBy 2025, equivalent capability can be reached for $50,000 to $100,000.\n\nThis is the fastest cost compression of any technology in history.\n\nThe AI models that seem out of reach for small companies today will be commodity tools in three years. Every competitive advantage built on AI capability is sitting on a shrinking clock.\n\nThe only durable edge: speed of implementation.\n\n#aifacts #ai #deepseek #gpt4 #machinelearning #artificialintelligence #techtrends #futureofai",
+      "publishedAt": "2026-03-31T18:00:56.000Z",
+      "scheduledFor": "2026-03-31T18:00:56.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 143,
+        "reach": 140,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 143,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-02 23:36:26"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 143,
+            "reach": 140,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 143,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-02 23:36:26"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWjt-eJEnPD/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/658964661_1276294711094631_1884508052231980068_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=XAGB2da4YUQQ7kNvwHr-2fw&_nc_oc=AdqthXHUrvVxPRcanF_HJrmtYCAXSMdmCZX8umgWRvNvmWYpxnhg0-pQ8cFJzZ4frBs&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&_nc_tpa=Q5bMBQHDmJVVBxCaYUcOZobMrQL0T9ZgWPCQ4fkvpMro5IoC4QrOsQ4rm3W1u39mH26jt4n5JDlLjQA_2g&oh=00_Af2uYjU_gq0Ap-cp2R_PDEZBBnAXUaWX7uYC0Lyjn0iQKA&oe=69D4EA98",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQPMjgzTjSvOraFz7dyRg1bUzKVkGv0pjv_xpqf8XSv2Nn6z8TnsbYprqW-aNjP3SUaNirUudzYFVV4QBqo64CjWzql-469NU2GpOq8.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=W3QaZS9mcQYQ7kNvwHKuLAO&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjcwNzYxNDEzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=465ed4a900643734&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DMjQ5Q0U4NTY4Q0E1REVCN0QzNEYwOTRFRDJCQThCM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzMwNEQ1OEYzMzcwRjU0RkVCNTI1NTUwRkJGMTMzQjg1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0qs34nvqXQBUCKAJDMywXQEXEOVgQYk4YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGuW9P-EUOtKIt7mz1OgxcEZzEcwIoR-8dzFc-2kfFLUDADPTgblcBPqPX5q45XQ6m4-EpkLUSB0A&oh=00_Af20KxP4Di-7J8hd3cxCTSP_QpvAwM6T3j-wqIFi1ep6mQ&oe=69D0E32C",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/658964661_1276294711094631_1884508052231980068_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=XAGB2da4YUQQ7kNvwHr-2fw&_nc_oc=AdqthXHUrvVxPRcanF_HJrmtYCAXSMdmCZX8umgWRvNvmWYpxnhg0-pQ8cFJzZ4frBs&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&_nc_tpa=Q5bMBQHDmJVVBxCaYUcOZobMrQL0T9ZgWPCQ4fkvpMro5IoC4QrOsQ4rm3W1u39mH26jt4n5JDlLjQA_2g&oh=00_Af2uYjU_gq0Ap-cp2R_PDEZBBnAXUaWX7uYC0Lyjn0iQKA&oe=69D4EA98"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69cbc9e29ebe3a2c70081a17",
+      "latePostId": "69cb89796be338f1f253e92d",
+      "content": "A lawyer cited 6 AI-hallucinated cases in federal court 🤖\n\nIn 2023, a New York lawyer submitted legal briefs to a US federal court. Six of the cases cited were completely fabricated.\n\nChatGPT had invented them — case names, judges, rulings, citations — all generated with total confidence. When the judge asked for copies, the lawyer searched every major legal database. The cases didn't exist.\n\nThe lawyer admitted the source: ChatGPT.\n\nBoth lawyers were sanctioned $5,000 each. A federal judge wrote a 21-page opinion on AI hallucinations — the first time AI's confident wrongness had an official legal paper trail.\n\nAI doesn't know what it doesn't know. And it never sounds uncertain.\n\n#aifacts #chatgpt #ai #hallucination #legaltech #artificialintelligence #ailaw #techlegal",
+      "publishedAt": "2026-03-31T13:02:00.000Z",
+      "scheduledFor": "2026-03-31T13:02:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 143,
+        "reach": 134,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 143,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-02 23:36:26"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 143,
+            "reach": 134,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 143,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-02 23:36:26"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWjLw5vCGqW/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/657840071_1477171530661137_218809041968936443_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kel-kpIBO0MQ7kNvwFQXCUF&_nc_oc=AdqV4NZiiDDltF44ibeeLFNoWSBwssMIXYFSB7WZVinNWbhadWdjHrmD-ETNdsoFbv0&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&_nc_tpa=Q5bMBQFH1ZBNbD3FkLUBdh1He7Z9n8xOUZnXMdzE-yHKasb0r5xS1OamyBh6iJgs8n5TbbZow3rmVO8mjA&oh=00_Af1P6suOlMvNFp2Zvu9XN58CktH5aAwxsdq_nQb9P15IOA&oe=69D4B7D9",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQOuvDIrWCKspaDKLR3AbAcuVkyRdLJRsVP4VlBsZmA6d7UtP_qawq5PlJhS9CYZIEFRSqDWHHpvBwPT6NIeamS5hrUTWJxOpjmMJBw.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=eVZvoNJCQeAQ7kNvwGIVWps&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjcwMTY1MjUzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=926f68e4c4c483b6&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GQzRFOUU5M0MzOTE5RUY5QUZGRUZCRkY5RTU0NzdBRl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzhCNDEzRjg1RUM4MEQ5ODEwNTlDN0E4Qzg0MkVCN0I2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0yq3i4vaXQBUCKAJDMywXQEgzMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHDmmuwmS2YKxik8aFQ5c9EvoG8ZDALG2ItkJFuwSDUxMtI1pxylQWnBi0WESF01dcjF-ORS28BXg&oh=00_Af03fY2Hj3obG2zYTUlDpZNdGCjB9hAkZCTeXo00i8j1nw&oe=69D0F77C",
+          "thumbnail": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/657840071_1477171530661137_218809041968936443_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=kel-kpIBO0MQ7kNvwFQXCUF&_nc_oc=AdqV4NZiiDDltF44ibeeLFNoWSBwssMIXYFSB7WZVinNWbhadWdjHrmD-ETNdsoFbv0&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&_nc_tpa=Q5bMBQFH1ZBNbD3FkLUBdh1He7Z9n8xOUZnXMdzE-yHKasb0r5xS1OamyBh6iJgs8n5TbbZow3rmVO8mjA&oh=00_Af1P6suOlMvNFp2Zvu9XN58CktH5aAwxsdq_nQb9P15IOA&oe=69D4B7D9"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69cd609a3e56aceadda04550",
+      "latePostId": "69cce8361a483174d7e21fab",
+      "content": "ChatGPT doesn't understand language 🤖 It predicts it.\n\nLarge language models work by predicting which token — a word or word fragment — statistically follows every previous token. One at a time. Repeated billions of times across over a trillion words of human text.\n\nThe model learns which patterns of words tend to precede which other patterns. That's it.\n\nWhat looks like reasoning, creativity, or understanding is an emergent property of prediction at massive scale.\n\nThere is no world model inside. No intent. No semantic comprehension. Just the most sophisticated autocomplete system ever built — running fast enough to appear intelligent.\n\nWhen AI surprises you, it's because the patterns at trillion-word scale generate outputs humans weren't expecting. Not because it understood the question.\n\n#aifacts #llm #chatgpt #artificialintelligence #howaiworks #machinelearning #aiexplained #tech",
+      "publishedAt": "2026-04-01T18:01:53.000Z",
+      "scheduledFor": "2026-04-01T18:01:53.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 139,
+        "reach": 125,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 139,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-02 23:36:26"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 139,
+            "reach": 125,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 139,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-02 23:36:26"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWmS4ThDkhL/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/657349178_1642133397035923_3415739256207398684_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=s4PoFnLd28IQ7kNvwFCjAxG&_nc_oc=AdqcR8fUKYElU3Jcf8SIH2CA9vFC-fV8x9G0wFx97Yus1PzSbVyGcDuT0vc3VGmjCWU&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&_nc_tpa=Q5bMBQHR_yUfNPj3kWnoXwI_UoPaLe0e4DLaNWQacKphhBy7CFa6zGUR9LgtAEAn4IxnGatOj7xonFs8EQ&oh=00_Af0CrktvR4P0HEfcr91aOb5YVGLGsTfsCoH7MPgrSsdcMQ&oe=69D4EB56",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQOVRwDtHggeKTR_OFHNWSpzknh-IMjtyI7aXaHvZrsQx_sJL39RDOcVKgcUQc5N6pagygDwX6Ah0fcVtnLrp11xKVeeKQ0ZpH07F-Y.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=tlrpZOk_JnYQ7kNvwFvOBBq&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjczMDUyODEzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a6b7c11313edc7f7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC80QTQwNUMwRkRBMDA2RjFDMDRBOTAyNDQ2OTRDOUZBNF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzVCNDI3OTM4M0IxQTQ2RURCNkZBRThEMkIxOTQxODlBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa03sSVyoeYQBUCKAJDMywXQEyZmZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQECtdksWXuvJxZI43ntZEoRv5DnzWQGHu2HE6oEfbklhgMWf907C47LC2U9k53lV3jMn1QTmXU9rQ&oh=00_Af3eLqlJRQj4JZZmChvZV-Bq5QgfAHbuDYXuVGMcBjcI6w&oe=69D0D65A",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/657349178_1642133397035923_3415739256207398684_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=s4PoFnLd28IQ7kNvwFCjAxG&_nc_oc=AdqcR8fUKYElU3Jcf8SIH2CA9vFC-fV8x9G0wFx97Yus1PzSbVyGcDuT0vc3VGmjCWU&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&_nc_tpa=Q5bMBQHR_yUfNPj3kWnoXwI_UoPaLe0e4DLaNWQacKphhBy7CFa6zGUR9LgtAEAn4IxnGatOj7xonFs8EQ&oh=00_Af0CrktvR4P0HEfcr91aOb5YVGLGsTfsCoH7MPgrSsdcMQ&oe=69D4EB56"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69cdad9783e990e1c01a2765",
+      "latePostId": "69cce8381a483174d7e22011",
+      "content": "AI compute doubled every 6 months from 2012 to 2022 ⚡\n\nThat's 4x faster than Moore's Law.\n\nBetween GPT-2 (2019) and GPT-4 (2023) — just four years — AI training compute increased by 1,000 times. Not incremental progress. A complete rewriting of what's computationally possible in a single hardware generation cycle.\n\nNo technology in recorded history has compounded this fast across this many orders of magnitude.\n\nEvery AI timeline forecast — when will AI reach human-level at X task, when will it pass Y threshold — is ultimately a single bet: does this doubling pace continue, or does it hit a physical ceiling?\n\nThat's the only variable that actually matters.\n\n#aifacts #artificialintelligence #aicompute #airevolution #machinelearning #futuretech #tech #aifuture",
+      "publishedAt": "2026-04-01T23:02:37.000Z",
+      "scheduledFor": "2026-04-01T23:02:37.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 132,
+        "reach": 126,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 132,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-02 23:36:26"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 132,
+            "reach": 126,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 132,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-02 23:36:26"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWm1SF5Aq1Z/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/659626166_939589668794884_7365105152281196937_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=n_uuSDrEZW0Q7kNvwHk2UoK&_nc_oc=Adrm7HYD8oOGTxmJU7MFDzkwJCJaizsPCPotW0_Kc_pqff2sX5AsdbF1VRANf8W68Bg&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&_nc_tpa=Q5bMBQGun-C575Zz1ZHWBynO3_B95yEvef7ftdHECu2sQ9YO_VzSNHSoGimo0KX5yhyoLI-CT5RLkDeR8Q&oh=00_Af1ov_PYxxJ1yml0FxRBzY6kO7XyWjGXDoS-2oTdnGgPjQ&oe=69D4E916",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m86/AQOQya8hMFhJi76PhLjePRFW1edz-6cYpH-KQQhQSAqlVp07Ja-_66KjMqGfXAIkDETiDTGNLS886xhQs0cMf1uI7CykdSsY89SrkIA.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=A6FpNZIGDtQQ7kNvwEVirZU&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjczNDczNTAzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=36f038928fac03ba&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84MjQ3MkY1REE3REUxREVCRUFFM0E2OTI0RDdBNzFCNl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzU4NDEwQTVEQThBOUY3NjlEODI3MDMzN0ZCNUQwQ0FEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa029TNg4qYQBUCKAJDMywXQEpRBiTdLxsYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQH6Kx_7WTAl6_M3UAfKJjuG2KS-3k3ihw_2dduNRk4Fn4NlgfMrx0J1JAfNrOKS6RzKKwsKBYh5gg&oh=00_Af2ZzW6TCBMQxP319CjZVoTuzBOZ_hi6xb_8onngMgoZbw&oe=69D0E77F",
+          "thumbnail": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/659626166_939589668794884_7365105152281196937_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=n_uuSDrEZW0Q7kNvwHk2UoK&_nc_oc=Adrm7HYD8oOGTxmJU7MFDzkwJCJaizsPCPotW0_Kc_pqff2sX5AsdbF1VRANf8W68Bg&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CnA9XewmDDLUzLShgbYPZQ&_nc_tpa=Q5bMBQGun-C575Zz1ZHWBynO3_B95yEvef7ftdHECu2sQ9YO_VzSNHSoGimo0KX5yhyoLI-CT5RLkDeR8Q&oh=00_Af1ov_PYxxJ1yml0FxRBzY6kO7XyWjGXDoS-2oTdnGgPjQ&oe=69D4E916"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69cd969e3e56aceadda12013",
+      "latePostId": "69cce8381a483174d7e22011",
+      "content": "AI compute doubled every 6 months from 2012 to 2022 ⚡\n\nAI compute doubled every 6 months from 2012 to 2022 ⚡\n\nThat's 4x faster than Moore's Law.\n\nBetween GPT-2 (2019) and GPT-4 (2023) — just four years — AI training compute increased by 1,000 times. Not incremental progress. A complete rewriting of what's computationally possible in a single hardware generation cycle.\n\nNo technology in recorded history has compounded this fast across this many orders of magnitude.\n\nEvery AI timeline forecast — when will AI reach human-level at X task, when will it pass Y threshold — is ultimately a single bet: does this doubling pace continue, or does it hit a physical ceiling?\n\nThat's the only variable that actually matters.\n\n#aifacts #artificialintelligence #aicompute #airevolution #machinelearning #futuretech #tech #aifuture",
+      "publishedAt": "2026-04-01T22:01:44.000Z",
+      "scheduledFor": "2026-04-01T22:01:44.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 82,
+        "engagementRate": 1.22,
+        "lastUpdated": "2026-04-02 23:36:20"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 82,
+            "engagementRate": 1.22,
+            "lastUpdated": "2026-04-02 23:36:20"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=wGU9lDm1nr0",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/wGU9lDm1nr0/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/wGU9lDm1nr0/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/wGU9lDm1nr0/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69cc16c09ebe3a2c7009bf64",
+      "latePostId": "69cb89826be338f1f253e9df",
+      "content": "The cost to train a cutting-edge AI has dropped 99% in under 5 years 📉\n\nThe cost to train a cutting-edge AI has dropped 99% in under 5 years 📉\n\nGPT-2 (2019): $50,000\nGPT-3 (2020): $4.6 million\nGPT-4 (2022): ~$100 million\nDeepSeek-R1 (2025): $6 million for near-GPT-4 performance\n\nBy 2025, equivalent capability can be reached for $50,000 to $100,000.\n\nThis is the fastest cost compression of any technology in history.\n\nThe AI models that seem out of reach for small companies today will be commodity tools in three years. Every competitive advantage built on AI capability is sitting on a shrinking clock.\n\nThe only durable edge: speed of implementation.\n\n#aifacts #ai #deepseek #gpt4 #machinelearning #artificialintelligence #techtrends #futureofai",
+      "publishedAt": "2026-03-31T18:00:01.000Z",
+      "scheduledFor": "2026-03-31T18:00:01.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 68,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-02 23:36:20"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 68,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-02 23:36:20"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=1vgXZvWJ-ss",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/1vgXZvWJ-ss/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/1vgXZvWJ-ss/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/1vgXZvWJ-ss/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69cd60993e56aceadda0454c",
+      "latePostId": "69cce8361a483174d7e21fab",
+      "content": "ChatGPT doesn't understand language 🤖 It predicts it.\n\nChatGPT doesn't understand language 🤖 It predicts it.\n\nLarge language models work by predicting which token — a word or word fragment — statistically follows every previous token. One at a time. Repeated billions of times across over a trillion words of human text.\n\nThe model learns which patterns of words tend to precede which other patterns. That's it.\n\nWhat looks like reasoning, creativity, or understanding is an emergent property of prediction at massive scale.\n\nThere is no world model inside. No intent. No semantic comprehension. Just the most sophisticated autocomplete system ever built — running fast enough to appear intelligent.\n\nWhen AI surprises you, it's because the patterns at trillion-word scale generate outputs humans weren't expecting. Not because it understood the question.\n\n#aifacts #llm #chatgpt #artificialintelligence #howaiworks #machinelearning #aiexplained #tech",
+      "publishedAt": "2026-04-01T18:00:48.000Z",
+      "scheduledFor": "2026-04-01T18:00:48.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 51,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-02 23:36:20"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 51,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-02 23:36:20"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=xA07cgU8Xeo",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/xA07cgU8Xeo/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/xA07cgU8Xeo/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/xA07cgU8Xeo/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69cd193b3e56aceadd9f15f6",
+      "latePostId": "69cce83216f2f446658defb8",
+      "content": "ChatGPT doesn't remember you 🤖\n\nChatGPT doesn't remember you 🤖\n\nEvery conversation starts completely from zero by default.\n\nThe AI you had a breakthrough session with last week? No record of it. You're a stranger every time you open a new chat.\n\nThe optional memory feature exists — but it stores structured summaries you've explicitly saved. Not experiences. Not learning. A database lookup.\n\nThere is no continuous 'it' accumulating wisdom from your interactions. Each session is stateless. The conversation window is the memory. When the tab closes, it ends.\n\nThe feeling of continuity is an interface design choice — not a reflection of how the model works.\n\n#aifacts #chatgpt #artificialintelligence #llm #aimyths #tech #aiexplained #machinelearning",
+      "publishedAt": "2026-04-01T13:01:15.000Z",
+      "scheduledFor": "2026-04-01T13:01:15.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 11,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-02 23:36:20"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 11,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-02 23:36:20"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=CPMH7WPmdo8",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CPMH7WPmdo8/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/CPMH7WPmdo8/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/CPMH7WPmdo8/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69cbc9e29ebe3a2c70081a15",
+      "latePostId": "69cb89796be338f1f253e92d",
+      "content": "A lawyer cited 6 AI-hallucinated cases in federal court 🤖\n\nA lawyer cited 6 AI-hallucinated cases in federal court 🤖\n\nIn 2023, a New York lawyer submitted legal briefs to a US federal court. Six of the cases cited were completely fabricated.\n\nChatGPT had invented them — case names, judges, rulings, citations — all generated with total confidence. When the judge asked for copies, the lawyer searched every major legal database. The cases didn't exist.\n\nThe lawyer admitted the source: ChatGPT.\n\nBoth lawyers were sanctioned $5,000 each. A federal judge wrote a 21-page opinion on AI hallucinations — the first time AI's confident wrongness had an official legal paper trail.\n\nAI doesn't know what it doesn't know. And it never sounds uncertain.\n\n#aifacts #chatgpt #ai #hallucination #legaltech #artificialintelligence #ailaw #techlegal",
+      "publishedAt": "2026-03-31T13:00:07.000Z",
+      "scheduledFor": "2026-03-31T13:00:07.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 7,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-02 23:36:20"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 7,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-02 23:36:20"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=5qNArUetcIA",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/5qNArUetcIA/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/5qNArUetcIA/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/5qNArUetcIA/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69cc5c783e56aceadd9c9691",
+      "latePostId": "69cb898e3a162f389c9cf05b",
+      "content": "AI will use more power than Japan by 2027 ⚡\n\nAI will use more power than Japan by 2027 ⚡\n\nBy 2027, AI data centers will consume more electricity than Japan — currently the world's fourth-largest power user.\n\nTraining GPT-4 alone used as much energy as 1,000 US homes consume in an entire year. Every AI query uses 10 times the electricity of a standard Google search.\n\nThe AI industry is projected to account for 4 to 8% of global electricity consumption by 2030.\n\nMicrosoft, Google, and Amazon are now investing in nuclear power plants — specifically to power their AI data centers. The existing power grid can't keep up.\n\nThe intelligence explosion has an electricity bill.\n\n#aifacts #ai #energy #nuclearpower #climatetech #artificialintelligence #datacenter #techtrends",
+      "publishedAt": "2026-03-31T23:00:20.000Z",
+      "scheduledFor": "2026-03-31T23:00:20.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 2,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-02 23:36:20"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 2,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-02 23:36:20"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=GtjfIwEnc1A",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GtjfIwEnc1A/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/GtjfIwEnc1A/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/GtjfIwEnc1A/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}
