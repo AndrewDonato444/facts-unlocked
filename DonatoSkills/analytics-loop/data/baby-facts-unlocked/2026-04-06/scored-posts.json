@@ -1,0 +1,641 @@
+{
+  "project": "baby-facts-unlocked",
+  "scoredAt": "2026-04-06T02:09:28.189Z",
+  "dateRange": {
+    "from": "2026-04-03",
+    "to": "2026-04-04"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 11,
+    "includedPosts": 0,
+    "excludedPosts": 11,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69d114963343e779922f66ca",
+      "latePostId": "69cf799f25c25985edfea9d0",
+      "content": "Babies hiccup in the womb at 6 weeks — before lungs exist 🤯 #babyfacts #pregnancy #fetaldevelopment #newborn #babyscience",
+      "publishedAt": "2026-04-04T13:00:29.000Z",
+      "scheduledFor": "2026-04-04T13:00:29.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 15,
+        "comments": 1,
+        "shares": 1,
+        "saves": 0,
+        "clicks": 0,
+        "views": 299,
+        "engagementRate": 5.69,
+        "lastUpdated": "2026-04-06 01:29:50"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 15,
+            "comments": 1,
+            "shares": 1,
+            "saves": 0,
+            "clicks": 0,
+            "views": 299,
+            "engagementRate": 5.69,
+            "lastUpdated": "2026-04-06 01:29:50"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7624887973460430094?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o42cizO6wWwACIO30FInwJiEYrBRpIfCAjBTBL~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=4459cded&x-expires=1775523600&x-signature=uOaVqQBoPbkGrpgvj6B2BUWcG0g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o42cizO6wWwACIO30FInwJiEYrBRpIfCAjBTBL~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=4459cded&x-expires=1775523600&x-signature=uOaVqQBoPbkGrpgvj6B2BUWcG0g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o42cizO6wWwACIO30FInwJiEYrBRpIfCAjBTBL~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=4459cded&x-expires=1775523600&x-signature=uOaVqQBoPbkGrpgvj6B2BUWcG0g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&s=TIKTOK_FOR_DEVELOPER&sc=cover&biz_tag=tt_video"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d113643343e779922f62d9",
+      "latePostId": "69cf79cc25c25985edfeae61",
+      "content": "Babies start hiccupping at 6 weeks in the womb — before lungs develop. The diaphragm practicing for\n\nBabies start hiccupping at 6 weeks in the womb — before lungs develop. The diaphragm practicing for breathing. #babyfacts #fetaldevelopment #pregnancy",
+      "publishedAt": "2026-04-04T13:01:29.000Z",
+      "scheduledFor": "2026-04-04T13:01:29.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 146,
+        "engagementRate": 0.68,
+        "lastUpdated": "2026-04-06 02:08:42"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 146,
+            "engagementRate": 0.68,
+            "lastUpdated": "2026-04-06 02:08:42"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=sDK76iZqlqI",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/sDK76iZqlqI/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/sDK76iZqlqI/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/sDK76iZqlqI/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d174713343e7799230d362",
+      "latePostId": "69cf7c5461bda984c3eb6d82",
+      "content": "Newborn eyes are already 70% of adult size at birth 👁️ #babyfacts #newborn #infantdevelopment #babyscience #pregnancy",
+      "publishedAt": "2026-04-04T18:01:25.000Z",
+      "scheduledFor": "2026-04-04T18:01:25.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 133,
+        "reach": 123,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 133,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 01:29:55"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 133,
+            "reach": 123,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 133,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 01:29:55"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWuBNe1kjjn/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/658865507_1275402740679907_3514887846353530351_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=iSbrS0YEo_oQ7kNvwG3mast&_nc_oc=AdrZ5e-KKWOYfhSFKw83amoY9iRp8HFlw0Gsb7LqhRAQJ3ciqMzXV9SwB-5GZMPlukM&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0t4tFo3X5TQx9ToC6CthAA&_nc_tpa=Q5bMBQEBECFj8Kap8KMKR5dpu5NK8H4od7XKY1FK_Eg2U7seW9VzqEPOvPKyOyYb1k5qVGpTO0tMjmukMA&oh=00_Af0zgOQouXc8G-RlYcsaSBybOflf6Oiul2_9FQ93AwQvmQ&oe=69D8F46C",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQMo8Jpw0HYpgjFb6rx5HqTgJaLRXYGBReLwk-SqAwTwXODvraZQebKTvz1fPdeFqerTMfJK0d3jiVP13qmWhekvVA2fx0lfAV9O6W8.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=6Hj8ovTayW8Q7kNvwHMvuCB&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjc2ODAwNjU0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=ba0bec4e3b0f2012&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85MjQwQTBENDgyQjI5MkQyRERGMUUxQ0Q2N0JEQTVBMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0VDNDIxODc3MEEyOTFGRTA4REU4NzdGNzk3REE4NUJBX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0v7XDsp2YQBUCKAJDMywXQEiqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=0t4tFo3X5TQx9ToC6CthAA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFSplfMsvXhaU_PzeZd90YXkCY8bipfSCuXbx0M1ppfmCo_SXKBEXV6dmr5I3P7hhk9nV0HcfyeuQ&oh=00_Af2JyXBvFluBq9CGogqioitKi8_x_EwRyfRrk4xyaMSUMA&oe=69D4FC66",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/658865507_1275402740679907_3514887846353530351_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=iSbrS0YEo_oQ7kNvwG3mast&_nc_oc=AdrZ5e-KKWOYfhSFKw83amoY9iRp8HFlw0Gsb7LqhRAQJ3ciqMzXV9SwB-5GZMPlukM&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0t4tFo3X5TQx9ToC6CthAA&_nc_tpa=Q5bMBQEBECFj8Kap8KMKR5dpu5NK8H4od7XKY1FK_Eg2U7seW9VzqEPOvPKyOyYb1k5qVGpTO0tMjmukMA&oh=00_Af0zgOQouXc8G-RlYcsaSBybOflf6Oiul2_9FQ93AwQvmQ&oe=69D8F46C"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d113643343e779922f62df",
+      "latePostId": "69cf799f25c25985edfea9d0",
+      "content": "Babies hiccup in the womb at 6 weeks — before lungs exist 🤯 #babyfacts #pregnancy #fetaldevelopment #newborn #babyscience",
+      "publishedAt": "2026-04-04T13:00:53.000Z",
+      "scheduledFor": "2026-04-04T13:00:53.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 130,
+        "reach": 119,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 130,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 01:29:55"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 130,
+            "reach": 119,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 130,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 01:29:55"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWte0eCDedq/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/658816999_824864916687059_8093761850051783777_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=zn_ezcMmmOYQ7kNvwHZDpFX&_nc_oc=AdqrWIayzjn9mOUYP9ota6rwIw2X0y1rOEdqJNeVpZHQWM4wwwVWPpD7Vw0LZGX75yc&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0t4tFo3X5TQx9ToC6CthAA&_nc_tpa=Q5bMBQFXIpK3eJMiMJYCD02ARlO2co-r-7EatID75blvNFpNTxqginbhp99SQrbpPlTWFxj5_k9pPYgBZw&oh=00_Af3814B3NWqAvVVA6MBXUi3FONNZJ8DvV6cpASUMygOGPg&oe=69D8E4A9",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQPO4m2kGbIYXmL3vht6l8it4yNctO1lMUN7FRIn4PopFL0Yra9w4l1Kzw6kiUXsZF0JXk-ULH_A4YFEdMDlL06aMPcKzkFjAaQ-v0s.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=lfemaYwpi8AQ7kNvwFX1dWb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjc2MzEzMzY0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=fcbb04626f7981e7&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC81MTRGQzkxNDE3RjY1RjJGMzVGRkYyNzREMTQ2QzhCM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzdGNDFFMEY1Q0JFRkFENTA1RUE3RUJEQjcyRjM5N0E0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0num7x5qYQBUCKAJDMywXQEDu2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=0t4tFo3X5TQx9ToC6CthAA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFhLOJQkUXBd-HXvx95sFFIxBrQX_6r_58NgwjVsiodD3pdjnu9Nz_yvj8okY3-PvAtLOadxHjFQA&oh=00_Af3cpUaHV1k-Vr7H-nd4bZZ8awmvDmdFynWBjcJPrzVHlQ&oe=69D4CF98",
+          "thumbnail": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/658816999_824864916687059_8093761850051783777_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=zn_ezcMmmOYQ7kNvwHZDpFX&_nc_oc=AdqrWIayzjn9mOUYP9ota6rwIw2X0y1rOEdqJNeVpZHQWM4wwwVWPpD7Vw0LZGX75yc&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0t4tFo3X5TQx9ToC6CthAA&_nc_tpa=Q5bMBQFXIpK3eJMiMJYCD02ARlO2co-r-7EatID75blvNFpNTxqginbhp99SQrbpPlTWFxj5_k9pPYgBZw&oh=00_Af3814B3NWqAvVVA6MBXUi3FONNZJ8DvV6cpASUMygOGPg&oe=69D8E4A9"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d174713343e7799230d361",
+      "latePostId": "69cf7c5461bda984c3eb6d82",
+      "content": "Newborn eyes are already 70% of adult size at birth 👁️ #babyfacts #newborn #infantdevelopment #babyscience #pregnancy",
+      "publishedAt": "2026-04-04T18:00:56.000Z",
+      "scheduledFor": "2026-04-04T18:00:56.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 121,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 01:29:50"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 121,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 01:29:50"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7624965561667046669?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oUBzIiDW6d41MUBgRU7aRiACDBQFD2iIhIiPd~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=523553d8&x-expires=1775523600&x-signature=OIqoDKP7RCJRX9cAPmMitGCrDX4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oUBzIiDW6d41MUBgRU7aRiACDBQFD2iIhIiPd~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=523553d8&x-expires=1775523600&x-signature=OIqoDKP7RCJRX9cAPmMitGCrDX4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oUBzIiDW6d41MUBgRU7aRiACDBQFD2iIhIiPd~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=523553d8&x-expires=1775523600&x-signature=OIqoDKP7RCJRX9cAPmMitGCrDX4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d1c17c3343e7799231c363",
+      "latePostId": "69cf7e65b93c3673e3b89e57",
+      "content": "Newborns can tell their mom's language from a foreign one — within HOURS of birth 🗣️ #babyfacts #newborn #languagedevelopment #babyscience #pregnancy",
+      "publishedAt": "2026-04-04T23:05:31.000Z",
+      "scheduledFor": "2026-04-04T23:05:31.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 117,
+        "reach": 114,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 117,
+        "engagementRate": 0.85,
+        "lastUpdated": "2026-04-06 01:29:55"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 117,
+            "reach": 114,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 117,
+            "engagementRate": 0.85,
+            "lastUpdated": "2026-04-06 01:29:55"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWukBg_DGrn/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/658445791_975599661704849_1923328613306482030_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rm9Y6UwohvMQ7kNvwG1G_jI&_nc_oc=AdraKKWcfZ9xfdJg8ITtB3iPDkR3yf_kTowAJqTMXQAPCxYrqV54dvMfFv9PSJEi-9M&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0t4tFo3X5TQx9ToC6CthAA&_nc_tpa=Q5bMBQGpDNLJnG7VK5N8bALNNwGzoazfAOBfHr_mnrhpRtMQyNS2qqDMbCljilrsrcW2AMIudKVDifyEgQ&oh=00_Af0y5uzUmXe1_sPeo_CkkyjRWYhGYuJdECXuEcIa0JzN2g&oe=69D8D3E8",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQOWUDKMj7y4G8qAWf5Xru1zk-jyegt3z76L2O4FuZScreJqqzLGlR_H_lmPIjXbMsFq0AJJq1VxTSw3ZS7dlsYzor7CXgoOHUTPBXc.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=02xTgIoOzA4Q7kNvwGbPMU1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjc3MTMxMTk0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDUsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=265c18d91a140ac4&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xRTQwMkY4N0E5NjJBOTc4MDlENjVENzYyQURGQkNCMl92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzY3NDBDNTBGRTNFNTFBRjg5MDBERjFFMjYzRjY2MkIxX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0zZXmqJ-YQBUCKAJDMywXQEbiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=0t4tFo3X5TQx9ToC6CthAA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFV1AG1-MO7E3jEUnJkUUwmwZEZMYHGFjq6v-zbfHxwP6zeKwOrqqDe3BFiIfkl7vJHOq_Esr10JA&oh=00_Af39cDBtsctZzvRM1P9b69eI2iS0Yt2gPHLtf9SNZFvp1w&oe=69D4ED89",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/658445791_975599661704849_1923328613306482030_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rm9Y6UwohvMQ7kNvwG1G_jI&_nc_oc=AdraKKWcfZ9xfdJg8ITtB3iPDkR3yf_kTowAJqTMXQAPCxYrqV54dvMfFv9PSJEi-9M&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0t4tFo3X5TQx9ToC6CthAA&_nc_tpa=Q5bMBQGpDNLJnG7VK5N8bALNNwGzoazfAOBfHr_mnrhpRtMQyNS2qqDMbCljilrsrcW2AMIudKVDifyEgQ&oh=00_Af0y5uzUmXe1_sPeo_CkkyjRWYhGYuJdECXuEcIa0JzN2g&oe=69D8D3E8"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d113643343e779922f62e0",
+      "latePostId": "69cf79cd25c25985edfeaea7",
+      "content": "Babies start hiccupping in the womb at just 6 weeks 🤯\n\nThe diaphragm doing practice runs for breathing.\n\n#babyfacts #pregnancy #fetaldevelopment #newborn #babyscience #infantdevelopment #parenting",
+      "publishedAt": "2026-04-04T13:00:46.000Z",
+      "scheduledFor": "2026-04-04T13:00:46.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 118,
+        "reach": 112,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 118,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 01:29:55"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 118,
+            "reach": 112,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 118,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 01:29:55"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWtezkfjaYv/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr6-2.cdninstagram.com/v/t51.71878-15/658751606_34874249092221225_8870096900342998454_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ctrd6kZLGRQQ7kNvwHDKuBT&_nc_oc=AdpVSWmDGGtED0Jl_7T8YhjWF8yizh4Tbmy8KlXc9Db-yNsym0eYtiD1W--ra0Dci7w&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0t4tFo3X5TQx9ToC6CthAA&_nc_tpa=Q5bMBQHxEBsGchY1Jd7tJ-Bq8Hj_Rcd-PlDjhoRTbeu25gzwaiYGYjpzWGeHx25B4XRIDPbyuL0Jl5NCzQ&oh=00_Af1WVfEIli3bsLB2ISVom_kl62ux3Jkfda1KZYTg7ZaG9Q&oe=69D8D3C8",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQPiyEerC_6mBE0VtPswIQE9vTt_e9zkBAgGlHlB2YLaQShHGO7iPUfif7SzPLWoYr2DFago3fc09epPyZ1GtXQnwELcJi7IRDrJ-to.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=rd6RQ0z8kSoQ7kNvwHN4rt6&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjc2MzEyNTU0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=4ef269b98a86b7fc&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83ODRCOTAyNTQ5OUE4RDc1NkVENUI3Q0Y0RjI2QURCMV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YxNDY2MzMwRTY5NjkwRkY5QjRFRUUzNDExNkVBRDlFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0xcnuxpqYQBUCKAJDMywXQEDu2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=0t4tFo3X5TQx9ToC6CthAA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQE9Bd5zC1HD0PpC9MZd2WjS4fZOg61Z-c5h_2e4z84JUUMrlmr5yslejMsnKMHmC8YDnaFKcaKYnQ&oh=00_Af1kvMT48VOvpBD39ip-xij1hec4ceDSgcCsGEkVUvJssg&oe=69D4F845",
+          "thumbnail": "https://scontent-lhr6-2.cdninstagram.com/v/t51.71878-15/658751606_34874249092221225_8870096900342998454_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ctrd6kZLGRQQ7kNvwHDKuBT&_nc_oc=AdpVSWmDGGtED0Jl_7T8YhjWF8yizh4Tbmy8KlXc9Db-yNsym0eYtiD1W--ra0Dci7w&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=0t4tFo3X5TQx9ToC6CthAA&_nc_tpa=Q5bMBQHxEBsGchY1Jd7tJ-Bq8Hj_Rcd-PlDjhoRTbeu25gzwaiYGYjpzWGeHx25B4XRIDPbyuL0Jl5NCzQ&oh=00_Af1WVfEIli3bsLB2ISVom_kl62ux3Jkfda1KZYTg7ZaG9Q&oe=69D8D3C8"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d1c17d3343e7799231c368",
+      "latePostId": "69cf7e65b93c3673e3b89e57",
+      "content": "Newborns can tell their mom's language from a foreign one — within HOURS of birth 🗣️ #babyfacts #newborn #languagedevelopment #babyscience #pregnancy",
+      "publishedAt": "2026-04-04T23:05:06.000Z",
+      "scheduledFor": "2026-04-04T23:05:06.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 114,
+        "engagementRate": 1.75,
+        "lastUpdated": "2026-04-06 01:29:50"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 114,
+            "engagementRate": 1.75,
+            "lastUpdated": "2026-04-06 01:29:50"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7625043896464182542?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYFd1vGAIziig6RMjuZmSiiUBIB4iGPBnIaL0~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=4f5fafd3&x-expires=1775523600&x-signature=d%2F19IXJM%2FTUYRgDdn4wp%2FPYDHMM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYFd1vGAIziig6RMjuZmSiiUBIB4iGPBnIaL0~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=4f5fafd3&x-expires=1775523600&x-signature=d%2F19IXJM%2FTUYRgDdn4wp%2FPYDHMM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYFd1vGAIziig6RMjuZmSiiUBIB4iGPBnIaL0~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=4f5fafd3&x-expires=1775523600&x-signature=d%2F19IXJM%2FTUYRgDdn4wp%2FPYDHMM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d113643343e779922f62da",
+      "latePostId": "69cf799f25c25985edfea9d0",
+      "content": "Babies hiccup in the womb at 6 weeks — before lungs exist 🤯 #babyfacts #pregnancy #fetaldevelopment\n\nBabies hiccup in the womb at 6 weeks — before lungs exist 🤯 #babyfacts #pregnancy #fetaldevelopment #newborn #babyscience",
+      "publishedAt": "2026-04-04T13:00:26.000Z",
+      "scheduledFor": "2026-04-04T13:00:26.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 90,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 02:08:42"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 90,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 02:08:42"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=AAFSxbhstSM",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/AAFSxbhstSM/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/AAFSxbhstSM/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/AAFSxbhstSM/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d1c17c3343e7799231c362",
+      "latePostId": "69cf7e65b93c3673e3b89e57",
+      "content": "Newborns can tell their mom's language from a foreign one — within HOURS of birth 🗣️ #babyfacts #ne\n\nNewborns can tell their mom's language from a foreign one — within HOURS of birth 🗣️ #babyfacts #newborn #languagedevelopment #babyscience #pregnancy",
+      "publishedAt": "2026-04-04T23:00:04.000Z",
+      "scheduledFor": "2026-04-04T23:00:04.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 79,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 02:08:42"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 79,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 02:08:42"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=4IpsLmqrjpk",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/4IpsLmqrjpk/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/4IpsLmqrjpk/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/4IpsLmqrjpk/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d174703343e7799230d35b",
+      "latePostId": "69cf7c5461bda984c3eb6d82",
+      "content": "Newborn eyes are already 70% of adult size at birth 👁️ #babyfacts #newborn #infantdevelopment #baby\n\nNewborn eyes are already 70% of adult size at birth 👁️ #babyfacts #newborn #infantdevelopment #babyscience #pregnancy",
+      "publishedAt": "2026-04-04T18:00:25.000Z",
+      "scheduledFor": "2026-04-04T18:00:25.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 55,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 02:08:42"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 55,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 02:08:42"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=b9QCI9i_8-U",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/b9QCI9i_8-U/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/b9QCI9i_8-U/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/b9QCI9i_8-U/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}

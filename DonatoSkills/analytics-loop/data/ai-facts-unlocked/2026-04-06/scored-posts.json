@@ -1,0 +1,361 @@
+{
+  "project": "ai-facts-unlocked",
+  "scoredAt": "2026-04-06T02:09:32.124Z",
+  "dateRange": {
+    "from": "2026-04-03",
+    "to": "2026-04-04"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 6,
+    "includedPosts": 0,
+    "excludedPosts": 6,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69d1746f3343e7799230d350",
+      "latePostId": "69cf88b2fb2423dff0b56a27",
+      "content": "This face has never existed — AI generated it in half a second 🤯 #aifacts #generativeai #artificial\n\nThis face has never existed — AI generated it in half a second 🤯 #aifacts #generativeai #artificialintelligence #deepfake #machinelearning",
+      "publishedAt": "2026-04-04T18:00:17.000Z",
+      "scheduledFor": "2026-04-04T18:00:17.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 460,
+        "engagementRate": 0.22,
+        "lastUpdated": "2026-04-06 02:08:42"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 460,
+            "engagementRate": 0.22,
+            "lastUpdated": "2026-04-06 02:08:42"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=F2ORpj-TxTE",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/F2ORpj-TxTE/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/F2ORpj-TxTE/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/F2ORpj-TxTE/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d1c17a3343e7799231c35a",
+      "latePostId": "69cf8b48fb2423dff0b594be",
+      "content": "Training one AI model = same CO2 as 300 roundtrip flights ✈️ The AI revolution has a carbon price ta\n\nTraining one AI model = same CO2 as 300 roundtrip flights ✈️ The AI revolution has a carbon price tag. #aifacts #artificialintelligence #aicarbon #sustainability #machinelearning",
+      "publishedAt": "2026-04-04T23:00:34.000Z",
+      "scheduledFor": "2026-04-04T23:00:34.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 150,
+        "engagementRate": 0.67,
+        "lastUpdated": "2026-04-06 02:08:42"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 1,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 150,
+            "engagementRate": 0.67,
+            "lastUpdated": "2026-04-06 02:08:42"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=T-hp6mQWpq4",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/T-hp6mQWpq4/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/T-hp6mQWpq4/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/T-hp6mQWpq4/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d1c17a3343e7799231c35e",
+      "latePostId": "69cf8b48fb2423dff0b594be",
+      "content": "Training one AI model = same CO2 as 300 roundtrip flights ✈️ The AI revolution has a carbon price tag. #aifacts #artificialintelligence #aicarbon #sustainability #machinelearning",
+      "publishedAt": "2026-04-04T23:06:08.000Z",
+      "scheduledFor": "2026-04-04T23:06:08.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 144,
+        "reach": 140,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 144,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 01:29:49"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 144,
+            "reach": 140,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 144,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 01:29:49"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWukFiKD4y3/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/658160944_1365993988897014_6885069117233390330_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=o7U47YY-utUQ7kNvwFOkb0L&_nc_oc=AdoFCKywoKS3g7jIh_9icUic7C_mGyvaDkieL6BLMCdeddi1QKfzkLuOqYAH7pv1Olc&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=RxLR0GVHhv6dWkZSfJdwUA&_nc_tpa=Q5bMBQE-9xVBtQpUl9e9beyGmRn8Odm2jjOZHuxtzPVi_GJ3KIXx2CMnpS3ZDybbrng4vWnZaKyWKKtvkA&oh=00_Af2dDIJuk7s4S6h32OZlNfVEOqpKQnt9lFyvOzYZR06M1A&oe=69D8CEED",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQMTlm1atrqKbOJRo852QY4KsB0y-4s9lyotSzxPW2lnQvkjPojMC9h7dkH6fMvLQUknyiMFu2Bsre-TWcMeUF5HCE3rxXTxN2V3tGk.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=nQ9HgwdKlWAQ7kNvwGLiG6l&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjc5MDc0MjMzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NTEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a96ada02c78c4c23&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9FQzQ4RTA5Njc0RjhEMkJFRkYwMjQ2M0U0RDk3RTBBMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Y0NDlCMTU5MzYwNURDQTFCOTQzM0Q2OEI0NzY2OUE3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa07PK80KqYQBUCKAJDMywXQEmqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=RxLR0GVHhv6dWkZSfJdwUA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEQXDl05vphSCKsQKF2waZh8W0XHZIWPFTYCKnPTFYG1cVmFkrS-RI5YvR0PDG2ZiwjEorT-wveQA&oh=00_Af0j6ZJLmOAYPlt-qa4VNi7WkLMBPC09Xi3fSGYT4uIscQ&oe=69D4FD7C",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/658160944_1365993988897014_6885069117233390330_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=o7U47YY-utUQ7kNvwFOkb0L&_nc_oc=AdoFCKywoKS3g7jIh_9icUic7C_mGyvaDkieL6BLMCdeddi1QKfzkLuOqYAH7pv1Olc&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=RxLR0GVHhv6dWkZSfJdwUA&_nc_tpa=Q5bMBQE-9xVBtQpUl9e9beyGmRn8Odm2jjOZHuxtzPVi_GJ3KIXx2CMnpS3ZDybbrng4vWnZaKyWKKtvkA&oh=00_Af2dDIJuk7s4S6h32OZlNfVEOqpKQnt9lFyvOzYZR06M1A&oe=69D8CEED"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d163913343e779923097ec",
+      "latePostId": "69cf88b2fb2423dff0b56a27",
+      "content": "This face has never existed — AI generated it in half a second 🤯 #aifacts #generativeai #artificialintelligence #deepfake #machinelearning",
+      "publishedAt": "2026-04-04T18:01:10.000Z",
+      "scheduledFor": "2026-04-04T18:01:10.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 130,
+        "reach": 128,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 130,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 01:29:49"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 130,
+            "reach": 128,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 130,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 01:29:49"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWuBLtSAT-E/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/658427522_922009967306081_2211443504496557105_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NVYGShhiHoAQ7kNvwFDO3pk&_nc_oc=AdphOpR44Pg_GAXuYc2WMxfGa4z52D2Vu8-r24TOcbRGkhv22lykmDfNoaIS8Q-BRlg&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=RxLR0GVHhv6dWkZSfJdwUA&_nc_tpa=Q5bMBQFVzCzrDn30XUq0Jh0zyvpQAuBLZNRIYMxCf_ciKuFj-82Uc4vLIQcYdJrtVh_spEtb7fTX3L1bWg&oh=00_Af3OTF1y4-fcAeYynfBkSbisi6AlZl2G9WRU0ls4ZDa2tw&oe=69D8EB56",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQPhH1-Z75ittcnklLQOIVWYRkjZdMqcA39XUuEjgxDJcPsNvpO5HXc501TKjRiZZ7_005Sj1VBfdearBaTrCJjoeluTEmhX8QsI2sk.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=fVd2l1vDeskQ7kNvwGEFeSi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjc4NzY4NTAzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDMsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=3fe2b0d2229c8c73&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83RTRCQTZGMDM1MTREQTMzQzFFRUNBMDYyMEI4MkQ4OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzlCNEExRUNDREUwNjRCQ0ZCREYxNTQ5ODg1MTZDNjgwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0l5vY7KiYQBUCKAJDMywXQEWu2RaHKwIYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=RxLR0GVHhv6dWkZSfJdwUA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHbsaucjcgd7mXepMjHstJ2Mpwt3qGbdV8FBg8e_iYgaBLD6Db-vcbhkgetW9c5KFn9r8NxSppOnA&oh=00_Af20xYF6LROA625zlxy8AoW5OH2wO9NdMOqor91imzPbjg&oe=69D50697",
+          "thumbnail": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/658427522_922009967306081_2211443504496557105_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=NVYGShhiHoAQ7kNvwFDO3pk&_nc_oc=AdphOpR44Pg_GAXuYc2WMxfGa4z52D2Vu8-r24TOcbRGkhv22lykmDfNoaIS8Q-BRlg&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=RxLR0GVHhv6dWkZSfJdwUA&_nc_tpa=Q5bMBQFVzCzrDn30XUq0Jh0zyvpQAuBLZNRIYMxCf_ciKuFj-82Uc4vLIQcYdJrtVh_spEtb7fTX3L1bWg&oh=00_Af3OTF1y4-fcAeYynfBkSbisi6AlZl2G9WRU0ls4ZDa2tw&oe=69D8EB56"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d114a23343e779922f66eb",
+      "latePostId": "69cf870c804145473b7d3ea2",
+      "content": "AI can detect Parkinson's disease from a 10-second voice clip with 86% accuracy 🎙️ #aifacts #medicalai #artificialintelligence #machinelearning",
+      "publishedAt": "2026-04-04T13:00:57.000Z",
+      "scheduledFor": "2026-04-04T13:00:57.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 118,
+        "reach": 115,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 118,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 01:29:49"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 118,
+            "reach": 115,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 118,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 01:29:49"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWte0tIDKke/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/658796355_913975261452991_5183322001801730121_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=z4lWuaM56F4Q7kNvwEg-3sp&_nc_oc=AdocnKd7mwO4iiWz9yHmEEBzA3Vqo6ri48MrmD004ebdVlYiBluXDY7hcHO2BHU9fhM&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=RxLR0GVHhv6dWkZSfJdwUA&_nc_tpa=Q5bMBQGIyl675_p7PEoUc0TJSB-ZKTjCnEi1wG-uLWW-192i7R41uBQi3uhIsEBu0r22wjVzNXDu3WGkcA&oh=00_Af1GT9zb1NjN6vADTXe7kopORl7NmO2YhCppxItw9Umjtg&oe=69D8F09D",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQNv1SwVth99xlxBDvDmWEs-15dRiJfYKDYpGAoCO-I8ut04l7HmPU3L2YBmxsUk9OO9f2i040KWWXjm1nAv1kw8SOwnIH6strT26g8.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=ULtyeLo-BiwQ7kNvwEnNej2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjc4MjkzOTMzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDEsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=a965c96f51b6de1a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zRTQwRDUzMjI0MDIzMDQyNjM3N0E5QjU0OTVCQUVBRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzRGNEExMDhCNDM5NjQ0QTU0N0Q3RDM0QUZDRUVGRDkzX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0rtiNi6aYQBUCKAJDMywXQETMzMzMzM0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=RxLR0GVHhv6dWkZSfJdwUA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQG0FIlBFucpduKn9CsiFA2aFBjdtir3R274UtAlP12c-YDSpcxKTcwro4tCbdlIoFf_bNNSxGuK2w&oh=00_Af29o2k1GoJ-OTJSYnhrbeNRifmucKuJbxuo5nPg7y0uxQ&oe=69D4D9E8",
+          "thumbnail": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/658796355_913975261452991_5183322001801730121_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=z4lWuaM56F4Q7kNvwEg-3sp&_nc_oc=AdocnKd7mwO4iiWz9yHmEEBzA3Vqo6ri48MrmD004ebdVlYiBluXDY7hcHO2BHU9fhM&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=RxLR0GVHhv6dWkZSfJdwUA&_nc_tpa=Q5bMBQGIyl675_p7PEoUc0TJSB-ZKTjCnEi1wG-uLWW-192i7R41uBQi3uhIsEBu0r22wjVzNXDu3WGkcA&oh=00_Af1GT9zb1NjN6vADTXe7kopORl7NmO2YhCppxItw9Umjtg&oe=69D8F09D"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d113623343e779922f62d5",
+      "latePostId": "69cf870c804145473b7d3ea2",
+      "content": "AI can detect Parkinson's disease from a 10-second voice clip with 86% accuracy 🎙️ #aifacts #medica\n\nAI can detect Parkinson's disease from a 10-second voice clip with 86% accuracy 🎙️ #aifacts #medicalai #artificialintelligence #machinelearning",
+      "publishedAt": "2026-04-04T13:00:39.000Z",
+      "scheduledFor": "2026-04-04T13:00:39.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 75,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 02:08:42"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 75,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 02:08:42"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=Meeda39WqKw",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/Meeda39WqKw/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/Meeda39WqKw/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Meeda39WqKw/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}

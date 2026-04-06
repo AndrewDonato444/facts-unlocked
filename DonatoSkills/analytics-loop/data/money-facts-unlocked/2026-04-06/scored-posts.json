@@ -1,0 +1,529 @@
+{
+  "project": "money-facts-unlocked",
+  "scoredAt": "2026-04-06T02:09:32.301Z",
+  "dateRange": {
+    "from": "2026-04-03",
+    "to": "2026-04-04"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 9,
+    "includedPosts": 0,
+    "excludedPosts": 9,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69d174703343e7799230d35a",
+      "latePostId": "69cf830a7525be4ccf9a14a7",
+      "content": "00:💸 99% of Warren Buffett's wealth came after age 56 — the power of compound interest. #moneyfacts #investing #compoundinterest #warrenbuffett",
+      "publishedAt": "2026-04-04T18:00:22.000Z",
+      "scheduledFor": "2026-04-04T18:00:22.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 6,
+        "comments": 0,
+        "shares": 1,
+        "saves": 0,
+        "clicks": 0,
+        "views": 261,
+        "engagementRate": 2.68,
+        "lastUpdated": "2026-04-06 01:29:49"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 6,
+            "comments": 0,
+            "shares": 1,
+            "saves": 0,
+            "clicks": 0,
+            "views": 261,
+            "engagementRate": 2.68,
+            "lastUpdated": "2026-04-06 01:29:49"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7624965374127230221?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oUiUPl7iHcdQRUaMIUI4tavsyKIBCFgRGHAiB~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=7e511fac&x-expires=1775523600&x-signature=iSl7AsMDHvLAWU8Sal2kzLIAZ%2F8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oUiUPl7iHcdQRUaMIUI4tavsyKIBCFgRGHAiB~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=7e511fac&x-expires=1775523600&x-signature=iSl7AsMDHvLAWU8Sal2kzLIAZ%2F8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oUiUPl7iHcdQRUaMIUI4tavsyKIBCFgRGHAiB~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=7e511fac&x-expires=1775523600&x-signature=iSl7AsMDHvLAWU8Sal2kzLIAZ%2F8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d1c17c3343e7799231c364",
+      "latePostId": "69cf853168cd854ce0013684",
+      "content": "1 million seconds = 11 days. 1 billion seconds = 1987 🤯 #moneyfacts #finance #wealthinequality #economics #moneymindset",
+      "publishedAt": "2026-04-04T23:05:04.000Z",
+      "scheduledFor": "2026-04-04T23:05:04.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 2,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 251,
+        "engagementRate": 1.2,
+        "lastUpdated": "2026-04-06 01:29:49"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 2,
+            "comments": 1,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 251,
+            "engagementRate": 1.2,
+            "lastUpdated": "2026-04-06 01:29:49"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7625043918194789646?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYzCYWBefRCTLHJLQJSqDmeGAIFgk4CIu2oUQh~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=691ac103&x-expires=1775523600&x-signature=xOHYgpItULiw2Gk9fRpixkPR5xk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYzCYWBefRCTLHJLQJSqDmeGAIFgk4CIu2oUQh~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=691ac103&x-expires=1775523600&x-signature=xOHYgpItULiw2Gk9fRpixkPR5xk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYzCYWBefRCTLHJLQJSqDmeGAIFgk4CIu2oUQh~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=691ac103&x-expires=1775523600&x-signature=xOHYgpItULiw2Gk9fRpixkPR5xk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d113643343e779922f62dc",
+      "latePostId": "69cf815f51a01a74bb1acbd6",
+      "content": "The US penny costs 3 cents to make and is worth 1 cent 💸 #moneyfacts #finance #economics #pennies #moneytips",
+      "publishedAt": "2026-04-04T13:00:29.000Z",
+      "scheduledFor": "2026-04-04T13:00:29.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 132,
+        "engagementRate": 0.76,
+        "lastUpdated": "2026-04-06 01:29:49"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "accountId": "69b991446cb7b8cf4c7b9f76",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 132,
+            "engagementRate": 0.76,
+            "lastUpdated": "2026-04-06 01:29:49"
+          }
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@moneyfactsunlocked/video/7624887945228520718?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYVC3DfkpnDNlhNRBnFEgtDtw0EBtPkQQafBSQ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=c100a7b6&x-expires=1775523600&x-signature=K6T75pCXkb9rXkNVyA2wht7rqu0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYVC3DfkpnDNlhNRBnFEgtDtw0EBtPkQQafBSQ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=c100a7b6&x-expires=1775523600&x-signature=K6T75pCXkb9rXkNVyA2wht7rqu0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYVC3DfkpnDNlhNRBnFEgtDtw0EBtPkQQafBSQ~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=c100a7b6&x-expires=1775523600&x-signature=K6T75pCXkb9rXkNVyA2wht7rqu0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d174723343e7799230d363",
+      "latePostId": "69cf830a7525be4ccf9a14a7",
+      "content": "00:💸 99% of Warren Buffett's wealth came after age 56 — the power of compound interest. #moneyfacts #investing #compoundinterest #warrenbuffett",
+      "publishedAt": "2026-04-04T18:00:49.000Z",
+      "scheduledFor": "2026-04-04T18:00:49.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 114,
+        "reach": 106,
+        "likes": 0,
+        "comments": 0,
+        "shares": 1,
+        "saves": 0,
+        "clicks": 0,
+        "views": 114,
+        "engagementRate": 0.88,
+        "lastUpdated": "2026-04-06 01:29:54"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 114,
+            "reach": 106,
+            "likes": 0,
+            "comments": 0,
+            "shares": 1,
+            "saves": 0,
+            "clicks": 0,
+            "views": 114,
+            "engagementRate": 0.88,
+            "lastUpdated": "2026-04-06 01:29:54"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWuBJVlk4wU/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/658043641_791527910350441_6477366745756829870_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lc5MLPa36dcQ7kNvwE_Ov7O&_nc_oc=AdpTBzIAgY9lWVOetM5tEqXX3N5LGT2QnFgVQuejmMrdsq9SYM0Q00Gsgke7DJG9j9k&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sFfJgdtE9FvO9cZjIU69GA&_nc_tpa=Q5bMBQFI_wSvAmHpVYI3RP9GQZ3K15VgQJ3m9MwuBWSjIVw_GbvtU0UktE2tBpUQVMNZ0C8rHWZ0JYo63w&oh=00_Af0a4a6lObQDsKm2bgHnWjn_TF362qpIFb6L9w8PqeC4iQ&oe=69D8CE1D",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m86/AQNhgl0rIPG9zkexMfrWkUfAG7rGHsk_RnxQkJdH7_xa8rMG7I3BKOEbB-kcTdj6bKQR5ZjT9IzELYypL411kIY9QXpvKpXaB-KpTS0.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=_dhSoWxVTk4Q7kNvwFSh4ma&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjk0NTc1NjUzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDksInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=cd4bbd57cef41f71&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zOTQzQUYzMTc3NDM2QzYzRDZCNUFENEYxN0FFNzBBRV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Q1NDQ5OUE3NTM4QjFCRjhBMzBENzlDQjU3MTFGMDg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8lL337YSZQBUCKAJDMywXQEj3bItDlYEYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sFfJgdtE9FvO9cZjIU69GA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFq716iPaHCzVIF9Wb50k99N7hkI0khXDGBRoVLMEmBYwsIROmz0f2WqY1U5FDJtfgL5rXARGpejA&oh=00_Af20Cg7Mzxsqs9Ca1rdAZ8Sv2cLpflo66eWetON5Psk3Ow&oe=69D4DD4F",
+          "thumbnail": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/658043641_791527910350441_6477366745756829870_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lc5MLPa36dcQ7kNvwE_Ov7O&_nc_oc=AdpTBzIAgY9lWVOetM5tEqXX3N5LGT2QnFgVQuejmMrdsq9SYM0Q00Gsgke7DJG9j9k&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sFfJgdtE9FvO9cZjIU69GA&_nc_tpa=Q5bMBQFI_wSvAmHpVYI3RP9GQZ3K15VgQJ3m9MwuBWSjIVw_GbvtU0UktE2tBpUQVMNZ0C8rHWZ0JYo63w&oh=00_Af0a4a6lObQDsKm2bgHnWjn_TF362qpIFb6L9w8PqeC4iQ&oe=69D8CE1D"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d1f187b668e4ea1d49c066",
+      "latePostId": "69cf853168cd854ce0013684",
+      "content": "1 million seconds = 11 days. 1 billion seconds = 1987 🤯 #moneyfacts #finance #wealthinequality #economics #moneymindset",
+      "publishedAt": "2026-04-04T23:05:27.000Z",
+      "scheduledFor": "2026-04-04T23:05:27.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 108,
+        "reach": 100,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 108,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 01:29:54"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 108,
+            "reach": 100,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 108,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 01:29:54"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWukAsyEROe/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/658504568_1271013427933146_8403495749045360119_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Fg9pMdgmq88Q7kNvwGFc_Fh&_nc_oc=Adobz1aoErrfLz_70H5i-v6O-Qulf1pzJTyFvOQirzu82KavdoLz7eFMAJzETOelvlc&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sFfJgdtE9FvO9cZjIU69GA&_nc_tpa=Q5bMBQE2f6TuQWebGMnhBbNmI_eCBJ0k7qptKhUrYDMIG8WVwhBdFfTJBpg1HnMVcLLeI63nxUTQh224Ng&oh=00_Af1GluHbVd9H6w9CJLIZSjdjx5XVjJx9sJqb54rONDUfIw&oe=69D8CDD7",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQOphDo4AxlF058Om-BHxYQyFcdBP3DU_WfrAH7WF5iJIdBF1VFAEh_ofvFu5zHYDTHxx0Q61BdLDG2LaRJhJDJNWDzQRlSe5LTrjC0.mp4?_nc_cat=101&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=zzq7RMarrNcQ7kNvwGV9j04&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjk0ODgxMTEzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MzQsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=83705b243a4d60dd&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9DOTRGQjgwNTlFOEIyOTkwOTdGREJFNkQ5QUVCM0M5QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YwNEEyNEI2OEJCNUE0QTJCRDk1REJERjQ3MjA0RTlEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb89rTC0YaZQBUCKAJDMywXQEEiDEm6XjUYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sFfJgdtE9FvO9cZjIU69GA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHUazpihfe8UwOEoDbma-gbQfk_FTON9rYuPc0jQTBVDg0YnunG6KxfVbA9DpYQucoP2xQa_WyOSg&oh=00_Af2OdcKwGYIJy7mSql1ZXQNR8R-occvqeEqRU8AKxswBfA&oe=69D4F8FE",
+          "thumbnail": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/658504568_1271013427933146_8403495749045360119_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Fg9pMdgmq88Q7kNvwGFc_Fh&_nc_oc=Adobz1aoErrfLz_70H5i-v6O-Qulf1pzJTyFvOQirzu82KavdoLz7eFMAJzETOelvlc&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sFfJgdtE9FvO9cZjIU69GA&_nc_tpa=Q5bMBQE2f6TuQWebGMnhBbNmI_eCBJ0k7qptKhUrYDMIG8WVwhBdFfTJBpg1HnMVcLLeI63nxUTQh224Ng&oh=00_Af1GluHbVd9H6w9CJLIZSjdjx5XVjJx9sJqb54rONDUfIw&oe=69D8CDD7"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d1746f3343e7799230d34d",
+      "latePostId": "69cf830a7525be4ccf9a14a7",
+      "content": "00:💸 99% of Warren Buffett's wealth came after age 56 — the power of compound interest. #moneyfacts\n\n00:💸 99% of Warren Buffett's wealth came after age 56 — the power of compound interest. #moneyfacts #investing #compoundinterest #warrenbuffett",
+      "publishedAt": "2026-04-04T18:00:00.000Z",
+      "scheduledFor": "2026-04-04T18:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 1,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 102,
+        "engagementRate": 0.98,
+        "lastUpdated": "2026-04-06 02:08:42"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 1,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 102,
+            "engagementRate": 0.98,
+            "lastUpdated": "2026-04-06 02:08:42"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=h5l2xkyms9I",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/h5l2xkyms9I/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/h5l2xkyms9I/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/h5l2xkyms9I/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d114a13343e779922f66ea",
+      "latePostId": "69cf815f51a01a74bb1acbd6",
+      "content": "The US penny costs 3 cents to make and is worth 1 cent 💸 #moneyfacts #finance #economics #pennies #moneytips",
+      "publishedAt": "2026-04-04T13:00:56.000Z",
+      "scheduledFor": "2026-04-04T13:00:56.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 90,
+        "reach": 85,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 90,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 01:29:54"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 90,
+            "reach": 85,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 90,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 01:29:54"
+          }
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DWte0uZFAg_/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-lhr6-2.cdninstagram.com/v/t51.71878-15/658175983_1594576868291296_8637332738076580323_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qqB6aNFaec8Q7kNvwHBkt41&_nc_oc=Adr9PlkWIdpFhAi75039JGZxIFfmB3TYi3jg8MoiVKay81vrPIComX9tBFgZzKggdUk&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sFfJgdtE9FvO9cZjIU69GA&_nc_tpa=Q5bMBQFDBVSwVckrmkXeT9-AbpFjeTF4rOWwJhxkHnwZxN0ixgcw-FawNgeHPclxa49FfifHqRRDLP6tGg&oh=00_Af0FsW80_vccfpAoqNI5p9NQS5mwpTZzG_up0H7gYhcINw&oe=69D8C9F8",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQMg6poK7QMxjmfSGO5hFcI1CU91SPlB1GyAw3vWdDNffWAS6MKTkCoCqGzS6laxARrOe1NTrqRyfNe6IIG7yLUlSlgA-8-oncz0s_g.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=aUDQf_nPMxUQ7kNvwGzdo6L&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNjk0MDg2NTYzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NDgsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=486788ba30361028&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BNzRCN0YyQUJEQjgwMEVERjI5RkMzRkJDMzJBNjI5N192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0ZFNDUyMzE0NjNGNkI3OUI2NkE5NEFEQ0ZGMTA5OTg2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8n5zEgYKZQBUCKAJDMywXQEhqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=sFfJgdtE9FvO9cZjIU69GA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEiCGlb-yOD85wVjSoAAnEydeRqx55WTueF27hpywIk61IS8oniYcvAtGtoGKSxLZkigyv1MtCVVQ&oh=00_Af2a4TALE8iSkiep2k1OwTVWMpAdQQNCWxCULOWRl4RqNQ&oe=69D4FD62",
+          "thumbnail": "https://scontent-lhr6-2.cdninstagram.com/v/t51.71878-15/658175983_1594576868291296_8637332738076580323_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=qqB6aNFaec8Q7kNvwHBkt41&_nc_oc=Adr9PlkWIdpFhAi75039JGZxIFfmB3TYi3jg8MoiVKay81vrPIComX9tBFgZzKggdUk&_nc_zt=23&_nc_ht=scontent-lhr6-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=sFfJgdtE9FvO9cZjIU69GA&_nc_tpa=Q5bMBQFDBVSwVckrmkXeT9-AbpFjeTF4rOWwJhxkHnwZxN0ixgcw-FawNgeHPclxa49FfifHqRRDLP6tGg&oh=00_Af0FsW80_vccfpAoqNI5p9NQS5mwpTZzG_up0H7gYhcINw&oe=69D8C9F8"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d1c17a3343e7799231c35b",
+      "latePostId": "69cf853168cd854ce0013684",
+      "content": "1 million seconds = 11 days. 1 billion seconds = 1987 🤯 #moneyfacts #finance #wealthinequality #eco\n\n1 million seconds = 11 days. 1 billion seconds = 1987 🤯 #moneyfacts #finance #wealthinequality #economics #moneymindset",
+      "publishedAt": "2026-04-04T23:00:00.000Z",
+      "scheduledFor": "2026-04-04T23:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 80,
+        "engagementRate": 3.75,
+        "lastUpdated": "2026-04-06 02:08:42"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 3,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 80,
+            "engagementRate": 3.75,
+            "lastUpdated": "2026-04-06 02:08:42"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=kGDrAfOHH1s",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/kGDrAfOHH1s/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/kGDrAfOHH1s/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/kGDrAfOHH1s/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69d113623343e779922f62d3",
+      "latePostId": "69cf815f51a01a74bb1acbd6",
+      "content": "The US penny costs 3 cents to make and is worth 1 cent 💸 #moneyfacts #finance #economics #pennies #\n\nThe US penny costs 3 cents to make and is worth 1 cent 💸 #moneyfacts #finance #economics #pennies #moneytips",
+      "publishedAt": "2026-04-04T13:00:00.000Z",
+      "scheduledFor": "2026-04-04T13:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 10,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-06 02:08:42"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 10,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-06 02:08:42"
+          }
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=R1zgySB48C4",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/R1zgySB48C4/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/R1zgySB48C4/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/R1zgySB48C4/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}
