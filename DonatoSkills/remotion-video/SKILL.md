@@ -1251,6 +1251,13 @@ npx remotion studio src/index.ts
 npx remotion render src/index.ts <CompositionId> out/video.mp4
 ```
 
+**After render, purge Remotion's temp cache** (Chrome Headless Shell + artifacts):
+```bash
+rm -rf /var/folders/*/*/T/remotion* 2>/dev/null || true
+```
+
+This frees ~150–300MB per render. In batch pipelines (multiple videos per session), skipping this fills the disk and blocks subsequent renders.
+
 If render fails, check:
 - Missing dependencies (run `npm i`)
 - Asset files not in `public/`

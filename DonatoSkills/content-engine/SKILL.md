@@ -293,29 +293,47 @@ Example orchestrated invocation:
 
 Update calendar item status to `creating` before, `created` after (with `asset_path`).
 
-### 2. Upload to Cloudinary
+### 2. Upload to R2
 
-After content is created locally, upload to Cloudinary:
+After content is created locally, upload to Cloudflare R2:
 
 ```bash
-# For video
-curl -s -X POST "https://api.cloudinary.com/v1_1/$CLOUDINARY_CLOUD_NAME/video/upload" \
-  -F "file=@path/to/video.mp4" \
-  -F "api_key=$CLOUDINARY_API_KEY" \
-  -F "timestamp=$(date +%s)" \
-  -F "signature=$(echo -n "timestamp=$(date +%s)$CLOUDINARY_API_SECRET" | shasum -a 1 | cut -d' ' -f1)"
-
-# For image
-curl -s -X POST "https://api.cloudinary.com/v1_1/$CLOUDINARY_CLOUD_NAME/image/upload" \
-  -F "file=@path/to/image.png" \
-  -F "api_key=$CLOUDINARY_API_KEY" \
-  -F "timestamp=$(date +%s)" \
-  -F "signature=$(echo -n "timestamp=$(date +%s)$CLOUDINARY_API_SECRET" | shasum -a 1 | cut -d' ' -f1)"
+# Upload video and capture the public URL
+ASSET_URL=$(node DonatoSkills/content-engine/scripts/r2-upload.js path/to/video.mp4)
 ```
 
-Extract `secure_url` from the response. Update calendar item status to `uploaded` with `asset_url`.
+The script auto-generates a destination key (`videos/<YYYY-MM-DD>/<basename>`) if none is provided.
+Supply an explicit key for predictable URLs:
 
-See `references/cloudinary-upload.md` for details.
+```bash
+ASSET_URL=$(node DonatoSkills/content-engine/scripts/r2-upload.js \
+  path/to/video.mp4 \
+  videos/2026-04-06/001-fetal-heartbeat-starts.mp4)
+```
+
+Update calendar item `asset_url` with the returned URL and set status to `uploaded`.
+
+See `references/r2-upload.md` for full usage, env vars, and examples.
+
+### 2.5. Disk Cleanup (required after every upload)
+
+**Immediately after a successful upload**, delete the local MP4/image to prevent disk accumulation across multiple videos:
+
+```bash
+# Confirm upload succeeded (non-empty URL), then delete
+if [ -n "$ASSET_URL" ]; then
+  rm path/to/video.mp4
+  # Also purge Remotion's Chrome Headless Shell cache
+  rm -rf /var/folders/*/*/T/remotion* 2>/dev/null || true
+fi
+```
+
+**Why this matters**: Each rendered MP4 is ~20–80MB. Remotion downloads a ~150MB Chrome binary on first render and caches it in `/tmp`. Without cleanup, 9 videos fill the available sandbox disk (~2.6GB free) and block subsequent renders.
+
+**Rules**:
+- Never delete before confirming upload (non-empty `ASSET_URL`)
+- Delete only the rendered output (`out/video.mp4`), not the project source files
+- The Remotion Chrome cache purge is safe — it re-downloads on next render if needed
 
 ### 3. Schedule via Buffer or Zernio
 
