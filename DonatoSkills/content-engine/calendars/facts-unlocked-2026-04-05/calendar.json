@@ -1,0 +1,619 @@
+{
+  "campaign": "facts-unlocked-2026-04-05",
+  "date": "2026-04-05",
+  "generated_at": "2026-04-05T00:00:00Z",
+  "brief_source": "exploratory — no briefs for 2026-04-05, using content_pillars + week-2026-14 signal",
+  "mode": "explore",
+  "research_signal": "week-2026-14: 3-part hook in first 3s — bold on-screen text (3-6 words) naming result + AI visual + verbal hook within 1s. Avoid logos, greetings, context dumps.",
+  "stats": {
+    "total": 9,
+    "scheduled": 9,
+    "failed": 0,
+    "skipped": 0
+  },
+  "items": [
+    {
+      "id": "001",
+      "project": "baby-facts-unlocked",
+      "slug": "sids-back-sleeping",
+      "used_topic_id": "061",
+      "date": "2026-04-05",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "myth-busting",
+      "hook_type": "result_first",
+      "hook_text": "WRONG POSITION FOR 40 YEARS",
+      "concept": "Doctors told parents to put babies to sleep on their stomachs for 40 years. Then in 1992, the AAP reversed the advice: back is best. The Back to Sleep campaign cut SIDS deaths by 50% in just 5 years. Tens of thousands of babies survived who wouldn't have — because of one sentence of changed medical guidance.",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "For 40 years, doctors told parents to put babies to sleep on their stomachs. They were wrong.",
+          "direction": "myth-bust, bold, slightly alarming"
+        },
+        "scene-2": {
+          "text": "In 1992 the American Academy of Pediatrics reversed the advice — back is best. The Back to Sleep campaign launched. SIDS deaths dropped 50 percent in just 5 years. Not a drug. Not surgery. Just a position change.",
+          "direction": "informative, measured, revealing — let the stat land"
+        },
+        "scene-3": {
+          "text": "Tens of thousands of babies who would have died survived — because of one updated sentence in medical guidelines. The simplest intervention in modern pediatrics.",
+          "direction": "warm, grounding, slightly emotional"
+        }
+      },
+      "captions": {
+        "tiktok": "Doctors had this backwards for 40 years 😳 #babyfacts #SIDS #babysleep #parentingtips #babyhealth",
+        "youtube": "Doctors told parents the wrong sleep position for 40 years. One policy change saved tens of thousands of lives. #babyfacts #SIDS #infantsafety",
+        "instagram": "Doctors had it backwards for 40 years 😳\n\nFor four decades, parents were told to put babies to sleep on their stomachs.\n\nIn 1992, the AAP reversed the guidance: back is best.\n\nThe Back to Sleep campaign launched. SIDS deaths dropped 50% in 5 years.\n\nNot a drug. Not surgery. One position change.\n\n#babyfacts #SIDS #babysleep #infantsafety #parentingtips #newborn #babyhealth #pregnancy"
+      },
+      "style": "9:16 vertical, soft warm palette, sleeping baby imagery, karaoke word-highlight overlay",
+      "duration": 43.6,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "result_first",
+        "video_length": "24",
+        "voice_pace": "moderate",
+        "text_overlay": "karaoke",
+        "background_type": "ai-gen",
+        "music_energy": "curious",
+        "cta_style": "share_cta"
+      },
+      "status": "published",
+      "asset_path": "videos/001-sids-back-sleeping/out/video.mp4",
+      "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-unlocked-2026-04-05/001-sids-back-sleeping.mp4",
+      "zernio_post_ids": null,
+      "error": null,
+      "created_at": "2026-04-05",
+      "zernio_post_id": "69d31f5f1c459dd3ab9ee173",
+      "published_at": "2026-04-06T02:50:00Z"
+    },
+    {
+      "id": "002",
+      "project": "baby-facts-unlocked",
+      "slug": "first-tooth-genetics",
+      "used_topic_id": "062",
+      "date": "2026-04-05",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "did_you_know",
+      "hook_text": "FIRST TOOTH WRITTEN IN DNA",
+      "concept": "95% of babies cut their first tooth in exactly the same spot — the lower central incisors. And the timing is pure genetics: identical twins' first teeth erupt within 2 weeks of each other regardless of what they eat or how different their environments are. Your baby's teeth schedule was set at conception.",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "95 percent of babies cut their first tooth in exactly the same spot — the lower front center. Same spot, almost every time.",
+          "direction": "curious, punchy, stat-first"
+        },
+        "scene-2": {
+          "text": "And the timing? Pure genetics. Identical twins' first teeth erupt within 2 weeks of each other — no matter what they eat or where they live. Diet doesn't move the schedule. Environment doesn't move the schedule.",
+          "direction": "informative, building surprise — emphasize the twins finding"
+        },
+        "scene-3": {
+          "text": "Your baby's tooth timeline was written at conception, inside their DNA. Every parent waiting and watching — the clock was set before they were born.",
+          "direction": "warm, revelatory, grounding"
+        }
+      },
+      "captions": {
+        "tiktok": "Your baby's first tooth was programmed at conception 🦷 #babyfacts #babyteeth #parentingtips #babydevelopment #newbornfacts",
+        "youtube": "95% of babies cut their first tooth in the exact same spot — and the timing is pure genetics. #babyfacts #babyteeth #infantdevelopment",
+        "instagram": "Your baby's first tooth was programmed at conception 🦷\n\n95% of babies cut their first tooth in exactly the same spot — lower front center.\n\nIdentical twins' first teeth erupt within 2 weeks of each other regardless of diet or environment.\n\nThe schedule was written in DNA before they were even born.\n\n#babyfacts #babyteeth #babydevelopment #parentingtips #newborn #infantdevelopment #pregnancy #firsttooth"
+      },
+      "style": "9:16 vertical, bright clean palette, close-up baby smile imagery, full_captions overlay",
+      "duration": 44.76,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "did_you_know",
+        "video_length": "22",
+        "voice_pace": "fast",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "playful",
+        "cta_style": "follow_cta"
+      },
+      "status": "published",
+      "asset_path": "videos/002-first-tooth-genetics/out/video.mp4",
+      "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-unlocked-2026-04-05/002-first-tooth-genetics.mp4",
+      "zernio_post_ids": null,
+      "error": null,
+      "created_at": "2026-04-05",
+      "zernio_post_id": "69d32104ad34a8826a3e88a7",
+      "published_at": "2026-04-06T02:50:00Z"
+    },
+    {
+      "id": "003",
+      "project": "baby-facts-unlocked",
+      "slug": "newborn-smell-oxytocin",
+      "used_topic_id": "063",
+      "date": "2026-04-05",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "question",
+      "hook_text": "WHY BABY SMELL IS ADDICTIVE",
+      "concept": "That irresistible baby smell isn't just cute — it's neurochemical warfare. Smelling a newborn triggers an oxytocin surge in women equivalent to eating your favorite food. In new mothers it activates the same dopamine reward pathway as narcotics. Evolution engineered the smell to make caregivers bond instantly and never want to put them down.",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "Why can't people stop smelling newborns? That baby smell isn't just cute — it's neurochemical.",
+          "direction": "question hook, conspiratorial, slightly playful"
+        },
+        "scene-2": {
+          "text": "Smelling a newborn triggers an oxytocin spike in women equivalent to eating your favorite food. In new mothers, brain scans show the same dopamine reward pathway that activates with narcotics. Scientists call it 'olfactory bonding.'",
+          "direction": "informative, measured, builds to surprising comparison"
+        },
+        "scene-3": {
+          "text": "Evolution engineered infant scent to be literally addictive to caregivers — so they bond instantly and never want to put the baby down. Your brain was hijacked before you even knew what happened.",
+          "direction": "warm, revelatory, almost conspiratorial — land the punchline"
+        }
+      },
+      "captions": {
+        "tiktok": "Baby smell is literally neurochemical warfare 😂🧠 #babyfacts #newborn #babyscience #parentingfacts #oxytocin",
+        "youtube": "That baby smell activates the same brain pathway as narcotics. Evolution engineered it on purpose. #babyfacts #newborn #babyscience",
+        "instagram": "Why can't anyone stop smelling newborns? 👃\n\nBaby smell isn't just cute — it's neurochemical warfare.\n\nSmelling a newborn triggers an oxytocin surge equivalent to eating your favorite food.\n\nIn new mothers, brain scans show the same dopamine pathway that activates with narcotics.\n\nEvolution engineered infant scent to make caregivers bond instantly and never put them down.\n\n#babyfacts #newborn #babyscience #oxytocin #parentingtips #infantdevelopment #pregnancy #newbornsmell"
+      },
+      "style": "9:16 vertical, warm cream palette, soft newborn photography style, karaoke_highlight overlay",
+      "duration": 47.7,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke_highlight",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "question",
+        "video_length": "23",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "ai-gen",
+        "music_energy": "curious",
+        "cta_style": "share_cta"
+      },
+      "status": "published",
+      "asset_path": "videos/003-newborn-smell-oxytocin/out/video.mp4",
+      "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-unlocked-2026-04-05/003-newborn-smell-oxytocin.mp4",
+      "zernio_post_ids": null,
+      "error": null,
+      "created_at": "2026-04-05",
+      "zernio_post_id": "69d31fb63523c9e8faff1bde",
+      "published_at": "2026-04-06T02:50:00Z"
+    },
+    {
+      "id": "004",
+      "project": "money-facts-unlocked",
+      "slug": "price-anchoring-trick",
+      "used_topic_id": "052",
+      "date": "2026-04-05",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "myth-busting",
+      "hook_type": "most_people_dont_know",
+      "hook_text": "FIRST PRICE YOU SEE LOCKS YOU",
+      "concept": "The first price you see permanently anchors your expectations — retailers know this. They place $500 sunglasses at store entrances so $150 ones feel like a bargain. Luxury car showrooms display the $120K model first. The anchor is set in milliseconds and your brain never fully resets. It's called anchoring bias and every retailer exploits it.",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "The first price you see permanently anchors your expectations. Retailers know this. You don't.",
+          "direction": "bold, confrontational, hook hard"
+        },
+        "scene-2": {
+          "text": "They place $500 sunglasses near entrances so $150 ones feel like a steal. Luxury car showrooms open with the $120,000 model. That anchor is set in milliseconds — and your brain never fully resets it. It's called anchoring bias.",
+          "direction": "informative, building, slightly conspiratorial"
+        },
+        "scene-3": {
+          "text": "Every major retailer engineers their floor plan around this. Next time you feel like you're getting a deal — ask what they showed you first.",
+          "direction": "confident, empowering, direct — practical takeaway"
+        }
+      },
+      "captions": {
+        "tiktok": "Retailers anchor your brain before you even shop 🧠💸 #moneyfacts #personalfinance #psychologyofmoney #shoppingtips #anchoring",
+        "youtube": "Stores put expensive items near the entrance on purpose. Your brain never fully resets from the first price it sees. #moneyfacts #anchoring #shoppingpsychology",
+        "instagram": "Retailers anchor your brain before you even start shopping 🧠\n\nThe first price you see permanently locks your expectations.\n\n$500 sunglasses at the entrance → $150 feels cheap.\n$120K car in the showroom → $85K feels like a deal.\n\nThe anchor is set in milliseconds. Your brain never fully resets.\n\nNext time you feel like you're getting a deal — ask what they showed you first.\n\n#moneyfacts #personalfinance #shoppingpsychology #anchoring #consumerbehavior #financialfacts #moneymindset #wealthbuilding"
+      },
+      "style": "9:16 vertical, bold dark palette, retail/luxury store imagery, karaoke overlay",
+      "duration": 40.13,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "most_people_dont_know",
+        "video_length": "22",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke",
+        "background_type": "ai-gen",
+        "music_energy": "bold",
+        "cta_style": "save_cta"
+      },
+      "status": "published",
+      "asset_path": "videos/004-price-anchoring-trick/out/video.mp4",
+      "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-unlocked-2026-04-05/004-price-anchoring-trick.mp4",
+      "zernio_post_ids": null,
+      "error": null,
+      "created_at": "2026-04-05",
+      "zernio_post_id": "69d31fdf3523c9e8faff20ed",
+      "published_at": "2026-04-06T02:50:00Z"
+    },
+    {
+      "id": "005",
+      "project": "money-facts-unlocked",
+      "slug": "dividend-returns-85pct",
+      "used_topic_id": "053",
+      "date": "2026-04-05",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "stat_lead",
+      "hook_text": "85% OF RETURNS MOST IGNORE",
+      "concept": "85% of the S&P 500's total returns since 1926 came from reinvested dividends — not stock price gains. Most retail investors track the ticker price obsessively and completely miss the main source of wealth. Without dividend reinvestment, a $10,000 investment in 1926 would be worth about $700,000 today. With reinvestment: $70 million.",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "85 percent of the S&P 500's total returns since 1926 came from dividends. Not price gains. Dividends.",
+          "direction": "stat-first, punchy, let the number land"
+        },
+        "scene-2": {
+          "text": "Most retail investors track the stock price obsessively — and miss the main event. Without dividend reinvestment, 10,000 dollars in 1926 becomes about 700,000 today. With reinvestment? 70 million.",
+          "direction": "building, slightly incredulous — the math is the star"
+        },
+        "scene-3": {
+          "text": "The wealthy know this. They reinvest every dollar. Most people watch the ticker and wonder why their account doesn't grow the way they expected.",
+          "direction": "authoritative, empowering — subtle class distinction"
+        }
+      },
+      "captions": {
+        "tiktok": "85% of stock market wealth comes from what most people ignore 📈 #moneyfacts #investing #dividends #wealthbuilding #stockmarket",
+        "youtube": "85% of S&P 500 returns since 1926 came from reinvested dividends — not price gains. The math is staggering. #moneyfacts #dividends #investing",
+        "instagram": "85% of S&P 500 wealth came from something most people ignore 📈\n\nSince 1926, 85% of total returns came from reinvested dividends — not stock price appreciation.\n\n$10,000 in 1926:\n→ Without reinvestment: ~$700,000\n→ With reinvestment: ~$70,000,000\n\nMost retail investors track the ticker. They miss the main event.\n\n#moneyfacts #investing #dividends #wealthbuilding #personalfinance #stockmarket #financialfacts #compoundinterest"
+      },
+      "style": "9:16 vertical, clean financial data aesthetic, chart/growth imagery, full_captions overlay",
+      "duration": 42.09,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "24",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "authoritative",
+        "cta_style": "save_cta"
+      },
+      "status": "published",
+      "asset_path": "videos/005-dividend-returns-85pct/out/video.mp4",
+      "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-unlocked-2026-04-05/005-dividend-returns-85pct.mp4",
+      "zernio_post_ids": null,
+      "error": null,
+      "created_at": "2026-04-05",
+      "zernio_post_id": "69d320121c459dd3ab9ef66a",
+      "published_at": "2026-04-06T02:50:00Z"
+    },
+    {
+      "id": "006",
+      "project": "money-facts-unlocked",
+      "slug": "lottery-neighbor-bankruptcy",
+      "used_topic_id": "054",
+      "date": "2026-04-05",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b991446cb7b8cf4c7b9f76",
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "controversy",
+      "hook_text": "LOTTERY WINNER BANKRUPTS NEIGHBORS",
+      "concept": "Lottery winners' neighbors go bankrupt at measurably higher rates than matched control groups. The effect is so documented economists have a name for it: 'expenditure cascades.' When you see visible wealth next door — new car, new boat, renovation — your brain interprets normal as inadequate. The spending is contagious and it doesn't even require friendship.",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "When your neighbor wins the lottery, your bankruptcy risk goes up. This is documented. It has a name.",
+          "direction": "bold controversy hook — unexpected, slightly alarming"
+        },
+        "scene-2": {
+          "text": "Economists call it expenditure cascades. When visible wealth appears next door — new car, new boat, renovation — your brain recalibrates what's normal. Your spending goes up to match what you can see. The effect is contagious without even a conversation.",
+          "direction": "informative, building — explain the mechanism clearly"
+        },
+        "scene-3": {
+          "text": "Researchers tracked Canadian lottery winners and their immediate neighbors. The closer you lived and the bigger the win, the higher your odds of financial distress. Comparison isn't just emotional — it's economic.",
+          "direction": "authoritative, grounding, slightly sobering"
+        }
+      },
+      "captions": {
+        "tiktok": "Living next to a lottery winner is actually dangerous 😳💸 #moneyfacts #lottery #personalfinance #behavioraleconomics #wealthmindset",
+        "youtube": "Lottery winners' neighbors go bankrupt at higher rates. Economists have a name for it. #moneyfacts #lottery #expenditurecascades #behavioralfinance",
+        "instagram": "Living next to a lottery winner raises your bankruptcy risk 😳\n\nResearchers tracked Canadian lottery winners and their neighbors.\n\nThe closer you lived and the bigger the win — the higher your financial distress odds.\n\nEconomists call it 'expenditure cascades.' Visible wealth makes your brain recalibrate what's normal.\n\nThe spending is contagious without a single conversation.\n\n#moneyfacts #lottery #personalfinance #behavioraleconomics #financialfacts #psychology #wealthbuilding #moneypsychology"
+      },
+      "style": "9:16 vertical, bold contrast palette, suburban/luxury imagery, karaoke_highlight overlay",
+      "duration": 44.84,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke_highlight",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "26",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "ai-gen",
+        "music_energy": "bold",
+        "cta_style": "share_cta"
+      },
+      "status": "published",
+      "asset_path": "videos/006-lottery-neighbor-bankruptcy/out/video.mp4",
+      "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-unlocked-2026-04-05/006-lottery-neighbor-bankruptcy.mp4",
+      "zernio_post_ids": null,
+      "error": null,
+      "created_at": "2026-04-05",
+      "zernio_post_id": "69d3203f1c459dd3ab9efc03",
+      "published_at": "2026-04-06T02:50:00Z"
+    },
+    {
+      "id": "007",
+      "project": "ai-facts-unlocked",
+      "slug": "stable-diffusion-reverse-noise",
+      "used_topic_id": "042",
+      "date": "2026-04-05",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "did_you_know",
+      "hook_text": "AI ART IS REVERSED NOISE",
+      "concept": "Stable Diffusion and DALL-E don't 'draw' images — they reverse noise. They were trained on billions of image/text pairs and learned to identify what structured visual information looks like when hidden inside random static. To generate an image, they start with pure noise and mathematically subtract the randomness until a coherent picture emerges. It's a denoise engine, not an artist.",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "AI image generators don't draw. They reverse noise. That distinction changes everything about how they work.",
+          "direction": "bold, counter-intuitive hook — land the surprise immediately"
+        },
+        "scene-2": {
+          "text": "Stable Diffusion was trained on billions of image-text pairs. It learned to recognize what structured information looks like hidden inside random static. To create an image, it starts with pure noise — and mathematically removes the randomness until something coherent appears.",
+          "direction": "informative, slightly technical but accessible — build the mental model"
+        },
+        "scene-3": {
+          "text": "It's not an artist. It's a denoising engine. The creativity is in the training data and the prompt. The model's job is just subtraction — removing everything that isn't the picture.",
+          "direction": "grounding, philosophical — reframe the technology"
+        }
+      },
+      "captions": {
+        "youtube": "AI image generators don't 'draw' — they reverse random noise into pictures. Here's how it actually works. #aifacts #stablediffusion #aiart #machinelearning",
+        "instagram": "AI art isn't drawn — it's denoised 🎨🤖\n\nStable Diffusion starts with pure random noise.\n\nThen it mathematically removes the randomness — until a coherent image emerges.\n\nTrained on billions of image/text pairs, it learned to recognize structured information hidden inside static.\n\nIt's not an artist. It's a denoising engine.\n\n#aifacts #stablediffusion #aiart #machinelearning #artificialintelligence #howaiworks #deeplearning #techfacts"
+      },
+      "style": "9:16 vertical, dark tech aesthetic, noise-to-image transformation visuals, karaoke overlay",
+      "duration": 49.1,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "karaoke",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "did_you_know",
+        "video_length": "24",
+        "voice_pace": "moderate",
+        "text_overlay": "karaoke",
+        "background_type": "ai-gen",
+        "music_energy": "curious",
+        "cta_style": "follow_cta"
+      },
+      "status": "published",
+      "asset_path": "videos/007-stable-diffusion-reverse-noise/out/video.mp4",
+      "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-unlocked-2026-04-05/007-stable-diffusion-reverse-noise.mp4",
+      "zernio_post_ids": null,
+      "error": null,
+      "created_at": "2026-04-05",
+      "zernio_post_id": "69d3206b3523c9e8faff26d0",
+      "published_at": "2026-04-06T02:50:00Z"
+    },
+    {
+      "id": "008",
+      "project": "ai-facts-unlocked",
+      "slug": "tiktok-3-video-algorithm",
+      "used_topic_id": "043",
+      "date": "2026-04-05",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "stat_lead",
+      "hook_text": "3 VIDEOS TO KNOW YOU",
+      "concept": "TikTok's recommendation algorithm needs only 3 video interactions to build a working personalized feed. It evaluates 150+ features per view — watch duration, replay rate, scroll speed, skip point — and after just 3 interactions it achieves personalization parity with 18 months of Netflix behavioral data. The algorithm doesn't need your demographics. It only needs to watch you watch.",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "TikTok's algorithm needs 3 videos to know you. Three. That's it.",
+          "direction": "punchy stat hook — let the number be shocking"
+        },
+        "scene-2": {
+          "text": "It tracks 150 features per view — watch duration, replays, the exact second you scroll away. After 3 interactions it achieves personalization that matches 18 months of Netflix data. It doesn't need your age, location, or name.",
+          "direction": "informative, building — slightly unsettling tone"
+        },
+        "scene-3": {
+          "text": "The algorithm doesn't need to know who you are. It only needs to watch you watch. Three videos and it has a behavioral profile more accurate than you'd expect from a close friend.",
+          "direction": "slightly eerie, grounding — reframe what surveillance means"
+        }
+      },
+      "captions": {
+        "youtube": "TikTok's algorithm needs only 3 video interactions to build a personalized profile. It tracks 150+ behavioral signals per view. #aifacts #tiktok #algorithm #surveillance",
+        "instagram": "TikTok's algorithm needs 3 videos to know you 👀\n\nJust 3 interactions.\n\nIt tracks 150+ signals per view: watch time, replay rate, scroll speed, the exact second you leave.\n\nAfter 3 videos it matches 18 months of Netflix behavioral data.\n\nIt doesn't need your demographics. It only needs to watch you watch.\n\n#aifacts #tiktok #algorithm #recommendation #ai #machinelearning #surveillance #techfacts"
+      },
+      "style": "9:16 vertical, dark moody aesthetic, algorithm/data visualization, key_words_only overlay",
+      "duration": 49.19,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "key_words_only",
+      "voice_pace": "fast",
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "22",
+        "voice_pace": "fast",
+        "text_overlay": "key_words_only",
+        "background_type": "ai-gen",
+        "music_energy": "bold",
+        "cta_style": "share_cta"
+      },
+      "status": "published",
+      "asset_path": "videos/008-tiktok-3-video-algorithm/out/video.mp4",
+      "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-unlocked-2026-04-05/008-tiktok-3-video-algorithm.mp4",
+      "zernio_post_ids": null,
+      "error": null,
+      "created_at": "2026-04-05",
+      "zernio_post_id": "69d320a2ad34a8826a3e80e7",
+      "published_at": "2026-04-06T02:50:00Z"
+    },
+    {
+      "id": "009",
+      "project": "ai-facts-unlocked",
+      "slug": "deepdream-ai-hallucinations",
+      "used_topic_id": "044",
+      "date": "2026-04-05",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "content_pillar": "surprising-facts",
+      "hook_type": "what_if",
+      "hook_text": "AI DREAMS LOOK LIKE THIS",
+      "concept": "Google's DeepDream runs a neural network backwards — with no input, just amplifying its own internal activations in a feedback loop. The result is psychedelic images that reveal exactly what patterns the AI learned to recognize. Dog faces in clouds. Eyes in leaves. Pagodas in mountains. The hallucinogenic visuals aren't art — they're a direct window into what the network's neurons respond to.",
+      "voiceover_script": {
+        "scene-1": {
+          "text": "When Google ran their AI backwards — no input, just its own brain amplifying itself — this is what came out.",
+          "direction": "mysterious, visual-first hook — create curiosity"
+        },
+        "scene-2": {
+          "text": "It's called DeepDream. The neural network runs in reverse, amplifying whatever patterns its neurons already respond to. Dog faces emerge from clouds. Eyes appear in leaves. Towers grow from mountains. The psychedelic images aren't art — they're the neural network's internal vocabulary made visible.",
+          "direction": "informative, slightly trippy tone — match the content"
+        },
+        "scene-3": {
+          "text": "Every AI image recognition system has this hidden visual language. DeepDream just made it audible. When your phone recognizes your face, it's running the same underlying patterns — just not in reverse.",
+          "direction": "grounding, slightly revelatory — connect to everyday AI"
+        }
+      },
+      "captions": {
+        "youtube": "Google ran their AI backwards and got psychedelic images — revealing exactly what patterns the network learned to see. #aifacts #deepdream #neuralnetworks #ai",
+        "instagram": "This is what an AI dreams about 🌀🤖\n\nGoogle's DeepDream runs a neural network backwards — no input, just amplifying its own internal patterns.\n\nDog faces appear in clouds.\nEyes emerge from leaves.\nTowers grow from mountains.\n\nThe psychedelic visuals aren't art — they're the network's hidden visual vocabulary made visible.\n\n#aifacts #deepdream #neuralnetworks #ai #machinelearning #artificialintelligence #computervsion #techfacts"
+      },
+      "style": "9:16 vertical, surreal dark palette, abstract/psychedelic neural imagery, full_captions overlay",
+      "duration": 55.3,
+      "tts_provider": "gemini",
+      "tts_voice": "Kore",
+      "image_gen_provider": "gemini",
+      "background_type": "ai-gen",
+      "text_overlay": "full_captions",
+      "voice_pace": "moderate",
+      "variables": {
+        "hook_type": "what_if",
+        "video_length": "26",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "curious",
+        "cta_style": "follow_cta"
+      },
+      "status": "published",
+      "asset_path": "videos/009-deepdream-ai-hallucinations/out/video.mp4",
+      "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-unlocked-2026-04-05/009-deepdream-ai-hallucinations.mp4",
+      "zernio_post_ids": null,
+      "error": null,
+      "created_at": "2026-04-05",
+      "zernio_post_id": "69d320c9ad34a8826a3e8455",
+      "published_at": "2026-04-06T02:50:00Z"
+    }
+  ]
+}

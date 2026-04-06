@@ -1,0 +1,94 @@
+{
+  "date": "2026-04-05",
+  "campaign": "facts-unlocked-2026-04-05",
+  "notes": "ElevenLabs key lacks text_to_speech scope — all TTS fell back to Gemini/Kore. Grok TTS returned 403 (not authorized for grok-3-mini-fast). R2 first day — Cloudinary free tier exhausted.",
+  "items": [
+    {
+      "id": "001",
+      "slug": "sids-back-sleeping",
+      "project": "baby-facts-unlocked",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "duration_sec": 43.6,
+      "estimated_cost_usd": 0.09
+    },
+    {
+      "id": "002",
+      "slug": "first-tooth-genetics",
+      "project": "baby-facts-unlocked",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "duration_sec": 44.76,
+      "estimated_cost_usd": 0.09
+    },
+    {
+      "id": "003",
+      "slug": "newborn-smell-oxytocin",
+      "project": "baby-facts-unlocked",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "duration_sec": 47.7,
+      "estimated_cost_usd": 0.09
+    },
+    {
+      "id": "004",
+      "slug": "price-anchoring-trick",
+      "project": "money-facts-unlocked",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "duration_sec": 40.13,
+      "estimated_cost_usd": 0.09
+    },
+    {
+      "id": "005",
+      "slug": "dividend-returns-85pct",
+      "project": "money-facts-unlocked",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "duration_sec": 42.09,
+      "estimated_cost_usd": 0.09
+    },
+    {
+      "id": "006",
+      "slug": "lottery-neighbor-bankruptcy",
+      "project": "money-facts-unlocked",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "duration_sec": 44.84,
+      "estimated_cost_usd": 0.09
+    },
+    {
+      "id": "007",
+      "slug": "stable-diffusion-reverse-noise",
+      "project": "ai-facts-unlocked",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "duration_sec": 49.1,
+      "estimated_cost_usd": 0.09
+    },
+    {
+      "id": "008",
+      "slug": "tiktok-3-video-algorithm",
+      "project": "ai-facts-unlocked",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "duration_sec": 49.19,
+      "estimated_cost_usd": 0.09
+    },
+    {
+      "id": "009",
+      "slug": "deepdream-ai-hallucinations",
+      "project": "ai-facts-unlocked",
+      "tts_provider": "gemini",
+      "image_provider": "gemini",
+      "duration_sec": 55.3,
+      "estimated_cost_usd": 0.09
+    }
+  ],
+  "totals": {
+    "videos": 9,
+    "estimated_cost_usd": 0.81,
+    "r2_upload_cost_usd": 0.01,
+    "total_usd": 0.82
+  }
+}
