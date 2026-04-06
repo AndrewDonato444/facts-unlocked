@@ -25,7 +25,7 @@ You work inside a project folder. The project folder has the code, the brand con
 
 Each project entry maps a folder to:
 - A set of **Buffer channels** (which social accounts to post to)
-- **API credentials** (which Buffer account, which Cloudinary account)
+- **API credentials** (which Buffer account, which R2 bucket)
 - **Default settings** (tone, posting frequency, content pillars)
 
 The **brand context itself** (vision, personas, design tokens) lives in the project folder's `.specs/` directory — not in `projects.json`. The registry just points to it via `specs_path`.
@@ -72,10 +72,12 @@ The **brand context itself** (vision, personas, design tokens) lives in the proj
           }
         }
       },
-      "cloudinary": {
-        "cloud_name_env": "CLOUDINARY_CLOUD_NAME",
-        "api_key_env": "CLOUDINARY_API_KEY",
-        "api_secret_env": "CLOUDINARY_API_SECRET"
+      "r2": {
+        "account_id_env": "R2_ACCOUNT_ID",
+        "bucket_name_env": "R2_BUCKET_NAME",
+        "access_key_id_env": "R2_ACCESS_KEY_ID",
+        "secret_access_key_env": "R2_SECRET_ACCESS_KEY",
+        "public_url_env": "R2_PUBLIC_URL"
       },
       "tts": {
         "providers": ["elevenlabs", "grok", "gemini"],
@@ -154,7 +156,7 @@ The **brand context itself** (vision, personas, design tokens) lives in the proj
 | `brand_brief` | string\|null | No | Relative path (from DonatoSkills root) to the brand brief markdown file |
 | `buffer` | object | No* | Buffer API configuration for this project |
 | `zernio` | object | No* | Zernio API configuration for this project |
-| `cloudinary` | object | No | Cloudinary configuration (can be shared across projects) |
+| `r2` | object | No | Cloudflare R2 configuration for media hosting (can be shared across projects) |
 | `tts` | object | No | TTS provider configuration — which providers are enabled, default voices, API keys |
 | `image_gen` | object | No | Image generation configuration — provider, model, API key |
 | `analytics_loop` | object | No | Analytics loop configuration — scoring weights, collection window, template promotion rules |
@@ -196,13 +198,15 @@ The **brand context itself** (vision, personas, design tokens) lives in the proj
 | `name` | string | Yes | Display name of the account |
 | `username` | string | No | Platform username/handle |
 
-### Cloudinary Fields
+### R2 Fields (Cloudflare)
 
 | Field | Type | Required | Description |
 |-------|------|----------|-------------|
-| `cloud_name_env` | string | Yes | Env var for Cloudinary cloud name |
-| `api_key_env` | string | Yes | Env var for Cloudinary API key |
-| `api_secret_env` | string | Yes | Env var for Cloudinary API secret |
+| `account_id_env` | string | Yes | Env var for Cloudflare account ID |
+| `bucket_name_env` | string | Yes | Env var for R2 bucket name |
+| `access_key_id_env` | string | Yes | Env var for R2 API token access key |
+| `secret_access_key_env` | string | Yes | Env var for R2 API token secret key |
+| `public_url_env` | string | Yes | Env var for the public URL prefix (*.r2.dev or custom domain) |
 
 ### TTS Fields
 
@@ -321,7 +325,7 @@ The primary mechanism is **folder matching** — you're working in a project fol
 
 **Once resolved**, the skill uses the project's:
 - **Buffer channels** — only shows/uses channels for this project
-- **API keys** — reads the correct env var for Buffer and Cloudinary
+- **API keys** — reads the correct env var for Buffer and R2
 - **Brand context** — reads specs_path or brand_brief for tone, audience, style
 - **Defaults** — pre-fills tone, pillars, frequency
 
@@ -388,18 +392,20 @@ BUFFER_API_KEY=my_personal_token
 BUFFER_API_KEY_CLIENT_XYZ=client_xyz_token
 ```
 
-### Scenario C: Shared Cloudinary, Separate Buffer
+### Scenario C: Shared R2, Separate Buffer
 
-Most common setup — one Cloudinary account for all media hosting, separate Buffer accounts per client.
+Most common setup — one R2 bucket for all media hosting, separate Buffer accounts per client.
 
 ```json
 {
   "client-abc": {
     "buffer": { "api_key_env": "BUFFER_API_KEY_ABC" },
-    "cloudinary": {
-      "cloud_name_env": "CLOUDINARY_CLOUD_NAME",
-      "api_key_env": "CLOUDINARY_API_KEY",
-      "api_secret_env": "CLOUDINARY_API_SECRET"
+    "r2": {
+      "account_id_env": "R2_ACCOUNT_ID",
+      "bucket_name_env": "R2_BUCKET_NAME",
+      "access_key_id_env": "R2_ACCESS_KEY_ID",
+      "secret_access_key_env": "R2_SECRET_ACCESS_KEY",
+      "public_url_env": "R2_PUBLIC_URL"
     }
   }
 }

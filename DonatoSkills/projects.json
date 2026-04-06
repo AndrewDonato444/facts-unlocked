@@ -30,10 +30,12 @@
           }
         }
       },
-      "cloudinary": {
-        "cloud_name_env": "CLOUDINARY_CLOUD_NAME",
-        "api_key_env": "CLOUDINARY_API_KEY",
-        "api_secret_env": "CLOUDINARY_API_SECRET"
+      "r2": {
+        "account_id_env": "R2_ACCOUNT_ID",
+        "bucket_name_env": "R2_BUCKET_NAME",
+        "access_key_id_env": "R2_ACCESS_KEY_ID",
+        "secret_access_key_env": "R2_SECRET_ACCESS_KEY",
+        "public_url_env": "R2_PUBLIC_URL"
       },
       "tts": {
         "providers": ["elevenlabs", "grok", "gemini"],
@@ -211,10 +213,12 @@
           }
         }
       },
-      "cloudinary": {
-        "cloud_name_env": "CLOUDINARY_CLOUD_NAME",
-        "api_key_env": "CLOUDINARY_API_KEY",
-        "api_secret_env": "CLOUDINARY_API_SECRET"
+      "r2": {
+        "account_id_env": "R2_ACCOUNT_ID",
+        "bucket_name_env": "R2_BUCKET_NAME",
+        "access_key_id_env": "R2_ACCESS_KEY_ID",
+        "secret_access_key_env": "R2_SECRET_ACCESS_KEY",
+        "public_url_env": "R2_PUBLIC_URL"
       },
       "tts": {
         "providers": ["elevenlabs", "grok", "gemini"],
@@ -318,10 +322,12 @@
           }
         }
       },
-      "cloudinary": {
-        "cloud_name_env": "CLOUDINARY_CLOUD_NAME",
-        "api_key_env": "CLOUDINARY_API_KEY",
-        "api_secret_env": "CLOUDINARY_API_SECRET"
+      "r2": {
+        "account_id_env": "R2_ACCOUNT_ID",
+        "bucket_name_env": "R2_BUCKET_NAME",
+        "access_key_id_env": "R2_ACCESS_KEY_ID",
+        "secret_access_key_env": "R2_SECRET_ACCESS_KEY",
+        "public_url_env": "R2_PUBLIC_URL"
       },
       "tts": {
         "providers": ["elevenlabs", "grok", "gemini"],
@@ -428,10 +434,12 @@
           }
         }
       },
-      "cloudinary": {
-        "cloud_name_env": "CLOUDINARY_CLOUD_NAME",
-        "api_key_env": "CLOUDINARY_API_KEY",
-        "api_secret_env": "CLOUDINARY_API_SECRET"
+      "r2": {
+        "account_id_env": "R2_ACCOUNT_ID",
+        "bucket_name_env": "R2_BUCKET_NAME",
+        "access_key_id_env": "R2_ACCESS_KEY_ID",
+        "secret_access_key_env": "R2_SECRET_ACCESS_KEY",
+        "public_url_env": "R2_PUBLIC_URL"
       },
       "tts": {
         "providers": ["elevenlabs", "grok", "gemini"],

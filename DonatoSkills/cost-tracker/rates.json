@@ -16,7 +16,7 @@
     "grok-imagine-image": { "unit": "image", "rate": 0.02 },
     "default-tts": { "unit": "char", "rate": 0.0001 }
   },
-  "cloudinary": {
-    "default": { "unit": "upload", "rate": 0.0, "plan": "free" }
+  "r2": {
+    "default": { "unit": "GB-month", "rate": 0.015, "plan": "pay-as-you-go", "note": "zero egress fees, 30-day lifecycle auto-delete" }
   }
 }

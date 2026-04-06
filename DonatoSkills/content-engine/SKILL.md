@@ -14,7 +14,7 @@ You are the orchestrator. You do NOT create content directly. Instead, you:
 1. **Analyze** the brand/product to understand what content to create
 2. **Plan** a content calendar with specific posts, platforms, and timing
 3. **Invoke** creation skills (remotion-video, image-gen, etc.) in orchestrated mode
-4. **Upload** created assets to Cloudinary for public URLs
+4. **Upload** created assets to Cloudflare R2 for public URLs
 5. **Schedule** everything through Buffer or Zernio via the social-media skill
 
 The user tells you about their brand and goals. You build and execute the plan.
@@ -38,7 +38,7 @@ The user tells you about their brand and goals. You build and execute the plan.
 4. **Once resolved, use the project's configuration for EVERYTHING:**
    - **Buffer API key**: `process.env[project.buffer.api_key_env]`
    - **Channels**: Only plan content for channels in the project's `buffer.channels`
-   - **Cloudinary**: Use `project.cloudinary.*_env` for media upload credentials
+   - **R2**: Use `project.r2.*_env` for media upload credentials
    - **Brand context**: Read from `project.specs_path` or `project.brand_brief`
    - **Defaults**: Pre-fill tone, pillars, and frequency from `project.defaults`
 
@@ -64,9 +64,11 @@ All keys should be in the project `.env` / `.env.local` file. The **env var name
 | `GEMINI_API_KEY` | Google Gemini | Image generation (default) + Gemini TTS (alternative) | `tts.gemini.api_key_env` / `image_gen.gemini.api_key_env` |
 | `OPENAI_API_KEY` | OpenAI | Image generation (alternative) | `image_gen.openai.api_key_env` |
 | `ELEVENLABS_API_KEY` | ElevenLabs | Premium TTS provider (optional) | `tts.elevenlabs.api_key_env` |
-| `CLOUDINARY_CLOUD_NAME` | Cloudinary | Media hosting | `cloudinary.cloud_name_env` |
-| `CLOUDINARY_API_KEY` | Cloudinary | Media hosting | `cloudinary.api_key_env` |
-| `CLOUDINARY_API_SECRET` | Cloudinary | Media hosting | `cloudinary.api_secret_env` |
+| `R2_ACCOUNT_ID` | Cloudflare R2 | Media hosting (account ID) | `r2.account_id_env` |
+| `R2_BUCKET_NAME` | Cloudflare R2 | Media hosting (bucket name) | `r2.bucket_name_env` |
+| `R2_ACCESS_KEY_ID` | Cloudflare R2 | Media hosting (access key) | `r2.access_key_id_env` |
+| `R2_SECRET_ACCESS_KEY` | Cloudflare R2 | Media hosting (secret key) | `r2.secret_access_key_env` |
+| `R2_PUBLIC_URL` | Cloudflare R2 | Media hosting (public URL) | `r2.public_url_env` |
 
 Only one scheduling backend is required (Buffer OR Zernio). If both are configured, the social-media skill prefers Zernio by default.
 
@@ -293,29 +295,28 @@ Example orchestrated invocation:
 
 Update calendar item status to `creating` before, `created` after (with `asset_path`).
 
-### 2. Upload to Cloudinary
+### 2. Upload to Cloudflare R2
 
-After content is created locally, upload to Cloudinary:
+After content is created locally, upload to R2:
 
 ```bash
-# For video
-curl -s -X POST "https://api.cloudinary.com/v1_1/$CLOUDINARY_CLOUD_NAME/video/upload" \
-  -F "file=@path/to/video.mp4" \
-  -F "api_key=$CLOUDINARY_API_KEY" \
-  -F "timestamp=$(date +%s)" \
-  -F "signature=$(echo -n "timestamp=$(date +%s)$CLOUDINARY_API_SECRET" | shasum -a 1 | cut -d' ' -f1)"
-
-# For image
-curl -s -X POST "https://api.cloudinary.com/v1_1/$CLOUDINARY_CLOUD_NAME/image/upload" \
-  -F "file=@path/to/image.png" \
-  -F "api_key=$CLOUDINARY_API_KEY" \
-  -F "timestamp=$(date +%s)" \
-  -F "signature=$(echo -n "timestamp=$(date +%s)$CLOUDINARY_API_SECRET" | shasum -a 1 | cut -d' ' -f1)"
+# Using the upload script (handles S3v4 signing automatically)
+PUBLIC_URL=$(./content-engine/scripts/upload-media.sh path/to/video.mp4 campaign-slug item-id)
 ```
 
-Extract `secure_url` from the response. Update calendar item status to `uploaded` with `asset_url`.
+Or programmatically in Node.js:
 
-See `references/cloudinary-upload.md` for details.
+```javascript
+const { uploadToR2, buildObjectKey, loadR2ConfigFromEnv } = require("./scripts/r2-upload");
+const config = loadR2ConfigFromEnv();
+const objectKey = buildObjectKey({ campaignSlug, itemId, extension: ".mp4" });
+const result = uploadToR2({ filePath: "path/to/video.mp4", objectKey, config });
+// result.url => https://pub-xxx.r2.dev/content-engine/campaign-slug/item-id.mp4
+```
+
+Update calendar item status to `uploaded` with `asset_url` = the returned public URL.
+
+See `references/r2-upload.md` for details.
 
 ### 3. Schedule via Buffer or Zernio
 
@@ -535,7 +536,7 @@ When the user says "just run" or chooses autonomous mode:
 Content Engine Run Complete
 
 Created: 8 videos, 4 text posts
-Uploaded: 8 assets to Cloudinary
+Uploaded: 8 assets to R2
 Scheduled: 12 posts across 3 platforms
 Failed: 0
 
@@ -544,7 +545,7 @@ Next scheduled post: Mar 17 at 9am EST (Twitter/X)
 
 ### Error Handling in Autonomous Mode
 - If a creation skill fails, log the error, mark the item as `failed`, and continue to the next item
-- If Cloudinary upload fails, retry once, then mark as `failed` and continue
+- If R2 upload fails, retry once, then mark as `failed` and continue
 - If Buffer scheduling fails, log the error with the mutation response, mark as `failed`, continue
 - At the end, report all failures so the user can address them
 
@@ -569,7 +570,7 @@ When multiple videos in a calendar need AI voiceover, create them **one at a tim
 
 ### Environment Variable Loading
 
-Scripts that call external APIs (Gemini, Cloudinary) need env vars exported to subprocesses. `source .env` does NOT export to subprocesses. Use this pattern:
+Scripts that call external APIs (Gemini, R2) need env vars exported to subprocesses. `source .env` does NOT export to subprocesses. Use this pattern:
 
 ```bash
 # In shell scripts — set -a makes all variables auto-export (handles spaces/quotes safely)

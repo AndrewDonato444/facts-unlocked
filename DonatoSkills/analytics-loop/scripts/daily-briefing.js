@@ -520,8 +520,8 @@ function formatBriefing(data) {
   for (const [prov, provData] of Object.entries(data.cost.by_provider_summary)) {
     lines.push(`  ${"Total " + prov + " cost".padEnd(38)} ${fmt$(provData.total_cost)}`);
   }
-  // Cloudinary always shown as free
-  lines.push(`  ${"Media hosting (Cloudinary)".padEnd(38)} Free`);
+  // R2 storage is ~$0.015/GB/month with zero egress — effectively free at our volume
+  lines.push(`  ${"Media hosting (R2)".padEnd(38)} ~$0.06/mo`);
   lines.push(`  ${DIV.substring(0, 38)}`);
   lines.push(`  ${"Total".padEnd(38)} ${fmt$(data.cost.total_usd)}`);
   if (data.content.total_videos > 0) {
