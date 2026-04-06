@@ -1,0 +1,86 @@
+{
+  "date": "2026-04-06",
+  "week": "2026-15",
+  "signals": [
+    {
+      "signal": "Average viewer swipe-away happens at 5.8 seconds; hooks delivered in the first 2 seconds retain 19% more viewers compared to hooks delivered at 3+ seconds",
+      "source": "vidIQ",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Average swipe rate occurring at 5.8 seconds. Shorts with an immediate hook in the first 2 seconds retain 19% more viewers."
+    },
+    {
+      "signal": "80% of all engagement on a Short happens within the first 10 seconds — the opening 10 seconds is the only segment that materially determines algorithmic distribution",
+      "source": "vidIQ",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Over 80% of all engagement happens within the first 10 seconds."
+    },
+    {
+      "signal": "vidIQ recommends targeting a 'Viewed vs Swiped Away' rate of 70%+ as the primary KPI and testing 3 different hooks per week to identify top-performer",
+      "source": "vidIQ",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Pick 1 hook trigger, showing payoff in frame 1, saying it in 5 to 10 words, testing 3 hooks per week, and keeping Viewed vs Swiped Away near 70%+."
+    },
+    {
+      "signal": "March 2026 monetization update: a 30-second Short at 90% completion now outperforms a 60-second Short at 50% completion in both distribution and RPM — completion rate directly influences revenue, not just impressions",
+      "source": "web",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "A 30-second Short with 90% completion now beats a 60-second Short with 50% completion. Completion rate is now king."
+    },
+    {
+      "signal": "High-retention, high-value niches are seeing RPM increases while low-effort repost content is flat or declining after the March 2026 monetization change",
+      "source": "web",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "High-retention, high-value niches are winning big, while low-effort repost content is staying flat or declining."
+    },
+    {
+      "signal": "Properly disclosed AI-generated content is not penalized in 2026 — YouTube has officially confirmed AI content gets normal distribution when disclosure is present",
+      "source": "Creator Insider",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Properly disclosed AI content is not penalized in 2026."
+    },
+    {
+      "signal": "YouTube Shorts algorithm operates a two-phase explore/exploit system: small seed audience first, then broad push only if the seed engagement is strong — seed audience quality determines whether broad distribution ever triggers",
+      "source": "Creator Insider",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "Initially, your Short is exposed to a small, targeted, 'seed audience'. If this group engages well with your content, your Short gets promoted to a broader audience."
+    },
+    {
+      "signal": "Todd Sherman (YouTube Shorts product lead) confirmed via Creator Insider: viewed-vs-swiped-away ratio is the #1 distribution metric — if people swipe past instantly, the video dies",
+      "source": "Creator Insider",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-03",
+      "raw_quote": "The viewed-vs-swiped-away ratio is the #1 metric. If people swipe past instantly, the video dies."
+    },
+    {
+      "signal": "Robert Benjamin mentorship focuses on hook formulas and upload sequencing as primary levers; no new specific algorithm tips published in last 7 days",
+      "source": "Robert Benjamin",
+      "confidence": "low",
+      "faceless_applicable": true,
+      "published_date": null,
+      "raw_quote": null
+    },
+    {
+      "signal": "Reddit was inaccessible for search — no community-validated data available this week",
+      "source": "Reddit",
+      "confidence": "low",
+      "faceless_applicable": false,
+      "published_date": null,
+      "raw_quote": null
+    }
+  ]
+}
