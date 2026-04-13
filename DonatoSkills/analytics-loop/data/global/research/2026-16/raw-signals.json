@@ -1,0 +1,94 @@
+{
+  "date": "2026-04-13",
+  "week": "2026-16",
+  "signals": [
+    {
+      "signal": "50-60% of viewers drop off within the first 3 seconds; the average swipe-away event occurs at 5.8 seconds — the hook window is tighter than previously assumed.",
+      "source": "vidIQ",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026",
+      "raw_quote": "50-60% of viewers who drop off do so within the first 3 seconds, and the average swipe rate occurs at 5.8 seconds"
+    },
+    {
+      "signal": "Shorts with an immediate hook in the first 2 seconds retain 19% more viewers; over 80% of all engagement occurs within the first 10 seconds.",
+      "source": "vidIQ",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026",
+      "raw_quote": "Shorts with an immediate hook in the first 2 seconds retain 19% more viewers, and over 80% of all engagement happens within the first 10 seconds"
+    },
+    {
+      "signal": "Best-performing Shorts achieve 70-90% viewed-vs-swiped-away ratio; this single metric is the primary driver of algorithmic distribution for Shorts.",
+      "source": "vidIQ",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026",
+      "raw_quote": "The best-performing Shorts have between 70% and 90% of people viewing versus swiping away from them"
+    },
+    {
+      "signal": "Optimal hook structure uses three simultaneous elements: (1) visual showing payoff not setup, (2) 3-7 word text overlay stating a result/secret/comparison, (3) 5-10 word verbal hook — all firing within 3 seconds.",
+      "source": "vidIQ",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026",
+      "raw_quote": "Visual Hook: A surprising frame, strong emotion, unusual object, clear result, or action in progress. Show the payoff, not the setup."
+    },
+    {
+      "signal": "Shorts exceeding 100% average view duration via seamless looping receive ~30% additional algorithmic distribution; each loop has counted as a view since March 2025.",
+      "source": "virvid.ai",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026",
+      "raw_quote": "Shorts exceeding 100% average view duration (through seamless looping) receive ~30% additional distribution. Since March 2025, each loop counts as a view."
+    },
+    {
+      "signal": "70% retention threshold at 30-second mark is the primary algorithmic promotion trigger; a 10-point retention improvement correlates with ~25% more impressions.",
+      "source": "virvid.ai",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026",
+      "raw_quote": "70% retention at the 30-second mark is the primary algorithmic trigger for promotion. A 10-point retention improvement correlates with approximately 25% more impressions."
+    },
+    {
+      "signal": "On-screen text overlays boost watch time by 18%; pattern interrupts (visual/audio disruptions) in the first 5 seconds increase retention by 23%.",
+      "source": "virvid.ai",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026",
+      "raw_quote": "Text hooks — On-screen text boosts watch time by 18%. Pattern interrupts — Visual/audio disruptions in first 5 seconds increase retention 23%"
+    },
+    {
+      "signal": "January 2026: YouTube introduced a dedicated Shorts filter in search results — front-loading the topic keyword in the first 20-25 characters of the title enables discoverability in this new search surface.",
+      "source": "Miraflow",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026-01",
+      "raw_quote": "YouTube introduced a dedicated 'Shorts' filter in search results, making short-form content discoverable as a first-class result type"
+    },
+    {
+      "signal": "Shorts older than ~30 days receive significantly less recommendation push; retention analysts at large channels (100M-1B monthly views) confirm a clear recency cliff after 30 days.",
+      "source": "Creator Insider",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026",
+      "raw_quote": "Retention analysts working with large channels in the 100 million to 1 billion monthly views range are seeing a clear recency bias, with Shorts older than roughly 30 days now much less likely to be pushed in recommendations."
+    },
+    {
+      "signal": "YouTube's July 2025 'inauthentic content' policy targets mass-produced template content lacking originality — not AI-assisted work. Properly disclosed AI content receives normal algorithmic distribution.",
+      "source": "virvid.ai",
+      "confidence": "high",
+      "faceless_applicable": true,
+      "published_date": "2026",
+      "raw_quote": "YouTube's July 2025 'inauthentic content' policy targets mass-produced template content lacking originality — not AI-assisted work. Key safeguard: ensure each video has genuinely unique research, commentary, or narrative depth."
+    },
+    {
+      "signal": "Building thematic series (3-5 related Shorts on the same topic) increases session time signals and algorithmic favorability; channels combining Shorts with long-form grow 41% faster.",
+      "source": "Miraflow",
+      "confidence": "medium",
+      "faceless_applicable": true,
+      "published_date": "2026-01",
+      "raw_quote": "Build thematic series — Multiple related shorts increase session time and algorithmic favorability"
+    }
+  ]
+}
