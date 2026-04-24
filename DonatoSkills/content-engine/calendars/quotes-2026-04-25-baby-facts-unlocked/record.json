@@ -1,0 +1,34 @@
+{
+  "campaign": "quotes-2026-04-25-baby-facts-unlocked",
+  "project": "baby-facts-unlocked",
+  "target_date": "2026-04-25",
+  "target_time": "14:00",
+  "timezone": "America/New_York",
+  "dry_run": false,
+  "quote": {
+    "id": "Q077",
+    "text": "An ounce of mother is worth a pound of clergy.",
+    "attribution": "Spanish proverb",
+    "type": "famous",
+    "theme": "Bonus Famous Quotes",
+    "project": "baby-facts-unlocked",
+    "selection_stats": {
+      "total_in_roster": 80,
+      "used": 6,
+      "eligible": 74,
+      "famous_in_pool": 45,
+      "original_in_pool": 29
+    },
+    "committed": false
+  },
+  "audio": "everything.mp3",
+  "caption": "\"An ounce of mother is worth a pound of clergy.\"\n— Spanish proverb\n\n#babyfacts #motherhood #momlife #newbornlove #motherandbaby #babylove #parenting",
+  "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/quotes-2026-04-25-baby-facts-unlocked/quote-Q077.mp4",
+  "zernio_post_ids": [
+    "69eb4134f4e1e24868fdf184",
+    "69eb4134cc04c3646171b0d3",
+    "69eb4134cc04c3646171b0da"
+  ],
+  "status": "scheduled",
+  "created_at": "2026-04-24T10:08:52.843Z"
+}
