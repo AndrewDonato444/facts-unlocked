@@ -1,0 +1,17 @@
+# Build output
+out/
+*.mp4
+
+# Render staging (regenerated per run from per-campaign assets)
+public/background.png
+public/audio.mp3
+
+# used.md lock file (runtime only)
+../quotes/**/*.lock
+
+# Remotion cache (inside node_modules but belt-and-suspenders)
+.remotion/
+
+# Node
+node_modules/
+*.log

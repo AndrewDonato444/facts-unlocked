@@ -1,0 +1,26 @@
+{
+  "name": "baby-facts-quote-pipeline",
+  "version": "1.0.0",
+  "description": "Baby Facts Unlocked — quote card faux-video pipeline",
+  "main": "scripts/run-pipeline.ts",
+  "scripts": {
+    "render": "npx remotion render src/index.ts QuoteCard out/video.mp4",
+    "studio": "npx remotion studio src/index.ts"
+  },
+  "type": "commonjs",
+  "dependencies": {
+    "@google/genai": "^1.46.0",
+    "@remotion/bundler": "^4.0.438",
+    "@remotion/cli": "^4.0.438",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.438"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.3"
+  }
+}

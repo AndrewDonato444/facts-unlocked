@@ -69,6 +69,9 @@
 | # | Feature | Source | Jira | Complexity | Deps | Status |
 |---|---------|--------|------|------------|------|--------|
 | <!-- 100 --> | <!-- Export to CSV --> | <!-- jira:PROJ-456 --> | <!-- PROJ-456 --> | <!-- S --> | <!-- 10 --> | <!-- ⬜ --> |
+| 101 | Extend `/add-new` to optionally create a quote pipeline — only if quote format validates on baby-facts-unlocked by 2026-05-07 | session 2026-04-23 | - | M | quote-pipeline feature live + 2 weeks of performance data | ⏸️ |
+| 102 | Backfill retry logic (`withRetry`) on Gemini + Zernio calls in quote-pipeline | code-review 2026-04-23 | - | S | - | ⬜ |
+| 103 | Wire cost-tracker logging into quote-pipeline (mirror video pipeline) | code-review 2026-04-23 | - | XS | - | ⬜ |
 
 ---
 
