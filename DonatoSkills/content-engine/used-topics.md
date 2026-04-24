@@ -56,6 +56,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 046 | vernix-caseosa | Vernix caseosa is antimicrobial + moisturizing; AAP recommends delaying first bath 24+ hours; most hospitals still wipe it off | most_people_dont_know / 25s / moderate / key_words_only / ai-gen | TikTok, YouTube, Instagram |
 | 047 | breast-milk-composition | Breast milk changes within a single feeding: foremilk (hydration) then hindmilk (5x fat, calorie-dense). Babies who stop early miss the calories. | did_you_know / 25s / slow / full_captions / ai-gen | TikTok, YouTube, Instagram |
 | 048 | lanugo-hair | Fetus covered in lanugo by wk 20; sheds into amniotic fluid wks 32-36; baby swallows it, becomes meconium; preemies born still covered | question / 25s / fast / karaoke / ai-gen | TikTok, YouTube, Instagram |
+| 049 | neonatal-jaundice | ~60% of newborns develop jaundice — not a disease but liver immaturity; bilirubin from fetal red cell recycling overwhelms the system | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 050 | stranger-anxiety | Stranger anxiety emerges universally at 8-9 months — hippocampus maturation triggers memory comparison between familiar and unfamiliar faces | stat_lead / 30s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
+| 051 | birth-hormone-surge | Newborn catecholamine (adrenaline) surge at birth is the highest ever recorded in humans — exceeds cardiac arrest; triggers lung clearance, vascular switch, brown fat activation | controversy / 35s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 
 ## Money Facts Unlocked
 
@@ -100,6 +103,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 037 | payday-loan-apr | Average payday loan = 391% APR, legal in 37 states. $300 loan rolls into $184 fees. CFPB: borrowers in debt 5 months/yr. Only 13 states cap rates. | controversy / 25s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
 | 038 | gig-economy-hidden-costs | Uber/gig workers take home $8.55/hr after expenses vs advertised $25. Platforms take 35-40%. $200M spent to block CA reclassification. | myth_bust / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 | 039 | zip-code-life-expectancy | Zip code predicts life expectancy better than genetics. 10-mile gap = 20yr lifespan diff in Baltimore. RWJF: zip code is #1 health predictor. | stat_lead / 30s / moderate / key_words_only / ai-gen | TikTok, YouTube, Instagram |
+| 040 | treasury-direct-no-fees | TreasuryDirect.gov lets you buy T-bills directly from the US government — no broker, no fees, same rate Wall Street gets | did_you_know / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 041 | rent-no-credit | You can build credit by paying rent — Experian RentBureau and services like Rental Kharma report on-time payments to bureaus | most_people_dont_know / 30s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
+| 042 | spousal-social-security | Married people can claim up to 50% of their spouse's Social Security benefit — even if they never worked — a little-known rule | most_people_dont_know / 30s / moderate / key_words_only / ai-gen | YouTube, Instagram |
 
 ## AI Facts Unlocked
 
@@ -134,3 +140,6 @@ Global topic registry. The content engine MUST check this before generating new 
 | 027 | deepseek-cost-shock | DeepSeek R1 trained for $6M vs GPT-4's $100M+; 95% cost reduction in 18 months; NVIDIA dropped 17% in one day; AI moat assumptions broken | controversy / 25s / fast / karaoke / ai-gen | YouTube, Instagram |
 | 028 | ai-voice-scams-surge | AI voice cloning scams up 400% (FTC 2024); $2.7B fraud reports; 3sec audio enough to clone voice; fully automated 24/7. Establish family code word. | most_people_dont_know / 30s / moderate / full_captions / ai-gen | YouTube, Instagram |
 | 029 | ai-synthetic-data | AI training on AI-generated content causes model collapse; errors compound; rare info erased; Oxford 2023: 10 generations = structural failure. Internet already saturated with gen-1 AI text. | controversy / 30s / slow / key_words_only / ai-gen | YouTube, Instagram |
+| 030 | alphafold-protein-revolution | AlphaFold didn't just solve a problem — it released all 200M protein structures free, compressing 50 years of biology into 18 months; accelerating drug discovery across 190 countries | what_if / 35s / moderate / full_captions / ai-gen | YouTube, Instagram |
+| 031 | ai-hallucination-mechanism | AI hallucinations aren't bugs — they're how the model works: probability-weighted token prediction with no ground-truth check; confident wrong answers are architecturally identical to confident right ones | controversy / 30s / moderate / key_words_only / ai-gen | YouTube, Instagram |
+| 032 | ai-nuclear-power-revival | AI data centers need 10x more power than standard servers; Microsoft, Google, Amazon signing 20yr nuclear contracts; dormant plants reopening; AI is single-handedly reversing 40 years of nuclear decline | stat_lead / 35s / fast / karaoke_highlight / ai-gen | YouTube, Instagram |
