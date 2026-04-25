@@ -1,0 +1,26 @@
+{
+  "name": "009-ai-traffic-lights",
+  "version": "1.0.0",
+  "description": "AI Facts Unlocked - AI Cuts Commute Times 26%",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx remotion render src/index.ts AiTrafficLights out/video.mp4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/genai": "^1.46.0",
+    "@remotion/bundler": "^4.0.438",
+    "@remotion/cli": "^4.0.438",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "remotion": "^4.0.438"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "typescript": "^5.8.3"
+  }
+}

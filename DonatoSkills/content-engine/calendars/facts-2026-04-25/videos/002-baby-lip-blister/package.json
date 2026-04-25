@@ -1,0 +1,25 @@
+{
+  "name": "002-baby-lip-blister",
+  "version": "1.0.0",
+  "description": "Baby Facts #052 — Sucking Blister",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx remotion render src/index.ts FactsVideo out/video.mp4"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/genai": "^1.50.1",
+    "@remotion/cli": "^4.0.448",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "remotion": "^4.0.448"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^6.0.3"
+  }
+}
