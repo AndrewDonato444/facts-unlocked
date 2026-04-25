@@ -1,0 +1,745 @@
+{
+  "project": "money-facts-unlocked",
+  "scoredAt": "2026-04-25T00:04:31.146Z",
+  "dateRange": {
+    "from": "2026-04-22",
+    "to": "2026-04-23"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 12,
+    "includedPosts": 0,
+    "excludedPosts": 12,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69ea49347dea335c2b2cd467",
+      "latePostId": "69e88e9c8693a22826d34c7f",
+      "content": "The wash sale rule: sell a security at a loss + rebuy within 30 days = IRS disallows the deduction e\n\nThe wash sale rule: sell a security at a loss + rebuy within 30 days = IRS disallows the deduction entirely. Most investors trigger it accidentally by buying back immediately. Substantially identical rule catches fund-to-fund swaps. The loss adds to cost basis — timing benefit is destroyed. Crypto currently exempt. #moneyfacts #taxlossharvesting #washsalerule #investing #taxfacts",
+      "publishedAt": "2026-04-23T13:00:00.000Z",
+      "scheduledFor": "2026-04-23T13:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 66,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 21:22:08"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "hY_8zCUTeP8",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 66,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 21:22:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=hY_8zCUTeP8",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=hY_8zCUTeP8",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hY_8zCUTeP8/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/hY_8zCUTeP8/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/hY_8zCUTeP8/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e919247dea335c2b25764c",
+      "latePostId": "69e73b9772ab25e722ea8116",
+      "content": "You can buy US government bonds directly from the government — no bank, no broker, zero fees 💸\n\nTreasuryDirect.gov — what it is:\n\nWhat you can buy:\n→ Treasury Bills (T-bills): 4-52 week maturities\n→ Treasury Notes: 2-10 year maturities\n→ Treasury Bonds: 20-30 year maturities\n→ TIPS (inflation-protected)\n→ I-bonds (inflation-adjusted savings bonds)\n\nHow it compares to brokerages:\n→ Same securities, same yields (government-set rates)\n→ Brokerage: takes a spread or charges a fee\n→ TreasuryDirect: $0 fees, $0 markup\n→ Minimum purchase: $100\n\nI-bonds in 2022:\n→ Inflation peaked → I-bond composite rate: 9.62%\n→ No bank was offering anywhere near this\n→ $10,000 limit/year per Social Security number\n→ Additional $5,000 through federal tax refund\n→ Held for 1 year min; 3-month interest penalty if cashed before 5 years\n\nLimitations (important):\n→ Interface: famously clunky, looks like 2003-era government website\n→ No secondary market: must hold to maturity or cash out with penalty\n→ Transfers to brokerage: possible but cumbersome\n→ For traders who need liquidity: brokerage is better\n\nWho this is ideal for:\n→ Buy-and-hold investors\n→ Emergency fund earning better yield than HYSA\n→ Inflation protection (I-bonds)\n→ Avoiding broker relationship for simple bond ladder\n\nThe history:\n→ Available since 1986\n→ Most people have never heard of it despite being a federal program\n→ Total outstanding: over $1 trillion in retail savings bonds\n\n#moneyfacts #treasuryDirect #ibonds #personalfinance #investing #financialliteracy #savingmoney #treasurybonds #fixedincome #financialfacts",
+      "publishedAt": "2026-04-22T18:02:26.000Z",
+      "scheduledFor": "2026-04-22T18:02:26.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 59,
+        "reach": 56,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 59,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:00:00"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18005382737906269",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 59,
+            "reach": 56,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 59,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:00:00"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXcXnEijr5K/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXcXnEijr5K/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/670718883_4501205876872293_1246965046593013036_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=RoyJPLYw1rAQ7kNvwGpDXZA&_nc_oc=AdqxhnXScC9e0AtWE66EWNFS4XPaKzwTa9SGXf5N4OsNpoazbGTNeEMVBw9G-hF1_3I&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&_nc_tpa=Q5bMBQE9yFvMmFCbdO4C9sIrf2POAr4Z4ANfUk7VVHjoCTeUNm3LnBSaAhCObTG5CvZHzDIk9YQRqzbFuA&oh=00_Af2eg8iwEetf_acXar2HLFY4dB4Z1ul3tVlCLZFMh_XWSA&oe=69F1CF0D",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQOZeo_tiaEAUJpUFlhWRGUOpjQVNQyPlXbOgZHVRNhaGK3z1z_-8MxFNziq8HYGUUg76GlXz5iB0_dOLZsa86WcrPtbIuNTXtXWtUA.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=_7cDFBQSOCkQ7kNvwEn00VZ&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzIuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzI3MDE3MzIzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTExLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=12c82a60f173e52c&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC83ODQzQUU1OEZFNkVCQTVFMDRCRTlBMDAxRTM2QTE4MF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0JENEY1OTI3M0Q4QTZCNDNBNzU2RTFBMTI2MEZEN0JEX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb805zu2MGaQBUCKAJDMiwXQFvqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGMb3uNPeXDR71187ZzNEuh_sUAnQKF-hJFNFJ67i1vQlFpvO4lFlWwKFG1qhCnnAmZ9hKmhWFegg&oh=00_Af3HbveRqEQwlgdk7_-h-U6o_-dWHiNjQGR1asKqcYahfg&oe=69EDC24C",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/670718883_4501205876872293_1246965046593013036_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=RoyJPLYw1rAQ7kNvwGpDXZA&_nc_oc=AdqxhnXScC9e0AtWE66EWNFS4XPaKzwTa9SGXf5N4OsNpoazbGTNeEMVBw9G-hF1_3I&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&_nc_tpa=Q5bMBQE9yFvMmFCbdO4C9sIrf2POAr4Z4ANfUk7VVHjoCTeUNm3LnBSaAhCObTG5CvZHzDIk9YQRqzbFuA&oh=00_Af2eg8iwEetf_acXar2HLFY4dB4Z1ul3tVlCLZFMh_XWSA&oe=69F1CF0D"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69eace2d7dea335c2b30c5f4",
+      "latePostId": "69e88ea9f85478fe3b9c4419",
+      "content": "Most Americans misunderstand how tax brackets work — and some have declined raises because of it 💸\n\nMarginal vs Effective Tax Rate:\n\nThe myth:\n→ 'I got a raise into the 22% bracket — now I'll pay more in taxes'\n→ 'If I earn over $47K, everything gets taxed at 22%'\n→ 'I might take home less if I earn more'\n→ All of these are wrong\n\nHow marginal rates actually work (2024 single filer):\n→ First $11,600: taxed at 10%\n→ $11,601 to $47,150: taxed at 12%\n→ $47,151 to $100,525: taxed at 22%\n→ $100,526 to $191,950: taxed at 24%\n→ Higher brackets continue up to 37%\n\nA concrete example — $55,000 income:\n→ 10% on first $11,600 = $1,160\n→ 12% on next $35,550 ($11,600 to $47,150) = $4,266\n→ 22% on remaining $7,850 ($47,150 to $55,000) = $1,727\n→ Total federal tax: ~$7,153\n→ Effective rate: 13% (not 22%)\n\nThe key insight:\n→ Your marginal rate = rate on your LAST dollar\n→ Your effective rate = rate on your AVERAGE dollar\n→ They are never the same (unless you're in the 10% bracket)\n→ A raise ALWAYS increases take-home pay (assuming fixed credits)\n\nWhen a raise CAN reduce net pay:\n→ When it phases out specific tax credits\n→ Earned Income Credit: phases out as income rises\n→ Premium Tax Credit (ACA): phases out above certain thresholds\n→ But this is not the bracket — it's the credit phase-out\n→ The bracket itself never reduces take-home pay\n\nStandard deduction reminder (2024):\n→ Single: $14,600 deducted before any tax applies\n→ Married filing jointly: $29,200\n→ $100K income → ~$85,400 taxable income → ~18% effective rate\n\n#moneyfacts #taxes #taxbracket #marginalrate #financialliteracy #personalfinance #taxfacts #incometax #financialeducation #moneytips",
+      "publishedAt": "2026-04-23T23:03:21.000Z",
+      "scheduledFor": "2026-04-23T23:03:21.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 58,
+        "reach": 57,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 58,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:00:00"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18103070581966739",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 58,
+            "reach": 57,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 58,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:00:00"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXfe1sZDPOD/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXfe1sZDPOD/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/670738342_833884263109686_2399274883795332357_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=LlZ50NMgg2EQ7kNvwEoq6k1&_nc_oc=AdpLiUDO3VscvTTMaqVQ8qlh0m0NfxmevH7yQ6AuxhJc-X9J_YAmciWTvvD8-yQY-Q8&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&_nc_tpa=Q5bMBQE_MLGbSJHmKeD9aYNZsUCS93l7di1sq7np58zDL33ybQqSl-iE84zWlkshR8l-1K3VA7dPrDJMPg&oh=00_Af3iCv0ISE7rALxfrSATiB0WY6RTytMx1F9jfOSoWrohMw&oe=69F1CC19",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQOiWU6cgOayPHs_VkiUil3WVX4uqHJzuWmD4xYX_Q0aCYQ3MltCwK9dBC4tqi_wq5ACVDo0_iUcoMVsImvIlac8CjGuEQJfKBdajyM.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=uI0TGco8PT8Q7kNvwGh_4x8&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzIuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzI5MzM1OTYzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9593a4b40fbf0b5a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yNjRCRDIyNTFCRjg4N0IyMTU5MDJBNzBEQTM4QUNCRF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0U4NDlFMDA1NTEwRTkzRkQ4NjUxMDY1NEU1MUUzOEFDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8y_uwmM-aQBUCKAJDMiwXQF6iHKwIMScYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQE2OPh63xZmktxEx6N22tLQyNBd4_CBzYpSRA001ZjFtz6s7vC49ZfPjPKVfmu9h-GPPhFqPw4KGQ&oh=00_Af23m7UiZ2oPJ8_-TmFqT631x52XvvsbuCHZZ6qCQ-mi4A&oe=69EDDB90",
+          "thumbnail": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/670738342_833884263109686_2399274883795332357_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=LlZ50NMgg2EQ7kNvwEoq6k1&_nc_oc=AdpLiUDO3VscvTTMaqVQ8qlh0m0NfxmevH7yQ6AuxhJc-X9J_YAmciWTvvD8-yQY-Q8&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&_nc_tpa=Q5bMBQE_MLGbSJHmKeD9aYNZsUCS93l7di1sq7np58zDL33ybQqSl-iE84zWlkshR8l-1K3VA7dPrDJMPg&oh=00_Af3iCv0ISE7rALxfrSATiB0WY6RTytMx1F9jfOSoWrohMw&oe=69F1CC19"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e8e9147dea335c2b2405b8",
+      "latePostId": "69e73b8e6be3f4d3939a414a",
+      "content": "Rent payments don't build your credit score by default — landlords have no obligation to report to b\n\nRent payments don't build your credit score by default — landlords have no obligation to report to bureaus. Mortgages, car loans, credit cards: reported automatically. Rent: invisible unless you opt into a reporting service. This affects millions of renters building zero credit history while paying perfectly. #moneyfacts #creditScore #rent #financialliteracy #personalfinance",
+      "publishedAt": "2026-04-22T13:00:00.000Z",
+      "scheduledFor": "2026-04-22T13:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 44,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 21:22:08"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "V-kMhfNEM9Q",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 44,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 21:22:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=V-kMhfNEM9Q",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=V-kMhfNEM9Q",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/V-kMhfNEM9Q/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/V-kMhfNEM9Q/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/V-kMhfNEM9Q/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e9620e7dea335c2b27387e",
+      "latePostId": "69e73b9e6013b43447173746",
+      "content": "You can collect Social Security even if you never worked a day — and millions of people don't know this 💸\n\nThe Spousal Social Security Benefit:\n\nHow it works:\n→ Based on your spouse's work record (not yours)\n→ Amount: up to 50% of spouse's Primary Insurance Amount (PIA) at their FRA\n→ Your spouse must have filed for their own benefits first\n→ Your own record: if higher than 50% of spouse's, Social Security pays you the higher amount\n→ You must be at least 62 to claim\n\nFull Retirement Age matters:\n→ Claim at 62: spousal benefit reduced (same early claiming penalty as own benefit)\n→ Claim at FRA: full 50% of spouse's PIA\n→ Waiting past FRA: NO additional credits (unlike your own benefit)\n→ Maximum spousal benefit = 50% of spouse's PIA. Period.\n\nSurvivor benefit (even more valuable):\n→ Spouse dies: you can claim 100% of their benefit\n→ Full survivor benefit available at FRA\n→ Strategy: delay your own benefit AND your spouse's benefit for maximum survivor protection\n\nThe divorced spouse rule:\n→ Married 10+ years?\n→ Divorced (not remarried)?\n→ You qualify for spousal/survivor benefits based on ex-spouse's record\n→ Completely independent — doesn't affect ex-spouse's benefits at all\n→ They don't even need to know you're claiming\n\nThe hidden rule:\n→ SSA will NOT tell you about the spousal benefit proactively\n→ You must know to ask\n→ Optimal strategy requires knowing both spouses' projected benefit amounts\n→ Claiming order matters — timing differences can mean $100,000+ lifetime income difference\n\nWho should know this:\n→ Stay-at-home parents/partners\n→ Low-earning spouses\n→ Anyone divorced after 10+ year marriage\n→ Widows and widowers\n\n#moneyfacts #socialSecurity #retirementplanning #spousalbenefit #financialliteracy #personalfinance #retirement #financialfacts #retirementfacts #divorcefinance",
+      "publishedAt": "2026-04-22T23:02:50.000Z",
+      "scheduledFor": "2026-04-22T23:02:50.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 32,
+        "reach": 31,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 32,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:00:00"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "17859457842630010",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 32,
+            "reach": 31,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 32,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:00:00"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXc5-F5jdXQ/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXc5-F5jdXQ/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/671196629_942846445217746_4184038248573441256_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=iNqw7KIkz5kQ7kNvwEWmPR4&_nc_oc=AdrKoERO2avEPbYSqFgRXVWFJ3geDYu_uveoSTswITp-EmPrC89v1oPoOnKPg4_hmFE&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&_nc_tpa=Q5bMBQFfr5IVLMWWaA6SL4tVicZehAvbB7P0g4MNbSNigEdMF-t4i1koClAhEOoce0avbBfo81J1j97LrQ&oh=00_Af1KWNxJhZQgqDpJs6xJi9s8IpzT9Eo3ubtfhvMYtyLJJw&oe=69F1D07A",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQOZzDUzTii_ucrtCdhAHc4ia9gkPs3A2TrOf5k8CLquxL_pPRRHhL92v8OjNERLD3JmZFN98CmhvWkEZGc-_hezMgC0zaUeSSkbd-I.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=Ubq8gIKmPUcQ7kNvwEZNYqi&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzIuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzI3MzE4MjIzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTA2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=6ab40a123dcca7da&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC82MzQ5QUJCMUZCOTdGNUZEODgzQTI1RDczNjQ2Qzg5RV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZDNDNFQjQwN0YzNDA2OEM5RjIyREVEMTQ3QTNERjk5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8raSGucOaQBUCKAJDMiwXQFqCHKwIMScYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGX4IG1iAiBvIKbxrl18gdPrfi_u03BDcm9E4QOs1H4hTcenbvBncXjHo6FFfNYEsOAhXGUoI6nYg&oh=00_Af1tZfye4Pgrshf5lgnDjFV5ADR5oH5lqF5EGX4gV4mS6g&oe=69EDBF60",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/671196629_942846445217746_4184038248573441256_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=iNqw7KIkz5kQ7kNvwEWmPR4&_nc_oc=AdrKoERO2avEPbYSqFgRXVWFJ3geDYu_uveoSTswITp-EmPrC89v1oPoOnKPg4_hmFE&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&_nc_tpa=Q5bMBQFfr5IVLMWWaA6SL4tVicZehAvbB7P0g4MNbSNigEdMF-t4i1koClAhEOoce0avbBfo81J1j97LrQ&oh=00_Af1KWNxJhZQgqDpJs6xJi9s8IpzT9Eo3ubtfhvMYtyLJJw&oe=69F1D07A"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ea965b7dea335c2b2fb283",
+      "latePostId": "69e88ea4f85478fe3b9c4311",
+      "content": "Your employer's 401k match might not be yours — yet 💸\n\nThe 401k Vesting Trap:\n\nHow vesting works:\n→ Your own contributions: always 100% yours, immediately\n→ Employer match: subject to vesting schedule\n→ Vesting = the percentage of employer contributions you actually own\n→ Before fully vested: some or all of the match can be forfeited\n\nTwo types of vesting schedules:\n\nCliff vesting:\n→ 0% owned until specific date (usually year 3)\n→ Then 100% immediately\n→ Leave day before cliff: forfeit 100% of employer match\n→ Leave day after cliff: keep 100% of employer match\n\nGraded vesting:\n→ Percentage increases each year\n→ Common schedule: 20% per year over 5 years\n→ Year 1: 20%, Year 2: 40%, Year 3: 60%, Year 4: 80%, Year 5: 100%\n→ Leave at year 2.5: keep 40% of all employer contributions received\n\nDOL minimum vesting requirements:\n→ Cliff: must be fully vested by year 3\n→ Graded: must be 20% at year 2, 100% by year 6\n→ Companies can be MORE generous, never less\n→ Immediate vesting (0-year cliff): a recruiting benefit some companies offer\n\nWhat you forfeit:\n→ Unvested portion returns to the plan as a 'forfeiture'\n→ Plan can use forfeitures to fund future employer contributions or pay plan expenses\n→ It disappears from your account permanently\n\nThe real dollar impact:\n→ 5% employer match on $80K salary = $4,000/year in match\n→ Leave after 2 years with 3-year cliff: forfeit 2 × $4,000 = $8,000\n→ Plus investment growth on that $8,000\n\nWhat to do before resigning:\n→ Ask HR: 'What is my current vested percentage?'\n→ Request your plan document (required to be provided on request)\n→ Calculate days until next vesting increment\n→ If you're 89% vested and 2 months from 100%: it may be worth waiting\n\n#moneyfacts #401k #vestingschedule #retirement #personalfinance #financialliteracy #jobchange #retirementplanning #employeebenefit #workplacefinance",
+      "publishedAt": "2026-04-23T18:01:29.000Z",
+      "scheduledFor": "2026-04-23T18:01:29.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 30,
+        "reach": 25,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 30,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:00:00"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18075045023552063",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 30,
+            "reach": 25,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 30,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:00:00"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXe8SUWlfTj/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXe8SUWlfTj/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/670924719_863036610147769_2586301423757364868_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=hIOhs-bAPoIQ7kNvwFSN2l8&_nc_oc=Adq0wpau4AGrLsAPAJ82zL6WfKlrMT9ceSxfB8azqkHC2We6PAvp107j66y95shYZrA&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&_nc_tpa=Q5bMBQEeWSU21BVtL_cPrVcge-IAlIxvV7HRhETECxHSy0JE7QstXj9Z0XvS0WG96pubJACWknVLfP7e4A&oh=00_Af0lvEJPyV6Ybq69p9RquvU039viStflWfe72keLcr0csQ&oe=69F1D0EE",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMLTHLelnN8ZKUqviehF9q_iMlDBO9J2HTRYTHsKVUnvQHGlbBI9KRilDd51yTClOBp_8Nj1pbij4-lDRsCIg_O4bti4qLspQ1uloc.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=_JJun1pcczIQ7kNvwGd_D7a&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzIuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzI4OTM1MjIzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=47aa32a70d270263&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wQzQ0OTg0OEJFRkVGQjYxNDlCNTY5NkI3NjQwNkNBQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Q0NDJDOEMxQTc2QjRGNjFCMENGRTNCQzdGOUVDQkI4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb88bXn7cyaQBUCKAJDMiwXQF6kOVgQYk4YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFRI0Pw4YZ6UTb-3PH-hZfpexjZZouTNmy5lHNSyYbMTSrpfIL3ps8rAXTmWmBaLHuNmlkzwW-GjA&oh=00_Af3HbkjEghApAOE8nIpAddP9LxOHKI8N2yc2BFLoP0P3oA&oe=69EDC413",
+          "thumbnail": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/670924719_863036610147769_2586301423757364868_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=hIOhs-bAPoIQ7kNvwFSN2l8&_nc_oc=Adq0wpau4AGrLsAPAJ82zL6WfKlrMT9ceSxfB8azqkHC2We6PAvp107j66y95shYZrA&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&_nc_tpa=Q5bMBQEeWSU21BVtL_cPrVcge-IAlIxvV7HRhETECxHSy0JE7QstXj9Z0XvS0WG96pubJACWknVLfP7e4A&oh=00_Af0lvEJPyV6Ybq69p9RquvU039viStflWfe72keLcr0csQ&oe=69F1D0EE"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e949027dea335c2b26ae3e",
+      "latePostId": "69e73b9c6013b43447173725",
+      "content": "Spousal Social Security benefit: 50% of your spouse's PIA at FRA — even if you never worked. Survivo\n\nSpousal Social Security benefit: 50% of your spouse's PIA at FRA — even if you never worked. Survivor benefit: 100%. Divorced spouses married 10+ years also qualify. SSA won't tell you automatically — you have to know to ask. #moneyfacts #socialSecurity #retirementplanning #spousalbenefit #financialliteracy",
+      "publishedAt": "2026-04-22T22:02:39.000Z",
+      "scheduledFor": "2026-04-22T22:02:39.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 20,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 21:22:08"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "jKtf8EAGHYo",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 20,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 21:22:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=jKtf8EAGHYo",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=jKtf8EAGHYo",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/jKtf8EAGHYo/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/jKtf8EAGHYo/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/jKtf8EAGHYo/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ea49347dea335c2b2cd46a",
+      "latePostId": "69e88e9ef85478fe3b9c4223",
+      "content": "You can sell a stock at a loss to save on taxes — but if you buy it back too soon, the IRS pretends the loss never happened 💸\n\nThe Wash Sale Rule (IRC Section 1091):\n\nThe basic rule:\n→ Sell security at a loss\n→ Buy same (or substantially identical) security within 30 days before OR after\n→ IRS disallows the loss deduction entirely\n→ Loss is not gone — it gets added to your cost basis\n→ But the timing benefit of harvesting it now is eliminated\n\nThe 30-day window goes BOTH directions:\n→ 30 days before the sale\n→ 30 days after the sale\n→ Total 61-day blackout period (including sale day)\n→ Most people only know about the 30 days after — the 30 days before catches many\n\nWhat counts as 'substantially identical':\n→ Same stock: obviously yes\n→ Vanguard S&P 500 fund sold → Fidelity S&P 500 fund bought: YES (same index)\n→ S&P 500 fund sold → Total Market fund bought: probably not (different index)\n→ S&P 500 fund sold → mid-cap fund bought: no\n→ Options on the same stock: yes\n\nHow most people trigger it accidentally:\n→ Sell stock at a loss → immediately rebuy (don't want to miss recovery)\n→ Automated dividend reinvestment buys back while selling at a loss\n→ Sell in taxable account → buy in IRA within 30 days\n→ (Yes: wash sale applies ACROSS accounts)\n\nThe crypto exception (currently):\n→ Crypto classified as property, not securities\n→ Wash sale rule does NOT apply\n→ Can sell Bitcoin at a loss, rebuy immediately, claim the tax loss\n→ Congress has proposed closing this loophole multiple times\n→ As of 2024: still open — check current law before acting\n\nThe correct workaround:\n→ Sell the fund\n→ Buy a similar but NOT substantially identical fund for 31 days\n→ Then sell that and rebuy original\n→ The 31-day alternative position preserves market exposure without wash sale\n\n#moneyfacts #taxlossharvesting #washsalerule #investing #taxfacts #personalfinance #financialliteracy #taxstrategy #capitalgains #investingtips",
+      "publishedAt": "2026-04-23T13:02:16.000Z",
+      "scheduledFor": "2026-04-23T13:02:16.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 14,
+        "reach": 13,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 14,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:00:00"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18102126541798608",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 14,
+            "reach": 13,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 14,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:00:00"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXeaCncjC6a/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXeaCncjC6a/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/671827883_1482150053520608_6749325016051209670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=TYri8CE39PwQ7kNvwGTFMro&_nc_oc=AdqElA-gatDkAHa88rmm1VvDmkYC-YAnOqveWB3nV5kdYkfy9eGVWoNSpRozLb6N7iQ&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&_nc_tpa=Q5bMBQHKndi6PDZW6jUc5z8Emyfab4s7kEUsZPxj6kdTQl5SEZrv3hJYu0LH6zM08OUet2U0iLgk-m2FNQ&oh=00_Af2hSTagYM2YSXHtUImHHMo3VCQ98ON3JRFYNWcpELqCHw&oe=69F1BFCD",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQOBikEF1PtInh0gErv48ZGXsH7uDGhvz3pe-ZF3QZgh5XyxQIdWHgnajQ0sxWXRIavPLQ-ohVpsYNTKQEUV-TtuhtEsK4v4lLebQcM.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=C4VTQrkxxGUQ7kNvwFW5pdb&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzIuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzI4MzgzNjczNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTI3LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=ceb065cc34a706db&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ERjQ0NEFCNEJFRjk4RkRFRkExOUU5NkJGRTdGQ0M4RF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzBFNDJDQkI0OTlDOEIxRjQyMjA0ODg5MUNCQkY5QkI3X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb85sHv0smaQBUCKAJDMiwXQF_IgxJul40YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHb9HxwpcYBLj3gw_QvPKD9wgyjo6U1R3WZ7CSi8OcsGSyaN8ifZJlI0VxQ3NTu3ROWjFoYg0kzhA&oh=00_Af37sHfDbZtDs24c9uLO-B4CqffxOSRul4cZoRR03QjqRw&oe=69EDD000",
+          "thumbnail": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/671827883_1482150053520608_6749325016051209670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=TYri8CE39PwQ7kNvwGTFMro&_nc_oc=AdqElA-gatDkAHa88rmm1VvDmkYC-YAnOqveWB3nV5kdYkfy9eGVWoNSpRozLb6N7iQ&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&_nc_tpa=Q5bMBQHKndi6PDZW6jUc5z8Emyfab4s7kEUsZPxj6kdTQl5SEZrv3hJYu0LH6zM08OUet2U0iLgk-m2FNQ&oh=00_Af2hSTagYM2YSXHtUImHHMo3VCQ98ON3JRFYNWcpELqCHw&oe=69F1BFCD"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e9191c7dea335c2b25761c",
+      "latePostId": "69e73b966ded4b6ae0694510",
+      "content": "TreasuryDirect.gov: buy US Treasury bills, notes, bonds, and I-bonds directly from the federal gover\n\nTreasuryDirect.gov: buy US Treasury bills, notes, bonds, and I-bonds directly from the federal government. No broker, no fee, no markup. Same yield as brokerage. I-bonds hit 9.62% in 2022. Limit: $10K/year per SSN. Interface is old but the product is real. #moneyfacts #treasuryDirect #ibonds #personalfinance #investing",
+      "publishedAt": "2026-04-22T18:00:00.000Z",
+      "scheduledFor": "2026-04-22T18:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 13,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 21:22:08"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "-TUol0n7AcA",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 13,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 21:22:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=-TUol0n7AcA",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=-TUol0n7AcA",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/-TUol0n7AcA/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/-TUol0n7AcA/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/-TUol0n7AcA/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e8e9217dea335c2b240604",
+      "latePostId": "69e73b8f27bbcf51e3cff2ea",
+      "content": "Paying rent on time doesn't build your credit score — and most people don't find out until they try to buy a house 💸\n\nWhy rent is invisible to credit bureaus:\n\nWhat DOES report automatically:\n→ Mortgage payments\n→ Car loans\n→ Credit card payments\n→ Student loans (federal and most private)\n→ Personal loans from banks/credit unions\n\nWhat does NOT report by default:\n→ Rent — no legal obligation for landlords to report\n→ Utilities (most)\n→ Cell phone bills (usually)\n→ Insurance premiums\n\nThe scale of the problem:\n→ Average rent: $1,500-$3,000/month in major cities\n→ Many renters pay this perfectly for 5-10 years\n→ Zero credit history generated\n→ Then they apply for a mortgage: thin credit file → higher rate or denial\n\nServices that report rent:\n→ Experian Boost: free, adds rent history to Experian file only\n→ RentReporters, Rental Kharma, LevelCredit: paid services (~$5-10/month)\n→ Some property management platforms (Rentler, Zego) report automatically — ask your landlord\n→ Some credit card companies now offer rent reporting as a perk\n\nCritical detail:\n→ Different bureaus don't share this data\n→ Reporting to Equifax doesn't affect TransUnion\n→ If your landlord uses a service: check which bureau(s) it reports to\n\nThe irony:\n→ First-generation renters most likely to lack credit history\n→ Also most likely to rent for longer before buying\n→ System structurally disadvantages those with least wealth\n\n#moneyfacts #creditScore #rent #financialliteracy #personalfinance #creditreport #rentingvsbuying #financialfacts #creditbuilding #moneylessons",
+      "publishedAt": "2026-04-22T13:03:02.000Z",
+      "scheduledFor": "2026-04-22T13:03:02.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 11,
+        "reach": 11,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 11,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:00:00"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "17921623623335296",
+          "accountId": "69b995666cb7b8cf4c7bad79",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 11,
+            "reach": 11,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 11,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:00:00"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXb1VOzirjQ/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXb1VOzirjQ/",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/671103707_845757497832233_1511202342722603251_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=KRLw3AS6SjkQ7kNvwF5xHWa&_nc_oc=Adq_ie-UZFXdU6rTBPdCbkecUG1pBDReDbHAHrd9MuhKd5-6-hE8bZSNJi5Z0qmfAKs&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&_nc_tpa=Q5bMBQG7D7zqT3jNqrXgr8W8VjQWHX9zIyEJ9iF4lXwU8DxZ9C3erxGkNDf8BrxPEZRxUzWK2VNMncsRlQ&oh=00_Af1n9R6fL4BjVPwbaZ2ff9vqp0iQO38C1nC2JwYd_0y4lA&oe=69F1D6FF",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m86/AQPFRTkof3izOBjCHedNaVwvX7jcG7KvK7L8fkL1HRCXwZJKeZI-ljw7aVwyLnX-5NK5aJT59WcEW5wcNxYQSrL2Jbr2E_n-Bb7z2IQ.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=iSvo__gO8DAQ7kNvwFX3Uzk&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzIuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzI2NTIzNjEzNjE0NzAsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTA0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=5910828e347141d0&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zMTRDNTI3MjQyQTM3ODQ5NkVEMTQyOTRDNDE0NTlBM192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzU1NENENDM1MjgzNDhFMTc0MDFCQzk2MzgxNkM0MkJDX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb8oK-C6b6aQBUCKAJDMiwXQFokOVgQYk4YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEfv4pJgDutel01EaWg3lWPpc2NKJ9Vn6aAPtLMfT-3lUun3WvUiTWPwefw9FBBBI0Q5eSGtLk7PA&oh=00_Af3Hs0o0bGikgkeCBwZw8SWYLjERlh0WQey7s9BX43q02A&oe=69EDD733",
+          "thumbnail": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/671103707_845757497832233_1511202342722603251_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=KRLw3AS6SjkQ7kNvwF5xHWa&_nc_oc=Adq_ie-UZFXdU6rTBPdCbkecUG1pBDReDbHAHrd9MuhKd5-6-hE8bZSNJi5Z0qmfAKs&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=CxyOEyQ4erlaJRnm0-xOsA&_nc_tpa=Q5bMBQG7D7zqT3jNqrXgr8W8VjQWHX9zIyEJ9iF4lXwU8DxZ9C3erxGkNDf8BrxPEZRxUzWK2VNMncsRlQ&oh=00_Af1n9R6fL4BjVPwbaZ2ff9vqp0iQO38C1nC2JwYd_0y4lA&oe=69F1D6FF"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69eacd2e7dea335c2b30c266",
+      "latePostId": "69e88ea81d817818bb5ab657",
+      "content": "The marginal tax rate myth: only dollars ABOVE the bracket threshold are taxed at the higher rate —\n\nThe marginal tax rate myth: only dollars ABOVE the bracket threshold are taxed at the higher rate — not all income. Single filer earning $100K pays ~18% effective federal rate, not 24% marginal. You cannot earn your way into lower take-home pay by crossing a bracket. #moneyfacts #taxes #taxbracket #marginalrate #financialliteracy",
+      "publishedAt": "2026-04-23T23:00:00.000Z",
+      "scheduledFor": "2026-04-23T23:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 9,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 21:22:08"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "CkdqyY1W9uA",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 9,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 21:22:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=CkdqyY1W9uA",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=CkdqyY1W9uA",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/CkdqyY1W9uA/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/CkdqyY1W9uA/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/CkdqyY1W9uA/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ea965a7dea335c2b2fb27b",
+      "latePostId": "69e88ea3f85478fe3b9c42df",
+      "content": "Most 401k employer matches have vesting schedules — cliff (0% until year 3, then 100%) or graded (20\n\nMost 401k employer matches have vesting schedules — cliff (0% until year 3, then 100%) or graded (20%/year). Leave before fully vested and you forfeit the unvested portion to the plan. Your own contributions are always 100% yours. Check your vesting schedule before resigning — it can be worth thousands. #moneyfacts #401k #vestingschedule #retirement #personalfinance",
+      "publishedAt": "2026-04-23T18:00:00.000Z",
+      "scheduledFor": "2026-04-23T18:00:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 1,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 21:22:08"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "GQVz-YqP-dI",
+          "accountId": "69b95c996cb7b8cf4c7ae4ab",
+          "accountUsername": "moneyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 1,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 21:22:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=GQVz-YqP-dI",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=GQVz-YqP-dI",
+      "isExternal": true,
+      "profileId": "69b95c8c17376a13852d91f7",
+      "thumbnailUrl": "https://i.ytimg.com/vi/GQVz-YqP-dI/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/GQVz-YqP-dI/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/GQVz-YqP-dI/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}

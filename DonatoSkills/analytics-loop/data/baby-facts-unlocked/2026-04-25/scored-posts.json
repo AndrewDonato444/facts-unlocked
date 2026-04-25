@@ -1,0 +1,1105 @@
+{
+  "project": "baby-facts-unlocked",
+  "scoredAt": "2026-04-25T00:04:26.181Z",
+  "dateRange": {
+    "from": "2026-04-22",
+    "to": "2026-04-23"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 18,
+    "includedPosts": 0,
+    "excludedPosts": 18,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69e9620b7dea335c2b27386d",
+      "latePostId": "69e73b8572ab25e722ea80b8",
+      "content": "C-section babies have a measurably different gut microbiome than vaginally born babies — and the difference lasts for years 🧫👶 #babyfacts #csection #microbiome #birthscience #infanthealth",
+      "publishedAt": "2026-04-22T23:02:00.000Z",
+      "scheduledFor": "2026-04-22T23:02:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 38,
+        "comments": 0,
+        "shares": 10,
+        "saves": 0,
+        "clicks": 0,
+        "views": 826,
+        "engagementRate": 5.81,
+        "lastUpdated": "2026-04-24 23:41:08"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "platformPostId": "7631722636984339725",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 38,
+            "comments": 0,
+            "shares": 10,
+            "saves": 0,
+            "clicks": 0,
+            "views": 826,
+            "engagementRate": 5.81,
+            "lastUpdated": "2026-04-24 23:41:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7631722636984339725?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+          "errorMessage": null
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7631722636984339725?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/og1GdDfExg63pogSAQBNBUEFBrQEF6wfDqbVUp~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=8de6238f&x-expires=1777158000&x-signature=%2BJf7qdWn8g8%2B8f%2F0%2BAKABTtmk8Q%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/og1GdDfExg63pogSAQBNBUEFBrQEF6wfDqbVUp~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=8de6238f&x-expires=1777158000&x-signature=%2BJf7qdWn8g8%2B8f%2F0%2BAKABTtmk8Q%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/og1GdDfExg63pogSAQBNBUEFBrQEF6wfDqbVUp~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=8de6238f&x-expires=1777158000&x-signature=%2BJf7qdWn8g8%2B8f%2F0%2BAKABTtmk8Q%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&sc=cover&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e8cd327dea335c2b22fe4e",
+      "latePostId": "69e73c746b04dccde5fd4f2f",
+      "content": "60% of newborns turn yellow after birth — it's called jaundice and it's not a sign something went wrong 👶🟡 #babyfacts #newborn #jaundice #neonatal #birthscience",
+      "publishedAt": "2026-04-22T13:01:54.000Z",
+      "scheduledFor": "2026-04-22T13:01:54.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 5,
+        "comments": 0,
+        "shares": 1,
+        "saves": 0,
+        "clicks": 0,
+        "views": 302,
+        "engagementRate": 1.99,
+        "lastUpdated": "2026-04-24 23:41:08"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "platformPostId": "7631568055105113358",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 5,
+            "comments": 0,
+            "shares": 1,
+            "saves": 0,
+            "clicks": 0,
+            "views": 302,
+            "engagementRate": 1.99,
+            "lastUpdated": "2026-04-24 23:41:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7631568055105113358?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+          "errorMessage": null
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7631568055105113358?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o88folFJHBCQRhAVfnMekTIs0I123xDWYWqg3H~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=d7715e0d&x-expires=1777158000&x-signature=X7mlPWuqKQ59q5J7bhAp7JVkdm4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o88folFJHBCQRhAVfnMekTIs0I123xDWYWqg3H~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=d7715e0d&x-expires=1777158000&x-signature=X7mlPWuqKQ59q5J7bhAp7JVkdm4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/o88folFJHBCQRhAVfnMekTIs0I123xDWYWqg3H~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=d7715e0d&x-expires=1777158000&x-signature=X7mlPWuqKQ59q5J7bhAp7JVkdm4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ea49357dea335c2b2cd470",
+      "latePostId": "69e88e788693a22826d34be6",
+      "content": "Babies fling their arms out when startled because their brain thinks they're falling from a tree 🐒👶 The Moro reflex is a primate survival instinct #babyfacts #newborn #mororeflect #infantscience #birthscience",
+      "publishedAt": "2026-04-23T13:01:28.000Z",
+      "scheduledFor": "2026-04-23T13:01:28.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 11,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 262,
+        "engagementRate": 4.2,
+        "lastUpdated": "2026-04-24 23:41:08"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "platformPostId": "7631939028371246350",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 11,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 262,
+            "engagementRate": 4.2,
+            "lastUpdated": "2026-04-24 23:41:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7631939028371246350?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+          "errorMessage": null
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7631939028371246350?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ooDgGeDqiAHDGrKQDl1IJRCkGH1LQIlgT8Beuf~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=fc201453&x-expires=1777158000&x-signature=KyHx0hhlGP7%2F2tso4F%2BxH2B3jXk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ooDgGeDqiAHDGrKQDl1IJRCkGH1LQIlgT8Beuf~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=fc201453&x-expires=1777158000&x-signature=KyHx0hhlGP7%2F2tso4F%2BxH2B3jXk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ooDgGeDqiAHDGrKQDl1IJRCkGH1LQIlgT8Beuf~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=fc201453&x-expires=1777158000&x-signature=KyHx0hhlGP7%2F2tso4F%2BxH2B3jXk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ea965c7dea335c2b2fb28e",
+      "latePostId": "69e88e881d817818bb5ab3cd",
+      "content": "Babies are born without kneecaps 🤯 The patella is entirely cartilage until age 2-6 — invisible on X-rays #babyfacts #newborn #anatomy #babydevelopment #infantscience",
+      "publishedAt": "2026-04-23T18:00:37.000Z",
+      "scheduledFor": "2026-04-23T18:00:37.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 4,
+        "comments": 0,
+        "shares": 4,
+        "saves": 0,
+        "clicks": 0,
+        "views": 264,
+        "engagementRate": 3.03,
+        "lastUpdated": "2026-04-24 23:41:08"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "platformPostId": "7632016122602179854",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 4,
+            "comments": 0,
+            "shares": 4,
+            "saves": 0,
+            "clicks": 0,
+            "views": 264,
+            "engagementRate": 3.03,
+            "lastUpdated": "2026-04-24 23:41:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7632016122602179854?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+          "errorMessage": null
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7632016122602179854?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/osSAHsifbqy0iBC7I8klAXVBwi2YpvCJ3V9tIR~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=14744fa4&x-expires=1777158000&x-signature=ef4pw6fh97cnIs9H0IxCwL8OnzY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/osSAHsifbqy0iBC7I8klAXVBwi2YpvCJ3V9tIR~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=14744fa4&x-expires=1777158000&x-signature=ef4pw6fh97cnIs9H0IxCwL8OnzY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/osSAHsifbqy0iBC7I8klAXVBwi2YpvCJ3V9tIR~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=14744fa4&x-expires=1777158000&x-signature=ef4pw6fh97cnIs9H0IxCwL8OnzY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e92e317dea335c2b261559",
+      "latePostId": "69e73b774ad1e13c620d5026",
+      "content": "Newborns can taste sweet, sour, bitter, and umami — but NOT salt 🤯 The salt receptor doesn't activate until 4-5 months #babyfacts #newborn #infantdevelopment #tastesense #parentingtips",
+      "publishedAt": "2026-04-22T18:01:21.000Z",
+      "scheduledFor": "2026-04-22T18:01:21.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 5,
+        "comments": 0,
+        "shares": 3,
+        "saves": 0,
+        "clicks": 0,
+        "views": 257,
+        "engagementRate": 3.11,
+        "lastUpdated": "2026-04-24 23:41:08"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "platformPostId": "7631645108554779918",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 5,
+            "comments": 0,
+            "shares": 3,
+            "saves": 0,
+            "clicks": 0,
+            "views": 257,
+            "engagementRate": 3.11,
+            "lastUpdated": "2026-04-24 23:41:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7631645108554779918?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+          "errorMessage": null
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7631645108554779918?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYgGkTGgeChQgADe6LgJOXQHnMM2k0GBa8wjfk~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=567887fd&x-expires=1777158000&x-signature=tRf%2B7d2XTf7HQivHQAYVe8Keq%2Fc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYgGkTGgeChQgADe6LgJOXQHnMM2k0GBa8wjfk~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=567887fd&x-expires=1777158000&x-signature=tRf%2B7d2XTf7HQivHQAYVe8Keq%2Fc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oYgGkTGgeChQgADe6LgJOXQHnMM2k0GBa8wjfk~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=567887fd&x-expires=1777158000&x-signature=tRf%2B7d2XTf7HQivHQAYVe8Keq%2Fc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69eace377dea335c2b30c62f",
+      "latePostId": "69e88e931d817818bb5ab4f6",
+      "content": "Newborns spend 50% of their sleep in REM — their brains are literally wiring themselves while they sleep 🧠👶 Adults only get 20% REM #babyfacts #infantscience #newborn #babysleep #braindevelopment",
+      "publishedAt": "2026-04-23T23:01:47.000Z",
+      "scheduledFor": "2026-04-23T23:01:47.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 8,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 177,
+        "engagementRate": 4.52,
+        "lastUpdated": "2026-04-24 23:41:08"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "platformPostId": "7632093652201901326",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 8,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 177,
+            "engagementRate": 4.52,
+            "lastUpdated": "2026-04-24 23:41:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7632093652201901326?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+          "errorMessage": null
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7632093652201901326?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/owj0gyqQDkf8lmO4kAIUegG1gJgTcGMf934HWC~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=33b7780c&x-expires=1777158000&x-signature=gRmTkFE1JtzBF%2BJABLiVp4SItE8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/owj0gyqQDkf8lmO4kAIUegG1gJgTcGMf934HWC~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=33b7780c&x-expires=1777158000&x-signature=gRmTkFE1JtzBF%2BJABLiVp4SItE8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/owj0gyqQDkf8lmO4kAIUegG1gJgTcGMf934HWC~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=33b7780c&x-expires=1777158000&x-signature=gRmTkFE1JtzBF%2BJABLiVp4SItE8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e92e3a7dea335c2b261593",
+      "latePostId": "69e73b794869033d7df08ea8",
+      "content": "Newborns can taste bitter, sour, sweet, and umami at birth — but literally cannot taste salt 👶👅\n\nThe taste development timeline:\n\nAt birth (all functional):\n→ Sweet — immediate relaxation response, universal preference\n→ Bitter — immediate rejection, gagging, crying (protective)\n→ Sour — facial grimace, head turn\n→ Umami — positive response (breast milk contains glutamates)\n\nNOT functional at birth:\n→ Salty — epithelial sodium channel (ENaC) not activated until 4-5 months\n→ Researchers believe: evolutionary adaptation (no useful food-seeking behavior for salt in infancy)\n\nThe prenatal preference:\n→ Sweet detection begins BEFORE birth\n→ Fetuses swallow significantly more amniotic fluid when mom eats sweet foods\n→ Amniotic fluid becomes slightly sweet → fetus drinks more\n→ Sweet preference is hardwired, not learned\n\nNewborn taste responses (reflexive, not learned):\n→ Sweet solution on tongue: muscle relaxation, heart rate slows, sucking increases\n→ These responses present in premature infants at 25-28 weeks\n→ Same responses across all cultures, all environments = genetic programming\n\nWhy this matters:\n→ Breast milk is slightly sweet → explains universal acceptance\n→ Sweet analgesics (sucrose) used in NICU for pain management\n→ Early bitter exposure may reduce picky eating later\n→ Salt preference develops at 4-5 months — exactly when solid food introduction begins\n\n#babyfacts #infantdevelopment #newbornbiology #tastebuds #parentingtips #momlife #newbornfacts #pregnancyfacts #babyhealth #birthscience",
+      "publishedAt": "2026-04-22T18:02:11.000Z",
+      "scheduledFor": "2026-04-22T18:02:11.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 131,
+        "reach": 118,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 131,
+        "engagementRate": 0.76,
+        "lastUpdated": "2026-04-24 23:41:08"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18116055556739342",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 131,
+            "reach": 118,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 131,
+            "engagementRate": 0.76,
+            "lastUpdated": "2026-04-24 23:41:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXcXkSjmOsw/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXcXkSjmOsw/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/674410814_2160006154778412_3264509114793849435_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sESn9vxbPQIQ7kNvwGov0Zn&_nc_oc=AdqFNKFb3iwnGPrEDwXdnhi0fAlJqtITvQtBePajxKzco77l7RmupwR5dQWLfsjXPbw&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&_nc_tpa=Q5bMBQES8SaxNTczrR5sLoC0rb8xgZtA3lRa-H4lk2h6vsIPt_oFJ8qVFxhBeFeQpBDjh2tlTDLppt-dXQ&oh=00_Af1fx7dyFWehh7y7HBIjX1tahk4ab1c5cZKiyzJvcKD4xw&oe=69F1E266",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQPOoYrVCNLMS1VJtzASwqNrMSNe8pDzIvDMwcE7mEF4Fi_X_eKllcaKxKVIofIS5egHmkOGxZfgJEPtOyj1LF2c2PSaURvNyc01SBo.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=0Tzvj9fe-pcQ7kNvwFyg41M&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzA5NjE0ODY0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTA2LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=b9e39b9a64ba5d61&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ERTQ4RDAwRDJCMThCOEI2QTgzMkIyQkQ0NTU1QUE4M192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Q3NDg0QTZBNjIwQkUyMUFFQkM5RDVCQzJCMkIwMEE2X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0tKyCs9yZQBUCKAJDMywXQFqiHKwIMScYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQEoIeNKBMxac1ZKlLROBr8adNvc6Nq9F_7dVW6mo6zW_87NK_pim0hLXmVvBKzQpS7aSaGZt7PoqQ&oh=00_Af0ggyP_P6wl7uDQuBYTL9bse23tLuM91bx2X9IfuC5X_A&oe=69EDECA0",
+          "thumbnail": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/674410814_2160006154778412_3264509114793849435_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sESn9vxbPQIQ7kNvwGov0Zn&_nc_oc=AdqFNKFb3iwnGPrEDwXdnhi0fAlJqtITvQtBePajxKzco77l7RmupwR5dQWLfsjXPbw&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&_nc_tpa=Q5bMBQES8SaxNTczrR5sLoC0rb8xgZtA3lRa-H4lk2h6vsIPt_oFJ8qVFxhBeFeQpBDjh2tlTDLppt-dXQ&oh=00_Af1fx7dyFWehh7y7HBIjX1tahk4ab1c5cZKiyzJvcKD4xw&oe=69F1E266"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ea49357dea335c2b2cd46f",
+      "latePostId": "69e88e811505b84f323fcbeb",
+      "content": "When a newborn is startled, they fling their arms wide and grab at the air — because their brain thinks they're falling from a tree 🐒👶\n\nThe Moro Reflex:\n\nWhat triggers it:\n→ Sudden loud noise\n→ Sudden movement\n→ Feeling of falling (head dropped slightly)\n→ Bright light in some newborns\n\nThe response sequence:\n→ Arms shoot outward, fingers spread wide\n→ Body arches\n→ Arms sweep inward (grabbing motion)\n→ Often followed by crying\n\nWhy this exists:\n→ Arboreal primate ancestry\n→ Infant clinging to mother moving through tree canopy\n→ Falling = throw arms out + grab = survival\n→ Present in all great apes and monkeys with identical mechanism\n\nNeurological significance:\n→ Operates through brainstem + subcortical circuits (primitive, fast)\n→ Present from 24-28 weeks gestational age\n→ One of 5 key neonatal reflexes assessed at birth\n→ Absent Moro = possible brachial plexus injury, fracture, or brain damage\n→ Asymmetric Moro = possible injury on weaker side\n\nWhy it disappears:\n→ Prefrontal cortex develops over months 2-6\n→ Higher brain regions suppress primitive brainstem circuits\n→ Replaced by intentional startle response\n→ Retention past 6 months = possible neurological concern\n\nOther primitive reflexes that disappear as cortex matures:\n→ Rooting reflex (disappears 3-4 months)\n→ Palmar grasp reflex (disappears 5-6 months)\n→ Stepping reflex (disappears 2 months, returns at ~12 months)\n→ Babinski reflex (disappears 12-24 months)\n\n#babyfacts #mororeflect #newborn #infantneuroscience #birthscience #parentingtips #momlife #babydevelopment #primates #newbornbiology",
+      "publishedAt": "2026-04-23T13:02:16.000Z",
+      "scheduledFor": "2026-04-23T13:02:16.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 116,
+        "reach": 104,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 116,
+        "engagementRate": 0.86,
+        "lastUpdated": "2026-04-24 23:41:08"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18077315453190491",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 116,
+            "reach": 104,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 116,
+            "engagementRate": 0.86,
+            "lastUpdated": "2026-04-24 23:41:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXeaCvDk4Fs/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXeaCvDk4Fs/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/671224768_746024508500594_3540607919002357520_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=zVUAIJmdNS4Q7kNvwEgAyg6&_nc_oc=AdqyEkD2GCWWbeJOPb8NlJ0TCwxc1RsdWRE5yumXm_V28mddNCv1mfTw4xkS1XL8gwc&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&_nc_tpa=Q5bMBQG58qryoxKJYzNuOm4iTMc5bZsiQFezryes7rs0B3zX3cwQt2qyTgEOXfLa9idp_Bl09ZNDC6SEQg&oh=00_Af200m18ipaFUp_-amImnVd8Q6YMH-amqn-6EQ-EIRGhPA&oe=69F1DB8F",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m86/AQPFsfU0M9U55AsPxgnUZqrXwzATlOF2QFbbgYKY8iBdWUjbGfMK18YWU278CoFzJJ7ykeGnDJPjoKWj7gf_tIWbuTduFTPeINs8yeg.mp4?_nc_cat=102&_nc_sid=5e9851&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=kxKhvmggVlkQ7kNvwECti8T&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzExMDgyMzE0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTIwLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=e6e2bff1ea48321a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GRTRFNTkyODJGMkE0NUE0OUNBRDAzQjBGNjIyMTU5QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzZENEEzN0ZDMDYyMjJCRDgzQjE0OTUzQzIyNjA2ODg0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0taSt-OSZQBUCKAJDMywXQF4O6XjU_fQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHgkC7DYKMB9Ks9QOO6wsWyFVb9ueDl0j8ERg4uAZfdFb3sLUj1fgBZi62F-hoio2jL-uk3X6uMxQ&oh=00_Af1NeYs_hzqfD_4kcV6Q0vb9_JufXKJEKKJ4K0PctpS4-g&oe=69EDD33B",
+          "thumbnail": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/671224768_746024508500594_3540607919002357520_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=zVUAIJmdNS4Q7kNvwEgAyg6&_nc_oc=AdqyEkD2GCWWbeJOPb8NlJ0TCwxc1RsdWRE5yumXm_V28mddNCv1mfTw4xkS1XL8gwc&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&_nc_tpa=Q5bMBQG58qryoxKJYzNuOm4iTMc5bZsiQFezryes7rs0B3zX3cwQt2qyTgEOXfLa9idp_Bl09ZNDC6SEQg&oh=00_Af200m18ipaFUp_-amImnVd8Q6YMH-amqn-6EQ-EIRGhPA&oe=69F1DB8F"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e9620a7dea335c2b273867",
+      "latePostId": "69e73b8727bbcf51e3cff2a9",
+      "content": "How your baby was born shapes their gut microbiome for years 🧫👶\n\nThe microbiome seeding window:\n\nVaginal birth:\n→ Baby passes through vaginal canal\n→ Coated in mother's vaginal microbiome\n→ Dominated by Lactobacillus (~90% of vaginal bacteria)\n→ This is the founding population of the gut microbiome\n→ Colonizes gut, skin, and oral cavity simultaneously\n\nC-section birth:\n→ Bypass of vaginal canal\n→ First microbial exposure: surgical environment + skin contact\n→ First colonizers: Staphylococcus, Clostridium, environmental skin bacteria\n→ Missing: the Lactobacillus-dominant founding population\n\nLong-term differences:\n→ Studies tracking children birth to age 7: measurably different gut composition\n→ The gap narrows over time (breastfeeding + diet reshape the microbiome)\n→ But distinct differences persist for years in some studies\n\nClinical correlations:\n→ Higher rates of allergies (C-section vs vaginal: multiple meta-analyses)\n→ Higher rates of asthma (12-20% elevated risk in most studies)\n→ Higher rates of type 1 diabetes in some populations\n→ Researchers believe microbiome composition is the mechanism\n\n'Vaginal seeding' (emerging practice):\n→ Swab mother's vaginal fluid onto C-section baby immediately after birth\n→ Some evidence of microbiome transfer\n→ Still experimental — WHO doesn't recommend universally\n→ Benefits appear greatest in early window (first hours)\n\nWhat helps close the gap:\n→ Breastfeeding: introduces Bifidobacterium critical for gut development\n→ Avoiding unnecessary early antibiotics\n→ Delaying formal bathing (preserves vernix + initial microbiome)\n\n#babyfacts #csection #microbiome #birthscience #infanthealth #parentingtips #momlife #newbornfacts #gutmicrobiome #birthplan",
+      "publishedAt": "2026-04-22T23:02:49.000Z",
+      "scheduledFor": "2026-04-22T23:02:49.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 109,
+        "reach": 102,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 109,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:41:08"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18591313195050140",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 109,
+            "reach": 102,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 109,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:41:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXc5-SpjhY_/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXc5-SpjhY_/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/671194840_1697396755008308_2729417042284266580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=P-FHv-PPRj4Q7kNvwHYXXHu&_nc_oc=Adr4gEu6qVP-twEvG6siX3owa76spvU6y_-H-8HOWVkzYu-zjecqoFIif7ClW05CMQI&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&_nc_tpa=Q5bMBQHW9J-rFZ2XjMyPCqZvDIeG4jT_nTBv7keJkkgtfWJMBzp7L1u71lGp27VM7CPt4FvneguQClmU_A&oh=00_Af3DI2KxxyXaD62CZdSJICpMu30HnGuft-OSAE_VPH7WDQ&oe=69F1D5BA",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQNjS56ftjw0B_H7B9dZbu7gbtbvMUcr94QrlMNwILnq1OcVwmVyeDk0n_TR3giyqtOmTP_eRCsrLS-1I21QUIk_mqKdYIplbIwBZ1A.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=ym-RoA3IifEQ7kNvwFsUPGV&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzA5OTIyMDY0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTA1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=1d396826814421db&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9ENDQ5Nzk0NTQ1RDNFQTEzQkZGRTQ0RDkwQzhEMTY5MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0E4NDRCRTk2MUZCNjY3NkNGMTE5ODY4QjUyMUU5MDlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0tJzzl96ZQBUCKAJDMywXQFpxBiTdLxsYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQG00XVwNOrIeSLrvjIuWbcFt_AYJ6fbBHmEIJby-vhb-x1IQulRXkW2PDUXitTwPruqW9p8YI5-Hw&oh=00_Af1nHdrioU1mXOySh_J9ttcRGITJbp9d96zJKNCjAx55-A&oe=69EDF4BD",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/671194840_1697396755008308_2729417042284266580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=P-FHv-PPRj4Q7kNvwHYXXHu&_nc_oc=Adr4gEu6qVP-twEvG6siX3owa76spvU6y_-H-8HOWVkzYu-zjecqoFIif7ClW05CMQI&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&_nc_tpa=Q5bMBQHW9J-rFZ2XjMyPCqZvDIeG4jT_nTBv7keJkkgtfWJMBzp7L1u71lGp27VM7CPt4FvneguQClmU_A&oh=00_Af3DI2KxxyXaD62CZdSJICpMu30HnGuft-OSAE_VPH7WDQ&oe=69F1D5BA"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e8cd407dea335c2b22feb4",
+      "latePostId": "69e73c766b04dccde5fd4fc9",
+      "content": "More than half of all newborns turn yellow in the first few days of life — and it's completely expected 👶🟡\n\nNeonatal Jaundice — why it happens:\n\nThe fetal oxygen problem:\n→ Inside the womb: low-oxygen environment\n→ Solution: extra red blood cells for oxygen-carrying capacity\n→ Fetal hemoglobin (HbF) has higher oxygen affinity than adult HbA\n\nAfter birth:\n→ Lungs start working\n→ Extra RBCs no longer needed\n→ Body starts breaking them down — rapidly\n→ RBCs → bilirubin (yellow pigment)\n\nThe liver problem:\n→ Adult liver: processes bilirubin efficiently\n→ Newborn liver: NOT mature enough to keep up\n→ Bilirubin accumulates in blood\n→ Diffuses into skin → yellow color\n\nWho gets it:\n→ ~60% of full-term newborns\n→ ~80% of premature babies\n→ Higher rates in breastfed babies (first 24-48hr milk volume lower)\n\nTreatment:\n→ Mild: resolves on its own as liver matures\n→ Phototherapy: blue light at 460-490nm specifically\n→ That wavelength converts bilirubin to a water-soluble form the body can excrete\n→ Regular light doesn't work — wavelength matters\n→ Untreated severe jaundice → kernicterus (brain damage)\n\nTimeline:\n→ Peaks: day 3-5\n→ Resolves: week 1-2\n→ Prolonged jaundice (>2 weeks): investigate underlying cause\n\n#babyfacts #neonataljaundice #newborn #birthscience #infanthealth #parentingtips #momlife #neonatal #babyhealth #newbornfacts",
+      "publishedAt": "2026-04-22T13:02:57.000Z",
+      "scheduledFor": "2026-04-22T13:02:57.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 109,
+        "reach": 106,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 109,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:41:08"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18350614009211367",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 109,
+            "reach": 106,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 109,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:41:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXb1U6rD2Pw/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXb1U6rD2Pw/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/671151104_1579810089779801_7567443045833478496_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gutHC0YHYcIQ7kNvwGr4LQK&_nc_oc=AdoX6Yngnp-NRkrB66gLsg2I3D_kWvFvoNT8q8Z1Ox0TwyjQ-i3pn-eBB5LICIZntqk&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&_nc_tpa=Q5bMBQECzl9X5FVzOgrjce14XAQk0-9Aqw-VjzFMHO7N-4HmO0YgsauRIfwOYpXIVneh2S9Ip7r925Qrvw&oh=00_Af0a9jVNhkw1YUjy467uUWT3nQeJu98Wp_AZc-5LD0pXnw&oe=69F1C741",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQOLq5kIMvRUI2Wmy1owVL9R46ZjDvSVXlPV-RIJvu79pMV6OPUnA9pZxT-w-GNlFAoYmB_RKHi3zvbvffVsuKOKTNEqHohrufDvSPU.mp4?_nc_cat=100&_nc_sid=5e9851&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=gzCcMM-EQNEQ7kNvwF_KwyR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzA5MTEzMzg0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6OTcsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&vs=f1998d6b59b57cb4&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wODQxREE0Rjk3MkM4MjJBMDBFOUJCNDAxMTQ0Qjg5NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzI3NDdEQ0JBQjY0OTU2MTFEMTEzMEI1NTMwQjRCRkE5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0sL6xvdmZQBUCKAJDMywXQFhKn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQE_tTk7hpY5Z6b9lb5TUju2kmTcnHtbGn4EthLSQS5WB7wHGKtPUFUnvD4KiiZjb91oNSy8B-TEbQ&oh=00_Af3jlkFbaxIEinABoU5z3TvwAgYX5PmgixPMTryVX2i_nA&oe=69EDEA9D",
+          "thumbnail": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/671151104_1579810089779801_7567443045833478496_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gutHC0YHYcIQ7kNvwGr4LQK&_nc_oc=AdoX6Yngnp-NRkrB66gLsg2I3D_kWvFvoNT8q8Z1Ox0TwyjQ-i3pn-eBB5LICIZntqk&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&_nc_tpa=Q5bMBQECzl9X5FVzOgrjce14XAQk0-9Aqw-VjzFMHO7N-4HmO0YgsauRIfwOYpXIVneh2S9Ip7r925Qrvw&oh=00_Af0a9jVNhkw1YUjy467uUWT3nQeJu98Wp_AZc-5LD0pXnw&oe=69F1C741"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69eace297dea335c2b30c5e6",
+      "latePostId": "69e88e951505b84f323fcd5b",
+      "content": "A newborn's brain is so busy developing that it needs to spend half its sleep in the most active stage 🧠👶\n\nREM Sleep in Infants:\n\nREM proportion by age:\n→ Premature infants (26-30 weeks): ~80% REM\n→ Full-term newborns: ~50% REM\n→ Age 6 months: ~30% REM\n→ Age 5 years: ~25% REM\n→ Adults: ~20-25% REM\n→ The decline tracks brain development almost perfectly\n\nWhat happens during infant REM:\n→ Brainstem generates PGO waves (pontine-geniculate-occipital)\n→ Waves sweep upward through the brain\n→ Activate sensory and motor circuits\n→ Drive formation AND pruning of synaptic connections\n→ Brain building 1M+ new synaptic connections per second\n\nWhy so much REM is needed:\n→ Synaptogenesis: most intense phase in first 2 years\n→ REM provides the neural activity that shapes which connections survive\n→ 'Use it or lose it' — circuits that fire during REM are reinforced\n→ Circuits that don't fire are pruned\n→ This is how the brain customizes itself to its environment\n\nNewborn sleep architecture differences:\n→ Cycle length: 40-60 minutes (vs 90 minutes adults)\n→ Enter REM immediately (adults: 90 minutes of non-REM first)\n→ Easier to rouse: evolutionary feature for frequent feeding\n→ Active sleep looks awake: eyes move, limbs twitch, facial expressions\n→ Parents often think baby is waking when in active sleep\n\nWhy this matters:\n→ Sleep deprivation in infancy has measurable effects on brain development\n→ Sleep training debates aside — the neurological work during sleep is real\n→ Premature infants in NICU need protected sleep periods for development\n\n#babyfacts #babysleep #infantneuroscience #braindevelopment #birthscience #parentingtips #momlife #newbornfacts #remsleep #sleepscience",
+      "publishedAt": "2026-04-23T23:02:38.000Z",
+      "scheduledFor": "2026-04-23T23:02:38.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 108,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 108,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:41:08"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "17935810644211205",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 108,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 108,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:41:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXfevuyiSMV/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXfevuyiSMV/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/671202324_1641740013751206_7173863891775072979_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sTPeRvL8GuoQ7kNvwFHaw7y&_nc_oc=AdrVHo0aiXNaCjycx6Dg9BQW3QPaoLfdzu1HZ7BFf7mLhLPCjoXisGvSBssLUbC_d7g&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&_nc_tpa=Q5bMBQE06C2OcdjNU-_IV6g16p1hJWN1j2MLzEYdU6-ng9kkWuk90Y_2I3IZAb9E3tWJE4J-8RQsK50CGQ&oh=00_Af2j4ftzTPShHuc5kCmdnvNlTg81rJgaWiS7pgB6cdxssw&oe=69F1CC77",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m86/AQPEszJWvOtYVEAPICC6b0d9GkEc8VNSZ_2b9yMnehXi8TTubixQhMP2wtBqCNbtb0Rsax1hXYZvyFiYAxh0mmPQp8Ol2xh6i5i_Qvw.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=8-1VnizDplEQ7kNvwGr4Hl7&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzExOTgyOTQ0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTI0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=af2bddf6b7e2367a&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8yMDRDRjUxMjFDQ0I1RDVBOEU1MTRCRUU5Nzc1RjY4NV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzc2NDIwQ0VEQjA0QkQwRUU4OTc5QTBERjRFM0ZBMjk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0_Iawl-qZQBUCKAJDMywXQF85mZmZmZoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQH8rLFG0Rj72QE7sXrDvkzOzx_2ECi3-s65VnCA3DdAvqZ_ZJNuQA9Hf6VD-EsRf8pHV2bIFIjNPQ&oh=00_Af37VjwHwzgekZztX-h_VhVJB1z6FBOewOOc0N11lW0c-g&oe=69EDD663",
+          "thumbnail": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/671202324_1641740013751206_7173863891775072979_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sTPeRvL8GuoQ7kNvwFHaw7y&_nc_oc=AdrVHo0aiXNaCjycx6Dg9BQW3QPaoLfdzu1HZ7BFf7mLhLPCjoXisGvSBssLUbC_d7g&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&_nc_tpa=Q5bMBQE06C2OcdjNU-_IV6g16p1hJWN1j2MLzEYdU6-ng9kkWuk90Y_2I3IZAb9E3tWJE4J-8RQsK50CGQ&oh=00_Af2j4ftzTPShHuc5kCmdnvNlTg81rJgaWiS7pgB6cdxssw&oe=69F1CC77"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69eace1c7dea335c2b30c5ba",
+      "latePostId": "69e88e941d817818bb5ab536",
+      "content": "Newborns spend ~50% of sleep in REM vs adults' 20-25%. Premature babies: up to 80% REM. During REM,\n\nNewborns spend ~50% of sleep in REM vs adults' 20-25%. Premature babies: up to 80% REM. During REM, the brainstem fires PGO waves driving synapse formation — the brain builds 1M+ new connections/second. REM proportion tracks brain development, declining continuously through childhood. #babyfacts #babysleep #infantneuroscience #braindevelopment",
+      "publishedAt": "2026-04-23T23:00:20.000Z",
+      "scheduledFor": "2026-04-23T23:00:20.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 51,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:41:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "6w5FEOGNzxY",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 51,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:41:06"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=6w5FEOGNzxY",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=6w5FEOGNzxY",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/6w5FEOGNzxY/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/6w5FEOGNzxY/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/6w5FEOGNzxY/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e8e94a7dea335c2b2406f1",
+      "latePostId": "69e73c756b04dccde5fd4f74",
+      "content": "Neonatal jaundice: 60% of newborns affected. Fetal RBCs break down faster than the newborn liver can\n\nNeonatal jaundice: 60% of newborns affected. Fetal RBCs break down faster than the newborn liver can process → bilirubin accumulates → yellow skin. Phototherapy at 460-490nm converts bilirubin to water-soluble form. Untreated severe jaundice: brain damage risk. #babyfacts #neonataljaundice #newborn #birthscience",
+      "publishedAt": "2026-04-22T13:01:29.000Z",
+      "scheduledFor": "2026-04-22T13:01:29.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 47,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:41:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "hD9zN6sBhik",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 47,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:41:06"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=hD9zN6sBhik",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=hD9zN6sBhik",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/hD9zN6sBhik/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/hD9zN6sBhik/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/hD9zN6sBhik/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ea965b7dea335c2b2fb281",
+      "latePostId": "69e88e8a1505b84f323fcca8",
+      "content": "If you X-rayed a healthy newborn's knee, you'd see no kneecap — because it doesn't exist yet 👶🦴\n\nBaby Skeletal Anatomy:\n\nThe patella (kneecap):\n→ Adults: solid bone\n→ Newborns: entirely cartilage\n→ Cartilage is invisible on X-rays\n→ Ossification begins: age 2-6 (varies widely)\n→ Fully ossified: typically age 10-12\n\nWhy cartilage instead of bone:\n→ More flexible than bone\n→ Better suited to compressive forces of early life\n→ Allows the extreme range of motion infants need\n→ Cartilage can deform without breaking — bone can't\n\nWhat this means practically:\n→ Newborns can fold legs in positions that would injure adults\n→ This is normal and not harmful\n→ Infant legs are designed for this flexibility\n\nThe broader picture:\n→ Newborns: ~270-300 skeletal elements (many still cartilage)\n→ Adults: 206 bones\n→ The difference = cartilage that ossifies + bones that fuse\n→ Full adult bone configuration: complete around age 25\n→ The last bones to mature: growth plates at the ends of long bones\n\nOther late-ossifying structures:\n→ Wrist bones: start ossifying at 5-6 years\n→ Elbow secondary ossification centers: 5-12 years\n→ Hip socket: complete fusion around age 25\n→ Skull sutures: don't fully fuse until late 20s-30s\n\nPediatric radiology note:\n→ Pediatric orthopedists know to look for cartilage, not bone\n→ Many 'fractures' in children are actually cartilage injuries (Salter-Harris classification)\n→ MRI used instead of X-ray when cartilage injury suspected\n\n#babyfacts #anatomy #infantdevelopment #babybones #birthscience #parentingtips #momlife #newbornfacts #skeletalscience #pediatrics",
+      "publishedAt": "2026-04-23T18:01:16.000Z",
+      "scheduledFor": "2026-04-23T18:01:16.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 32,
+        "reach": 28,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 32,
+        "engagementRate": 3.13,
+        "lastUpdated": "2026-04-24 23:41:08"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18135296056469779",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 32,
+            "reach": 28,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 32,
+            "engagementRate": 3.13,
+            "lastUpdated": "2026-04-24 23:41:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXe8Q_MjdYl/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXe8Q_MjdYl/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/671152767_1596441368128405_7392599895457802624_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=92aRzj9XJmkQ7kNvwH51OPE&_nc_oc=AdpEoB141iicLSP37hYOvFvjtj-TOvLonutqHSCAItpmhAfJcCdwlXXc7ytB0YwxAY0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&_nc_tpa=Q5bMBQFZB6CVcNTvR4ijH5wmfHxwDLjy0RyXmkhbOUupzVE9X2U8Xh3_PlHerSYWsSHNiQR3MZxwas4Xiw&oh=00_Af1A7LK8zHRv4zJX6XsLy_X0CTQ70YA8VxLXje8fGYpl5Q&oe=69F1E857",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQPNQ31lLs1f7nVcqhnnbNfJcFD05UjunKrSO80i5dFjmD71DJQn41OWBUW4k_fBGWG4X6Xte2WpjaGqTTbWmdpDYjSaMVvgGvDN0Bk.mp4?_nc_cat=105&_nc_sid=5e9851&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=B6-fK8qXD-8Q7kNvwG424Vr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzExNjI3ODA0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTExLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=9ba32441427de345&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xRTQyRjNFNzk0QUQ2QzMwNTFEQjY2MzEwNDlCODhBMF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzJDNDk5RTNGQTcyMUEzRkVEOEYxQjU5MEQ5QzJFQTlGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb08qHjjuiZQBUCKAJDMywXQFvGZmZmZmYYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGlYawdPB2wW_p04WCW4arFS08WAIKDx43YezI_WQlO9BocsZHSKv45HqPxCmzLkdx9hrSjLT5z7Q&oh=00_Af3kv7skfQff4MdF5JEmFJGxsoprn2OA3aZMZza3uGHOyA&oe=69EDC2EA",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/671152767_1596441368128405_7392599895457802624_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=92aRzj9XJmkQ7kNvwH51OPE&_nc_oc=AdpEoB141iicLSP37hYOvFvjtj-TOvLonutqHSCAItpmhAfJcCdwlXXc7ytB0YwxAY0&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=Z5zAU8yqZy5_DtFRqvYMZg&_nc_tpa=Q5bMBQFZB6CVcNTvR4ijH5wmfHxwDLjy0RyXmkhbOUupzVE9X2U8Xh3_PlHerSYWsSHNiQR3MZxwas4Xiw&oh=00_Af1A7LK8zHRv4zJX6XsLy_X0CTQ70YA8VxLXje8fGYpl5Q&oe=69F1E857"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ea49347dea335c2b2cd466",
+      "latePostId": "69e88e7b3dedc45b462535df",
+      "content": "The Moro startle reflex: newborns fling arms wide when startled — an evolutionary remnant of primate\n\nThe Moro startle reflex: newborns fling arms wide when startled — an evolutionary remnant of primate infants grabbing their mothers when falling. Present from 24 weeks gestation. Disappears 4-6 months as prefrontal cortex suppresses brainstem reflexes. Absent/asymmetric Moro = neurological red flag. #babyfacts #mororeflect #newborn #infantneuroscience",
+      "publishedAt": "2026-04-23T13:00:29.000Z",
+      "scheduledFor": "2026-04-23T13:00:29.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 30,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:41:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "KO6AWt6s8Kw",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 30,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:41:06"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=KO6AWt6s8Kw",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=KO6AWt6s8Kw",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KO6AWt6s8Kw/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/KO6AWt6s8Kw/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/KO6AWt6s8Kw/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e94a167dea335c2b26b4c8",
+      "latePostId": "69e73b866ded4b6ae0694386",
+      "content": "C-section vs vaginal birth microbiome: vaginal canal colonizes baby with Lactobacillus (90% of vagin\n\nC-section vs vaginal birth microbiome: vaginal canal colonizes baby with Lactobacillus (90% of vaginal bacteria). C-section: first colonization from skin bacteria (Staphylococcus, Clostridium). Studies show different gut composition for up to 7 years, linked to higher allergy/asthma rates. #babyfacts #csection #microbiome #birthscience",
+      "publishedAt": "2026-04-22T22:02:28.000Z",
+      "scheduledFor": "2026-04-22T22:02:28.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 22,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:41:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "qU7-jG2Udw8",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 22,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:41:06"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=qU7-jG2Udw8",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=qU7-jG2Udw8",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qU7-jG2Udw8/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/qU7-jG2Udw8/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/qU7-jG2Udw8/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ea965b7dea335c2b2fb285",
+      "latePostId": "69e88e891d817818bb5ab423",
+      "content": "Babies are born without ossified kneecaps — the patella is entirely cartilage until age 2-6, invisib\n\nBabies are born without ossified kneecaps — the patella is entirely cartilage until age 2-6, invisible on X-rays. Newborns have 270-300 skeletal elements vs adults' 206 bones. Full skeletal maturity takes until age ~25. This is why infants can fold their legs in positions that would injure adults. #babyfacts #anatomy #infantdevelopment #babybones",
+      "publishedAt": "2026-04-23T18:00:35.000Z",
+      "scheduledFor": "2026-04-23T18:00:35.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 17,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:41:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "_2yAJFcmdNA",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 17,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:41:06"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=_2yAJFcmdNA",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=_2yAJFcmdNA",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/_2yAJFcmdNA/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/_2yAJFcmdNA/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/_2yAJFcmdNA/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69e9193a7dea335c2b2576f2",
+      "latePostId": "69e73b784ad1e13c620d50d2",
+      "content": "Newborns have 4 of 5 taste receptors functional at birth — but the salt receptor (ENaC) doesn't acti\n\nNewborns have 4 of 5 taste receptors functional at birth — but the salt receptor (ENaC) doesn't activate until 4-5 months. Sweet preference is innate: fetuses consume more amniotic fluid when mom eats sugar. Bitter triggers immediate rejection reflex. #babyfacts #infantdevelopment #newbornbiology #tastebuds",
+      "publishedAt": "2026-04-22T18:00:34.000Z",
+      "scheduledFor": "2026-04-22T18:00:34.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 9,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:41:06"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "SHm1DhIzDJ8",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 9,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:41:06"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=SHm1DhIzDJ8",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=SHm1DhIzDJ8",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/SHm1DhIzDJ8/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/SHm1DhIzDJ8/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/SHm1DhIzDJ8/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}

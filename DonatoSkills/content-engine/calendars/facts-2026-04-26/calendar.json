@@ -1,0 +1,474 @@
+{
+  "campaign": "facts-2026-04-26",
+  "created_at": "2026-04-25T04:00:00.000Z",
+  "publish_date": "2026-04-27",
+  "slot_ownership_notes": "baby-facts 2pm ET slot owned by daily-quote-creation task — not generated here",
+  "brief_source": "analytics-loop/data/{project}/2026-04-25/briefs/day2/ (cold-start explore, 2026-04-27 publish)",
+  "hook_strategy": "3-part hook: strong text overlay (4-8 words) + contrasting visual + verbal hook — all reinforce one surprising or counterintuitive idea",
+  "tts_provider_rotation": "grok:rex (slots 1,3 baby; slot1 money; slot1 ai), gemini:Kore (slot3 baby), gemini:Puck (slot2 money), grok:rex (slot3 money), grok:leo (slot1 ai), gemini:Aoede (slot2 ai), grok:rex (slot3 ai)",
+  "tts_actual": "gemini:Kore used for all videos 002-009 — Grok TTS returned 403 (team not authorized), ElevenLabs scope issue per memory",
+  "image_provider": "gemini-2.5-flash-image / abstract-animated / css-animated (rotating)",
+  "stats": {
+    "total": 9,
+    "pending": 0,
+    "creating": 0,
+    "created": 0,
+    "uploading": 0,
+    "uploaded": 0,
+    "scheduling": 0,
+    "scheduled": 8,
+    "failed": 0,
+    "skipped": 1
+  },
+  "items": [
+    {
+      "id": "001-baby-fontanelle-pulse",
+      "project": "baby-facts-unlocked",
+      "slug": "baby-fontanelle-pulse",
+      "used_topic_id": "053",
+      "date": "2026-04-27",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "hook_type": "surprise",
+      "hook_text": "YOUR BABY'S SKULL\nHAS A WINDOW WHERE\nYOU CAN WATCH THEIR\nHEARTBEAT",
+      "fact": "Newborns have two soft spots (fontanelles) where skull bones haven't fused. The anterior fontanelle visibly pulses with every heartbeat. This isn't a vulnerability — it's precision engineering: the gaps let the skull compress during birth and allow the brain to triple in size during year one.",
+      "voiceover_script": {
+        "hook": "Your baby is born with a window in their skull where you can literally watch their heartbeat.",
+        "body": "It's called the fontanelle — and most parents assume it's a sign that something is fragile or unfinished. It's actually the opposite. Newborns have two of them: a larger one at the front of the skull, and a smaller one at the back. The front one, the anterior fontanelle, is visible. It rises and falls with every heartbeat. If you look closely — you can watch it pulse. This is not a defect. It's precision engineering that took millions of years to develop. The fontanelle serves two critical purposes. First: birth. The skull plates can slide over each other during delivery, reducing the head diameter enough to pass through the birth canal. That flexibility prevents brain injury. Second: brain growth. A newborn brain triples in size in the first twelve months. A rigid skull would crush it. The gaps give the brain room to expand without restriction. The anterior fontanelle closes between 12 and 18 months — exactly when rapid brain growth slows. The timing is not a coincidence.",
+        "cta": "That pulse you can see through the soft spot? That's your baby's heart rate, visible through the skull. Follow for more facts about what's actually happening in a newborn's body."
+      },
+      "captions": {
+        "tiktok": "Your baby's skull has a visible window where you can watch their heartbeat pulse 🍼❤️ It's not a flaw — it's how the skull compresses during birth AND makes room for the brain to triple in size #babyfacts #newborn #fontanelle #parentingtips #birthscience",
+        "youtube": "Newborns are born with two skull gaps (fontanelles) that pulse with every heartbeat. Not a defect — engineered for birth compression AND brain growth. The anterior fontanelle closes at 12-18 months when rapid brain growth slows. #babyfacts #newborn #fontanelle #infantanatomy #birthscience",
+        "instagram": "Your baby's skull has a window where you can literally watch their heartbeat 🍼\n\nThe fontanelle: what it actually is\n\n→ Two soft spots where skull bones haven't fused\n→ The front one (anterior fontanelle) pulses visibly with every heartbeat\n→ During birth: lets skull plates compress to reduce head diameter\n→ After birth: lets the brain triple in size during year one\n→ Closes at 12-18 months — exactly when rapid brain growth slows\n\nThat pulsing isn't fragility. It's precision engineering.\n\n#babyfacts #newborn #fontanelle #infantdevelopment #birthscience #parentingtips #momlife #newbornfacts #babyhealth #pregnancy"
+      },
+      "variables": {
+        "hook_type": "surprise",
+        "video_length": "29",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "abstract-animated",
+        "music_energy": "calm",
+        "cta_style": "follow_cta"
+      },
+      "tts": {
+        "provider": "grok",
+        "voice": "rex"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/001-baby-fontanelle-pulse/out/video.mp4",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/001-baby-fontanelle-pulse.mp4",
+      "zernio_post_ids": [
+        "69ecfa1ac41457f9d155c098"
+      ],
+      "error": null,
+      "created_at": "2026-04-25T17:25:00.000Z",
+      "scheduled_at": "2026-04-25T17:26:00.000Z",
+      "tts_provider": "gemini",
+      "tts_voice": "Kore"
+    },
+    {
+      "id": "002-baby-amniotic-swallowing",
+      "project": "baby-facts-unlocked",
+      "slug": "baby-amniotic-swallowing",
+      "used_topic_id": "054",
+      "date": "2026-04-27",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
+      "type": "video",
+      "hook_type": "did_you_know",
+      "hook_text": "FETUSES SWALLOW\n1 LITER OF THEIR\nOWN WOMB FLUID\nEVERY DAY",
+      "fact": "By the third trimester, fetuses swallow approximately 1 liter of amniotic fluid per day. The fluid isn't just water — it contains fetal skin cells, proteins, growth factors, hormones, and signals from the mother. Swallowing trains the gastrointestinal tract, helps regulate amniotic fluid levels, and contributes to immune system programming.",
+      "voiceover_script": {
+        "hook": "By the end of pregnancy, your baby is swallowing about one liter of amniotic fluid every single day.",
+        "body": "Most people assume amniotic fluid is basically water surrounding the baby. It's not. Amniotic fluid is a complex biological soup. It contains fetal skin cells that the baby has shed. It contains proteins and growth factors. It contains hormones released by both the mother and the fetus. And it changes composition throughout pregnancy in response to the baby's own activity. The swallowing begins at around 11 weeks of gestation. It starts small — a few milliliters. By the third trimester, the fetus is consuming roughly one liter per day. This isn't passive — it's deliberate development. First: the swallowing exercises and trains the gastrointestinal tract. The gut has to learn how to function before birth. Second: swallowing regulates the volume of amniotic fluid. The baby drinks it, and the kidneys process it into fetal urine, which refills the fluid. This cycle keeps the levels balanced. Third: the proteins and bioactive compounds in the fluid program the immune system. The baby is receiving immune signals from the mother through this fluid before they ever encounter the outside world.",
+        "cta": "The amniotic fluid isn't just a cushion. It's a training environment. Follow for more facts about what actually happens inside the womb."
+      },
+      "captions": {
+        "tiktok": "By the 3rd trimester, fetuses swallow 1 LITER of amniotic fluid per day 🤯 It's not just water — it trains their gut, immune system, and regulates fluid levels #babyfacts #pregnancy #womblife #fetaldevelopment #momlife",
+        "youtube": "Fetuses swallow ~1 liter of amniotic fluid daily in the 3rd trimester. The fluid contains skin cells, growth factors, hormones, and immune signals. Swallowing trains the GI tract, regulates fluid levels, and programs immune responses before birth. #babyfacts #pregnancyfacts #fetaldevelopment #wombscience",
+        "instagram": "Fetuses swallow 1 liter of their own womb fluid every day by the third trimester 🤯\n\nAnd it's not just water:\n\n→ Contains shed fetal skin cells\n→ Contains proteins, growth factors, and hormones\n→ Swallowing starts at 11 weeks — tiny sips at first\n→ By 3rd trimester: ~1 liter/day\n→ Trains and exercises the gastrointestinal tract before birth\n→ Baby processes it through kidneys → fetal urine → refills fluid (closed loop)\n→ Bioactive compounds program the immune system pre-birth\n\nThe amniotic fluid isn't just cushioning. It's a training environment.\n\n#babyfacts #pregnancyfacts #fetaldevelopment #wombscience #infanthealth #momlife #pregnancy #newbornbiology #birthscience #parentingtips"
+      },
+      "variables": {
+        "hook_type": "did_you_know",
+        "video_length": "32",
+        "voice_pace": "moderate",
+        "text_overlay": "key_words_only",
+        "background_type": "ai-gen",
+        "music_energy": "calm",
+        "cta_style": "follow_cta"
+      },
+      "tts": {
+        "provider": "gemini",
+        "voice": "Kore"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/shared-project/out/002-baby-amniotic-swallowing.mp4",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/002-baby-amniotic-swallowing.mp4",
+      "zernio_post_ids": [
+        "69ecfd3b07ce1f091b2a33ea"
+      ],
+      "error": null,
+      "created_at": "2026-04-25T18:30:00.000Z",
+      "scheduled_at": "2026-04-25T18:31:00.000Z",
+      "tts_provider": "gemini",
+      "tts_voice": "Kore"
+    },
+    {
+      "id": "003-baby-quote-2pm",
+      "project": "baby-facts-unlocked",
+      "slot": 2,
+      "date": "2026-04-27",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "type": "skipped",
+      "status": "skipped",
+      "_note": "SLOT_OWNED_BY_QUOTE_PIPELINE: 2pm ET baby-facts slot is reserved for daily-quote-creation task. Not generated here."
+    },
+    {
+      "id": "004-hsa-triple-tax",
+      "project": "money-facts-unlocked",
+      "slug": "hsa-triple-tax",
+      "used_topic_id": "046",
+      "date": "2026-04-27",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "hook_type": "most_people_dont_know",
+      "hook_text": "THE ONLY ACCOUNT\nIN AMERICA WITH\nTRIPLE TAX\nADVANTAGE",
+      "fact": "Health Savings Accounts (HSAs) are the only account in the US tax code with three layers of tax benefit: (1) contributions reduce your taxable income dollar-for-dollar, (2) investment growth is completely tax-free, (3) withdrawals for medical expenses are tax-free. After age 65, HSA funds can be withdrawn for any reason — functioning like a traditional IRA.",
+      "voiceover_script": {
+        "hook": "There is one account in the US tax code with three separate tax advantages. Most people have never used it.",
+        "body": "It's called a Health Savings Account, or HSA. To qualify, you need a high-deductible health insurance plan. If you have one — you are likely leaving free money on the table. Here's why the HSA is unique. First tax advantage: contributions. Every dollar you put into an HSA reduces your taxable income. Dollar for dollar. If you contribute $4,150 as an individual — that's $4,150 less in taxable income. Second tax advantage: growth. You can invest HSA funds in index funds, just like a 401k. The growth is completely tax-free. No capital gains. No income tax. Third tax advantage: withdrawals. As long as you use the money for qualified medical expenses — which includes most healthcare costs — the withdrawals are also completely tax-free. This is the only account in the US that is triple-taxed exempt. 401ks and IRAs are only double-advantaged. The HSA is the exception. And here's the bonus: after age 65, you can withdraw HSA funds for any reason at all — just like a traditional IRA. The triple tax advantage on medical expenses remains. But non-medical withdrawals simply become regular income. The HSA doesn't expire. It rolls over every year, forever.",
+        "cta": "2024 limits: $4,150 individual, $8,300 family. If your employer offers an HSA, max it before your 401k match. Follow for more money facts most people don't know."
+      },
+      "captions": {
+        "youtube": "The only account in America with a triple tax advantage — and most people with qualifying insurance never use it. HSA: pre-tax contributions + tax-free growth + tax-free withdrawals. After 65: functions like a traditional IRA. 2024 limits: $4,150 individual / $8,300 family. #moneyfacts #hsa #personalfinance #taxadvantage #wealthbuilding",
+        "instagram": "There is ONE account in the US tax code with three separate tax benefits — and most people ignore it 💰\n\nThe HSA (Health Savings Account):\n\n→ Contribution: reduces taxable income dollar-for-dollar\n→ Growth: invest in index funds, 100% tax-free\n→ Withdrawals: for medical expenses = completely tax-free\n→ After 65: withdraw for anything (like a traditional IRA)\n→ Never expires — rolls over every year forever\n→ 2024 limits: $4,150 individual / $8,300 family\n\nOnly requirement: a high-deductible health plan\n\n401k and Roth IRA are double-advantaged.\nHSA is the only triple.\n\n#moneyfacts #hsa #healthsavingsaccount #personalfinance #taxadvantage #wealthbuilding #investing #financialtips #moneyhabits #taxstrategy"
+      },
+      "variables": {
+        "hook_type": "most_people_dont_know",
+        "video_length": "30",
+        "voice_pace": "moderate",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "calm",
+        "cta_style": "stat_cta"
+      },
+      "tts": {
+        "provider": "grok",
+        "voice": "rex"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/shared-project/out/004-hsa-triple-tax.mp4",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/004-hsa-triple-tax.mp4",
+      "zernio_post_ids": [
+        "69ecfd5007ce1f091b2a34bd"
+      ],
+      "error": null,
+      "created_at": "2026-04-25T18:45:00.000Z",
+      "scheduled_at": "2026-04-25T18:46:00.000Z",
+      "tts_provider": "gemini",
+      "tts_voice": "Kore"
+    },
+    {
+      "id": "005-salary-negotiation-silence",
+      "project": "money-facts-unlocked",
+      "slug": "salary-negotiation-silence",
+      "used_topic_id": "047",
+      "date": "2026-04-27",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "hook_type": "controversy",
+      "hook_text": "AFTER YOU NAME\nYOUR SALARY NUMBER\nSAY NOTHING",
+      "fact": "Behavioral economics research consistently shows that the party who speaks first after a number is anchored in salary negotiation loses ground. Silence creates psychological discomfort that the other party fills by improving their offer. Most people immediately justify their ask — which signals doubt and weakens their position.",
+      "voiceover_script": {
+        "hook": "After you name your salary number — stop talking. The first person to speak almost always loses.",
+        "body": "This comes from decades of behavioral economics research on negotiation anchoring. When you say a number out loud — it becomes the reference point for the entire conversation. Everything that follows gets measured against it. If you stay silent, the other person experiences psychological pressure. Silence is uncomfortable. Most people fill it. And when they fill it, they move toward your number — not away from it. But here's the mistake almost everyone makes: they justify their ask immediately. They say 'I was thinking $90,000, which is based on my experience in...' And they keep talking. That justification signals one thing: they're not confident in the number. They're defending it before anyone challenged it. The moment you defend a number unprompted, you've weakened it. Negotiation research from Harvard and Wharton consistently shows that the person who states a number and then waits is perceived as more confident, more senior, and more credible — even if the number itself is identical to someone who immediately explained it.",
+        "cta": "Name the number. Be quiet. Let the silence do the work. Follow for more money facts that actually move the needle."
+      },
+      "captions": {
+        "youtube": "The first person to speak after a salary number is named almost always loses. Silence = anchoring pressure. Justifying your ask unprompted signals doubt and weakens the position. Harvard + Wharton research: state the number, then wait. #moneyfacts #salarynegotiation #negotiation #personalfinance #careeradvice",
+        "instagram": "After you name your salary ask — say absolutely nothing 🤫\n\nWhy silence wins in salary negotiation:\n\n→ The number you say becomes the psychological anchor\n→ Silence creates discomfort — the other person fills it\n→ When they fill it, they move toward your number, not away\n→ Justifying your ask before anyone challenges it = signals doubt\n→ Defending unprompted = the negotiator's #1 mistake\n→ Harvard + Wharton research: state the number, then wait\n\nThe person who waits is perceived as more confident and more senior — even with the identical number.\n\n#moneyfacts #salarynegotiation #negotiation #careeradvice #personalfinance #jobsearch #salaryadvice #negotiationtips #financialfreedom #worklife"
+      },
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "27",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "css-animated",
+        "music_energy": "tense",
+        "cta_style": "follow_cta"
+      },
+      "tts": {
+        "provider": "gemini",
+        "voice": "Puck"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/shared-project/out/005-salary-negotiation-silence.mp4",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/005-salary-negotiation-silence.mp4",
+      "zernio_post_ids": [
+        "69ecfd5307ce1f091b2a3504"
+      ],
+      "error": null,
+      "created_at": "2026-04-25T18:50:00.000Z",
+      "scheduled_at": "2026-04-25T18:51:00.000Z",
+      "tts_provider": "gemini",
+      "tts_voice": "Kore"
+    },
+    {
+      "id": "006-backdoor-roth",
+      "project": "money-facts-unlocked",
+      "slug": "backdoor-roth",
+      "used_topic_id": "048",
+      "date": "2026-04-27",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
+      "type": "video",
+      "hook_type": "myth_bust",
+      "hook_text": "THE ROTH IRA INCOME\nLIMIT HAS A LEGAL\nLOOPHOLE — AND THE\nIRS KNOWS ABOUT IT",
+      "fact": "Roth IRAs have income limits: $161,000 for single filers, $240,000 for married filers in 2024. Above those limits, you cannot contribute directly. But the 'backdoor Roth' is an IRS-acknowledged legal strategy: contribute to a traditional IRA (no income limit) → immediately convert to Roth. Congress has repeatedly declined to close this loophole.",
+      "voiceover_script": {
+        "hook": "If you earn too much to contribute to a Roth IRA — there's a legal workaround the IRS knows about and allows.",
+        "body": "The Roth IRA is one of the most powerful wealth-building accounts available. Tax-free growth, tax-free withdrawals in retirement. But there's an income limit. In 2024, if you're single and earn more than $161,000 — you cannot contribute directly. Married? The limit is $240,000. But here's what Congress left open: the backdoor Roth. Step one: contribute to a traditional IRA. There is no income limit for traditional IRA contributions. Anyone can do it. Step two: convert the traditional IRA to a Roth IRA. You pay income tax on the converted amount — but because you made the contribution without deducting it, the tax hit is minimal. What you end up with is Roth IRA money that grows and withdraws completely tax-free. The IRS has a form for this — Form 8606. It's not a gray area. It's not aggressive tax avoidance. It's a documented, legal strategy that Congress has had multiple opportunities to close and has chosen not to. High-income earners have been using this for decades.",
+        "cta": "The backdoor Roth: traditional IRA contribution → immediate Roth conversion → Form 8606. Legal, documented, and ignored by most high earners. Follow for more."
+      },
+      "captions": {
+        "youtube": "Roth IRA income limits ($161K single / $240K married in 2024) block direct contributions — but the backdoor Roth is IRS-acknowledged and legal. Traditional IRA contribution → Roth conversion → Form 8606. Congress has declined to close this repeatedly. #moneyfacts #backdoorroth #rothira #taxstrategy #wealthbuilding",
+        "instagram": "The Roth IRA income limit has a legal backdoor — and the IRS literally has a form for it 📋\n\nWhy this matters:\n\n→ 2024 Roth IRA income limits: $161K (single) / $240K (married)\n→ Above those limits: no direct Roth contributions\n→ Backdoor Roth: contribute to Traditional IRA (no income limit) → convert to Roth\n→ You pay tax on conversion — but it's minimal (no prior deduction)\n→ Result: Roth money with tax-free growth + tax-free withdrawals\n→ File Form 8606 — this is fully documented by the IRS\n→ Congress has declined to close this loophole multiple times\n\nThis isn't aggressive tax avoidance. It's a legal strategy high earners have used for decades.\n\n#moneyfacts #backdoorroth #rothira #taxstrategy #wealthbuilding #investing #personalfinance #taxplanning #financialtips #retirementplanning"
+      },
+      "variables": {
+        "hook_type": "myth_bust",
+        "video_length": "32",
+        "voice_pace": "moderate",
+        "text_overlay": "key_words_only",
+        "background_type": "ai-gen",
+        "music_energy": "calm",
+        "cta_style": "follow_cta"
+      },
+      "tts": {
+        "provider": "grok",
+        "voice": "rex"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/shared-project/out/006-backdoor-roth.mp4",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/006-backdoor-roth.mp4",
+      "zernio_post_ids": [
+        "69ecfd5507ce1f091b2a3554"
+      ],
+      "error": null,
+      "created_at": "2026-04-25T18:55:00.000Z",
+      "scheduled_at": "2026-04-25T18:56:00.000Z",
+      "tts_provider": "gemini",
+      "tts_voice": "Kore"
+    },
+    {
+      "id": "007-ai-genomics",
+      "project": "ai-facts-unlocked",
+      "slug": "ai-genomics-8hrs",
+      "used_topic_id": "036",
+      "date": "2026-04-27",
+      "time": "09:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "hook_type": "stat_lead",
+      "hook_text": "THE HUMAN GENOME\nTOOK 13 YEARS TO\nSEQUENCE\nAI DOES IT IN 8 HRS",
+      "fact": "The Human Genome Project ran from 1990 to 2003: 13 years, $3 billion, 20 countries. Today, AI-assisted nanopore sequencing completes a full human genome in under 8 hours for under $1,000. The cost dropped 99.99% in 20 years. AI is now identifying cancer-causing mutations in sequenced genomes that human reviewers miss.",
+      "voiceover_script": {
+        "hook": "The Human Genome Project took 13 years and 3 billion dollars. AI now does the same thing in 8 hours.",
+        "body": "The Human Genome Project launched in 1990 and involved 20 countries, hundreds of research institutions, and an international collaboration that was the largest biology project in history. It finished in 2003. 13 years. 3 billion dollars. The result: a complete map of human DNA — 3 billion base pairs, every gene in the human body sequenced for the first time. That was 2003. Today, AI-assisted nanopore sequencing — developed by Oxford Nanopore Technologies — can sequence a complete human genome in under 8 hours. Cost: under $1,000. That is a 99.99% reduction in cost in 20 years. To put it in context: if a car improved at the same rate as genomic sequencing, a vehicle that cost $3 billion in 2003 would cost $300 today. But the most important development isn't the speed or the cost. It's what happens after the sequencing. AI models trained on genomic data are now identifying cancer-causing mutations that human reviewers miss — patterns in billions of base pairs that are invisible to the human eye but interpretable to machine learning. We sequenced the genome once. Now AI is learning to read it.",
+        "cta": "From 13 years to 8 hours in two decades. The genome is sequenced. Now AI is learning what it means. Follow for more AI facts."
+      },
+      "captions": {
+        "youtube": "The Human Genome Project: 13 years, $3 billion, 20 countries (1990–2003). AI-assisted sequencing today: under 8 hours, under $1,000. 99.99% cost reduction in 20 years. Now AI is identifying cancer mutations in sequenced genomes that human reviewers miss. #aifacts #genomics #ai #bioinformatics #futureofmedicine",
+        "instagram": "The Human Genome Project took 13 years and $3 billion\n\nAI does the same thing in 8 hours 🧬\n\n→ 1990-2003: 20 countries, hundreds of institutions, first complete human genome\n→ Cost in 2003: $3 billion\n→ Cost today: under $1,000\n→ Time today: under 8 hours\n→ Cost reduction: 99.99% in 20 years\n→ If cars improved at the same rate: a $3B car in 2003 would cost $300 today\n→ Now: AI identifies cancer-causing mutations in sequenced genomes that human reviewers miss\n\nWe sequenced the genome once. Now AI is learning to read it.\n\n#aifacts #genomics #aiinmedicine #bioinformatics #futuretech #machinelearning #cancerresearch #healthtech #artificialintelligence #sciencefacts"
+      },
+      "variables": {
+        "hook_type": "stat_lead",
+        "video_length": "30",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke",
+        "background_type": "abstract-animated",
+        "music_energy": "building",
+        "cta_style": "follow_cta"
+      },
+      "tts": {
+        "provider": "grok",
+        "voice": "leo"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/shared-project/out/007-ai-genomics.mp4",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/007-ai-genomics.mp4",
+      "zernio_post_ids": [
+        "69ecfd6df0883ab361eda485"
+      ],
+      "error": null,
+      "created_at": "2026-04-25T19:00:00.000Z",
+      "scheduled_at": "2026-04-25T19:01:00.000Z",
+      "tts_provider": "gemini",
+      "tts_voice": "Kore"
+    },
+    {
+      "id": "008-alphachip-self-design",
+      "project": "ai-facts-unlocked",
+      "slug": "alphachip-self-design",
+      "used_topic_id": "037",
+      "date": "2026-04-27",
+      "time": "14:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "hook_type": "what_if",
+      "hook_text": "AI IS NOW DESIGNING\nTHE CHIPS THAT\nRUN AI",
+      "fact": "Google's AlphaChip AI (published in Nature 2021) designs semiconductor chip floorplans — the physical layout of billions of transistors — in 6 hours. Human chip engineers take months for the same task. AlphaChip-designed layouts outperform human-designed ones on power, performance, and area. Every Google TPU since the 4th generation uses AlphaChip layouts.",
+      "voiceover_script": {
+        "hook": "AI is now designing the physical chips that AI runs on. A recursive loop that's accelerating.",
+        "body": "Chip design is one of the most complex engineering problems that exists. A modern chip contains billions of transistors. The floorplan — where every component is placed on the die, how they're connected, what the signal pathways look like — determines power consumption, processing speed, and heat generation. It takes teams of experienced engineers months to design a floorplan for a new chip. Google published a paper in Nature in 2021 describing AlphaChip: an AI that treats chip floorplan design as a reinforcement learning problem. The AI places components on a virtual chip canvas, optimizes their positions based on signal timing and heat constraints, and iterates. What takes human engineers months, AlphaChip completes in approximately 6 hours. And the results aren't just faster — they're better. AlphaChip-designed floorplans outperform human designs on power efficiency, processing speed, and die area. The efficiency gains compound. Every Google Tensor Processing Unit — the chips Google uses to run its AI — since the 4th generation has used AlphaChip-designed floorplans. AI designed the hardware that runs AI. That loop is tightening.",
+        "cta": "AI is optimizing the physical hardware it runs on. The efficiency gains from that loop feed back into faster AI training. Follow for more AI facts."
+      },
+      "captions": {
+        "youtube": "Google's AlphaChip AI designs semiconductor floorplans in 6 hours vs months for human engineers. Outperforms humans on power, speed, and die area. Every Google TPU since gen 4 uses AlphaChip layouts. AI designing the chips that run AI. #aifacts #alphachip #chipdesign #semiconductors #artificialintelligence",
+        "instagram": "AI is now designing the chips that AI runs on 🔄\n\nGoogle AlphaChip:\n\n→ Published in Nature (2021)\n→ Treats chip floorplan design as a reinforcement learning problem\n→ Human chip engineers: months to design a floorplan\n→ AlphaChip: 6 hours for the same task\n→ Results: outperforms humans on power efficiency, processing speed, AND die area\n→ Every Google TPU since generation 4 uses AlphaChip-designed layouts\n→ AI is optimizing the hardware that runs AI\n\nThe recursive loop: faster AI → better chip design AI → faster chips → faster AI\n\nThat loop is tightening.\n\n#aifacts #alphachip #chipdesign #semiconductors #machinelearning #google #artificialintelligence #futuretech #reinforcementlearning #techfacts"
+      },
+      "variables": {
+        "hook_type": "what_if",
+        "video_length": "35",
+        "voice_pace": "slow",
+        "text_overlay": "full_captions",
+        "background_type": "ai-gen",
+        "music_energy": "ambient",
+        "cta_style": "follow_cta"
+      },
+      "tts": {
+        "provider": "gemini",
+        "voice": "Aoede"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/shared-project/out/008-alphachip-self-design.mp4",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/008-alphachip-self-design.mp4",
+      "zernio_post_ids": [
+        "69ecfd70f0883ab361eda507"
+      ],
+      "error": null,
+      "created_at": "2026-04-25T19:05:00.000Z",
+      "scheduled_at": "2026-04-25T19:06:00.000Z",
+      "tts_provider": "gemini",
+      "tts_voice": "Kore"
+    },
+    {
+      "id": "009-ai-autonomous-bug-fix",
+      "project": "ai-facts-unlocked",
+      "slug": "ai-autonomous-bug-fix",
+      "used_topic_id": "038",
+      "date": "2026-04-27",
+      "time": "19:00",
+      "timezone": "America/New_York",
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
+      "type": "video",
+      "hook_type": "controversy",
+      "hook_text": "AI NOW FIXES\n48% OF REAL\nSOFTWARE BUGS\nWITHOUT A HUMAN",
+      "fact": "SWE-bench is a benchmark of real GitHub issues requiring AI to: find the relevant code, write the fix, and pass existing tests — without human guidance. In 2022, the best AI scored 1.96%. In 2025, top models (Claude 3.7 Sonnet, GPT-4.1) score 48%+. A 24x improvement in 2 years. At this trajectory, routine bug fixing becomes largely autonomous by 2027.",
+      "voiceover_script": {
+        "hook": "AI agents now autonomously fix 48 percent of real software bugs — finding the file, writing the patch, passing the tests. No human involved.",
+        "body": "SWE-bench is a benchmark created by researchers at Princeton. It presents AI agents with real, unresolved GitHub issues from popular open-source repositories. Not toy problems. Not simplified examples. Actual bugs that actual developers filed in production software. The AI has to do three things: Find which file in the codebase contains the bug. Write code that fixes it. Pass all existing tests without breaking anything. In 2022, when the benchmark was first run, the best AI scored 1.96 percent. Less than 2 out of every 100 bugs fixed correctly. Today, top models — Claude 3.7 Sonnet, GPT-4.1 — score above 48 percent. That is a 24-fold improvement in approximately 24 months. At this rate — doubling roughly every year — by 2027, most routine software bugs in well-tested codebases get fixed autonomously. The implications are significant. Not just for software development — but for any industry that runs on software, which is every industry. The question for most software engineers is shifting from 'can I write this code?' to 'can I judge whether this AI-generated fix is correct?'",
+        "cta": "2.0% in 2022. 48% in 2025. If the trajectory holds — 2027 changes the job description. Follow for more AI facts."
+      },
+      "captions": {
+        "youtube": "SWE-bench: real GitHub issues, AI must find the bug, write the fix, pass tests — no human. 2022: 1.96%. 2025: 48%+ (Claude 3.7 Sonnet, GPT-4.1). 24x improvement in 24 months. At this trajectory, routine bug fixing becomes largely autonomous by 2027. #aifacts #swebench #softwaredevelopment #ai #coding",
+        "instagram": "AI agents now fix 48% of real software bugs without any human involvement 🤖\n\nSWE-bench (Princeton benchmark):\n\n→ Real GitHub issues from production codebases\n→ AI must: find the relevant file + write the fix + pass all existing tests\n→ No hints. No human guidance.\n→ 2022: 1.96% success rate\n→ 2024: ~12%\n→ 2025: 48%+ (Claude 3.7 Sonnet, GPT-4.1)\n→ 24x improvement in 24 months\n\nIf this trajectory holds:\n→ By 2027: most routine bugs in well-tested codebases get fixed autonomously\n\nThe question for software engineers is shifting:\nnot \"can I write this?\" → \"is this AI fix actually correct?\"\n\n#aifacts #swebench #softwaredevelopment #ai #coding #machinelearning #futureofwork #artificialintelligence #techfacts #programming"
+      },
+      "variables": {
+        "hook_type": "controversy",
+        "video_length": "27",
+        "voice_pace": "fast",
+        "text_overlay": "karaoke_highlight",
+        "background_type": "css-animated",
+        "music_energy": "tense",
+        "cta_style": "follow_cta"
+      },
+      "tts": {
+        "provider": "grok",
+        "voice": "rex"
+      },
+      "status": "scheduled",
+      "asset_path": "videos/shared-project/out/009-ai-autonomous-bug-fix.mp4",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/009-ai-autonomous-bug-fix.mp4",
+      "zernio_post_ids": [
+        "69ecfd73f0883ab361eda5b8"
+      ],
+      "error": null,
+      "created_at": "2026-04-25T19:10:00.000Z",
+      "scheduled_at": "2026-04-25T19:11:00.000Z",
+      "tts_provider": "gemini",
+      "tts_voice": "Kore"
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "project": "ai-facts-unlocked",
+  "collectedAt": "2026-04-25T00:04:31.006Z",
+  "dateRange": {
+    "from": "2026-04-22",
+    "to": "2026-04-23"
+  },
+  "profiles": [
+    "69bad5297367e1517f143cd4"
+  ],
+  "totalPosts": 12,
+  "posts": [
+    {
+      "_id": "69e962107dea335c2b273887",
+      "latePostId": "69e73bb56013b43447173ab2",
+      "content": "A single ChatGPT query uses 10 times the electricity of a Google search — and the math is reviving nuclear power plants 🤖⚡\n\nThe AI Energy Problem:\n\nThe comparison:\n→ Google search: ~0.3 watt-hours\n→ ChatGPT query: ~2.9 watt-hours (~10x)\n→ Image generation: even higher\n→ AI training runs: can consume as much electricity as a small city for weeks\n\nWhy AI uses so much power:\n→ GPU clusters running 24/7 (can't turn off or warm-up is too slow)\n→ Inference (serving responses) is always-on\n→ Data center cooling: 30-40% of power goes to cooling the hardware\n→ Scale: billions of queries daily\n\nThe infrastructure math:\n→ US data centers: currently ~1-2% of US electricity consumption\n→ Projected: double by 2030, driven specifically by AI workloads\n→ IEA: global data center electricity could reach 1,000 TWh/year by 2026 (equal to Japan's total consumption)\n→ Grid can't expand renewable capacity fast enough for this rate of growth\n\nWhy nuclear:\n→ 24/7 baseload power (unlike solar/wind, which are intermittent)\n→ Carbon-free\n→ Predictable output regardless of weather\n→ Long-term contracts possible\n\nThe deals:\n→ Microsoft: 20-year PPA to restart Three Mile Island Unit 1 (Constellation Energy, 2023)\n→ The other unit ran until 2019; Unit 1 was unaffected by the 1979 accident\n→ Google: deal with Kairos Power for small modular reactors (SMRs)\n→ Amazon: investing in multiple nuclear startups\n→ Meta: seeking nuclear power bids for data centers\n→ Oracle: planning campus powered entirely by nuclear\n\nThe geopolitical dimension:\n→ Countries with reliable nuclear baseload = structural AI capacity advantage\n→ US nuclear capacity: declining for decades, now reversing\n→ China building 150+ new nuclear reactors\n\n#aifacts #nuclear #datacenter #energy #artificialintelligence #threemileisland #techenergy #climatetech #futureofai #aiinfrastructure",
+      "publishedAt": "2026-04-22T23:02:42.000Z",
+      "scheduledFor": "2026-04-22T23:02:42.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 117,
+        "reach": 104,
+        "likes": 0,
+        "comments": 0,
+        "shares": 1,
+        "saves": 0,
+        "clicks": 0,
+        "views": 117,
+        "engagementRate": 0.85,
+        "lastUpdated": "2026-04-24 23:00:08"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18009307340895345",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 117,
+            "reach": 104,
+            "likes": 0,
+            "comments": 0,
+            "shares": 1,
+            "saves": 0,
+            "clicks": 0,
+            "views": 117,
+            "engagementRate": 0.85,
+            "lastUpdated": "2026-04-24 23:00:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXc57d_CX3E/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXc57d_CX3E/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/670704104_2057936861435710_6944264672983190107_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=FutfezoG0CgQ7kNvwEGRl9F&_nc_oc=AdpfUv-rK-TRwy0syzLkPG7oQ4iGn0LwhoRn7rB6tGAkVRJMQCTKlziNRI9MQXRedis&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&_nc_tpa=Q5bMBQG6uFEO-981FIakQZy18_xZtE_t8A1W3uR_fR9XtDyRG3azxjil1nghPIef7jXanEKZLt6r_N6pSA&oh=00_Af0Ycgn2DJ1QO-0Dook9KURmmox316vojBNlu3-IDN5CzQ&oe=69F1BD08",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m86/AQMabJ83qxL509jMV-fSAQeu7KxhsZh-F8VjqhabEO4fa-JGmBlWAG1P6W3APQmQDempwEJZgHTVXx1DwGinNP4-UknfEHhF7BPxvtI.mp4?_nc_cat=110&_nc_sid=5e9851&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=EQjgRuNEbJsQ7kNvwEECztP&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzEwMjk4MjYzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTEzLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=3b795e03f20dec5d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9GMzQ3M0I5MDQ3NkRBMEE0QkQzMzIzMzY0QjlFNTg4OV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Q3NEIxMUFBRURGOTRCMzM5NUU1MTU0MjZENTQ0NTg5X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa057iYsOCZQBUCKAJDMywXQFw90vGp--cYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFj77eV26uKxGJT2OuvOiw4yXyvOG3Qvb5MU1mfDnXi31OedH1mlrFdQ3S4MrA-nrKtuC7l06ddDQ&oh=00_Af3NVT3Pg5VxmQj8nVjg2T3oVbqW2tfA-ekeIKk5KnpeTQ&oe=69EDE6CF",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/670704104_2057936861435710_6944264672983190107_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=FutfezoG0CgQ7kNvwEGRl9F&_nc_oc=AdpfUv-rK-TRwy0syzLkPG7oQ4iGn0LwhoRn7rB6tGAkVRJMQCTKlziNRI9MQXRedis&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&_nc_tpa=Q5bMBQG6uFEO-981FIakQZy18_xZtE_t8A1W3uR_fR9XtDyRG3azxjil1nghPIef7jXanEKZLt6r_N6pSA&oh=00_Af0Ycgn2DJ1QO-0Dook9KURmmox316vojBNlu3-IDN5CzQ&oe=69F1BD08"
+        }
+      ]
+    },
+    {
+      "_id": "69e919427dea335c2b25772e",
+      "latePostId": "69e73bad6013b43447173960",
+      "content": "When ChatGPT confidently tells you something false, it doesn't know it's wrong. Here's the exact mechanism 🤖\n\nHow LLMs actually work:\n\nWhat people think:\n→ AI looks up information and reports it\n→ Like a very fast search engine with better language\n\nWhat's actually happening:\n→ LLM predicts the most statistically likely next token\n→ Based on: billions of parameters encoding patterns from training data\n→ No fact database being queried\n→ No internal 'true/false' check\n→ Just: 'what word sequence is most likely given this input?'\n\nWhy this causes hallucination:\n→ If training data was rich on a topic: high-quality output\n→ If training data was sparse, contradictory, or question is in a gap:\n→ Model generates a plausible-sounding sequence anyway\n→ It's confident. It's fluent. It's wrong.\n→ The model has no signal that it's confabulating\n\nThe structural nature of the problem:\n→ This is NOT a bug that can be patched\n→ It's a fundamental property of autoregressive language modeling\n→ Same mechanism that makes LLMs creative and fluent → also makes them hallucinate\n→ You cannot remove hallucination without removing the generative capability\n\nMost dangerous hallucinations:\n→ Plausible citations (real author, fabricated paper)\n→ Real-sounding statistics ('studies show 73%...')\n→ Names that almost exist (wrong middle name, wrong institution)\n→ Legal/medical advice that sounds authoritative\n\nWhat reduces (but doesn't eliminate) it:\n→ RAG (Retrieval-Augmented Generation): grounds responses in retrieved docs\n→ Grounding to external APIs/databases\n→ Constitutional AI and RLHF training\n→ None of these solve the underlying mechanism\n\nThe right mental model:\n→ Not a search engine\n→ Not a fact database\n→ A very well-read person who sometimes makes things up — confidently\n\n#aifacts #llm #hallucination #chatgpt #aiexplained #artificialintelligence #howaiworks #llmhallucination #aitruth #techeducation",
+      "publishedAt": "2026-04-22T18:02:53.000Z",
+      "scheduledFor": "2026-04-22T18:02:53.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 107,
+        "reach": 101,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 1,
+        "clicks": 0,
+        "views": 107,
+        "engagementRate": 0.93,
+        "lastUpdated": "2026-04-24 23:00:08"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "17939771931198599",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 107,
+            "reach": 101,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 1,
+            "clicks": 0,
+            "views": 107,
+            "engagementRate": 0.93,
+            "lastUpdated": "2026-04-24 23:00:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXcXnNPCYep/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXcXnNPCYep/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/671186901_1382953470535149_670571594065193903_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Pnpu0RGB-kYQ7kNvwGHsdez&_nc_oc=AdoSHn8I19JblcBhjZupr-GnZKABDIzVQ4mF-FClJuN4R4YmzDJkFaZt4K0dM1lmnOc&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&_nc_tpa=Q5bMBQFEMO3nG0l2e_72gbkUPxt5GFYiNdkQxFK0i3tBVmhQc9ruYRCeMnIvVWlfyVfmXmx-hVy-xdhAKg&oh=00_Af1aRuvkb2SFr51qm0bpf5vQvVzDRi_JAvkhGqmGWYZZhw&oe=69F1AFEB",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQMvdsxhQmWHFvKuFB3q6msbG_JwkulNjl2zSIc3a_cGybv1QR3bpDIgdjKGvYa6-vXuWKrmTVFHOmIAMDRrOUjycXv21mog2ADiJN8.mp4?_nc_cat=108&_nc_sid=5e9851&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=l82tX0S7UikQ7kNvwHSP3ta&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzA5OTg1NDIzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTE1LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7144dd1326608672&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8zNDQ5NzYwNTRGRUI5QzI4MjI1MjY3QkFGRTEwM0NBOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0YwNDM0OTczM0U2QjY0Q0ZGN0EzNEIwM0EzMDcxQzhGX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0k9mNx96ZQBUCKAJDMywXQFzqn752yLQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQG9uFS24ZpWaiAd9NN2OCL06iaJBkfnIY6BP_h3pbc73tNTkFL2Dx3vQ91lKaT0pu4NNJwCWnUIGA&oh=00_Af389EYuIUoJrMHWFrZ3RP2byeOrFuQ1H1Zg6nHRN0TzEg&oe=69EDEBED",
+          "thumbnail": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/671186901_1382953470535149_670571594065193903_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Pnpu0RGB-kYQ7kNvwGHsdez&_nc_oc=AdoSHn8I19JblcBhjZupr-GnZKABDIzVQ4mF-FClJuN4R4YmzDJkFaZt4K0dM1lmnOc&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&_nc_tpa=Q5bMBQFEMO3nG0l2e_72gbkUPxt5GFYiNdkQxFK0i3tBVmhQc9ruYRCeMnIvVWlfyVfmXmx-hVy-xdhAKg&oh=00_Af1aRuvkb2SFr51qm0bpf5vQvVzDRi_JAvkhGqmGWYZZhw&oe=69F1AFEB"
+        }
+      ]
+    },
+    {
+      "_id": "69e8e9267dea335c2b24062b",
+      "latePostId": "69e73ba56013b4344717380c",
+      "content": "AlphaFold2 (DeepMind, 2020): solved the 50-year protein folding problem with accuracy matching exper\n\nAlphaFold2 (DeepMind, 2020): solved the 50-year protein folding problem with accuracy matching experimental methods. Then predicted 200+ million protein structures from every known organism. Released free to researchers. Hassabis + Jumper: Nobel Prize in Chemistry 2024. Drug discovery, cancer biology, and parasite research transformed. #aifacts #alphafold #deepmind #proteinfolding #nobelprize",
+      "publishedAt": "2026-04-22T13:00:58.000Z",
+      "scheduledFor": "2026-04-22T13:00:58.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 90,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 21:22:08"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "VP0x-amqkxo",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 90,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 21:22:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=VP0x-amqkxo",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=VP0x-amqkxo",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VP0x-amqkxo/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/VP0x-amqkxo/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/VP0x-amqkxo/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69e949f07dea335c2b26b3dc",
+      "latePostId": "69e73bb46013b43447173a86",
+      "content": "ChatGPT query: ~10x electricity of Google search. US data center power demand projected to double by\n\nChatGPT query: ~10x electricity of Google search. US data center power demand projected to double by 2030 from AI growth. Microsoft: 20-year deal to restart Three Mile Island Unit 1. Google, Amazon, Meta: nuclear power negotiations for AI data centers. AI is the primary driver of US nuclear revival. #aifacts #nuclear #datacenter #energy #artificialintelligence",
+      "publishedAt": "2026-04-22T22:02:44.000Z",
+      "scheduledFor": "2026-04-22T22:02:44.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 82,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 21:22:08"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "m_HIwNAGLFA",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 82,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 21:22:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=m_HIwNAGLFA",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=m_HIwNAGLFA",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/m_HIwNAGLFA/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/m_HIwNAGLFA/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/m_HIwNAGLFA/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69eace357dea335c2b30c627",
+      "latePostId": "69e88ed0c21d72d10f1169b3",
+      "content": "AI image generators don't draw — they start with static noise and systematically remove it 🤖🎨\n\nHow Diffusion Models Work:\n\nThe core mechanism:\n1. Training:\n → Take real image + gradually add noise (step 1, step 2... until pure static)\n → Train model to reverse this: given noisy image → predict how to remove one step of noise\n → Repeat across 100M+ image-description pairs\n → Result: model learns what 'remove noise to match text description' looks like\n\n2. Generation:\n → Start with pure random pixel noise (truly random)\n → Apply denoising function: 50-1000 times\n → Each step: noise resolves slightly toward the text prompt\n → After all steps: coherent image\n\nText guidance mechanism:\n→ Called 'classifier-free guidance'\n→ Text description steers which direction the denoising goes\n→ Same starting noise + different text = completely different image\n→ Text prompt is not 'drawing instructions' — it's a directional bias on the denoising\n\nWhy AI draws hands wrong:\n→ Hands in training images: photographed from many angles, partially obscured\n→ Denoising function for hand regions: learned from noisy, inconsistent signal\n→ Result: statistically plausible hand shapes ≠ anatomically correct hands\n→ Model isn't 'counting fingers' — it's applying a statistical function\n→ Same for: text in images, complex geometry, accurate counting of objects\n\nAll the major image generators use diffusion:\n→ Stable Diffusion (Stability AI)\n→ DALL-E 3 (OpenAI)\n→ Midjourney\n→ Adobe Firefly\n→ Google Imagen / Imagen 3\n→ Flux (Black Forest Labs)\n→ Architecture varies; core mechanism identical\n\nWhy this matters:\n→ Understanding diffusion explains why AI fails predictably\n→ It's not 'stupid' or 'not trying' — it's applying a learned statistical function\n→ Better prompting = better guidance of the denoising trajectory\n\n#aifacts #diffusion #imageai #aiart #stableDiffusion #midjourney #dalle #artificialintelligence #howaiworks #aiexplained",
+      "publishedAt": "2026-04-23T23:02:39.000Z",
+      "scheduledFor": "2026-04-23T23:02:39.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 70,
+        "reach": 67,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 70,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:00:08"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "17859634092630425",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 70,
+            "reach": 67,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 70,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:00:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXfev-Lk7Ia/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXfev-Lk7Ia/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/673735730_4340989229506908_6294874543046720733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sDKKtOJDtvgQ7kNvwE-Zby_&_nc_oc=Adp_kpV55-GelyB2VysuqA-4ge2pHIPwNndq6PYbt044QaC8uwLVyE5XtF8PiuX4ZbI&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&_nc_tpa=Q5bMBQEG-tzbST8dCe5p1HiuQUYZd5M1Xq1sWO-VFnXXZ3SF9y_9qRY864AY9whE4PVdyOR5UPgxMVWhdA&oh=00_Af3dkasD1sROJ_phoizdXlFXbfslaAMK2tvQsj4TJWrNbQ&oe=69F1CE9D",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-2.cdninstagram.com/o1/v/t2/f2/m86/AQOCmFGR5QMC9f6fhABNI2Mmb8uTc4cot3dgHE_A71LCDAHtES07sn3FIkGs3yKYKts3in1T3-Wu9JvHKTebbfHJixb3ohZbLfmdm2w.mp4?_nc_cat=104&_nc_sid=5e9851&_nc_ht=scontent-lhr6-2.cdninstagram.com&_nc_ohc=sf3mMC9PDZEQ7kNvwHhq01n&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzEyMjEzMzEzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjowLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=81e1c41eae4c0c96&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8xNTRBRjY5OUM2RDA5QTg0NjFFODlBQzk3N0RBNkVCQ192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0IwNDE0QjdDN0ZEMDcyMzlERUJFRkMzM0NFRDY2NUE1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0gOyBw-uZQBUCKAJDMywXQGAN2yLQ5WAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQH2POj4WDcaT2Y-ZWLGEi1IF4CjnDnnwJ97SdEm7W0onJeeTF2fKCZSrbvzKbpnSmkNNJrwA23FIA&oh=00_Af2Btc7eGUBZVd4KY8K9SSQRisduDAjv7wP52yxmierVNg&oe=69EDCD79",
+          "thumbnail": "https://scontent-lhr8-2.cdninstagram.com/v/t51.71878-15/673735730_4340989229506908_6294874543046720733_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=sDKKtOJDtvgQ7kNvwE-Zby_&_nc_oc=Adp_kpV55-GelyB2VysuqA-4ge2pHIPwNndq6PYbt044QaC8uwLVyE5XtF8PiuX4ZbI&_nc_zt=23&_nc_ht=scontent-lhr8-2.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&_nc_tpa=Q5bMBQEG-tzbST8dCe5p1HiuQUYZd5M1Xq1sWO-VFnXXZ3SF9y_9qRY864AY9whE4PVdyOR5UPgxMVWhdA&oh=00_Af3dkasD1sROJ_phoizdXlFXbfslaAMK2tvQsj4TJWrNbQ&oe=69F1CE9D"
+        }
+      ]
+    },
+    {
+      "_id": "69e8e9527dea335c2b24072c",
+      "latePostId": "69e73ba66ded4b6ae06945f2",
+      "content": "In 2021, an AI predicted the structure of every known protein on Earth — solving a 50-year-old biology problem in 18 months 🔬🤖\n\nThe Protein Folding Problem:\n\nWhat proteins are:\n→ Molecular machines running every process in every living organism\n→ Made of amino acid chains (sequence determined by DNA)\n→ Function determined by 3D folded shape — NOT sequence alone\n→ Wrong fold = no function (or harmful function)\n\nThe problem (1962-2020):\n→ Anfinsen's 1972 Nobel: sequence SHOULD determine structure\n→ But computationally predicting how it folds: ~50 years of failure\n→ Experimental methods: X-ray crystallography, cryo-EM\n→ Time per structure: weeks to months\n→ Cost per structure: $50,000-$500,000+\n\nAlphaFold2 (DeepMind, 2020):\n→ CASP14 competition (Critical Assessment of Protein Structure Prediction)\n→ AlphaFold2 scored ~90 GDT (accuracy comparable to experimental methods)\n→ Previous best: ~40 GDT\n→ John Moult (competition organizer): 'beyond my expectations'\n\nThe database (2022):\n→ DeepMind applied AlphaFold to entire known proteome\n→ 200+ million protein structures predicted\n→ Every organism with sequenced genome covered\n→ Released entirely free to researchers globally\n\nImpact:\n→ Drug discovery: decades-blocked targets suddenly accessible\n→ Tropical disease research: parasite proteins mapped (previously took years per protein)\n→ Cancer biology: mutant protein behaviors predictable\n→ Nobel Prize in Chemistry 2024: Hassabis + Jumper\n\nWhy this matters:\n→ 50 years of individual experimental results (200,000 structures)\n→ AlphaFold: 200,000,000 structures in 18 months\n→ 1,000x more structural biology knowledge, made free\n\n#aifacts #alphafold #deepmind #proteinfolding #nobelprize #artificialintelligence #drugdiscovery #biology #aibreakthrough #sciencefacts",
+      "publishedAt": "2026-04-22T13:02:41.000Z",
+      "scheduledFor": "2026-04-22T13:02:41.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 36,
+        "reach": 34,
+        "likes": 2,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 36,
+        "engagementRate": 5.56,
+        "lastUpdated": "2026-04-24 23:00:08"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "17933548593084029",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 36,
+            "reach": 34,
+            "likes": 2,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 36,
+            "engagementRate": 5.56,
+            "lastUpdated": "2026-04-24 23:00:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXb1S7QifZp/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXb1S7QifZp/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/670655182_1224778596401294_1247130673070016019_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_noZ9jX_ZqQQ7kNvwHIvd3a&_nc_oc=AdqomF_ENAGlKZ9TJzYc1kt7EK895XAdS0VzcTokuaYUqRFpCuRWBVMJ42n2YL3TIjI&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&_nc_tpa=Q5bMBQF1wXZrooM1kTbl6nHwuGigwcfq3v-N1fSnObSfr2YcXgfueqRniFGLP9q8U6AL-LY8rcKVsBUaGA&oh=00_Af0HvSLzNjZM_-g2S3Xqk-AAA6PI3Il0Z9thZ0ACWqZcVA&oe=69F1D71B",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQPfsDU0DCe94ssWqgtreb9fAu3wwELFoKRvTAoygTb3eQrITkukXTjwcbQ4F-X-alEY54uKPXOts5Fey7H7ZJl25NesP_f6jNblVSU.mp4?_nc_cat=106&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=qRt9pPXu8pkQ7kNvwGjo-iS&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzA5NDg2OTEzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTE4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=7a42097f24c5f691&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BQzRBRkFFMTIwNzAxN0U5MTNBNTE3QzlGQThDMkU5OF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0Q3NDRBMEQ5RkNGRUY4RUJFNkM1N0U5QTI2MTJFMEIwX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0gIrY09uZQBUCKAJDMywXQF2u6XjU_fQYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQF9ANcZ2kyA6gnJ-CW7M9ZmuJjR8bs6-q-r5GpnankQGor5gyhgum4BqZEd164XZH5JUu3jqTCW8Q&oh=00_Af2fgR-gFvdj4qtjGgYmaQMUB8tQ6owRu-9hApVqlfPytQ&oe=69EDD72B",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/670655182_1224778596401294_1247130673070016019_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_noZ9jX_ZqQQ7kNvwHIvd3a&_nc_oc=AdqomF_ENAGlKZ9TJzYc1kt7EK895XAdS0VzcTokuaYUqRFpCuRWBVMJ42n2YL3TIjI&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&_nc_tpa=Q5bMBQF1wXZrooM1kTbl6nHwuGigwcfq3v-N1fSnObSfr2YcXgfueqRniFGLP9q8U6AL-LY8rcKVsBUaGA&oh=00_Af0HvSLzNjZM_-g2S3Xqk-AAA6PI3Il0Z9thZ0ACWqZcVA&oe=69F1D71B"
+        }
+      ]
+    },
+    {
+      "_id": "69ea49347dea335c2b2cd464",
+      "latePostId": "69e88eb6f85478fe3b9c4608",
+      "content": "LLMs process 'tokens' — chunks of ~2-4 characters, not words. 'ChatGPT' = 2-3 tokens. Context window\n\nLLMs process 'tokens' — chunks of ~2-4 characters, not words. 'ChatGPT' = 2-3 tokens. Context windows and API pricing are in tokens. Tokenizers trained on English text penalize other languages: Spanish/French ~30% more tokens, Japanese/Chinese 4-5x more. Non-English users get less effective context and pay more per word. #aifacts #tokenization #llm #chatgpt #aiexplained",
+      "publishedAt": "2026-04-23T13:01:38.000Z",
+      "scheduledFor": "2026-04-23T13:01:38.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 32,
+        "engagementRate": 3.13,
+        "lastUpdated": "2026-04-24 21:22:08"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "qDQtr2m9Ir0",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 32,
+            "engagementRate": 3.13,
+            "lastUpdated": "2026-04-24 21:22:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=qDQtr2m9Ir0",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=qDQtr2m9Ir0",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/qDQtr2m9Ir0/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/qDQtr2m9Ir0/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/qDQtr2m9Ir0/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69ea49347dea335c2b2cd469",
+      "latePostId": "69e88eb71505b84f323fceb0",
+      "content": "AI language models don't read words — they read fragments. And the language you write in affects how expensive every query is 🤖\n\nHow Tokenization Works:\n\nWhat a token is:\n→ Not a word — a chunk of text (~2-4 characters on average)\n→ Common words are one token: 'the', 'is', 'at'\n→ Less common words split into pieces: 'ham' + 'bur' + 'ger' = 3 tokens\n→ 'ChatGPT' = 2-3 tokens\n→ 'Tokenization' = 4 tokens\n→ Punctuation and spaces are separate tokens\n\nWhy it matters:\n→ Context window = measured in tokens, not words\n→ GPT-4's 128K context window = ~100K English words\n→ API pricing = per token (input + output)\n→ Your cost depends on token count, not word count\n→ Rule of thumb: 1 token ≈ 0.75 English words\n\nThe language inequality:\nTokenizers are trained primarily on English text — so English is most efficient:\n→ English: 1x baseline\n→ Spanish / French: ~1.3x more tokens for same content\n→ Arabic: ~2-3x more tokens\n→ Chinese / Japanese: ~4-5x more tokens\n→ A 15-token English question may be 50+ tokens in Japanese\n\nWhat this means practically:\n→ Non-English users: pay more per word\n→ Non-English users: hit context limits sooner with equivalent content\n→ Non-English users: get less effective model capacity per dollar\n→ Same model, same task, different cost based purely on language\n\nThe equity issue:\n→ Flagged by researchers as structural disadvantage\n→ Affects billions of non-English speakers\n→ OpenAI has acknowledged the problem but tokenizer changes are complex\n\nWhat's improving:\n→ Llama 3 tokenizer: ~4x improvement in non-English efficiency vs Llama 2\n→ Gemini tokenizers: designed with multilingual efficiency from start\n→ Each generation of models narrows but doesn't close the gap\n\n#aifacts #tokenization #llm #chatgpt #aiexplained #artificialintelligence #howaiworks #languageai #aiinequality #techeducation",
+      "publishedAt": "2026-04-23T13:02:16.000Z",
+      "scheduledFor": "2026-04-23T13:02:16.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 19,
+        "reach": 17,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 19,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:00:08"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "17921880840306075",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 19,
+            "reach": 17,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 19,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:00:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXeaC9tjs51/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXeaC9tjs51/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/674514773_988868680237152_8652152037227598799_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AqoWquHxHW8Q7kNvwF5dgwi&_nc_oc=AdqJP8av0lhpfjr0ltwb4emVc7Nhg67fFOvyhLLq6sZHpTrlg3H8L9U5RBqhUW8qP1E&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&_nc_tpa=Q5bMBQHXaNGSFg0KHBX-0P-4uVgYvFO4-K78XThCzdpKwQSDfwNqR0Zc2EbLxEPyx_uEBpJqw-wN-niVKw&oh=00_Af2HEAuTRvESblLVa-K4cluV2FvSE0VLk-oOXBKZyrcmnA&oe=69F1D6E0",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQMEkdw-1ynxrag3xXtplJb3kv0cA5FAyBDuzwO-0hNmWL8wj5JgpSGKxBScqyt__ewzaYpSOj1PMZSCi1ZPMs3tzx30SsywdeySAiI.mp4?_nc_cat=111&_nc_sid=5e9851&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=dUWW3WnYT_oQ7kNvwHdtocW&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzExNDA1NjIzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTM0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=bbcd6293a4bce122&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BQjREOTVEMEQwMDQxOUVEQjc4QTYyNjVGREQ2MEVCOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzk2NDk0OENFNDRGQkY5MDY3NTc1MTI0ODVFNDBFNEFFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa098Ke6eaZQBUCKAJDMywXQGDap--dsi0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQE126JiSPwjpfTzmNCDL8xkUb-NAj-fIWoaiYUSC9RdgLn-ra7iPNTVTi7bhe6-_TibW6-k5_zvvQ&oh=00_Af1THqWTt2ynjZMvBFra-KdmSnuCYChiNzvsh3Z8X99nAA&oe=69EDD3B0",
+          "thumbnail": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/674514773_988868680237152_8652152037227598799_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AqoWquHxHW8Q7kNvwF5dgwi&_nc_oc=AdqJP8av0lhpfjr0ltwb4emVc7Nhg67fFOvyhLLq6sZHpTrlg3H8L9U5RBqhUW8qP1E&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&_nc_tpa=Q5bMBQHXaNGSFg0KHBX-0P-4uVgYvFO4-K78XThCzdpKwQSDfwNqR0Zc2EbLxEPyx_uEBpJqw-wN-niVKw&oh=00_Af2HEAuTRvESblLVa-K4cluV2FvSE0VLk-oOXBKZyrcmnA&oe=69F1D6E0"
+        }
+      ]
+    },
+    {
+      "_id": "69ea965b7dea335c2b2fb286",
+      "latePostId": "69e88ec34bbb78b0d058e65c",
+      "content": "In February 2023, Meta released their frontier AI model to the public — and the internet ran with it in ways no one expected 🤖\n\nThe Llama Timeline:\n\nFeb 2023: Llama 1 released:\n→ Meta: 'for researchers only'\n→ Reality: weights leaked to 4chan within days\n→ Within 1 week: quantized to run on consumer laptops\n→ Georgi Gerganov's llama.cpp: ran 7B model on MacBook Air\n→ Within 1 month: 100s of fine-tuned variants on HuggingFace\n→ Jailbreaks that were impossible via ChatGPT API: trivial to implement\n\nJuly 2023: Llama 2:\n→ Broader commercial license\n→ Usable for products with <700M monthly active users\n→ Immediately: second wave of fine-tuning, commercial applications\n\nApril 2024: Llama 3:\n→ 8B and 70B parameter models\n→ 8B model: competitive with GPT-3.5 on most benchmarks\n→ 70B model: approaching GPT-4 on multiple benchmarks\n→ Runs on MacBook Pro M3 with 16GB RAM at usable speed\n→ A 2020 supercomputer-level capability on a laptop\n\nThe domino effect:\n→ DeepSeek (China) open-sourced R1: matched GPT-4o performance\n→ Training cost reported: ~$6 million vs GPT-4's ~$100M+\n→ NVIDIA stock dropped 17% in one day on the news\n→ Mistral, Falcon, Phi: all followed open-source model\n\nWhat this broke:\n→ 'You need enormous resources to build frontier AI' — false\n→ 'Closed weights are necessary for safety' — debated\n→ 'US companies have permanent edge' — uncertain\n\nWho now runs local AI:\n→ Researchers in countries without US API access\n→ Companies with data privacy requirements\n→ Privacy-conscious individuals\n→ Developers building offline AI applications\n\n#aifacts #llama #opensource #meta #aiindustry #artificialintelligence #deepseek #openaiai #techindustry #aihistory",
+      "publishedAt": "2026-04-23T18:02:00.000Z",
+      "scheduledFor": "2026-04-23T18:02:00.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 9,
+        "reach": 8,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 9,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 23:00:08"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18119333200638886",
+          "accountId": "69bad5bc6cb7b8cf4c7f6cd6",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 9,
+            "reach": 8,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 9,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 23:00:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXe8VzoCORR/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXe8VzoCORR/",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/671760671_939650602026864_3335747360181936262_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UCQnAx3g74oQ7kNvwHF25zd&_nc_oc=AdrKnZ8bMccDi7sAnV-0CiBkUjZ6IpaBECcEQtfyaOaXqJX2xO7KPo9_e-ztFgBGf-M&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&_nc_tpa=Q5bMBQG64EvzGAp1lrBHGPfA4niaF1UxVjywgnauud8eljGZqQEgj4S-aLLykADAR8mnrViePY-o1sz1_A&oh=00_Af3QWkZyuwFDhbd9OoZSuBQxeiF8lfokJNm2bhq16DC7PA&oe=69F1BF95",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQNZIqRtYctzBx6PS38TR96NRBijOALxF6KhBS7SmpE31UjrgU4Aic1CO9eK6NmA1m920qWzkCVBoG3ULeBnp0Bm7GWAiJDN0InIED0.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=S2uzg9U9pO8Q7kNvwF6Hf67&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzExODk2MzYzOTQ1ODYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTI4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=d93bfdec93d80f0&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85OTQwNUIyNUE0OTNCNDE0MDU5QjYzRjEzMDNENTJCOV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzRENEQ0RDhFMDRDMzA1NzM5NThFRTYzQjdFNzQ2MEE4X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACa0uZHv1umZQBUCKAJDMywXQGADMzMzMzMYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQGThUjRefPoCcLltMY8lNPrrh9TgjGajGDBabde6CAsajYY-W-pW7qa5IzUcfgMaj2fYVMZAynb1g&oh=00_Af2IZ9y9tyLD7QPPHM0NG9Kyewq8KO-LhrQDyeN5rVb98Q&oe=69EDD464",
+          "thumbnail": "https://scontent-lhr8-1.cdninstagram.com/v/t51.71878-15/671760671_939650602026864_3335747360181936262_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=UCQnAx3g74oQ7kNvwHF25zd&_nc_oc=AdrKnZ8bMccDi7sAnV-0CiBkUjZ6IpaBECcEQtfyaOaXqJX2xO7KPo9_e-ztFgBGf-M&_nc_zt=23&_nc_ht=scontent-lhr8-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=1yVwy3X0ggnfzv_a8zXccQ&_nc_tpa=Q5bMBQG64EvzGAp1lrBHGPfA4niaF1UxVjywgnauud8eljGZqQEgj4S-aLLykADAR8mnrViePY-o1sz1_A&oh=00_Af3QWkZyuwFDhbd9OoZSuBQxeiF8lfokJNm2bhq16DC7PA&oe=69F1BF95"
+        }
+      ]
+    },
+    {
+      "_id": "69eacd2e7dea335c2b30c267",
+      "latePostId": "69e88ecfb6f5d0c1430a124b",
+      "content": "Diffusion models (Midjourney, DALL-E 3, Stable Diffusion): start with pure random noise → apply lear\n\nDiffusion models (Midjourney, DALL-E 3, Stable Diffusion): start with pure random noise → apply learned denoising function 50-1000 times, guided by text. The model doesn't draw — it removes chaos. Trained on 100M+ image-description pairs. Failure modes (hands, text, counting) explained by gaps in the learned denoising function. #aifacts #diffusion #imageai #aiart #stableDiffusion",
+      "publishedAt": "2026-04-23T23:00:39.000Z",
+      "scheduledFor": "2026-04-23T23:00:39.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 8,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 21:22:08"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "ZCyiI5SrX7s",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 8,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 21:22:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=ZCyiI5SrX7s",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=ZCyiI5SrX7s",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZCyiI5SrX7s/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/ZCyiI5SrX7s/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/ZCyiI5SrX7s/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69ea965a7dea335c2b2fb277",
+      "latePostId": "69e88ec24bbb78b0d058e612",
+      "content": "Feb 2023: Meta released Llama weights publicly. Within a week: jailbroken, fine-tuned, running on a\n\nFeb 2023: Meta released Llama weights publicly. Within a week: jailbroken, fine-tuned, running on a laptop. 100K+ fine-tunes on HuggingFace in 6 months. Llama 3 (Apr 2024) approached GPT-4 on benchmarks. DeepSeek matched GPT-4o for ~$6M vs GPT-4's ~$100M. The closed-AI assumption was broken. #aifacts #llama #opensource #meta #aiindustry",
+      "publishedAt": "2026-04-23T18:00:35.000Z",
+      "scheduledFor": "2026-04-23T18:00:35.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 4,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 21:22:08"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "VYS6mHPML4I",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 4,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 21:22:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=VYS6mHPML4I",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=VYS6mHPML4I",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/VYS6mHPML4I/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/VYS6mHPML4I/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/VYS6mHPML4I/default.jpg"
+        }
+      ]
+    },
+    {
+      "_id": "69e919237dea335c2b257643",
+      "latePostId": "69e73bac6013b43447173908",
+      "content": "LLMs don't retrieve facts — they predict the most statistically likely next token. No internal truth\n\nLLMs don't retrieve facts — they predict the most statistically likely next token. No internal truth-check exists. Hallucination is structural: same mechanism that enables creativity also enables confident confabulation. RAG reduces but doesn't eliminate. No patch fixes this. #aifacts #llm #hallucination #chatgpt #aiexplained",
+      "publishedAt": "2026-04-22T18:00:26.000Z",
+      "scheduledFor": "2026-04-22T18:00:26.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 2,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-24 21:22:08"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "KazB2s8TsLE",
+          "accountId": "69bad5396cb7b8cf4c7f69ba",
+          "accountUsername": "aifactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 2,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-24 21:22:08"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=KazB2s8TsLE",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=KazB2s8TsLE",
+      "isExternal": true,
+      "profileId": "69bad5297367e1517f143cd4",
+      "thumbnailUrl": "https://i.ytimg.com/vi/KazB2s8TsLE/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/KazB2s8TsLE/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/KazB2s8TsLE/default.jpg"
+        }
+      ]
+    }
+  ]
+}
