@@ -90,7 +90,7 @@ Before asking the user anything, silently read whatever project context exists. 
 
 **From the active project (`projects.json`):**
 
-1. **`project.defaults`** -- Pre-filled tone, content pillars, and posting frequency. These are your starting defaults — the user can override.
+1. **`project.defaults`** -- Pre-filled tone, content pillars, posting frequency, and **background_type**. These are your starting defaults — the user can override. If `defaults.background_type` is set, use it as the default for all video items when the brief template is empty. See the `background_type → visual_mode` mapping table in the Brief-Driven section below.
 2. **`project.buffer.channels`** -- Which platforms/channels to plan for. Don't ask "where should I post?" if the project already defines channels.
 3. **`project.brand_brief`** -- If set, read this for brand analysis (skip the brand analysis step).
 
@@ -431,7 +431,7 @@ Use the remotion-video skill to create a video. ORCHESTRATED MODE — all parame
 - Project: [project_id from projects.json]
 - Platform: TikTok (1080x1920, 30fps)
 - Message: [concept from brief's topic_guidance]
-- Visual Mode: [mapped from background_type]
+- Visual Mode: [mapped from background_type — see mapping table below]
 - Style: [brand style]
 - Duration: [from video_length variable] seconds
 - Voiceover: AI voiceover, TTS Provider: [project default], Voice: [project default]
@@ -440,10 +440,24 @@ Use the remotion-video skill to create a video. ORCHESTRATED MODE — all parame
 - Text Overlay Style: [from text_overlay variable]
 - Music Energy: [from music_energy variable]
 - CTA Style: [from cta_style variable]
-- Cache Channel: [project_id] *(when Visual Mode is ai-generated)*
-- Cache Tags: [semantic tags from the visual concept]
+- Cache Channel: [project_id] *(only when Visual Mode is ai-generated)*
+- Cache Tags: [semantic tags from the visual concept] *(only when Visual Mode is ai-generated)*
 - Output: videos/[campaign-slug]/item-[NNN]/
 ```
+
+**`background_type` → `visual_mode` mapping:**
+
+| background_type | visual_mode | Notes |
+|----------------|-------------|-------|
+| `stock_montage` | `ai-generated` | AI images per scene, Ken Burns motion |
+| `single_static` | `ai-generated` | One AI image for all scenes |
+| `abstract_animated` | `ai-generated` | Abstract gradient/particle AI backgrounds |
+| `split_screen` | `ai-generated` | AI images in split layout |
+| `whimsical-css` | `text-only` | CSS-animated `WhimsicalBackground` component — **no AI image gen, no Cache params** |
+
+When `background_type` is `whimsical-css`: omit Cache Channel and Cache Tags entirely (no image generation occurs).
+
+**When the brief template is empty (cold start):** use `project.defaults.background_type` if set. If no project default exists, default to `abstract_animated`.
 
 ### When No Briefs Exist
 

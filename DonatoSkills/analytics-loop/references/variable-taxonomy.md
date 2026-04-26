@@ -79,6 +79,7 @@ How the first 1-3 seconds grab attention.
 | `single_static` | One background image for entire video |
 | `abstract_animated` | Gradients, particles, geometric motion |
 | `split_screen` | Side-by-side or picture-in-picture layout |
+| `whimsical-css` | CSS-animated pastel gradients, floating bubbles, pulsing stars — no AI image generation. Default style for baby-facts-unlocked. |
 
 **Maps to**: `visual_mode` and `SceneBackground` type in remotion-video. References `remotion-video/references/animation-patterns.md` for Ken Burns and background components.
 

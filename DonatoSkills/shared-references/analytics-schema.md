@@ -15,7 +15,7 @@ Every video calendar item must include a `variables` object with these 7 structu
     "video_length": "15 | 30 | 45 | 60",
     "voice_pace": "fast | moderate | slow",
     "text_overlay": "minimal | full_captions | karaoke_highlight | key_words_only",
-    "background_type": "stock_montage | single_static | abstract_animated | split_screen",
+    "background_type": "stock_montage | single_static | abstract_animated | split_screen | whimsical-css",
     "music_energy": "none | ambient | upbeat | dramatic",
     "cta_style": "none | end_card | mid_roll_prompt | pinned_comment | follow_cta"
   }

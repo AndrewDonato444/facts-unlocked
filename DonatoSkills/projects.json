@@ -181,10 +181,12 @@
           "youtube_shorts": "3x/day",
           "youtube_longform": "3x/week",
           "instagram": "3x/day"
-        }
+        },
+        "background_type": "whimsical-css",
+        "_background_type_note": "CSS-animated WhimsicalBackground component (pastel gradients, floating bubbles, pulsing stars). Maps to visual_mode: text-only. No AI image generation. Decided 2026-04-25 as the brand style for all baby-facts short-form videos."
       },
       "created": "2026-03-17",
-      "updated": "2026-03-19"
+      "updated": "2026-04-25"
     },
 
     "money-facts-unlocked": {

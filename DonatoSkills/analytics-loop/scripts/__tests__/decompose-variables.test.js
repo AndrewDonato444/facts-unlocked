@@ -6,6 +6,7 @@
  *   - Variable inference from post content (UT-DV-004 to UT-DV-011)
  *   - Per-channel override detection (UT-DV-012 to UT-DV-016)
  *   - Mixed tagged + inferred posts (UT-DV-017 to UT-DV-018)
+ *   - Regression: whimsical-css background_type (UT-DV-019 to UT-DV-021)
  */
 
 const path = require("path");
@@ -657,5 +658,60 @@ describe("Mixed tagged and inferred posts", () => {
       );
       expect(nonUnknownValues.length).toBe(0);
     }
+  });
+});
+
+// ─────────────────────────────────────────────
+// Regression: whimsical-css background_type
+// Added 2026-04-25 — bug where whimsical-css was not in the analytics schema,
+// causing analytics-loop to silently mishandle baby-facts videos.
+// ─────────────────────────────────────────────
+
+describe("Regression: whimsical-css background_type", () => {
+  const WHIMSICAL_VARIABLES = {
+    ...FULL_VARIABLES,
+    background_type: "whimsical-css",
+  };
+
+  test("UT-DV-019: tagged whimsical-css posts are included in variable impact analysis", () => {
+    const posts = [
+      makePostWithVars(WHIMSICAL_VARIABLES, 24.0, { postId: "wc_1" }),
+      makePostWithVars(WHIMSICAL_VARIABLES, 20.0, { postId: "wc_2" }),
+      makePostWithVars({ ...FULL_VARIABLES, background_type: "abstract_animated" }, 12.0, { postId: "aa_1" }),
+    ];
+
+    const impact = computeVariableImpact(posts);
+    const bgImpact = impact.find((v) => v.variable === "background_type");
+
+    expect(bgImpact).toBeDefined();
+    expect(bgImpact.values["whimsical-css"]).toBeDefined();
+    expect(bgImpact.values["whimsical-css"].count).toBe(2);
+    expect(bgImpact.values["whimsical-css"].avg_score).toBe(22.0);
+    expect(bgImpact.most_impactful_value).toBe("whimsical-css");
+  });
+
+  test("UT-DV-020: whimsical-css can appear in a winning template", () => {
+    const posts = Array.from({ length: 10 }, (_, i) =>
+      makePostWithVars(WHIMSICAL_VARIABLES, 25.0, { postId: `wc_win_${i}` })
+    );
+
+    const impact = computeVariableImpact(posts);
+    const template = computeWinningTemplate(impact, posts);
+
+    expect(template.background_type).toBe("whimsical-css");
+    expect(template.confidence).toBe("high");
+  });
+
+  test("UT-DV-021: inference cannot determine whimsical-css — stays unknown", () => {
+    // background_type is never inferable from caption/duration; whimsical-css
+    // must come from calendar item tagging, not post-hoc inference.
+    const post = makeScoredPost({
+      content: "Did you know babies develop sleep spindles by 6 months?",
+      duration: 27,
+    });
+    const result = inferVariables(post);
+
+    expect(result.variables.background_type).toBe("unknown");
+    expect(result.confidences.background_type).toBe("unknown");
   });
 });
