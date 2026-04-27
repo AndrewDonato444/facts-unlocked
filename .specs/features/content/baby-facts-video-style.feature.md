@@ -6,18 +6,22 @@ tests: []
 components: []
 status: specced
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-27
 ---
 
 # Baby Facts Video Style
 
 **Source File**: DonatoSkills/content-engine/SKILL.md  
 **Design System**: .specs/design-system/tokens.md  
-**Project Config**: DonatoSkills/projects.json → baby-facts-unlocked.defaults
+**Project Config**: DonatoSkills/projects.json → baby-facts-unlocked.defaults  
+**Reference Component**: DonatoSkills/content-engine/references/whimsical-template/WhimsicalBackground.tsx
 
 ## Feature: Baby Facts Whimsical Animated Style
 
-All baby-facts-unlocked short-form videos use the `whimsical-css` background type — CSS-animated pastel gradients, floating bubbles, and pulsing stars via the `WhimsicalBackground` Remotion component. No AI image generation is used. This is the brand style decision made 2026-04-25.
+All baby-facts-unlocked short-form videos use the `whimsical-css` background type — CSS-animated pastel gradients, floating bubbles, and pulsing stars via the `WhimsicalBackground` Remotion component. No AI image generation is used.
+
+**Style decision** (2026-04-25): whimsical-css is the brand baseline.
+**Variant variation decision** (2026-04-27): each video must use one of 7 named variants (`blossom | meadow | dawn | dream | garden | cloud | sunset`) so consecutive videos look visually distinct. The component takes a `variant` prop pairing a 3-scene gradient palette with one of 3 shape layouts (A/B/C). Without variant rotation, every video looks identical — that's a regression and is forbidden.
 
 ### Scenario: Content engine uses whimsical-css for baby facts cold-start briefs
 Given the daily-content-creation task runs for baby-facts-unlocked
@@ -35,6 +39,33 @@ When the content-engine maps background_type to visual_mode
 Then it maps `whimsical-css` → `visual_mode: text-only`
 And uses the WhimsicalBackground Remotion component
 And omits AI image generation entirely
+
+### Scenario: Each baby facts video uses a distinct whimsical variant
+Given the daily-content-creation task creates N baby-facts videos for a calendar
+When the pipeline assigns whimsical variants
+Then each video gets a different variant from the 7 available (blossom, meadow, dawn, dream, garden, cloud, sunset)
+And no two consecutive videos share the same variant
+And the chosen variant is recorded in used-topics.md alongside `whimsical-css/{variant}` permutation
+
+### Scenario: Variant rotation tracks through used-topics.md
+Given a baby-facts video was just produced with variant "meadow"
+When the next baby-facts video is being scaffolded
+Then the pipeline reads the last 3 baby-facts entries in used-topics.md
+And picks a variant NOT in that recent set
+And tags the new video accordingly
+
+### Scenario: Shared-project pattern uses WhimsicalBackground for baby-facts
+Given today's daily-content-creation task creates a shared-project Remotion calendar
+When FactsVideo.tsx renders a video where config.project === "baby-facts-unlocked"
+Then it renders WhimsicalBackground (with config.whimsicalVariant) instead of SharedBackground
+And applies a strong text shadow to all white text overlays for legibility on light pastels
+And does NOT use the dark "purple/green/red/blue/teal" tech palettes
+
+### Scenario: Slot ownership is enforced — 2pm ET reserved for quote pipeline
+Given baby-facts-unlocked has a daily 2pm ET slot owned by the daily-quote-creation task
+When any pipeline schedules a baby-facts video
+Then it MUST NOT post to 2pm ET (18:00 UTC)
+And valid baby-facts video slots are 9am ET (13:00 UTC) and 7pm ET (23:00 UTC) only
 
 ### Scenario: Non-baby-facts channels are NOT defaulted to whimsical-css
 Given the daily-content-creation task runs for money-facts-unlocked or ai-facts-unlocked

@@ -183,7 +183,13 @@
           "instagram": "3x/day"
         },
         "background_type": "whimsical-css",
-        "_background_type_note": "CSS-animated WhimsicalBackground component (pastel gradients, floating bubbles, pulsing stars). Maps to visual_mode: text-only. No AI image generation. Decided 2026-04-25 as the brand style for all baby-facts short-form videos."
+        "_background_type_note": "CSS-animated WhimsicalBackground component (pastel gradients, floating bubbles, pulsing stars). Maps to visual_mode: text-only. No AI image generation. Decided 2026-04-25 as the brand style for all baby-facts short-form videos.",
+        "whimsical_variants": ["blossom", "meadow", "dawn", "dream", "garden", "cloud", "sunset"],
+        "_whimsical_variants_note": "Pipeline MUST rotate through these variants — never use the same variant twice in a row, and never produce 2+ consecutive baby-facts videos with the same variant. Reference component: DonatoSkills/content-engine/references/whimsical-template/WhimsicalBackground.tsx. Added 2026-04-27 after a regression where 5 consecutive videos all rendered with the same blossom variant.",
+        "reserved_slots": {
+          "_note": "2pm ET (18:00 UTC) baby-facts slot is owned by daily-quote-creation task. Video pipelines MUST NOT post baby-facts videos to this slot. Only 9am ET (13:00 UTC) and 7pm ET (23:00 UTC) are valid baby-facts video slots.",
+          "owned_by_quotes": ["18:00"]
+        }
       },
       "created": "2026-03-17",
       "updated": "2026-04-25"

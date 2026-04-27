@@ -457,6 +457,21 @@ Use the remotion-video skill to create a video. ORCHESTRATED MODE — all parame
 
 When `background_type` is `whimsical-css`: omit Cache Channel and Cache Tags entirely (no image generation occurs).
 
+**Variant rotation (whimsical-css only):**
+The `WhimsicalBackground` component takes a `variant` prop with 7 options: `blossom | meadow | dawn | dream | garden | cloud | sunset`. Each pairs a distinct pastel palette with one of 3 shape layouts.
+
+When scaffolding a baby-facts video:
+1. Read `project.whimsical_variants` from `projects.json` (full list of valid variants)
+2. Read the last 3 baby-facts entries in `content-engine/used-topics.md` to see which variants were used recently
+3. Pick a variant NOT in that recent set (deterministic by topic number is fine: `variants[topic_num % 7]` works as long as it doesn't collide)
+4. In the Remotion source, pass `variant="<chosen>"` to all `<WhimsicalBackground />` usages
+5. Record the variant in `used-topics.md` permutation column as `whimsical-css/<variant>` (e.g., `whimsical-css/meadow`)
+
+In the shared-project pattern (single Remotion project per calendar), set `whimsicalVariant: "<chosen>"` in `videos-config.ts` for each baby-facts video, and have `FactsVideo.tsx` render `<WhimsicalBackground variant={config.whimsicalVariant} />` instead of `<SharedBackground />` when `config.project === "baby-facts-unlocked"`.
+
+**Slot ownership (baby-facts-unlocked):**
+The 2pm ET slot (18:00 UTC) is **owned by the daily-quote-creation task**. Video pipelines MUST NOT schedule baby-facts videos at 18:00 UTC. Valid baby-facts video slots are only 13:00 UTC (9am ET) and 23:00 UTC (7pm ET). See `project.reserved_slots.owned_by_quotes` in `projects.json`.
+
 **When the brief template is empty (cold start):** use `project.defaults.background_type` if set. If no project default exists, default to `abstract_animated`.
 
 ### When No Briefs Exist

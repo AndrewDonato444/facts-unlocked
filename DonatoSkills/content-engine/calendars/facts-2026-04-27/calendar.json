@@ -2,7 +2,10 @@
   "campaign": "facts-2026-04-27",
   "project_id": "facts-unlocked",
   "created_at": "2026-04-27T08:00:00.000Z",
-  "publish_dates": ["2026-04-28", "2026-04-29"],
+  "publish_dates": [
+    "2026-04-28",
+    "2026-04-29"
+  ],
   "summary": {
     "total": 8,
     "scheduled": 8,
@@ -16,8 +19,14 @@
       "date": "2026-04-28",
       "time": "09:00",
       "timezone": "America/New_York",
-      "platforms": ["youtube", "instagram"],
-      "channel_ids": ["69b95c996cb7b8cf4c7ae4ab", "69b995666cb7b8cf4c7bad79"],
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
       "type": "video",
       "hook_type": "myth_bust",
       "hook_text": "YOUR 810 SCORE\nGETS THE SAME\nRATE AS 760",
@@ -30,7 +39,9 @@
       },
       "status": "scheduled",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/049-credit-score-ceiling.mp4",
-      "zernio_post_ids": ["69ef20686615e7cfe1f7e2d4"],
+      "zernio_post_ids": [
+        "69ef20686615e7cfe1f7e2d4"
+      ],
       "scheduled_at": "2026-04-27T08:38:14.000Z",
       "error": null
     },
@@ -41,8 +52,14 @@
       "date": "2026-04-28",
       "time": "14:00",
       "timezone": "America/New_York",
-      "platforms": ["youtube", "instagram"],
-      "channel_ids": ["69b95c996cb7b8cf4c7ae4ab", "69b995666cb7b8cf4c7bad79"],
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
       "type": "video",
       "hook_type": "most_people_dont_know",
       "hook_text": "YOUR EMERGENCY\nFUND IS LOSING\n$700/YR IN\nCHECKING",
@@ -55,7 +72,9 @@
       },
       "status": "scheduled",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/050-hysa-emergency-fund.mp4",
-      "zernio_post_ids": ["69ef2069d4f047127032029f"],
+      "zernio_post_ids": [
+        "69ef2069d4f047127032029f"
+      ],
       "scheduled_at": "2026-04-27T08:38:17.000Z",
       "error": null
     },
@@ -66,8 +85,14 @@
       "date": "2026-04-28",
       "time": "19:00",
       "timezone": "America/New_York",
-      "platforms": ["youtube", "instagram"],
-      "channel_ids": ["69b95c996cb7b8cf4c7ae4ab", "69b995666cb7b8cf4c7bad79"],
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b95c996cb7b8cf4c7ae4ab",
+        "69b995666cb7b8cf4c7bad79"
+      ],
       "type": "video",
       "hook_type": "controversy",
       "hook_text": "BEING POOR COSTS\n$5,000 MORE\nPER YEAR THAN\nBEING RICH",
@@ -80,7 +105,9 @@
       },
       "status": "scheduled",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/051-poverty-premium.mp4",
-      "zernio_post_ids": ["69ef206ad4f04712703202ff"],
+      "zernio_post_ids": [
+        "69ef206ad4f04712703202ff"
+      ],
       "scheduled_at": "2026-04-27T08:38:18.000Z",
       "error": null
     },
@@ -91,8 +118,14 @@
       "date": "2026-04-28",
       "time": "09:00",
       "timezone": "America/New_York",
-      "platforms": ["youtube", "instagram"],
-      "channel_ids": ["69bad5396cb7b8cf4c7f69ba", "69bad5bc6cb7b8cf4c7f6cd6"],
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
       "type": "video",
       "hook_type": "stat_lead",
       "hook_text": "AI FOUND 2.2M\nNEW MATERIALS\nHUMANS FOUND\n100K IN 50 YRS",
@@ -105,7 +138,9 @@
       },
       "status": "scheduled",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/039-gnome-material-discovery.mp4",
-      "zernio_post_ids": ["69ef20686615e7cfe1f7e335"],
+      "zernio_post_ids": [
+        "69ef20686615e7cfe1f7e335"
+      ],
       "scheduled_at": "2026-04-27T08:38:14.000Z",
       "error": null
     },
@@ -116,8 +151,14 @@
       "date": "2026-04-28",
       "time": "14:00",
       "timezone": "America/New_York",
-      "platforms": ["youtube", "instagram"],
-      "channel_ids": ["69bad5396cb7b8cf4c7f69ba", "69bad5bc6cb7b8cf4c7f6cd6"],
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
       "type": "video",
       "hook_type": "what_if",
       "hook_text": "AI READS LIPS\n3X BETTER THAN\nTRAINED HUMANS",
@@ -130,7 +171,9 @@
       },
       "status": "scheduled",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/040-ai-lip-reading.mp4",
-      "zernio_post_ids": ["69ef206ad4f04712703202c9"],
+      "zernio_post_ids": [
+        "69ef206ad4f04712703202c9"
+      ],
       "scheduled_at": "2026-04-27T08:38:18.000Z",
       "error": null
     },
@@ -141,8 +184,14 @@
       "date": "2026-04-28",
       "time": "19:00",
       "timezone": "America/New_York",
-      "platforms": ["youtube", "instagram"],
-      "channel_ids": ["69bad5396cb7b8cf4c7f69ba", "69bad5bc6cb7b8cf4c7f6cd6"],
+      "platforms": [
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69bad5396cb7b8cf4c7f69ba",
+        "69bad5bc6cb7b8cf4c7f6cd6"
+      ],
       "type": "video",
       "hook_type": "controversy",
       "hook_text": "78% OF FORTUNE 500\nUSE AI TO SCREEN\nYOUR RESUME",
@@ -155,7 +204,9 @@
       },
       "status": "scheduled",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/041-ai-hiring-invisible.mp4",
-      "zernio_post_ids": ["69ef206bd4f0471270320327"],
+      "zernio_post_ids": [
+        "69ef206bd4f0471270320327"
+      ],
       "scheduled_at": "2026-04-27T08:38:19.000Z",
       "error": null
     },
@@ -166,8 +217,16 @@
       "date": "2026-04-29",
       "time": "09:00",
       "timezone": "America/New_York",
-      "platforms": ["tiktok", "youtube", "instagram"],
-      "channel_ids": ["69b891386cb7b8cf4c78c31d", "69b8af216cb7b8cf4c791725", "69b994a46cb7b8cf4c7baa8e"],
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
       "type": "video",
       "hook_type": "surprise",
       "hook_text": "BABIES PREFER\nMUSIC WITH\nA BEAT",
@@ -179,9 +238,16 @@
       },
       "status": "scheduled",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/056-baby-beat-preference.mp4",
-      "zernio_post_ids": ["69ef206bd4f0471270320373"],
+      "zernio_post_ids": [
+        "69ef79f5b28f8635601c6be4"
+      ],
       "scheduled_at": "2026-04-27T08:38:19.000Z",
-      "error": null
+      "error": null,
+      "post_ids": [
+        "69ef79f5b28f8635601c6be4"
+      ],
+      "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/056-baby-beat-preference.mp4",
+      "scheduleUtc": "2026-04-29T13:00:00.000Z"
     },
     {
       "id": "057-baby-fist-hunger",
@@ -190,8 +256,16 @@
       "date": "2026-04-29",
       "time": "19:00",
       "timezone": "America/New_York",
-      "platforms": ["tiktok", "youtube", "instagram"],
-      "channel_ids": ["69b891386cb7b8cf4c78c31d", "69b8af216cb7b8cf4c791725", "69b994a46cb7b8cf4c7baa8e"],
+      "platforms": [
+        "tiktok",
+        "youtube",
+        "instagram"
+      ],
+      "channel_ids": [
+        "69b891386cb7b8cf4c78c31d",
+        "69b8af216cb7b8cf4c791725",
+        "69b994a46cb7b8cf4c7baa8e"
+      ],
       "type": "video",
       "hook_type": "surprise",
       "hook_text": "YOUR BABY'S FISTS\nSIGNAL HUNGER",
@@ -203,9 +277,16 @@
       },
       "status": "scheduled",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/057-baby-fist-hunger.mp4",
-      "zernio_post_ids": ["69ef206c6615e7cfe1f7e434"],
+      "zernio_post_ids": [
+        "69ef79f7e85cb87629bf965e"
+      ],
       "scheduled_at": "2026-04-27T08:38:20.000Z",
-      "error": null
+      "error": null,
+      "post_ids": [
+        "69ef79f7e85cb87629bf965e"
+      ],
+      "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/057-baby-fist-hunger.mp4",
+      "scheduleUtc": "2026-04-29T23:00:00.000Z"
     }
   ]
 }

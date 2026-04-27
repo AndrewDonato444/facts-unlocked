@@ -5,7 +5,10 @@
 import React from "react";
 import { AbsoluteFill, Audio, Sequence, staticFile, useCurrentFrame, interpolate, spring, useVideoConfig } from "remotion";
 import { SharedBackground } from "./components/SharedBackground";
+import { WhimsicalBackground } from "./components/WhimsicalBackground";
 import { VideoConfig, PALETTES } from "./videos-config";
+
+const BABY_TEXT_SHADOW = "0 2px 8px rgba(0,0,0,0.5), 0 0 20px rgba(0,0,0,0.3)";
 
 // Manifest is loaded at render time per-video
 interface Manifest {
@@ -39,10 +42,15 @@ export const FactsVideo: React.FC<FactsVideoProps> = ({ videoId, config, manifes
   const openFade = interpolate(frame, [0, 12], [0, 1], { extrapolateRight: "clamp" });
 
   const bgVariant = config.hookType === "controversy" ? "tense" : config.hookType === "did_you_know" ? "pulse" : "calm";
+  const isBabyFacts = config.project === "baby-facts-unlocked";
 
   return (
     <AbsoluteFill style={{ opacity: openFade, fontFamily: "'Inter', 'Helvetica Neue', Arial, sans-serif" }}>
-      <SharedBackground palette={palette} variant={bgVariant} />
+      {isBabyFacts ? (
+        <WhimsicalBackground theme="body" variant={config.whimsicalVariant ?? "blossom"} />
+      ) : (
+        <SharedBackground palette={palette} variant={bgVariant} />
+      )}
 
       {/* HOOK */}
       <Sequence from={0} durationInFrames={hookFrames}>
@@ -75,6 +83,8 @@ export const FactsVideo: React.FC<FactsVideoProps> = ({ videoId, config, manifes
 const HookScene: React.FC<{ config: VideoConfig; palette: typeof PALETTES["purple"] }> = ({ config, palette }) => {
   const frame = useCurrentFrame();
   const lines = config.hookText;
+  const isBabyFacts = config.project === "baby-facts-unlocked";
+  const babyShadow = isBabyFacts ? BABY_TEXT_SHADOW : undefined;
 
   return (
     <AbsoluteFill>
@@ -106,6 +116,7 @@ const HookScene: React.FC<{ config: VideoConfig; palette: typeof PALETTES["purpl
                 transform: `translateY(${ty}px) scale(${0.92 + sc * 0.08})`,
                 fontSize: 70, fontWeight: "900", color: "#fff",
                 lineHeight: 1.15, letterSpacing: "-0.02em",
+                textShadow: babyShadow,
               }}>
                 {line}
               </div>
@@ -128,6 +139,8 @@ const HookScene: React.FC<{ config: VideoConfig; palette: typeof PALETTES["purpl
 const BodyScene: React.FC<{ config: VideoConfig; palette: typeof PALETTES["purple"] }> = ({ config, palette }) => {
   const frame = useCurrentFrame();
   const facts = config.facts;
+  const isBabyFacts = config.project === "baby-facts-unlocked";
+  const babyShadow = isBabyFacts ? BABY_TEXT_SHADOW : undefined;
   // Spread facts across body duration estimate (~20 frames apart)
   const gapFrames = Math.max(18, Math.floor(300 / facts.length));
 
@@ -159,6 +172,7 @@ const BodyScene: React.FC<{ config: VideoConfig; palette: typeof PALETTES["purpl
               <div style={{
                 fontSize: 42, fontWeight: "700", color: "#fff",
                 lineHeight: 1.3, whiteSpace: "pre-line",
+                textShadow: babyShadow,
               }}>
                 {fact}
               </div>
@@ -175,6 +189,8 @@ const BodyScene: React.FC<{ config: VideoConfig; palette: typeof PALETTES["purpl
 const CTAScene: React.FC<{ config: VideoConfig; palette: typeof PALETTES["purple"] }> = ({ config, palette }) => {
   const frame = useCurrentFrame();
   const opc = interpolate(frame, [0, 10], [0, 1], { extrapolateRight: "clamp" });
+  const isBabyFacts = config.project === "baby-facts-unlocked";
+  const babyShadow = isBabyFacts ? BABY_TEXT_SHADOW : undefined;
 
   return (
     <AbsoluteFill>
@@ -203,7 +219,7 @@ const CTAScene: React.FC<{ config: VideoConfig; palette: typeof PALETTES["purple
           opacity: interpolate(frame, [16, 28], [0, 1], { extrapolateRight: "clamp" }),
           transform: `scale(${spring({ frame: Math.max(0, frame - 16), fps, config: { damping: 14, stiffness: 120 } })})`,
         }}>
-          <div style={{ color: "#fff", fontSize: 42, fontWeight: "800" }}>
+          <div style={{ color: "#fff", fontSize: 42, fontWeight: "800", textShadow: babyShadow }}>
             Follow @{
               config.project === "baby-facts-unlocked" ? "babyfactsunlocked" :
               config.project === "money-facts-unlocked" ? "moneyfactsunlocked" :

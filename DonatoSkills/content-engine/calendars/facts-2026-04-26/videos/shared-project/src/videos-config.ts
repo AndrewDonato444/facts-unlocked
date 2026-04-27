@@ -15,6 +15,7 @@ export interface VideoConfig {
     direction?: string;
   }[];
   facts: string[];           // fact bullet points for body screen
+  whimsicalVariant?: "blossom" | "meadow" | "dawn" | "dream" | "garden" | "cloud" | "sunset";
 }
 
 export const VIDEOS: VideoConfig[] = [
@@ -51,6 +52,7 @@ export const VIDEOS: VideoConfig[] = [
       "Trains the gut before birth",
       "Regulates amniotic fluid levels",
     ],
+    whimsicalVariant: "meadow",
   },
 
   // 004 — hsa-triple-tax (slot 1 / 9am ET money)
