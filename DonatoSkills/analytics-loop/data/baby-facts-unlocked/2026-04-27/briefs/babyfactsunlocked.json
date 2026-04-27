@@ -1,0 +1,31 @@
+{
+  "date": "2026-04-28",
+  "channel": "BabyFactsUnlocked",
+  "profile_id": "69b994a46cb7b8cf4c7baa8e",
+  "briefs": [
+    {
+      "slot": 1,
+      "type": "explore",
+      "template": {},
+      "topic_guidance": "Exploratory content for BabyFactsUnlocked. Topic area: general. Pillars: .",
+      "schedule_time": "09:00",
+      "note": "Cold start — no winning template yet. Maximize variable diversity."
+    },
+    {
+      "slot": 2,
+      "type": "explore",
+      "template": {},
+      "topic_guidance": "Exploratory content for BabyFactsUnlocked. Topic area: general. Pillars: .",
+      "schedule_time": "14:00",
+      "note": "Cold start — no winning template yet. Maximize variable diversity."
+    },
+    {
+      "slot": 3,
+      "type": "explore",
+      "template": {},
+      "topic_guidance": "Exploratory content for BabyFactsUnlocked. Topic area: general. Pillars: .",
+      "schedule_time": "19:00",
+      "note": "Cold start — no winning template yet. Maximize variable diversity."
+    }
+  ]
+}

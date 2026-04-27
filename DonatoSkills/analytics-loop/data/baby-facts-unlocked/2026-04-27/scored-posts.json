@@ -1,0 +1,625 @@
+{
+  "project": "baby-facts-unlocked",
+  "scoredAt": "2026-04-27T00:08:15.821Z",
+  "dateRange": {
+    "from": "2026-04-24",
+    "to": "2026-04-25"
+  },
+  "weights": {
+    "shares": 4,
+    "saves": 3,
+    "comments": 2,
+    "likes": 1
+  },
+  "minImpressions": 500,
+  "summary": {
+    "totalPosts": 10,
+    "includedPosts": 0,
+    "excludedPosts": 10,
+    "globalAvgEngagementDensity": 0,
+    "topScore": null
+  },
+  "channelAggregation": [],
+  "posts": [
+    {
+      "_id": "69ed14ed3934fb7ac7cc20ad",
+      "latePostId": "69eb4134f4e1e24868fdf184",
+      "content": "\"An ounce of mother is worth a pound of clergy.\" — Spanish proverb #babyfacts #motherhood #momlife #newbornlove #motherandbaby #babylove #parenting",
+      "publishedAt": "2026-04-25T16:34:58.000Z",
+      "scheduledFor": "2026-04-25T16:34:58.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 263,
+        "engagementRate": 1.14,
+        "lastUpdated": "2026-04-26 23:46:31"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "platformPostId": "7632736218257575182",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 3,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 263,
+            "engagementRate": 1.14,
+            "lastUpdated": "2026-04-26 23:46:31"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7632736218257575182?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+          "errorMessage": null
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7632736218257575182?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oY74UiEQQDgpyT7f67FSsvfxMT0dMwEEDBOBF5~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=260fae11&x-expires=1777330800&x-signature=ksK0Ka%2FoNZ1b3jVP6vWj6YqY6nk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oY74UiEQQDgpyT7f67FSsvfxMT0dMwEEDBOBF5~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=260fae11&x-expires=1777330800&x-signature=ksK0Ka%2FoNZ1b3jVP6vWj6YqY6nk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/oY74UiEQQDgpyT7f67FSsvfxMT0dMwEEDBOBF5~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=260fae11&x-expires=1777330800&x-signature=ksK0Ka%2FoNZ1b3jVP6vWj6YqY6nk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ed14ec3934fb7ac7cc20a3",
+      "latePostId": "69eb4134cc04c3646171b0d3",
+      "content": "\"An ounce of mother is worth a pound of clergy.\"\n\n\"An ounce of mother is worth a pound of clergy.\"\n— Spanish proverb\n\n#babyfacts #motherhood #momlife #newbornlove #motherandbaby #babylove #parenting",
+      "publishedAt": "2026-04-25T18:00:13.000Z",
+      "scheduledFor": "2026-04-25T18:00:13.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 200,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-26 21:27:59"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "7dEe7qUBERo",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 200,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-26 21:27:59"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=7dEe7qUBERo",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=7dEe7qUBERo",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/7dEe7qUBERo/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/7dEe7qUBERo/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/7dEe7qUBERo/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69eb6d757dea335c2b346740",
+      "latePostId": "69e9de83c03088bf3dec5d7f",
+      "content": "Neonatal jaundice: ~60% of full-term newborns develop it in the first week. Fetal red blood cells ma\n\nNeonatal jaundice: ~60% of full-term newborns develop it in the first week. Fetal red blood cells mass-breakdown at birth floods bilirubin faster than the immature liver can clear. Phototherapy (blue light) breaks bilirubin through the skin. Untreated severe cases = kernicterus (permanent brain damage). Treatment threshold varies with gestational age. #babyfacts #neonataljaundice #newborn #infantscience",
+      "publishedAt": "2026-04-24T13:01:29.000Z",
+      "scheduledFor": "2026-04-24T13:01:29.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 163,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-26 21:27:59"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "pfSp-N0Iu-E",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 163,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-26 21:27:59"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=pfSp-N0Iu-E",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=pfSp-N0Iu-E",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/pfSp-N0Iu-E/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/pfSp-N0Iu-E/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/pfSp-N0Iu-E/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ebff943a63baf20539e9cb",
+      "latePostId": "69e9de967eb34a30e6b670e8",
+      "content": "A newborn's adrenaline surge at birth is the most extreme hormonal event in the human lifespan — and it's entirely necessary 🚀👶\n\nThe Birth Catecholamine Surge:\n\nWhat it is:\n→ Catecholamines = adrenaline + noradrenaline\n→ Highest levels ever recorded in humans\n→ Exceeds: cardiac arrest, severe trauma, near-death emergencies in adults\n→ Begins during labor, peaks at vaginal delivery\n\nWhat the surge does:\n\n1. Lung preparation:\n→ Fetal lungs are fluid-filled throughout gestation\n→ Catecholamines activate proteins that pull fluid out of lung tissue\n→ First breaths require that fluid to clear within minutes\n→ Without this surge: fluid remains = transient tachypnea (wet lung)\n\n2. Vascular switch:\n→ Triggers closure of ductus arteriosus (bypass shunt to lungs)\n→ Triggers closure of ductus venosus (bypass shunt to liver)\n→ Both must close as lungs take over oxygenation\n→ Hormonally driven, not mechanical\n\n3. Heat activation:\n→ Activates brown adipose tissue (specialized thermogenic fat)\n→ Newborns can't shiver effectively — brown fat is their heat source\n→ Non-shivering thermogenesis switches on at birth\n\nC-section without labor:\n→ Natural labor = sustained hormonal preparation peaking at delivery\n→ Planned C-section before labor = surge dramatically blunted\n→ Result: 3x higher rate of transient tachypnea in elective C-section babies\n→ This is expected physiology, not a complication\n\nThe first-hour alertness window:\n→ The unusual alertness of newborns in hour 1 after birth\n→ Wide eyes, scanning, 'taking in the world'\n→ Hormonally driven by the same catecholamine surge\n→ C-section babies show less pronounced alertness window\n\n#babyfacts #birthscience #catecholamines #birthbiology #newborn #infantscience #parentingtips #momlife #csection",
+      "publishedAt": "2026-04-24T23:04:09.000Z",
+      "scheduledFor": "2026-04-24T23:04:09.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 136,
+        "reach": 128,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 136,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-26 23:46:31"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18078299285542203",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 136,
+            "reach": 128,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 136,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-26 23:46:31"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXiDrwnDn4P/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXiDrwnDn4P/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/675505522_971701298702375_7446935591060481195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=opjE8KKfnLUQ7kNvwEolZBU&_nc_oc=AdoRC1Y0VGlvBdXpZ2aQkgg3-BXGPSAWGxOF9bzf8Nq3oRBuTHvcboBDJ852CSWzdOQ&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=b5pGxNA2aJbSkqU5UgE5QQ&_nc_tpa=Q5bMBQHJiEmB01E97CqEBrI5KcKPXkgpKzYkZpsbxwO2HkeLRHay_ZnIyacq7wsQLU_MlMn2A04bxUDMTQ&oh=00_Af1JgrnfQmB690oZN-ajxl9rJYek5G4qFx_HnxOUUgPHqg&oe=69F48165",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQPKUtjX_03OxPBv_zVzSQxci2Uskm5-RleTfnTmMEZHFTWRg5w3DUtA0NL62dyV8kf_m5IJYHBzGwieTc5DzPggLOfnGvVA8X4SMfE.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=edV6cIRUAbAQ7kNvwFvYAO2&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzEzOTUwNTU0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTU4LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=4d419e7178e08b94&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC9BQTREMjdCNTlBODYyOEZFRjc1MzBCMkYwRDlFRTk5QV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyL0E5NDZBQTJGRkYwRTY1REJEQzA1MzYzOTRBMjJENEI0X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb03fut0fWZQBUCKAJDMywXQGPKp--dsi0YEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=b5pGxNA2aJbSkqU5UgE5QQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHcB7P9_s42aWsbdlwoiY6QizG8VuUGeYhqTVKGfEcsIptUemDNo6w4IGqIErx2FT4OI7vga9F_4g&oh=00_Af3prjj3VmvMsLLDwIysCdLEhkVULHcfo3W3EipPrJhgAQ&oe=69F0935C",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/675505522_971701298702375_7446935591060481195_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=opjE8KKfnLUQ7kNvwEolZBU&_nc_oc=AdoRC1Y0VGlvBdXpZ2aQkgg3-BXGPSAWGxOF9bzf8Nq3oRBuTHvcboBDJ852CSWzdOQ&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=b5pGxNA2aJbSkqU5UgE5QQ&_nc_tpa=Q5bMBQHJiEmB01E97CqEBrI5KcKPXkgpKzYkZpsbxwO2HkeLRHay_ZnIyacq7wsQLU_MlMn2A04bxUDMTQ&oh=00_Af1JgrnfQmB690oZN-ajxl9rJYek5G4qFx_HnxOUUgPHqg&oe=69F48165"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ebb5b63a63baf205380143",
+      "latePostId": "69e9de8d7eb34a30e6b66f67",
+      "content": "Stranger anxiety emerges at the same age in every baby worldwide — because it's a neurological milestone, not a learned behavior 🧠👶\n\nStranger Anxiety: The Neuroscience\n\nWhy exactly 8-9 months:\n→ The prefrontal cortex develops its first direct connection to the amygdala\n→ Before this: amygdala exists but can't generate sustained classified fear\n→ After: unfamiliar faces trigger evaluated threat response\n→ The timing is genetically programmed — not shaped by care environment\n\nThe circuit:\n→ Amygdala = threat detection center (present from birth)\n→ Prefrontal cortex = evaluation and regulation (develops over years)\n→ New connection = 'evaluate this face against known faces'\n→ Unknown face → potential threat → distress signal\n→ Familiar face → safe → no signal\n\nThe counterintuitive finding:\n→ More intense stranger anxiety at 9 months → higher cognitive scores at 12 months\n→ Intensity = proxy for how well the PFC-amygdala connection formed\n→ Better-formed circuit = broader neural maturation indicator\n→ Intense stranger anxiety ≠ anxious personality ≠ parenting problem\n\nCultural variation:\n→ Alloparenting cultures (multiple adult caregivers from early weeks)\n→ Babies exposed routinely to many adults from birth\n→ Show later onset and weaker stranger anxiety\n→ The circuit still forms — 'unfamiliar' category is narrower\n\nWhy it disappears:\n→ Prefrontal cortex builds inhibitory control over 1-2 years\n→ Fear recognition stays — distress response gets regulated\n→ Same architecture underlies adult social anxiety decades later\n\n#babyfacts #strangerdanger #infantneuroscience #braindevelopment #parentingtips #momlife #babydevelopment #infantbrain #birthscience",
+      "publishedAt": "2026-04-24T18:02:55.000Z",
+      "scheduledFor": "2026-04-24T18:02:55.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 109,
+        "reach": 101,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 109,
+        "engagementRate": 0.92,
+        "lastUpdated": "2026-04-26 23:46:31"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18017049197832360",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 109,
+            "reach": 101,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 109,
+            "engagementRate": 0.92,
+            "lastUpdated": "2026-04-26 23:46:31"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXhhPYlEl9f/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXhhPYlEl9f/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/673870028_2155030105256909_2827812061312735569_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DbCpiSsjdrcQ7kNvwEQ7AmN&_nc_oc=AdrfapOaMMccnAwQLawn3OZEA26ZQ6OYtrVzEDLzUQLLKVJZpgvdR3pPr3iQSy4R1QI&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=b5pGxNA2aJbSkqU5UgE5QQ&_nc_tpa=Q5bMBQGs0PJbPXfFdpc4GOCBFhJyHxJXqUr_tdJd97nTtN5MOFOEZ5n4zkvJ3MO2K3MSV0AEk45vRswzVg&oh=00_Af0FVGtg0_rBCSafgTpl4Ho7dtGVoVCqAEGmDBaP8H_yZA&oe=69F486FD",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-2.cdninstagram.com/o1/v/t2/f2/m86/AQMHgzFUcumQIoB7t27d8_fTvX_QdFKw_bsFwrsRPxlLhliEVyJL-MlTrMYDLQf1A2iC4hPrm6jgzb12G59ZrRrFRc2bxdZUPNqHoRw.mp4?_nc_cat=103&_nc_sid=5e9851&_nc_ht=scontent-lhr8-2.cdninstagram.com&_nc_ohc=Ovrb5VmN7PcQ7kNvwFvE2R1&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzEzNjI5NTU0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTUyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=26e743f5f379be6d&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC84RjRBNDhFQUQ0QjREQUVEMzBGNEFGRjQ1NTM1RDlBOF92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFDNDA5NDhCQTQ4RTFFQzQxMUM4NzMwRDhGNzk2ODhCX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb02YKZ4vOZQBUCKAJDMywXQGMVT987ZFoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=b5pGxNA2aJbSkqU5UgE5QQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQFWEtaTripzISXvdznazKhYOiBmPnZD6Y6bvhM4MQXGNHktAtGq29MCENGPTeORo32AHLb6-KkQgA&oh=00_Af3NuwzWi3IRKT1VbL3sK8-0BWJfo5sD8hniRj4C7pPesA&oe=69F09D80",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/673870028_2155030105256909_2827812061312735569_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DbCpiSsjdrcQ7kNvwEQ7AmN&_nc_oc=AdrfapOaMMccnAwQLawn3OZEA26ZQ6OYtrVzEDLzUQLLKVJZpgvdR3pPr3iQSy4R1QI&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=b5pGxNA2aJbSkqU5UgE5QQ&_nc_tpa=Q5bMBQGs0PJbPXfFdpc4GOCBFhJyHxJXqUr_tdJd97nTtN5MOFOEZ5n4zkvJ3MO2K3MSV0AEk45vRswzVg&oh=00_Af0FVGtg0_rBCSafgTpl4Ho7dtGVoVCqAEGmDBaP8H_yZA&oe=69F486FD"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69eb6d7a7dea335c2b34676c",
+      "latePostId": "69e9de847eb34a30e6b66e23",
+      "content": "About 60% of newborns turn yellow in the first week — and the biology is genuinely remarkable 🟡👶\n\nNeonatal Jaundice Explained:\n\nWhy it happens:\n→ Fetuses have specialized red blood cells for the low-oxygen womb environment\n→ At birth, these fetal RBCs are no longer needed — mass breakdown begins\n→ Breakdown produces bilirubin (yellow pigment)\n→ Flood of bilirubin hits a liver still transitioning from fetal mode\n→ Bilirubin accumulates faster than it can be cleared\n→ Deposits in skin (yellow) and eyes (yellow-white)\n\nWhy the liver lags:\n→ Fetal liver had different metabolic priorities in utero\n→ Full bilirubin-processing enzymes don't activate immediately at birth\n→ Usually catches up within 1-2 weeks for full-term babies\n→ Premature babies: can take 3+ weeks\n\nPhototherapy — the blue light:\n→ Blue-spectrum light breaks bilirubin into water-soluble forms directly through skin\n→ Bypasses the liver entirely\n→ Discovered accidentally in 1956 — UK nurse noticed windowed babies had lower jaundice\n→ Replaced decades of exchange transfusions (replacing baby's blood entirely)\n\nThe danger — kernicterus:\n→ At high enough bilirubin levels, it crosses the blood-brain barrier\n→ Deposits in basal ganglia, cerebellum, brainstem auditory nuclei\n→ Irreversible brain damage: hearing loss, cerebral palsy, intellectual disability\n→ Entirely preventable with timely phototherapy\n\nThreshold varies:\n→ A 38-week baby and a 34-week premature baby have different thresholds\n→ Blood type incompatibility and bruising lower the threshold further\n→ Pediatricians use nomograms, not single cutoff numbers\n\n#babyfacts #neonataljaundice #newborn #infantscience #birthscience #parentingtips #momlife #babyhealth #pediatrics #newborncare",
+      "publishedAt": "2026-04-24T13:02:44.000Z",
+      "scheduledFor": "2026-04-24T13:02:44.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 101,
+        "reach": 98,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 101,
+        "engagementRate": 0.99,
+        "lastUpdated": "2026-04-26 23:46:31"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "18060503075442332",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 101,
+            "reach": 98,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 101,
+            "engagementRate": 0.99,
+            "lastUpdated": "2026-04-26 23:46:31"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXg-271D6IF/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXg-271D6IF/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/658391146_1302035698541305_7735874799031084703_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-bjrQAyawW0Q7kNvwHyvnsd&_nc_oc=Adoi0wQaaL4ORHMKSiv4zrncl9yj27RIkJUUVnQEVL2p69LicPzzNrf3HoXm2kcRLqU&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=b5pGxNA2aJbSkqU5UgE5QQ&_nc_tpa=Q5bMBQGQldoIeE8EbNXebL9668zUDTB8M--vXI_5dFsnY02_BgXJTRGXNXAFaPQOBoiSaVjp2UiAVnHgYg&oh=00_Af294FAEvPa_SRRPcRJ2kzP_ISvlO-NZXHteozUmKz1HcA&oe=69F462C3",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr8-1.cdninstagram.com/o1/v/t2/f2/m86/AQPDOThEBpDyHnAduZTg-WvTWUICB505JbrDYvS1US1TCcqriwt2KwvBBpRQ2rBb73IohuXOjnNbo8AF9DaCH2Kl82kuEQ49NT_KzlM.mp4?_nc_cat=107&_nc_sid=5e9851&_nc_ht=scontent-lhr8-1.cdninstagram.com&_nc_ohc=EmQ6UWmIFvwQ7kNvwEb5SNr&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzEzMTMxNTI0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoyLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6MTQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&vs=657bbd936f1eda88&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC8wQzRFOTkyMjE3QkVBQTkwRjZENUE3RjEyRjZDOEY4Q192aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzFBNEJCMkZBMTlDNjEzNkNGMzA0OTY4Q0QxOUQ1OTk1X2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb09paR7_CZQBUCKAJDMywXQGIHdLxqfvoYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=b5pGxNA2aJbSkqU5UgE5QQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQH6eOpDW1b9FRwqAUnb0creGzH8ajqoVLihCY6rjDL-kK9uuBD_B9BPtojlMiKS9w_9TyBGiLktpg&oh=00_Af0ABhVCoZIwZhm4T81XKh1wDYZektVnFG9kJXmv2wQ5Zg&oe=69F06F40",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/658391146_1302035698541305_7735874799031084703_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-bjrQAyawW0Q7kNvwHyvnsd&_nc_oc=Adoi0wQaaL4ORHMKSiv4zrncl9yj27RIkJUUVnQEVL2p69LicPzzNrf3HoXm2kcRLqU&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=b5pGxNA2aJbSkqU5UgE5QQ&_nc_tpa=Q5bMBQGQldoIeE8EbNXebL9668zUDTB8M--vXI_5dFsnY02_BgXJTRGXNXAFaPQOBoiSaVjp2UiAVnHgYg&oh=00_Af294FAEvPa_SRRPcRJ2kzP_ISvlO-NZXHteozUmKz1HcA&oe=69F462C3"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ebb5b63a63baf205380144",
+      "latePostId": "69e9de8b7eb34a30e6b66f23",
+      "content": "Stranger anxiety at 8-9 months isn't a phase — it's a brain circuit coming online for the first time 🧠👶 More intense = faster development #babyfacts #newborn #infantscience #braindevelopment #strangerdanger",
+      "publishedAt": "2026-04-24T18:01:29.000Z",
+      "scheduledFor": "2026-04-24T18:01:29.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 3,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 91,
+        "engagementRate": 3.3,
+        "lastUpdated": "2026-04-26 23:46:31"
+      },
+      "platforms": [
+        {
+          "platform": "tiktok",
+          "status": "published",
+          "platformPostId": "7632387324076150030",
+          "accountId": "69b891386cb7b8cf4c78c31d",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 3,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 91,
+            "engagementRate": 3.3,
+            "lastUpdated": "2026-04-26 23:46:31"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7632387324076150030?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+          "errorMessage": null
+        }
+      ],
+      "platform": "tiktok",
+      "platformPostUrl": "https://www.tiktok.com/@babyfactsunlocked/video/7632387324076150030?utm_campaign=tt4d_open_api&utm_source=aw4smjxfftapkprm",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ow2HGfTIr7bDmC6sA5kA1fEQFgJDvB15CetE7I~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=6bb9bb38&x-expires=1777330800&x-signature=DOpE%2FPBTBvappvE5VozJ7nyXDKE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ow2HGfTIr7bDmC6sA5kA1fEQFgJDvB15CetE7I~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=6bb9bb38&x-expires=1777330800&x-signature=DOpE%2FPBTBvappvE5VozJ7nyXDKE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover",
+          "thumbnail": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-p-85c255-tx/ow2HGfTIr7bDmC6sA5kA1fEQFgJDvB15CetE7I~tplv-tiktokx-cropcenter-q:300:400:q72.jpeg?dr=8596&refresh_token=6bb9bb38&x-expires=1777330800&x-signature=DOpE%2FPBTBvappvE5VozJ7nyXDKE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=8aecc5ac&idc=useast5&biz_tag=tt_video&s=TIKTOK_FOR_DEVELOPER&sc=cover"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ebff933a63baf20539e9ca",
+      "latePostId": "69e9de957eb34a30e6b6708b",
+      "content": "Newborns flood their bodies with catecholamines at birth — exceeding levels in adults during heart a\n\nNewborns flood their bodies with catecholamines at birth — exceeding levels in adults during heart attacks. It clears amniotic fluid from lungs, closes fetal vascular shunts, activates brown fat thermogenesis, switches circulation. C-section without labor blunts this surge — 3x higher wet lung rate. The stress of birth is physiologically necessary. #babyfacts #birthscience #catecholamines #birthbiology",
+      "publishedAt": "2026-04-24T23:00:25.000Z",
+      "scheduledFor": "2026-04-24T23:00:25.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 77,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-26 21:27:59"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "R_w_KX_mj3Y",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 77,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-26 21:27:59"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=R_w_KX_mj3Y",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=R_w_KX_mj3Y",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/R_w_KX_mj3Y/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/R_w_KX_mj3Y/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/R_w_KX_mj3Y/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ebb5b53a63baf205380137",
+      "latePostId": "69e9de8c7eb34a30e6b66f48",
+      "content": "Stranger anxiety emerges universally at 8-9 months — not because of parenting style, but because the\n\nStranger anxiety emerges universally at 8-9 months — not because of parenting style, but because the prefrontal-amygdala connection matures precisely then. More intense stranger anxiety at 9 months predicts higher cognitive scores at 12 months. Alloparenting cultures show delayed, attenuated responses. #babyfacts #strangerdanger #infantneuroscience #braindevelopment",
+      "publishedAt": "2026-04-24T18:00:01.000Z",
+      "scheduledFor": "2026-04-24T18:00:01.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 0,
+        "reach": 0,
+        "likes": 0,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 64,
+        "engagementRate": 0,
+        "lastUpdated": "2026-04-26 21:27:59"
+      },
+      "platforms": [
+        {
+          "platform": "youtube",
+          "status": "published",
+          "platformPostId": "0qvQ4-uZ2eI",
+          "accountId": "69b8af216cb7b8cf4c791725",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 0,
+            "reach": 0,
+            "likes": 0,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 64,
+            "engagementRate": 0,
+            "lastUpdated": "2026-04-26 21:27:59"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.youtube.com/watch?v=0qvQ4-uZ2eI",
+          "errorMessage": null
+        }
+      ],
+      "platform": "youtube",
+      "platformPostUrl": "https://www.youtube.com/watch?v=0qvQ4-uZ2eI",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://i.ytimg.com/vi/0qvQ4-uZ2eI/default.jpg",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://i.ytimg.com/vi/0qvQ4-uZ2eI/default.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/0qvQ4-uZ2eI/default.jpg"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    },
+    {
+      "_id": "69ed14ec3934fb7ac7cc20a6",
+      "latePostId": "69eb4134cc04c3646171b0da",
+      "content": "\"An ounce of mother is worth a pound of clergy.\"\n— Spanish proverb\n\n#babyfacts #motherhood #momlife #newbornlove #motherandbaby #babylove #parenting",
+      "publishedAt": "2026-04-25T18:01:39.000Z",
+      "scheduledFor": "2026-04-25T18:01:39.000Z",
+      "status": "published",
+      "analytics": {
+        "impressions": 22,
+        "reach": 19,
+        "likes": 1,
+        "comments": 0,
+        "shares": 0,
+        "saves": 0,
+        "clicks": 0,
+        "views": 22,
+        "engagementRate": 4.55,
+        "lastUpdated": "2026-04-26 23:46:31"
+      },
+      "platforms": [
+        {
+          "platform": "instagram",
+          "status": "published",
+          "platformPostId": "17946997113158405",
+          "accountId": "69b994a46cb7b8cf4c7baa8e",
+          "accountUsername": "babyfactsunlocked",
+          "analytics": {
+            "impressions": 22,
+            "reach": 19,
+            "likes": 1,
+            "comments": 0,
+            "shares": 0,
+            "saves": 0,
+            "clicks": 0,
+            "views": 22,
+            "engagementRate": 4.55,
+            "lastUpdated": "2026-04-26 23:46:31"
+          },
+          "syncStatus": "synced",
+          "platformPostUrl": "https://www.instagram.com/reel/DXkF7t-gdaB/",
+          "errorMessage": null
+        }
+      ],
+      "platform": "instagram",
+      "platformPostUrl": "https://www.instagram.com/reel/DXkF7t-gdaB/",
+      "isExternal": true,
+      "profileId": "69b8912784a675ce87f20d3b",
+      "thumbnailUrl": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/674545115_1209324267780396_437351815102805480_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=c-Tz7L4XXhQQ7kNvwGJkiWX&_nc_oc=AdpKE1PLUieWDJFdx-3p49JxGtjTET7eVaAf7Ce7IJ52PZS-yKQ-ZyqqW27rvX1F6yc&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=b5pGxNA2aJbSkqU5UgE5QQ&_nc_tpa=Q5bMBQHEIZ68UM-QzjpRpnSQ2dxKO0hhLa9D_qnqj5rYa2lxns8HtEttlUMR6aNklFgfjTlRQVqHDrrRew&oh=00_Af3keWja5XSdLTYCiT7hX2Yw8dNbUWOGuomwqZhEBw-ZTQ&oe=69F45CA1",
+      "mediaType": "video",
+      "mediaItems": [
+        {
+          "type": "video",
+          "url": "https://scontent-lhr6-1.cdninstagram.com/o1/v/t2/f2/m86/AQPS3ncKlune0fFXmM5FaXU8vhB7Fz9kIuNuGJeBlWjpcVKgiVYQKCEE-D-yFmmQWehF1RtRibc8RDiQJR89RCG3_8fwxLuxTcsdHMU.mp4?_nc_cat=109&_nc_sid=5e9851&_nc_ht=scontent-lhr6-1.cdninstagram.com&_nc_ohc=7I3ETVyu8KcQ7kNvwGbkCBp&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5JTlNUQUdSQU0uQ0xJUFMuQzMuNzIwLmRhc2hfYmFzZWxpbmVfMV92MSIsInhwdl9hc3NldF9pZCI6MTgwNzE1NjM1NDE0MDA4MjYsImFzc2V0X2FnZV9kYXlzIjoxLCJ2aV91c2VjYXNlX2lkIjoxMDA5OSwiZHVyYXRpb25fcyI6NywidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&vs=299df45248ffe8bd&_nc_vs=HBksFQIYUmlnX3hwdl9yZWVsc19wZXJtYW5lbnRfc3JfcHJvZC85NDQzRTNFNEE0NDQ2Q0NEODZGRkJFNzA5NEM3RDM5MV92aWRlb19kYXNoaW5pdC5tcDQVAALIARIAFQIYUWlnX3hwdl9wbGFjZW1lbnRfcGVybWFuZW50X3YyLzgwNDAxRDQ0OEE1REZFMkQyRDg1NDI4Qzg1MDBEQ0JFX2F1ZGlvX2Rhc2hpbml0Lm1wNBUCAsgBEgAoABgAGwKIB3VzZV9vaWwBMRJwcm9ncmVzc2l2ZV9yZWNpcGUBMRUAACb0s97WuP-ZQBUCKAJDMywXQBwAAAAAAAAYEmRhc2hfYmFzZWxpbmVfMV92MREAdf4HZeadAQA&_nc_gid=b5pGxNA2aJbSkqU5UgE5QQ&edm=ANo9K5cEAAAA&_nc_zt=28&_nc_tpa=Q5bMBQHpqxOrQ0qcZrJlNclMkuC-Ge5VgySozYaHGfmXHlI-wrWoi7keM5KzQhFO8j8JWHA8UqLvx-oiag&oh=00_Af1tbkiuJ7NjGCp5vk5OQP8kld4sic74etzHvoyv1KnCFg&oe=69F0885E",
+          "thumbnail": "https://scontent-lhr6-1.cdninstagram.com/v/t51.71878-15/674545115_1209324267780396_437351815102805480_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=c-Tz7L4XXhQQ7kNvwGJkiWX&_nc_oc=AdpKE1PLUieWDJFdx-3p49JxGtjTET7eVaAf7Ce7IJ52PZS-yKQ-ZyqqW27rvX1F6yc&_nc_zt=23&_nc_ht=scontent-lhr6-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=b5pGxNA2aJbSkqU5UgE5QQ&_nc_tpa=Q5bMBQHEIZ68UM-QzjpRpnSQ2dxKO0hhLa9D_qnqj5rYa2lxns8HtEttlUMR6aNklFgfjTlRQVqHDrrRew&oh=00_Af3keWja5XSdLTYCiT7hX2Yw8dNbUWOGuomwqZhEBw-ZTQ&oe=69F45CA1"
+        }
+      ],
+      "score": null,
+      "excluded": true,
+      "reason": "below_impression_threshold"
+    }
+  ]
+}

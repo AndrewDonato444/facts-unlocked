@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-04-27T00:08:21.136Z",
+  "project": "money-facts-unlocked",
+  "date": "2026-04-28",
+  "scoring_cycles": 8,
+  "cold_start": false,
+  "suppressed_values": 0,
+  "winning_template": null,
+  "research_week": "2026-14",
+  "channels": [
+    {
+      "date": "2026-04-28",
+      "channel": "MoneyFactsUnlocked",
+      "profile_id": "69b991446cb7b8cf4c7b9f76",
+      "briefs": [
+        {
+          "slot": 1,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for MoneyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-14): Use a 3-part pattern interrupt hook firing within 3 seconds: (1) bold on-screen text (3-6 words) naming the payoff/result, not the setup; (2) AI visual that shows the result or creates instant curiosity; (3) verbal hook starting within 1 second. Avoid logos, greetings, or context dumps entirely.",
+          "schedule_time": "09:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 2,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for MoneyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-14): Use a 3-part pattern interrupt hook firing within 3 seconds: (1) bold on-screen text (3-6 words) naming the payoff/result, not the setup; (2) AI visual that shows the result or creates instant curiosity; (3) verbal hook starting within 1 second. Avoid logos, greetings, or context dumps entirely.",
+          "schedule_time": "14:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 3,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for MoneyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-14): Use a 3-part pattern interrupt hook firing within 3 seconds: (1) bold on-screen text (3-6 words) naming the payoff/result, not the setup; (2) AI visual that shows the result or creates instant curiosity; (3) verbal hook starting within 1 second. Avoid logos, greetings, or context dumps entirely.",
+          "schedule_time": "19:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        }
+      ]
+    },
+    {
+      "date": "2026-04-28",
+      "channel": "MoneyFactsUnlocked",
+      "profile_id": "69b95c996cb7b8cf4c7ae4ab",
+      "briefs": [
+        {
+          "slot": 1,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for MoneyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-14): Use a 3-part pattern interrupt hook firing within 3 seconds: (1) bold on-screen text (3-6 words) naming the payoff/result, not the setup; (2) AI visual that shows the result or creates instant curiosity; (3) verbal hook starting within 1 second. Avoid logos, greetings, or context dumps entirely.",
+          "schedule_time": "09:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 2,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for MoneyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-14): Use a 3-part pattern interrupt hook firing within 3 seconds: (1) bold on-screen text (3-6 words) naming the payoff/result, not the setup; (2) AI visual that shows the result or creates instant curiosity; (3) verbal hook starting within 1 second. Avoid logos, greetings, or context dumps entirely.",
+          "schedule_time": "14:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 3,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for MoneyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-14): Use a 3-part pattern interrupt hook firing within 3 seconds: (1) bold on-screen text (3-6 words) naming the payoff/result, not the setup; (2) AI visual that shows the result or creates instant curiosity; (3) verbal hook starting within 1 second. Avoid logos, greetings, or context dumps entirely.",
+          "schedule_time": "19:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        }
+      ]
+    },
+    {
+      "date": "2026-04-28",
+      "channel": "MoneyFactsUnlocked",
+      "profile_id": "69b995666cb7b8cf4c7bad79",
+      "briefs": [
+        {
+          "slot": 1,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for MoneyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-14): Use a 3-part pattern interrupt hook firing within 3 seconds: (1) bold on-screen text (3-6 words) naming the payoff/result, not the setup; (2) AI visual that shows the result or creates instant curiosity; (3) verbal hook starting within 1 second. Avoid logos, greetings, or context dumps entirely.",
+          "schedule_time": "09:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 2,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for MoneyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-14): Use a 3-part pattern interrupt hook firing within 3 seconds: (1) bold on-screen text (3-6 words) naming the payoff/result, not the setup; (2) AI visual that shows the result or creates instant curiosity; (3) verbal hook starting within 1 second. Avoid logos, greetings, or context dumps entirely.",
+          "schedule_time": "14:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        },
+        {
+          "slot": 3,
+          "type": "explore",
+          "template": {},
+          "topic_guidance": "Exploratory content for MoneyFactsUnlocked. Topic area: general. Pillars: . External signal (week 2026-14): Use a 3-part pattern interrupt hook firing within 3 seconds: (1) bold on-screen text (3-6 words) naming the payoff/result, not the setup; (2) AI visual that shows the result or creates instant curiosity; (3) verbal hook starting within 1 second. Avoid logos, greetings, or context dumps entirely.",
+          "schedule_time": "19:00",
+          "note": "Cold start — no winning template yet. Maximize variable diversity."
+        }
+      ]
+    }
+  ]
+}
