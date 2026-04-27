@@ -1,12 +1,18 @@
 // All 7 remaining videos for facts-2026-04-26 campaign
 
+import type { WhimsicalVariant } from "./components/WhimsicalBackground";
+
 export interface VideoConfig {
   id: string;
   compositionId: string;
   project: "baby-facts-unlocked" | "money-facts-unlocked" | "ai-facts-unlocked";
   hookText: string[];        // lines for hook screen
   hookType: string;
-  bgPalette: "purple" | "green" | "red" | "blue" | "teal";
+  /**
+   * Tech-mode palette (corporate orb background). Used by money-facts and ai-facts.
+   * Optional and IGNORED for baby-facts videos — those use `whimsicalVariant`.
+   */
+  bgPalette?: "purple" | "green" | "red" | "blue" | "teal";
   textOverlay: "karaoke" | "key_words" | "full_captions";
   voice: string;             // Gemini voice name
   scenes: {
@@ -15,7 +21,11 @@ export interface VideoConfig {
     direction?: string;
   }[];
   facts: string[];           // fact bullet points for body screen
-  whimsicalVariant?: "blossom" | "meadow" | "dawn" | "dream" | "garden" | "cloud" | "sunset";
+  /**
+   * Whimsical-css variant — REQUIRED for baby-facts videos, ignored for others.
+   * Imported from WhimsicalBackground.tsx (single source of truth for the union).
+   */
+  whimsicalVariant?: WhimsicalVariant;
 }
 
 export const VIDEOS: VideoConfig[] = [

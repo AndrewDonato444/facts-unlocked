@@ -460,12 +460,21 @@ When `background_type` is `whimsical-css`: omit Cache Channel and Cache Tags ent
 **Variant rotation (whimsical-css only):**
 The `WhimsicalBackground` component takes a `variant` prop with 7 options: `blossom | meadow | dawn | dream | garden | cloud | sunset`. Each pairs a distinct pastel palette with one of 3 shape layouts.
 
-When scaffolding a baby-facts video:
-1. Read `project.whimsical_variants` from `projects.json` (full list of valid variants)
-2. Read the last 3 baby-facts entries in `content-engine/used-topics.md` to see which variants were used recently
-3. Pick a variant NOT in that recent set (deterministic by topic number is fine: `variants[topic_num % 7]` works as long as it doesn't collide)
-4. In the Remotion source, pass `variant="<chosen>"` to all `<WhimsicalBackground />` usages
-5. Record the variant in `used-topics.md` permutation column as `whimsical-css/<variant>` (e.g., `whimsical-css/meadow`)
+When scaffolding a baby-facts video, **use this deterministic rule** (preferred over recency-checking — no I/O, no race conditions):
+
+```
+variant = whimsical_variants[topic_num % len(whimsical_variants)]
+```
+
+Where `whimsical_variants` is the array from `projects.json` and `topic_num` is the new topic's integer ID. With 7 variants, this guarantees no consecutive-7 repeat. Examples:
+- topic 053 → 053 % 7 = 4 → `garden`
+- topic 054 → 054 % 7 = 5 → `cloud`
+- topic 060 → 060 % 7 = 4 → `garden` (rotates back, but 6 distinct in between)
+
+Then:
+1. In the Remotion source, pass `variant="<chosen>"` to all `<WhimsicalBackground />` usages
+2. Record the variant in `used-topics.md` permutation column as `whimsical-css/<variant>` (e.g., `whimsical-css/garden`)
+3. **Sanity check**: read the last 2 baby-facts entries in `used-topics.md` and confirm the chosen variant differs from both. If a backfill or out-of-order topic creates a collision, manually pick the next unused variant and document the override.
 
 In the shared-project pattern (single Remotion project per calendar), set `whimsicalVariant: "<chosen>"` in `videos-config.ts` for each baby-facts video, and have `FactsVideo.tsx` render `<WhimsicalBackground variant={config.whimsicalVariant} />` instead of `<SharedBackground />` when `config.project === "baby-facts-unlocked"`.
 
