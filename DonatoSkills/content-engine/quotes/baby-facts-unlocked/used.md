@@ -16,3 +16,4 @@ Q032 | 2026-04-25 | tiktok,youtube,instagram | quotes-2026-04-25-baby-facts-unlo
 Q077 | 2026-04-25 | tiktok,youtube,instagram | quotes-2026-04-25-baby-facts-unlocked
 Q060 | 2026-04-27 | tiktok,youtube,instagram | quotes-2026-04-27-baby-facts-unlocked
 Q080 | 2026-04-28 | tiktok,youtube,instagram | quotes-2026-04-28-baby-facts-unlocked
+Q062 | 2026-04-29 | tiktok,youtube,instagram | quotes-2026-04-29-baby-facts-unlocked
