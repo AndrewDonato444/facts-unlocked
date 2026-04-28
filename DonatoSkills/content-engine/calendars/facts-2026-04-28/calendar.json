@@ -1,0 +1,55 @@
+{
+  "campaign": "facts-2026-04-28",
+  "created": "2026-04-28T08:36:49.880Z",
+  "items": [
+    {
+      "slug": "052-tax-loss-harvesting",
+      "status": "live",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-28/052-tax-loss-harvesting.mp4",
+      "zernio_post_id": "{\"post\":{\"userId\":\"69b8912784a675ce87f20d37\",\"title\":\"\",\"content\":\"The IRS lets ",
+      "schedule": "2026-04-29T13:00:00Z"
+    },
+    {
+      "slug": "053-income-timing-tax",
+      "status": "live",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-28/053-income-timing-tax.mp4",
+      "zernio_post_id": "{\"post\":{\"userId\":\"69b8912784a675ce87f20d37\",\"title\":\"\",\"content\":\"FICA payroll ",
+      "schedule": "2026-04-29T18:00:00Z"
+    },
+    {
+      "slug": "054-car-depreciation-clock",
+      "status": "live",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-28/054-car-depreciation-clock.mp4",
+      "zernio_post_id": "{\"post\":{\"userId\":\"69b8912784a675ce87f20d37\",\"title\":\"\",\"content\":\"New cars lose",
+      "schedule": "2026-04-29T23:00:00Z"
+    },
+    {
+      "slug": "042-ai-drug-discovery-speed",
+      "status": "live",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-28/042-ai-drug-discovery-speed.mp4",
+      "zernio_post_id": "{\"post\":{\"userId\":\"69b8912784a675ce87f20d37\",\"title\":\"\",\"content\":\"Insilico Medi",
+      "schedule": "2026-04-29T13:00:00Z"
+    },
+    {
+      "slug": "043-ai-personal-data-inference",
+      "status": "live",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-28/043-ai-personal-data-inference.mp4",
+      "zernio_post_id": "{\"post\":{\"userId\":\"69b8912784a675ce87f20d37\",\"title\":\"\",\"content\":\"Cambridge 201",
+      "schedule": "2026-04-29T18:00:00Z"
+    },
+    {
+      "slug": "044-ai-generates-fake-video-calls",
+      "status": "live",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-28/044-ai-generates-fake-video-calls.mp4",
+      "zernio_post_id": "{\"post\":{\"userId\":\"69b8912784a675ce87f20d37\",\"title\":\"\",\"content\":\"Arup engineer",
+      "schedule": "2026-04-29T23:00:00Z"
+    },
+    {
+      "slug": "058-baby-color-vision",
+      "status": "live",
+      "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-28/058-baby-color-vision.mp4",
+      "zernio_post_id": "{\"post\":{\"userId\":\"69b8912784a675ce87f20d37\",\"title\":\"\",\"content\":\"Your newborn ",
+      "schedule": "2026-04-30T23:00:00Z"
+    }
+  ]
+}

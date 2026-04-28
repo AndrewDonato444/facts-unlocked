@@ -66,6 +66,7 @@ Global topic registry. The content engine MUST check this before generating new 
 | 049 | neonatal-jaundice | ~60% of newborns develop jaundice — not a disease but liver immaturity; bilirubin from fetal red cell recycling overwhelms the system | did_you_know / 30s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
 | 050 | stranger-anxiety | Stranger anxiety emerges universally at 8-9 months — hippocampus maturation triggers memory comparison between familiar and unfamiliar faces | stat_lead / 30s / fast / karaoke_highlight / ai-gen | TikTok, YouTube, Instagram |
 | 051 | birth-hormone-surge | Newborn catecholamine (adrenaline) surge at birth is the highest ever recorded in humans — exceeds cardiac arrest; triggers lung clearance, vascular switch, brown fat activation | controversy / 35s / moderate / full_captions / ai-gen | TikTok, YouTube, Instagram |
+| 058 | baby-color-vision | Newborns see only black, white, and gray at birth; cones present but neural connections unwired; red/green emerge at 3-4 months; blue at 4-5 months; near-adult color vision by 5-6 months | did_you_know / 62s / moderate / full_captions / whimsical-css/dawn | TikTok, YouTube, Instagram |
 
 ## Money Facts Unlocked
 
@@ -122,6 +123,9 @@ Global topic registry. The content engine MUST check this before generating new 
 | 049 | credit-score-ceiling | Best loan rates unlock at 760 FICO; above 760 to 850 all get identical loan terms — the "perfect score" has zero rate benefit | myth_bust / 31s / moderate / full_captions / css-green | YouTube, Instagram |
 | 050 | hysa-emergency-fund | Emergency fund in checking earns 0.01% APY ($1.50/yr on $15K) vs HYSA at 4-5% ($700/yr) — same FDIC insurance, same access, 15-min fix | most_people_dont_know / 31s / moderate / key_words / css-teal | YouTube, Instagram |
 | 051 | poverty-premium | Being poor costs est. $500-5,000/yr more: bulk penalty (30-50%), check cashing (4-6%), higher insurance (30%), payday loans (400% APR) | controversy / 31s / fast / karaoke / css-red | YouTube, Instagram |
+| 052 | tax-loss-harvesting | Tax-loss harvesting: sell investments at a loss to offset capital gains; wash-sale rule (30 days); buy similar ETF to maintain exposure; 20% bracket saves thousands/yr | most_people_dont_know / 64s / moderate / karaoke_highlight / css-animated-green | YouTube, Instagram |
+| 053 | income-timing-tax | FICA wage base cap: Social Security tax (6.2%) stops at $168,600 in 2024; high earners stop paying SS tax mid-year; Medicare (1.45%) has no cap | did_you_know / 70s / moderate / karaoke_highlight / css-animated-green | YouTube, Instagram |
+| 054 | car-depreciation-clock | New cars lose 20% year 1, 50-60% by year 5; best buy is certified pre-owned 12-24 months old; someone else absorbed the steepest drop | stat_lead / 65s / moderate / karaoke_highlight / css-animated-green | YouTube, Instagram |
 
 ## AI Facts Unlocked
 
@@ -168,3 +172,6 @@ Global topic registry. The content engine MUST check this before generating new 
 | 039 | gnome-material-discovery | Google DeepMind GNoME found 2.2M stable new materials in months vs 100K in all human history (50 yrs); 800x acceleration; 736 being lab-synthesized | stat_lead / 31s / fast / karaoke / css-teal | YouTube, Instagram |
 | 040 | ai-lip-reading | LipNet reads lips from silent video at 46.8% word accuracy vs professional human 17%; LipBERT hit 59% on unscripted speech; law enforcement deploying on CCTV | what_if / 31s / moderate / full_captions / css-blue | YouTube, Instagram |
 | 041 | ai-hiring-invisible | 78% of Fortune 500 use AI to screen resumes (HBR 2024); Amazon's tool penalized women's resumes for 2 years unnoticed — inherited 10yr male-dominant hiring bias | controversy / 31s / fast / karaoke / css-red | YouTube, Instagram |
+| 042 | ai-drug-discovery-speed | Insilico Medicine identified a novel drug candidate for idiopathic pulmonary fibrosis in 46 days vs traditional 4-6 years; Phase 2 trials 2023 | stat_lead / 65s / moderate / karaoke_highlight / css-animated-blue | YouTube, Instagram |
+| 043 | ai-personal-data-inference | Cambridge 2013: 68 Facebook likes predicts personality better than coworkers; 150 > parents; 300 > spouse; 95% ethnicity accuracy; foundation for Cambridge Analytica | controversy / 85s / moderate / karaoke_highlight / css-animated-blue | YouTube, Instagram |
+| 044 | ai-generates-fake-video-calls | Arup 2024 deepfake heist: $25.6M wired after finance employee joined video call with AI-generated CFO and colleagues; real-time face-swap under 17ms latency | controversy / 73s / moderate / karaoke_highlight / css-animated-blue | YouTube, Instagram |
