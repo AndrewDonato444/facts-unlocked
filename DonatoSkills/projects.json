@@ -182,10 +182,10 @@
           "youtube_longform": "3x/week",
           "instagram": "3x/day"
         },
-        "background_type": "whimsical-css",
-        "_background_type_note": "CSS-animated WhimsicalBackground component (pastel gradients, floating bubbles, pulsing stars). Maps to visual_mode: text-only. No AI image generation. Decided 2026-04-25 as the brand style for all baby-facts short-form videos.",
-        "whimsical_variants": ["blossom", "meadow", "dawn", "dream", "garden", "cloud", "sunset"],
-        "_whimsical_variants_note": "Pipeline MUST rotate through these variants — never use the same variant twice in a row, and never produce 2+ consecutive baby-facts videos with the same variant. Reference component: DonatoSkills/content-engine/references/whimsical-template/WhimsicalBackground.tsx. Added 2026-04-27 after a regression where 5 consecutive videos all rendered with the same blossom variant.",
+        "background_type": "ai-gen",
+        "_background_type_note": "AI-generated soft whimsical illustration per scene + Ken Burns motion. Reference: facts-unlocked-2026-04-18/videos/003-twins-divergent-brains/ — that's the canonical brand pattern matching the 50+ TikTok back catalog. Style prefix lives at longform.visuals.image_style_prefix and is reused verbatim for shorts. (2026-04-25 introduced 'whimsical-css' as the default — that was a misread of an outlier video; reverted 2026-04-28.)",
+        "image_style_prefix_for_shorts": "soft whimsical illustration, warm pastel colors, baby-friendly aesthetic, watercolor + soft cel-shading, dreamy ethereal quality, gentle bubbles and sparkles in background, cinematic 9:16 portrait orientation, no text, seamless composition with space for centered text overlay, no borders, gentle natural lighting",
+        "_whimsical_css_legacy_note": "The 'whimsical-css' value with 7 variants (blossom/meadow/dawn/dream/garden/cloud/sunset) remains in the analytics schema for backward compatibility but is NOT the default. Do not use unless explicitly requested.",
         "reserved_slots": {
           "_note": "2pm ET (18:00 UTC) baby-facts slot is owned by daily-quote-creation task. Video pipelines MUST NOT post baby-facts videos to this slot. Only 9am ET (13:00 UTC) and 7pm ET (23:00 UTC) are valid baby-facts video slots.",
           "owned_by_quotes": ["18:00"]

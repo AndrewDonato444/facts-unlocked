@@ -495,7 +495,8 @@
         "69b994a46cb7b8cf4c7baa8e"
       ],
       "type": "video",
-      "style": "whimsical-css",
+      "style": "ai-gen",
+      "background_type": "ai-gen",
       "hook_type": "did_you_know",
       "hook_text": "YOUR BABY / HAS 4 CRIES",
       "fact": "Babies develop 3-4 distinct cry types (hunger, pain, tiredness, overstimulation) within the first week. Parents identify them correctly ~80% of the time by day 10.",
@@ -506,15 +507,15 @@
       "status": "scheduled",
       "asset_path": "videos/053-baby-cry-types/out/053-baby-cry-types.mp4",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/053-baby-cry-types.mp4",
-      "zernio_post_id": "69edfc554799b288abf6a3db",
+      "zernio_post_id": "69f09d81cf57e81a4d449dc0",
       "created_at": "2026-04-26T11:52:00.000Z",
       "scheduled_at": "2026-04-28T13:00:00.000Z",
       "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/053-baby-cry-types.mp4",
       "post_ids": [
-        "69ef79ef671e15b4127aeaaf"
+        "69f09d81cf57e81a4d449dc0"
       ],
       "zernio_post_ids": [
-        "69ef79ef671e15b4127aeaaf"
+        "69f09d81cf57e81a4d449dc0"
       ],
       "scheduleUtc": "2026-04-28T13:00:00.000Z"
     },
@@ -537,7 +538,8 @@
         "69b994a46cb7b8cf4c7baa8e"
       ],
       "type": "video",
-      "style": "whimsical-css",
+      "style": "ai-gen",
+      "background_type": "ai-gen",
       "hook_type": "did_you_know",
       "hook_text": "YOUR BABY / TASTES YOUR FOOD",
       "fact": "Fetuses taste amniotic fluid flavored by mom's diet from week 15; babies prefer those same flavors at 6 months.",
@@ -548,15 +550,15 @@
       "status": "scheduled",
       "asset_path": "videos/054-baby-taste-womb/out/054-baby-taste-womb.mp4",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/054-baby-taste-womb.mp4",
-      "zernio_post_id": "69edfc62b2319af9a21b50a1",
+      "zernio_post_id": "69f09e95cf57e81a4d44b0f5",
       "created_at": "2026-04-26T11:52:00.000Z",
-      "scheduled_at": "2026-04-28T18:00:00.000Z",
+      "scheduled_at": "2026-04-30T13:00:00.000Z",
       "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/054-baby-taste-womb.mp4",
       "post_ids": [
-        "69ef79fbe85cb87629bf976a"
+        "69f09e95cf57e81a4d44b0f5"
       ],
       "zernio_post_ids": [
-        "69ef79fbe85cb87629bf976a"
+        "69f09e95cf57e81a4d44b0f5"
       ],
       "scheduleUtc": "2026-04-30T13:00:00.000Z"
     },
@@ -579,7 +581,8 @@
         "69b994a46cb7b8cf4c7baa8e"
       ],
       "type": "video",
-      "style": "whimsical-css",
+      "style": "ai-gen",
+      "background_type": "ai-gen",
       "hook_type": "did_you_know",
       "hook_text": "BABIES SEE / SOUNDS",
       "fact": "~1 in 3 babies is born with synesthesia (senses cross-wire); most lose it by age 3 as neural pruning separates senses.",
@@ -590,15 +593,15 @@
       "status": "scheduled",
       "asset_path": "videos/055-baby-synesthesia/out/055-baby-synesthesia.mp4",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/055-baby-synesthesia.mp4",
-      "zernio_post_id": "69edfc63b2319af9a21b50ea",
+      "zernio_post_id": "69f09e8fcf57e81a4d44b078",
       "created_at": "2026-04-26T11:52:00.000Z",
       "scheduled_at": "2026-04-28T23:00:00.000Z",
       "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-26/055-baby-synesthesia.mp4",
       "post_ids": [
-        "69ef79f2693509c8b89aafff"
+        "69f09e8fcf57e81a4d44b078"
       ],
       "zernio_post_ids": [
-        "69ef79f2693509c8b89aafff"
+        "69f09e8fcf57e81a4d44b078"
       ],
       "scheduleUtc": "2026-04-28T23:00:00.000Z"
     }

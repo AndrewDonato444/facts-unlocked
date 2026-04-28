@@ -232,19 +232,19 @@
       "hook_text": "BABIES PREFER\nMUSIC WITH\nA BEAT",
       "caption": "Babies prefer music with a strong beat — and they start developing this preference in the womb. #babyfacts #pregnancy #infantdevelopment #newborn #parentingtips",
       "variables": {
-        "background_type": "whimsical-css",
+        "background_type": "ai-gen",
         "voice": "Kore",
         "tts_provider": "gemini"
       },
       "status": "scheduled",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/056-baby-beat-preference.mp4",
       "zernio_post_ids": [
-        "69ef79f5b28f8635601c6be4"
+        "69f09ebbfbbbad0f587d40d5"
       ],
       "scheduled_at": "2026-04-27T08:38:19.000Z",
       "error": null,
       "post_ids": [
-        "69ef79f5b28f8635601c6be4"
+        "69f09ebbfbbbad0f587d40d5"
       ],
       "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/056-baby-beat-preference.mp4",
       "scheduleUtc": "2026-04-29T13:00:00.000Z"
@@ -271,19 +271,19 @@
       "hook_text": "YOUR BABY'S FISTS\nSIGNAL HUNGER",
       "caption": "Your baby's clenched fists signal hunger — not anger. By the time they cry, they're already at late-stage hunger. #babyfacts #newborn #hungerycues #parentingtips #infantdevelopment",
       "variables": {
-        "background_type": "whimsical-css",
+        "background_type": "ai-gen",
         "voice": "Kore",
         "tts_provider": "gemini"
       },
       "status": "scheduled",
       "r2_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/057-baby-fist-hunger.mp4",
       "zernio_post_ids": [
-        "69ef79f7e85cb87629bf965e"
+        "69f09ebffbbbad0f587d4107"
       ],
       "scheduled_at": "2026-04-27T08:38:20.000Z",
       "error": null,
       "post_ids": [
-        "69ef79f7e85cb87629bf965e"
+        "69f09ebffbbbad0f587d4107"
       ],
       "asset_url": "https://pub-9091f45972da4cac95452db5b3836336.r2.dev/content-engine/facts-2026-04-27/057-baby-fist-hunger.mp4",
       "scheduleUtc": "2026-04-29T23:00:00.000Z"

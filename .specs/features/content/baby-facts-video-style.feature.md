@@ -6,60 +6,49 @@ tests: []
 components: []
 status: specced
 created: 2026-04-25
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # Baby Facts Video Style
 
 **Source File**: DonatoSkills/content-engine/SKILL.md  
-**Design System**: .specs/design-system/tokens.md  
-**Project Config**: DonatoSkills/projects.json → baby-facts-unlocked.defaults  
-**Reference Component**: DonatoSkills/content-engine/references/whimsical-template/WhimsicalBackground.tsx
+**Project Config**: DonatoSkills/projects.json → baby-facts-unlocked  
+**Reference Implementation**: `DonatoSkills/content-engine/calendars/facts-unlocked-2026-04-18/videos/003-twins-divergent-brains/` (canonical pattern, matches the 50+ TikTok back catalog)
 
-## Feature: Baby Facts Whimsical Animated Style
+## Feature: Baby Facts AI-Illustrated Whimsical Style
 
-All baby-facts-unlocked short-form videos use the `whimsical-css` background type — CSS-animated pastel gradients, floating bubbles, and pulsing stars via the `WhimsicalBackground` Remotion component. No AI image generation is used.
+All baby-facts-unlocked short-form videos use **AI-generated soft whimsical illustrations** as scene backgrounds, animated with subtle Ken Burns motion (slow zoom/pan). One illustration per scene (hook/body/cta), with text and audio overlaid. This matches the brand's established TikTok aesthetic across 50+ existing videos.
 
-**Style decision** (2026-04-25): whimsical-css is the brand baseline.
-**Variant variation decision** (2026-04-27): each video must use one of 7 named variants (`blossom | meadow | dawn | dream | garden | cloud | sunset`) so consecutive videos look visually distinct. The component takes a `variant` prop pairing a 3-scene gradient palette with one of 3 shape layouts (A/B/C). Without variant rotation, every video looks identical — that's a regression and is forbidden.
+**Style decision** (2026-04-28, correcting an earlier misread):
+- **Primary background**: AI-generated PNG per scene via Gemini 2.5 Flash Image (or fallback to OpenAI gpt-image-1)
+- **Image style prefix** (always prepended to per-scene prompts): `"soft whimsical illustration, warm pastel colors, baby-friendly aesthetic, watercolor + soft cel-shading, dreamy ethereal quality, gentle bubbles and sparkles in background, cinematic 9:16 portrait orientation, no text, seamless composition with space for centered text overlay, no borders, gentle natural lighting"`
+- **Motion**: `<KenBurnsBackground asset="generated/scene-X.png" direction="zoom-in|pan-left|...">` — vary direction per scene for visual interest
+- **Overlays**: HookOverlay or PhraseSyncedCaption / FullCaptionsOverlay over the image
 
-### Scenario: Content engine uses whimsical-css for baby facts cold-start briefs
-Given the daily-content-creation task runs for baby-facts-unlocked
-And the analytics-loop brief has an empty template object (cold start)
-When the content-engine reads project defaults from projects.json
-Then it reads `defaults.background_type` = "whimsical-css"
-And invokes remotion-video with `visual_mode: text-only`
-And does NOT pass Cache Channel or Cache Tags (no AI image gen)
-And tags the calendar item with `variables.background_type = "whimsical-css"`
+**What NOT to use:**
+- ❌ Pure CSS `WhimsicalBackground` component (programmatic gradients + vector bubbles + stars). This pattern was briefly introduced 2026-04-25 and propagated to 002, 053-057. It is **OFF-BRAND** — the back catalog never used it. Reverted 2026-04-28.
+- ❌ Corporate dark `SharedBackground` orbs/grid (the shared-project default). That's for money-facts and ai-facts only.
 
-### Scenario: Content engine uses whimsical-css for baby facts exploit briefs
-Given the analytics-loop generates an exploit brief for baby-facts-unlocked
-And the brief template specifies `"background_type": "whimsical-css"`
-When the content-engine maps background_type to visual_mode
-Then it maps `whimsical-css` → `visual_mode: text-only`
-And uses the WhimsicalBackground Remotion component
-And omits AI image generation entirely
+### Scenario: New baby-facts video uses AI illustrations + Ken Burns
+Given the daily-content-creation task scaffolds a baby-facts video
+When it builds the Remotion source
+Then it generates 3-4 AI images via Gemini (one per scene, with the brand style prefix)
+And saves them to `public/generated/scene-{N}-{name}.png`
+And in `Video.tsx`, each `<Sequence>` renders `<KenBurnsBackground asset="generated/scene-{N}-{name}.png" direction="..." />` followed by the appropriate overlay component
+And the calendar item is tagged `variables.background_type = "ai-gen"` (or `"single_static"` if one image per scene)
 
-### Scenario: Each baby facts video uses a distinct whimsical variant
-Given the daily-content-creation task creates N baby-facts videos for a calendar
-When the pipeline assigns whimsical variants
-Then each video gets a different variant from the 7 available (blossom, meadow, dawn, dream, garden, cloud, sunset)
-And no two consecutive videos share the same variant
-And the chosen variant is recorded in used-topics.md alongside `whimsical-css/{variant}` permutation
+### Scenario: Per-scene Ken Burns direction varies
+Given a baby-facts video has 3 scenes
+When KenBurnsBackground is configured per scene
+Then directions are picked from `zoom-in | zoom-out | pan-left | pan-right | zoom-in-left | zoom-in-right`
+And no two consecutive scenes use the same direction (avoids visual monotony)
 
-### Scenario: Variant rotation tracks through used-topics.md
-Given a baby-facts video was just produced with variant "meadow"
-When the next baby-facts video is being scaffolded
-Then the pipeline reads the last 3 baby-facts entries in used-topics.md
-And picks a variant NOT in that recent set
-And tags the new video accordingly
-
-### Scenario: Shared-project pattern uses WhimsicalBackground for baby-facts
-Given today's daily-content-creation task creates a shared-project Remotion calendar
-When FactsVideo.tsx renders a video where config.project === "baby-facts-unlocked"
-Then it renders WhimsicalBackground (with config.whimsicalVariant) instead of SharedBackground
-And applies a strong text shadow to all white text overlays for legibility on light pastels
-And does NOT use the dark "purple/green/red/blue/teal" tech palettes
+### Scenario: Image generation respects the brand style prefix
+Given a per-scene image prompt (e.g., "newborn baby with soft glowing brain wave patterns")
+When sent to Gemini for generation
+Then the brand style prefix is prepended verbatim
+And the resulting image is saved as PNG to `public/generated/`
+And the image cache (DonatoSkills/image-cache) is consulted first to avoid re-generating semantically similar images (per `project.image_cache.enabled = true`)
 
 ### Scenario: Slot ownership is enforced — 2pm ET reserved for quote pipeline
 Given baby-facts-unlocked has a daily 2pm ET slot owned by the daily-quote-creation task
@@ -67,69 +56,64 @@ When any pipeline schedules a baby-facts video
 Then it MUST NOT post to 2pm ET (18:00 UTC)
 And valid baby-facts video slots are 9am ET (13:00 UTC) and 7pm ET (23:00 UTC) only
 
-### Scenario: Non-baby-facts channels are NOT defaulted to whimsical-css
+### Scenario: Falling back when Gemini image gen is unavailable
+Given Gemini API is rate-limited or unreachable for a scene
+When the pipeline attempts image generation
+Then it retries once after 3 seconds
+And if still failing, falls back to OpenAI (`gpt-image-1`)
+And if OpenAI also fails, logs to `.specs/needs-review.md` and skips the video (does NOT silently fall back to CSS-only WhimsicalBackground)
+
+### Scenario: Non-baby-facts channels use their own background style
 Given the daily-content-creation task runs for money-facts-unlocked or ai-facts-unlocked
-And those projects have no background_type set in their defaults
-When the content-engine handles a cold-start brief with an empty template
-Then it falls back to the schema default of "abstract_animated"
-And does NOT apply whimsical-css to non-baby-facts channels
-
-### Scenario: Analytics loop can score whimsical-css videos
-Given a baby facts video was created with `background_type: "whimsical-css"` in its calendar item variables
-When the analytics-loop runs decompose-variables
-Then `whimsical-css` is a recognized valid value for `background_type`
-And the video is included in variable impact analysis for that dimension
-
-### Scenario: whimsical-css is in the shared analytics schema
-Given the analytics-schema.md defines valid background_type values
-Then "whimsical-css" is listed as a valid value
-And the variable-taxonomy.md describes what whimsical-css renders
+When the content-engine reads project defaults
+Then it uses the project's own background_type (typically `abstract_animated` or `ai-gen` for tech/finance)
+And does NOT apply baby-facts illustration prompts to non-baby-facts channels
 
 ## UI Mockup
 
 ```
 ┌─────────────────────────────┐
-│  ████ HOOK SCENE ████       │  ← WhimsicalBackground theme="hook"
-│  Pastel gradient bg         │    (pink → lavender gradient)
-│  Floating bubbles           │    Floating opacity circles
+│  AI illustration (hook)     │  ← <KenBurnsBackground asset="..." direction="zoom-in" />
+│  e.g. baby + brain waves    │    (slow zoom over a soft whimsical PNG)
+│  with painted bubbles +     │
+│  pastel rainbow gradient    │
 │  ┌─────────────────────┐    │
-│  │ HOOK TEXT OVERLAY   │    │  ← HookOverlay component
-│  │ (bold, centered)    │    │
+│  │ HOOK TEXT OVERLAY   │    │  ← HookOverlay
 │  └─────────────────────┘    │
 ├─────────────────────────────┤
-│  ░░░ BODY SCENE ░░░         │  ← WhimsicalBackground theme="body"
-│  Softer gradient bg         │    (cream → soft pink)
-│  Full captions overlay      │  ← FullCaptionsOverlay
-│  "Babies develop sleep..."  │
+│  AI illustration (body)     │  ← KenBurnsBackground direction="pan-left"
+│  e.g. baby + glowing memory │
+│  threads in pastel tones    │
+│  Captions appear            │  ← PhraseSyncedCaption / FullCaptionsOverlay
 ├─────────────────────────────┤
-│  ··· CTA SCENE ···          │  ← WhimsicalBackground theme="cta"
-│  "Did you know? 💡"         │
-│  "Follow for more baby      │
-│   facts."                   │
-│  [ FOLLOW FOR MORE ] btn    │
+│  AI illustration (cta)      │  ← KenBurnsBackground direction="zoom-in-right"
+│  e.g. peaceful baby in      │
+│  warm aurora glow           │
+│  "Follow for more 💡"       │
 └─────────────────────────────┘
 
-No AI-generated images. CSS animation only.
+The bubbles, sparkles, and pastel gradients are PAINTED INTO the AI image —
+not added by code. WhimsicalBackground (CSS) is NOT used.
 ```
 
 ## Component References
 
-- WhimsicalBackground: Remotion component in each video's `src/components/WhimsicalBackground.tsx`
-- HookOverlay: `src/components/HookOverlay.tsx`
-- FullCaptionsOverlay: `src/components/FullCaptionsOverlay.tsx`
+- KenBurnsBackground: `src/components/KenBurnsBackground.tsx` — renders `<Img />` with animated transform
+- HookOverlay: `src/components/HookOverlay.tsx` — staggered text reveal on hook scene
+- PhraseSyncedCaption / FullCaptionsOverlay: scene-text components
+- (Legacy) WhimsicalBackground: still present in some video dirs but NOT used in Video.tsx — can be left as dead code or removed at next cleanup
 
 ## Config References
 
-- `projects.json` → `baby-facts-unlocked.defaults.background_type = "whimsical-css"`
-- `shared-references/analytics-schema.md` → background_type valid values
-- `analytics-loop/references/variable-taxonomy.md` → whimsical-css definition
-- `content-engine/SKILL.md` → background_type → visual_mode mapping table
+- `projects.json` → `baby-facts-unlocked.defaults.background_type = "ai-gen"` (or `single_static`)
+- `projects.json` → `baby-facts-unlocked.image_gen` (Gemini default, with OpenAI fallback)
+- `projects.json` → `baby-facts-unlocked.image_cache` (cache prior generations to control cost)
+- `projects.json` → `baby-facts-unlocked.longform.visuals.image_style_prefix` is the canonical style prefix string — shorts pipeline reuses it verbatim
 
-## Bug Fix Notes
+## History
 
-**Regression fixed 2026-04-25:**
-- `whimsical-css` was not in the analytics schema or variable taxonomy
-- `projects.json` had no `background_type` default for baby-facts-unlocked
-- Content-engine SKILL.md had no instruction to read `defaults.background_type`
-- Result: cold-start briefs caused content-engine to pick non-whimsical background_type
-- Fix: added whimsical-css to schema + taxonomy, added project default, updated SKILL.md
+**2026-04-25:** `whimsical-css` introduced as a value to fix a perceived bug (CSS-only `001-baby-sleep-spindles` video) and made the brand baseline. **This was wrong** — 001 was an outlier; the back catalog uses AI illustrations.
+
+**2026-04-27:** Doubled down by adding 7 CSS variants (blossom/meadow/dawn/dream/garden/cloud/sunset) to vary appearance. Re-rendered 002, 053-057 with the wrong style. Operator caught it after seeing the back catalog still showed AI illustrations.
+
+**2026-04-28:** Reverted. AI-illustration + Ken Burns is restored as the brand standard. The 7 variants and `whimsical-css` value remain available in the schema but are NOT the default.

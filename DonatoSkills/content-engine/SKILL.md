@@ -453,30 +453,19 @@ Use the remotion-video skill to create a video. ORCHESTRATED MODE — all parame
 | `single_static` | `ai-generated` | One AI image for all scenes |
 | `abstract_animated` | `ai-generated` | Abstract gradient/particle AI backgrounds |
 | `split_screen` | `ai-generated` | AI images in split layout |
-| `whimsical-css` | `text-only` | CSS-animated `WhimsicalBackground` component — **no AI image gen, no Cache params** |
+| `whimsical-css` | `text-only` | LEGACY — CSS-animated `WhimsicalBackground` component. Briefly the baby-facts default 2026-04-25 to 2026-04-28; reverted because it didn't match the brand's TikTok back catalog. **Do not use for baby-facts unless explicitly requested.** |
 
-When `background_type` is `whimsical-css`: omit Cache Channel and Cache Tags entirely (no image generation occurs).
+**Baby Facts Unlocked — brand standard (CRITICAL, often misread):**
 
-**Variant rotation (whimsical-css only):**
-The `WhimsicalBackground` component takes a `variant` prop with 7 options: `blossom | meadow | dawn | dream | garden | cloud | sunset`. Each pairs a distinct pastel palette with one of 3 shape layouts.
+Baby-facts shorts use **AI-generated soft whimsical illustration** as the scene background, NOT CSS animation. The bubbles, sparkles, and pastel gradients you see in the brand's TikToks are *painted into the AI image*, not drawn by code. The reference implementation is `content-engine/calendars/facts-unlocked-2026-04-18/videos/003-twins-divergent-brains/` — copy that pattern.
 
-When scaffolding a baby-facts video, **use this deterministic rule** (preferred over recency-checking — no I/O, no race conditions):
-
-```
-variant = whimsical_variants[topic_num % len(whimsical_variants)]
-```
-
-Where `whimsical_variants` is the array from `projects.json` and `topic_num` is the new topic's integer ID. With 7 variants, this guarantees no consecutive-7 repeat. Examples:
-- topic 053 → 053 % 7 = 4 → `garden`
-- topic 054 → 054 % 7 = 5 → `cloud`
-- topic 060 → 060 % 7 = 4 → `garden` (rotates back, but 6 distinct in between)
-
-Then:
-1. In the Remotion source, pass `variant="<chosen>"` to all `<WhimsicalBackground />` usages
-2. Record the variant in `used-topics.md` permutation column as `whimsical-css/<variant>` (e.g., `whimsical-css/garden`)
-3. **Sanity check**: read the last 2 baby-facts entries in `used-topics.md` and confirm the chosen variant differs from both. If a backfill or out-of-order topic creates a collision, manually pick the next unused variant and document the override.
-
-In the shared-project pattern (single Remotion project per calendar), set `whimsicalVariant: "<chosen>"` in `videos-config.ts` for each baby-facts video, and have `FactsVideo.tsx` render `<WhimsicalBackground variant={config.whimsicalVariant} />` instead of `<SharedBackground />` when `config.project === "baby-facts-unlocked"`.
+Pipeline for new baby-facts videos:
+1. **`background_type: "ai-gen"`** (or `single_static`)
+2. Generate 3-4 PNGs per video via Gemini 2.5 Flash Image (key: `GEMINI_API_KEY`); fall back to OpenAI gpt-image-1 if Gemini fails. Save to `public/generated/scene-{N}-{name}.png`.
+3. **Always prepend the brand style prefix** to per-scene prompts. The prefix lives in `projects.json` at `baby-facts-unlocked.defaults.image_style_prefix_for_shorts` (a duplicate of the longform prefix, applicable to shorts as well):
+   > "soft whimsical illustration, warm pastel colors, baby-friendly aesthetic, watercolor + soft cel-shading, dreamy ethereal quality, gentle bubbles and sparkles in background, cinematic 9:16 portrait orientation, no text, seamless composition with space for centered text overlay, no borders, gentle natural lighting"
+4. In `Video.tsx`, each `<Sequence>` renders `<KenBurnsBackground asset="generated/scene-{N}-{name}.png" direction="..." durationInFrames={...} />` followed by the overlay component. Vary the `direction` per scene (zoom-in, pan-left, zoom-in-right, etc.).
+5. Pass Cache Channel `baby-facts-unlocked` and Cache Tags (semantic tags from the visual concept, e.g., "baby", "sleeping", "nursery") so the image cache deduplicates.
 
 **Slot ownership (baby-facts-unlocked):**
 The 2pm ET slot (18:00 UTC) is **owned by the daily-quote-creation task**. Video pipelines MUST NOT schedule baby-facts videos at 18:00 UTC. Valid baby-facts video slots are only 13:00 UTC (9am ET) and 23:00 UTC (7pm ET). See `project.reserved_slots.owned_by_quotes` in `projects.json`.
